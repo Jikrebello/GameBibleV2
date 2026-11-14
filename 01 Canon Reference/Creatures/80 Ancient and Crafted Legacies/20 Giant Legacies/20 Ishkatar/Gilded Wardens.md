@@ -82,6 +82,10 @@ They are constructs rather than living reptile peoples and should not be conflat
 
 Recast Ishkatari tomb metal on the Bronze Roads still bore title marks. When ruin traders opened deeper estate-vaults (Meresha's plate came from one), linked Wardens, Processional Coils and Estate Dead woke and recovered "misplaced property" along the old ceremonial roads reused as trunk routes, collecting caravans and visiting palace stores near Ishkatar. Trunk roads failed first; iron became the road metal because no dead owner claimed it.
 
+## History: the Single Radiance (c. 840–829 BR)
+
+A burial estate of a lesser Giant court lay under the Qahuri garrison town of Aseret. Ithren III of the middle crown took its receiver seal around 840 BR and sent its one Processional Coil, with Serpent-Mask Guards and Tally Hands, along the old estate roads to recover title-marked metal recast into the Basin's tombs, temples and Second Houses; people marked for hiding it were collected with it. The seal hung on his son Deshren, and the estate's claim passed to the boy and wasted him. When Deshren took the White Measure rite (c. 829) the seal was sealed into his palace-necropolis, and the Wardens have held their last order since: the Coil lies round the house and the guards stand in Aseret's streets. They would not cross water. See [[Ancient Qahur and the Twin-Reed Crowns]].
+
 ## Materials and Faction Use
 
 - tally mirrors can coordinate constructs or identify marked artifacts;

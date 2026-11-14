@@ -26,7 +26,7 @@ Nikandros's death gave renewed force to those demanding a final campaign. The fr
 
 ## The Empty Interior
 
-The interior never recovered from the post-Qarath civil wars and the Sweat, which arrived by sea around 1234. Evandros the Sower spent his reign (1263–1290) resettling the districts Nikandros recovered and the villages the fever emptied, with veterans and Kedravan mountain families, and the work was never finished. Cities and fortified corridors grow while many villages shrink. Abandoned terraces, broken aqueduct branches, and unsafe roads surrender land to smugglers, local strongmen, and the dead. Resettlement schemes repeatedly underestimate how much infrastructure a village needs before families will stay.
+The interior never recovered from the War of the Seal and the Sweat, which arrived by sea around 1234. Evandros the Sower spent his reign (1263–1290) resettling the districts Nikandros recovered and the villages the fever emptied, with veterans and Kedravan mountain families, and the work was never finished. Cities and fortified corridors grow while many villages shrink. Abandoned terraces, broken aqueduct branches, and unsafe roads surrender land to smugglers, local strongmen, and the dead. Resettlement schemes repeatedly underestimate how much infrastructure a village needs before families will stay.
 
 ## The Buried Empire
 
@@ -38,7 +38,7 @@ Sermoran and Medori loans paid for the Crimson Pilgrimage (1319–1322) and the 
 
 ## Crown and Church
 
-The Holy Synod and emperor require one another but dispute appointments, military preaching, relic law, monastic land, and Caleran's influence over Veridun. Neither side is united: contemplatives, administrators, militants, provincial bishops, and court clergy form changing coalitions. Both remember 1227, when Nikandros the Restorer refused to let the Sanctum try the Great Lamp in exchange for Eclessian soldiers, and both took the Council of Veridance's five tests of 1324, none of which can be applied to a saint who left no remains, as Eclessia's answer to Caedros I. Any request for Eclessian help now has to be made past that history. The Synod has refused to authenticate the vision of a lamp carried out of a burning archive that every succession faction claims.
+The Holy Synod and emperor require one another but dispute appointments, military preaching, relic law, monastic land, and Caleran's influence over Veridun. Neither side is united: contemplatives, administrators, militants, provincial bishops, and court clergy form changing coalitions. Both remember 1227, when Nikandros the Restorer refused the Sanctum's offer of the Crown of Embers and Eclessian soldiers for a trial of the Great Lamp, and both took the Council of Veridance's five tests of 1324, none of which can be applied to a saint who left no remains, as Eclessia's answer to Caedros I. Any request for Eclessian help now has to be made past that history. The Synod has refused to authenticate the vision of a lamp carried out of a burning archive that every succession faction claims.
 
 ## Return and Belonging
 

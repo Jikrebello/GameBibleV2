@@ -43,7 +43,7 @@ The Fall removed imperial garrisons but also markets, bridges, and winter supply
 
 ## The Eclessian Frontier
 
-The Folk Wars were not one campaign. They were twenty-six years of settlement drives, punitive expeditions, baptisms, treaties, clan feuds, missionary protection, and land seizure. Wolfsmere became their central wound. Weylan Oath-Bent's later baptism established the precedent from which the Bent Oak and many Chapel-Folk communities descend.
+The Folk Wars were not one campaign. They were nine years of settlement drives, punitive expeditions, baptisms, treaties, clan feuds, missionary protection, and land seizure, and they ended at the lake. Wolfsmere became their central wound. Weylan Oath-Bent, baptized before the Drowning, kept his baptism after it and won the lake in the bishops' court; that established the precedent from which the Bent Oak and many Chapel-Folk communities descend.
 
 Present Folk identity therefore includes old-rite clans, Chapel-Folk, mixed marcher families, mobile warbands, settled confederacies, and communities whose ancestors once considered themselves fully Atherian. What unites them is not purity but continuing responsibility to hearth, kin, land, and winter.
 

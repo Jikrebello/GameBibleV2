@@ -48,7 +48,7 @@ A forced opening may return travellers to origin, scatter impressions and cargo 
 
 ## Qiryath
 
-Qiryath's gate has not opened since the Second Destruction. Keepers call it silent, not dead. Any authentic response would trigger a religious and geopolitical crisis.
+Qiryath's gate has not opened since the Second Destruction. Its last opening carried the sanctuary's vessels out, weeks before the city fell in 67 AR, to a bench the Keepers do not name. Keepers call it silent, not dead. Any authentic response would trigger a religious and geopolitical crisis.
 
 ## Navigation
 

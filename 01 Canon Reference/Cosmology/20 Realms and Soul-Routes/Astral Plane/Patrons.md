@@ -18,7 +18,7 @@ A patron is an owner or controller of sufficient metaphysical mass to lease stab
 
 Patron is a role. A living human institution, self-bound human soul, Driftkin refuge, Anchor-Lord, Ossuary Mind, construct network, stranded extrarealm being, or other anchor-owner may act as one. Continuity and moral responsibility must be recorded separately.
 
-Ancient Qahur's [[The White Measure and the Second Houses|Second-House founders]] are self-bound human examples. Their funerary rites opened small demiplanes capable of leasing storage, counsel, shelter or access. Meresha, Khaseret, Tamekha and the king Deshren remained human souls held from judgement; their Patron role neither redeemed the binding nor turned them into native Astral beings.
+Ancient Qahur's [[The White Measure and the Second Houses|Second-House founders]] are self-bound human examples. Their funerary rites opened small demiplanes capable of leasing storage, counsel, shelter or access. Meresha, Khaseret, Tamekha and the prince Deshren remained human souls held from judgement; their Patron role neither redeemed the binding nor turned them into native Astral beings.
 
 ## Why Patrons Need Agents
 

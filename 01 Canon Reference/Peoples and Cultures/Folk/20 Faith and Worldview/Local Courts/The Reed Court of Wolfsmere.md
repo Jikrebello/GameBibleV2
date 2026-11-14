@@ -15,7 +15,7 @@ tags: []
 
 ## Folk Account
 
-The Lakekeepers reject the name **court**. Outsiders use it for the voices, memories, standing water, reed figures, and borrowed faces that gather around Wolfsmere after the Drowning. No boats cross, no bell sounds within hearing, and no iron enters the water. The Lakekeepers laid down that law in the first winter; the **Peace of the Bent Oak** (c. 1005) wrote it into the march charters as Weylan Oath-Bent's price for baptism.
+The Lakekeepers reject the name **court**. Outsiders use it for the voices, memories, standing water, reed figures, and borrowed faces that gather around Wolfsmere after the Drowning. No boats cross, no bell sounds within hearing, and no iron enters the water. The Lakekeepers laid down that law in the first winter; the **Peace of the Bent Oak** (999) wrote it into the march charters, when Weylan Oath-Bent won judgement in the bishops' court for the safe-conduct broken at the Drowning.
 
 The first recorded **standing** came in the winter of 994, the year after the Drowning. On a windless night the lake rose and came down on the Lake Watch, Adalmar's shore-fort; in spring its garrison was found on the ice and its timbers in the reeds. The nine survivors walked to the water's edge, and the lake lay down. Eclessia's southern frontier has stopped at the lake country ever since. What the standing was, and what the Lakekeepers paid to end it, they have never said.
 

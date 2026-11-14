@@ -51,7 +51,7 @@ And then they rode on.
 
 ---
 
-The **north** fell town by town, in a handful of years. Not conquered—**served**. Its magnates took terms so quickly I wonder if they had been waiting for it; they had not forgotten the requisition columns of the hungry years. When the northern field army rode out to kill a court's escort at the **Dry Ford**, Qatada was waiting, and by evening there was no northern field army. The Ahl-e-Ahd didn’t just take territory—they **rewrote it**. Their scribes carved symbols into the stone of our cities, and the cities forgot their names.
+The **north** fell town by town, in a handful of years. Not conquered—**served**. Its magnates took terms so quickly I wonder if they had been waiting for it; they had not forgotten the requisition columns of the hungry years. The northern field army rode out and killed a court and its escort at the **Dry Ford**, and we cheered when we heard it. By autumn there was no northern field army. It had marched home through served towns whose wells would not draw for it, and it died of its own thirst. The Ahl-e-Ahd didn’t just take territory—they **rewrote it**. Their scribes carved symbols into the stone of our cities, and the cities forgot their names.
 
 We sent dispatches to **Caleran**, begging for reinforcements. The reply?  
 _“You are the reinforcements.”_

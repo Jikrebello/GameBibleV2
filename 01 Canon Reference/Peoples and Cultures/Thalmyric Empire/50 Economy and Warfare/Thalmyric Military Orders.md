@@ -63,7 +63,7 @@ They reject the claim that injury proves sanctity. Their rule requires veterans 
 
 ## Ash Guard
 
-The Ash Guard is not a Church order. It is the emperor's household guard, recruited from Saltborn and baptized Ättar oath-families whose loyalty is sworn to the sovereign's person. The Guard claims descent from the Ättar household guard of the later Corvenid emperors, whose crews sailed for Kedrava when Caleran fell in 905; Saltborn families tell the same story, and no record proves it.
+The Ash Guard is not a Church order. It is the emperor's household guard, recruited from Saltborn and baptized Ättar oath-families whose loyalty is sworn to the sovereign's person. The Guard claims descent from the baptised Ättar harbour crews of the later Corvenid emperors, sworn to the emperor's own ships, who sailed for Kedrava when Caleran fell in 905; Saltborn families tell the same story, and no record proves it.
 
 ## Retired Registers
 

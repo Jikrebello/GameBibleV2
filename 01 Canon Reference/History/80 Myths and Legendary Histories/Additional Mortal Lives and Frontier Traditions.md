@@ -181,7 +181,7 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Lamp Answered Twice
 
-**Split era; the wayhouse at Pelin's Bridge on the watershed road.** Two congregations received useful responses from one sacred object, a night lamp mended from pieces blessed under both churches, under different immediate needs: around 1020, while its host sheltered fugitives from a mob, and around 1048, under Eclessian custody, while its keepers sheltered the wounded of both armies. Between the two, in 1029, Leovar IV's Master of Lamps, his old companion Kallion, carried it to the siege of Meliton and tried to force an answer as a verdict before the siege lines; he was burned. The two answers remained real without proving either church's whole case. See [[The Great Split — Two Crowns, One Fire]].
+**Split era; the wayhouse at Pelin's Bridge on the watershed road.** Two congregations received useful responses from one sacred object, a night lamp mended from pieces blessed under both churches, under different immediate needs: around 1020, while its host sheltered fugitives from a mob, and around 1048, under Eclessian custody, while its keepers sheltered the wounded of two Eclessian armies fighting over the smudged line of Drossfeld. Between the two, in 1029, Leovar IV's Master of Lamps, his old companion Kallion, carried it to the siege of Meliton and tried to force an answer as a verdict before the siege lines; he was burned. The two answers remained real without proving either church's whole case. See [[The Great Split — Two Crowns, One Fire]].
 ^atlas-b4-05
 
 ## The Two Weeping Advocates
@@ -196,7 +196,7 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Woman Who Returned the Keys
 
-**High Noon, c. 1201; a district town besieged by a Velian amir's coalition.** A woman entered the enemy camp through calculated deception, killed and beheaded the commander herself and returned with the head. Her city survived through further fighting and losses. She later relinquished its keys rather than found a dynasty, leaving the deed neither bloodless nor a coronation story.
+**High Noon, c. 1201; a district town besieged by a Velian amir's coalition.** The town's council had sold the besieger its hidden stores and its gate keys for a safe passage out. The widow who kept the warehouse inventories walked into the enemy camp as the council's clerk and read her tallies aloud at the amir's pay-table, and his allied captains, finding their own pay in the difference, killed him there. Her city survived through further fighting and losses, and she brought its keys home. She later relinquished them rather than found a dynasty, leaving the deed neither bloodless nor a coronation story.
 ^atlas-b4-08
 
 ## The Poor Engineer's Mark

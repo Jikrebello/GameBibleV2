@@ -27,12 +27,12 @@ The encyclopedia distinguishes four kinds of account: **what happened** (establi
 6. [[Age of City-States]] — c. 1400–800 BR. Ports, tower towns, leagues, a harbour drowned for refusing refuge, a city that enthroned a four-doored protector, conquest and civic development.
 7. [[Age of Stars]] — c. 800–350 BR. Atherian synthesis, roads, exile and restoration; Caleran's bread wars with Qarzeth, the Red Field and the noon shadows at Sarven.
 8. [[Atherian Imperial Age]] — 350 BR–905 AR. Caleran, provincial society and the Age of Glory.
-9. [[The Age of the Redeemer]] — c. 33 BR–68 AR. The Redeemer, his Companions, persecution and the communities that survived it.
+9. [[The Age of the Redeemer]] — c. 33 BR–67 AR. The Redeemer, his Companions, persecution and the communities that survived it.
 10. [[The Conversion of the Empire]] — 292–398 AR. Legalisation and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence.
 11. [[The Long Frontier and the First Unsealing]] — 398–905 AR. The palace's fire guttering while the frontier's burned, famine and the Bread of the Bound, a conquest served by courts as much as fought, a peace made by two frightened armies, and the crusade that broke it.
 12. [[The Fall and the Long Reconquest]] — 905–1052 AR. Invasion, refugees, mountain resistance, an enemy whose oaths widowed with its sovereign, and the recovery of provinces amirate by amirate.
-13. [[The Great Split — Two Crowns, One Fire]] — 962–1104 AR. Two crowns claim Atheria; the Lamp Controversy, the schism of 1015, the partition by lot and the Crown of Embers vaulted.
-14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. The Wall of the World's frontier districts, the sworn well at Qarath and an emperor sent home with a bill for the water, the Grey Sweat and the Black Wind on the grass.
+13. [[The Great Split — Two Crowns, One Fire]] — 962–1104 AR. Two crowns claim Atheria; the Breaking and the hooded lamp, the schism of 1015, the blank lot of Drossfeld and the Crown of Embers vaulted.
+14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. The Wall of the World's frontier districts, the sworn well at Qarath that named its own price, the Grey Sweat and the Black Wind on the grass.
 15. [[The Age of Held Proofs]] — 1297–1360 AR. The reckoning of the assurance trade, the Reformation and the Accord sworn on the Weiss, the Black Wind's partition, the Boiling Sea crossing and the unopened proofs of the present day.
 
 Every age article ends with a labelled route back to this index and onward to the next period, or from the final age into the present day.

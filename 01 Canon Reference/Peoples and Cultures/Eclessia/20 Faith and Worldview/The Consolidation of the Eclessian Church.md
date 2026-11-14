@@ -38,21 +38,21 @@ The **Council of Aurelia in 946 AR** regularised that emergency system. It confi
 
 Adalmar the Great united the eastern kingdoms through conquest, marriage, and law. He protected the Aurellian hierarchy, used parish records to regularise taxation, and forced conversion during the Folk Wars. The Church gave his conquests a common legal and sacred language while inheriting responsibility for Wolfsmere and other coerced settlements.
 
-In 1001 the Sanctum's relic court examined the march banner that had kindled at Kaltfurt and credited the sign to the king. In 1002 AR, Lord Primarch Silvane II crowned Adalmar Emperor of the Atherians as the emperor who had proved lawful under the trust held since 711. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and eastern consent allowed a second crown.
+In 1006 the Sanctum's relic court examined the march banner that had kindled at Kaltfurt and credited the sign to the king, over the testimony of the widow who had held it; Lord Primarch Silvane II would not crown him while she lived. In 1017 AR, two years after Veridun refused to unhood its Great Lamp, Lord Primarch Bonifac III crowned Adalmar Emperor of the Atherians at the ford of Kaltfurt as the emperor who had proved lawful under the trust held since 711. The coronation created the Two Emperors problem: Veridun possessed the restored imperial line, while Aurelium claimed that survival, orthodoxy, and eastern consent allowed a second crown. The same rule of proof kept every heir of Adalmar's from wearing it.
 
 The **Doctrine of the Ember Seat** developed from this coronation and the later custody of the Crown. It holds that the Sanctum may preserve imperial and ecclesiastical legitimacy during a vacancy without itself becoming the empire. Primarchal rulers have interpreted "preserve" generously ever since.
 
 ## The Great Split, 1015 AR
 
-Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy, beginning with an examination of its Great Lamp, and the Sanctum's trusteeship of the imperial title. Cardinal Hubald of Caldria nailed the anathema to Veridun's Great Lamp; Patriarch Makarios answered in kind. The dispute concerned authority as much as ritual: who could define doctrine, crown an emperor, test relics, and speak for the universal Church.
+Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy, beginning with an examination of its Great Lamp, and the Sanctum's trusteeship of the imperial title. Patriarch Makarios nailed the bronze hood to the Great Lamp's stand while Cardinal Hubald of Caldria waited on the cathedral steps; Hubald read the anathema to a shut door, and Makarios answered in kind. The dispute concerned authority as much as ritual: who could define doctrine, crown an emperor, test relics, and speak for the universal Church.
 
 After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibate clerical discipline, the Sanctum's relic jurisdiction, and Primarchal supremacy became marks of eastern identity.
 
 ## From Crown to Custody, 1019-1104 AR
 
-Ludovar's weak reign and the Partition of Drossfeld fractured Adalmar's political inheritance. The Church outlived each successor because its dioceses, schools, courts, and registers crossed their borders.
+Ludovar's silent banner and the blank lot of Drossfeld (1041) froze Adalmar's political inheritance into the realms that held the field that day. The Church outlived each successor because its dioceses, schools, courts, and registers crossed their borders.
 
-In the Two Winters, Ermbold the Idle refused to carry the Crown of Embers in a penitential procession through the ash, and in 1102 the other kings deposed him at Drossfeld. No claimant could reunite the realm, and the Crown went to the Sanctum while the kings argued. In 1104 they left it there in trust "until the realm is worthy of one head." The Church thereby became keeper of an unrealised empire without becoming its monarch.
+In the Two Winters, Ermbold the Idle refused to carry the unworn Crown of Embers barefoot to the Sanctum for examination, and in 1102 sent it to the Primarch in a grain cart. No claimant could reunite the realm. In 1104 the kings and dukes left it there in trust "until the realm is worthy of one head." The Church thereby became keeper of an unrealised empire without becoming its monarch.
 
 ## The Inheritance
 

@@ -21,7 +21,7 @@ Sainthood in the West is a **verdict**. A cause is opened; a postulator assemble
 
 The resulting cults are **personal, specific, and charismatic**. Western saints are individuals with faces, quirks, and portfolios — the saint *of* bakers, *of* barren women, *of* doubters — celebrated on name-days, painted realistically, begged for particular favors. And Western sanctity runs hot in the living: Eclessia is where devotees manifest **the Four Marks** — spontaneous wounds at wrists and ankles matching the Four Nails of the Binding — along with weeping images, ecstasies, and visionary raptures. The relic courts authenticate a few and expose many; the charismatic stream and the juridical dam define each other.
 
-**Failure mode:** sanctity as fee schedule. When the verdict machine is captured — political canonizations, purchased causes, the routing-assurance logic applied to heaven's honors — the West produces exactly the corruption Ansgar died for naming.
+**Failure mode:** sanctity as fee schedule. When the verdict machine is captured — political canonizations, purchased causes, the routing-assurance logic applied to heaven's honors — the West produces exactly the corruption Ansgar's margins named.
 
 ## Veridun: Glorification (the Recognized Way)
 

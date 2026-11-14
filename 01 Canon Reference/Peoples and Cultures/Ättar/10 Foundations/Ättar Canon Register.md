@@ -43,7 +43,7 @@ This register controls authorial facts about the Ättar. Authority descends thro
 
 - Ancient Ättar law was carried by law-speakers and tally-sticks; the Empty Halls "registers" are remembered rolls recited at All-Things and checked against hall tally-sticks.
 - In the War of the Empty Halls Gharuk Eight-Bowls ate the Narrow-Bowl leaders and fed Urzha's captured brood to his ogres, which is why she sold his ration route to the Ättar coalitions.
-- Ättar sea-raids struck the Kedravan coast in the Saldane years of the Atherian Decadence (452–514 AR). From the sixth century Ättar crews filled imperial ranks the church-backed muster no longer filled, and the later Corvenid emperors kept a household guard of Ättar sworn to the emperor's person. Thalmyric tradition may claim that guard as the Ash Guard's ancestor through the crews who sailed for Kedrava in 905; canon does not fix the descent.
+- Ättar sea-raids struck the Kedravan coast in the Saldane years of the Atherian Decadence (452–514 AR). From the sixth century Ättar crews filled imperial ranks the church-backed muster no longer filled, and the later Corvenid emperors hired baptised Ättar crews to hold the capital's harbour and the Kedravan coast, sworn to the emperor's own ships. Thalmyric tradition may claim those crews as the Ash Guard's ancestors through the men who sailed for Kedrava in 905; canon does not fix the descent.
 
 ## Fixed Law and Moral Rule
 

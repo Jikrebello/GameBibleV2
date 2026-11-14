@@ -28,13 +28,13 @@ Covenant pilgrimage calls them the **Wells of First Submission**. Official accou
 
 ## Conquest of the Wells
 
-In 558 AR, the worst year of the dry-country drought that outlasted the Thin Floods, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound to draw water only on the conquerors' terms or absorbed under military rule. The tradition of voluntary submission grew up afterwards, and the conquerors' preachers made it holy.
+In 558 AR, the worst year of the dry-country drought that outlasted the Thin Floods, the guard of the Covenant's oasis wells, under its captain Uthar ibn Qays, seized the wells by violence. Defenders were killed, expelled, bound to draw water only on the conquerors' terms or absorbed under military rule. The tradition of voluntary submission grew up afterwards, and the conquerors' preachers made it holy.
 
 Qahirid rule at Tergai therefore stands on an old dispossession, and the pilgrims' witness stones rise among Tarkhan graves. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
 
 ## The Hound Wells and the Horse War
 
-Under Qahir ibn Ruzbeh the Covenant bound silt hounds, blind pursuit beasts brought out of the mapped mire of Hell, into the wet shafts of its frontier wells. Their keepers fed them under names sworn to the sovereign. When Sultan-Caliph Idris died in 931, two years after his heir, those names lapsed, and the unfed hounds climbed out and hunted the escarpment towns through the winter. The Covenant re-bound them to its new throne in 938. In 951 the Grass-Tarkhan horse broke the hound wells, and for the next half-century the Nine Wells were the hinge of what Iqashari registers call the Horse War. After 1067 Iqashar bought peace at the wells as often as it fought for it, through Mazrakan's horse fairs and Tarkhan companies hired on word-price.
+Under Qahir ibn Ruzbeh the Covenant bound silt hounds, blind pursuit beasts brought out of the mapped mire of Hell, into the wet shafts of its frontier wells. Their keepers fed them under names sworn to the sovereign. When Sultan-Caliph Idris died in 931, two years after his heir had refused to take up his instruments, those names lapsed, and the unfed hounds climbed out and hunted the escarpment towns through the winter. The Covenant re-bound them to its new throne in 938. In 951 the Grass-Tarkhan horse broke the hound wells, and for the next half-century the Nine Wells were the hinge of what Iqashari registers call the Horse War. After 1067 Iqashar bought peace at the wells as often as it fought for it, through Mazrakan's horse fairs and Tarkhan companies hired on word-price.
 
 ## Present Geography
 

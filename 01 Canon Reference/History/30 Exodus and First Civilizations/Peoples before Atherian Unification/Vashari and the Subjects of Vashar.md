@@ -28,7 +28,7 @@ Highland life combined grain and orchard cultivation where valleys allowed it wi
 
 ## The imperial subject
 
-Arezan I Tiravan united Vashari allies with Nemeru crews, rebellious Arqeshite officials, Qahuri rulers and Tarkhan leaders against House Ubar. His victories established an empire containing river cities, Qahuri districts, Jirahar roads, eastern coasts and numerous local rulers.
+Arezan I Tiravan united Vashari allies with rebellious Arqeshite officials, Qahuri rulers and Tarkhan leaders against House Ubar. His victories established an empire containing river cities, Qahuri districts, Jirahar roads, eastern coasts and numerous local rulers.
 
 The Crown of Roads and Dawns recognised subjects through taxation, road service, military obligation, treaty and office. Provincial people retained local law and worship where these did not threaten royal supply or succession. Governors intervened in appointments, settled soldiers on strategic land and took hostages from doubtful houses.
 

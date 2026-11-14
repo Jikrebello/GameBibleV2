@@ -19,8 +19,9 @@ The age opened with a drowned chaplain whose book asked to be tested by fire and
 
 ## How proof became dangerous
 
-The lesson was a century in the learning.
-- **The Refusal of the Lamp (1227).** When Nikandros I of Thalmyria asked the Sanctum for soldiers, the price was that the Great Lamp of Veridun be carried east and tried by the Sanctum's relic court. He refused: *a lamp that is tried is a lamp that is owned.* Thalmyric liturgy still has a line most worshippers take to mean *the East sold us for a doctrine.*
+The lesson was three centuries in the learning.
+- **The Four Nails (1015).** Asked to lift the bronze hood from the Great Lamp of Veridun and let Aurelium examine it, Patriarch Makarios nailed the hood down. The Split began as an unopened proof.
+- **The Refusal of the Lamp (1227).** In 1227 the Sanctum offered Nikandros I of Thalmyria the Crown of Embers and Eclessian soldiers; the price was that the Great Lamp of Veridun be carried east and tried by the Sanctum's relic court. He refused: *a lamp that is tried is a lamp that is owned.* Thalmyric liturgy still has a line most worshippers take to mean *the East sold us for a doctrine.*
 - **Bruckmoor (1243).** The relic courts tested the weeping Lady and destroyed her shrine, rightly; a whole region's piety went with it.
 - **The Ossuary Crown (1263).** They tested the crown that spoke with the voices of the plague dead and ruled that *the dead do not testify through things*, and the people who had heard their mothers in it never forgave them.
 - **Aldersbruck (1299).** The last note in a drowned chaplain's psalter challenged the Sanctum to prove him wrong with Fire. A synod put the psalter to the brazier and it did not burn. The legate voided the test, sealed the book in lead and charged the Weiss country a second fee for its funerals.

@@ -25,11 +25,11 @@ The crown was won in blood at home. Between 1068 and 1102 Radomir II's officers 
 
 ## The Grey Sweat
 
-Where labor scarcity freed tenants elsewhere, Virelian magnates imposed a second serfdom through the **bond of the clean village**. The magnates held the patronage of most parishes; a village whose priest had died was unclean and could be sealed, and its survivors were moved onto demesne estates under bond in exchange for a priest and burial in rite. Estate courts restricted movement, increased demesne labor, and tied grain contracts to hereditary obligation. Runaways formed river gangs, frontier communities, and the Unwritten camps beyond reliable registration.
+Where the death of priests let western tenants walk to a new parish and bargain, Virelian magnates used the same rule to impose the **bond of the clean village**. The magnates held the patronage of most parishes; a village whose priest had died was unclean and could be sealed, and its survivors were moved onto demesne estates under bond in exchange for a priest and burial in rite. Estate courts restricted movement, increased demesne labor, and tied grain contracts to hereditary obligation. Runaways formed river gangs, frontier communities, and the Unwritten camps beyond reliable registration.
 
 ## Reformation and Accord
 
-Roughly one-third of the Council of Sabres now follows recognized Freeflame practice. The crown remains old Church, but every royal election can change the public rite under the Korrheim Accord. Magnates use confession to court foreign allies, seize estates, and discipline rivals.
+Roughly one-third of the Council of Sabres now follows recognized Freeflame practice. The crown remains old Church, but every royal election reopens the rite of the crown lands under the Korrheim Accord, because an elected crown has no royal dead of its own. Magnates use confession to court foreign allies, seize estates, and discipline rivals.
 
 ## Government and Faith
 

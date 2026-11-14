@@ -72,7 +72,7 @@ The following are established regional tellings, not automatic authentication of
 **The Herald at the Unbarred Prison — eastern inland works, c. 120–160 AR.** A prison opened during a commanded release. Guards who let captives leave were punished by their own officers; some fled with the prisoners and some were executed. The received Herald saved a passage without granting universal innocence or making the guards' sacrifice disappear.
 ^atlas-oba-n12
 
-**The Ended Acclamation — a Star-age ruler cult, c. 480–430 BR.** A ruler accepted worship as the source of a harvest and began demanding children for the cult. A frightening interruption ended the public acclamation; subjects later disputed whether sickness or a messenger struck the ruler. The Pride route had grown through chosen worship, not because the people created an Idol.
+**The Ended Acclamation — a Star-age ruler cult, 444 BR.** A ruler accepted worship as the source of a harvest and began demanding children for the cult. At the next harvest audience nobody present could speak the praise, then or afterwards; the children could not say it either and were sent home. Subjects later disputed whether a sickness of the throat or a messenger walking along the cult's mirrors had done it. Nobody was struck. The Pride route had grown through chosen worship, not because the people created an Idol.
 ^atlas-oba-n13
 
 **The Contested Body — a Sestaran-facing town, c. 1280–1310 AR.** Two institutions claimed a dead craftswoman whose family sought ordinary burial. A received guardian prevented one theft while neighbours carried the coffin. The sign did not prove sainthood or transfer ownership of the woman to the institution which witnessed it.

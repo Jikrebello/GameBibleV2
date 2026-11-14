@@ -40,7 +40,7 @@ Likely future candidates include Prince Erik Radomir, Duke Marek Arvidan, and Co
 
 ## Confessional Politics
 
-Under the Korrheim Accord, the next king may determine Virelia's public rite. Old-Church magnates defend the western alliance; Freeflame houses promise audited estates and vernacular worship; an eastern party points to the Virelian Lamp in Veridun and argues that a king who brought the royal house's first fire home could rule by blood again. Few magnates intend to free bound tenants regardless of confession.
+Under the Korrheim Accord a lord keeps the lamp of his land's dead, and the crown lands have none of their own, so the next king's house may bring its rite to the court and the royal demesne. Old-Church magnates defend the western alliance; Freeflame houses promise audited estates and vernacular worship; an eastern party points to the Virelian Lamp in Veridun and argues that a king who brought the royal house's first fire home could rule by blood again. Few magnates intend to free bound tenants regardless of confession.
 
 ## Warfare
 

@@ -22,7 +22,7 @@ The existence of each document is canonical at its stated authority level. Its c
 - [[03 Stories & In-World Texts/Historical Accounts/10 Comparative Histories/The Eclessian Account.md|The Eclessian Account]] — a devotional history of the eastern Church and its inheritance.
 - [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Footsoldiers Account of the Retaking of Caleran.md|A Footsoldier's Account]] — a conscript's remembrance of war and return.
 - [[03 Stories & In-World Texts/In-World Texts/The Aquilan Epistles — Selected Passages.md|The Aquilan Epistles]] — selections from a disputed early saintly correspondence.
-- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — late political maxims admired by rulers who publicly condemn them.
+- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — a bank factor's maxims on lending to princes, kept on the private shelves of the rulers who ban them.
 - [[03 Stories & In-World Texts/Historical Accounts/Reliability Register.md|Reliability Register]] — the authority and limitations of the source collection.
 
 ## Competing histories
@@ -50,14 +50,14 @@ Sacred speech interprets political action through providence, judgement and inhe
 - [[03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/A sermon of Aqid Qalim ibn Haraz.md|The Broken Contract and the Sword of the Faithful]] — a Covenant sermon delivered on the eve of an Unsealing.
 - [[03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/Caedros and the Birth of Thalmyria.md|Caedros and the Birth of Thalmyria]] — a monastic foundation narrative written under imperial patronage.
 - [[03 Stories & In-World Texts/In-World Texts/The Aquilan Epistles — Selected Passages.md|The Aquilan Epistles]] — passages attributed to Saint Aquilan, preserved in rival collections and annotations.
-- [[03 Stories & In-World Texts/In-World Texts/The Hundred Grievances — Selections.md|The Hundred Grievances]] — Frater Ansgar's attack on the sale of routing assurances and the institutions profiting from them.
+- [[03 Stories & In-World Texts/In-World Texts/The Hundred Grievances — Selections.md|The Hundred Grievances]] — Frater Ansgar's psalter margins on the sale of routing assurances, read over the Blackwater drowned.
 
 ## Laws, safe-conducts and political counsel
 
 Some texts acquired significance through the uses made of them. A safe-conduct can become a memorial of betrayal; a banned handbook can circulate among the rulers who denounce it.
 
 - [[03 Stories & In-World Texts/In-World Texts/The Bir Qassim Safe-Conduct — Annotated.md|The Bir Qassim Safe-Conduct]] — the instrument under which Husan ibn Raiq and his household travelled to arbitration, with rival traditions of annotation.
-- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — Nicanor Vetti's maxims on courts, churches, money and rule.
+- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — Nicanor Vetti's maxims for lenders on reading a sovereign.
 
 ## Travellers' guides
 

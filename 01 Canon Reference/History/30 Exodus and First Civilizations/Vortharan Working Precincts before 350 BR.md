@@ -41,7 +41,7 @@ The struggle between refuge households and captive traders ran through lodgings,
 
 This was the town's most consequential spatial fault line because it could appear wherever routes and shelter met. A captive dealer might pay a gang for a warehouse, while a nearby family hid a person claimed by that dealer. Violence could spread to freight and food routes, drawing in otherwise uninvolved workshops.
 
-The first line anyone swore along that fault was drawn in 399 BR. When an Atherian financier's agents came up the pass to buy fugitives from a mainland slave revolt, several refuge households barred their doors together and swore the **Kept Doors** on a single threshold. The oath bound those households only; the warehouses of the captive dealers stayed open a few doors away. [[Vorthara before 350 BR#The Spire Pursuit, 399 BR|The Spire Pursuit]] tells the story.
+The first line anyone swore along that fault was drawn in 410 BR. When an Atherian financier's agents came up the pass to buy fugitives from a mainland slave revolt, several refuge households barred their doors together and swore the **Kept Doors** on a single threshold. The oath bound those households only; the warehouses of the captive dealers stayed open a few doors away. [[Vorthara before 350 BR#The Spire Pursuit, 410 BR|The Spire Pursuit]] tells the story.
 
 ## Related histories
 

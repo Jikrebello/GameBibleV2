@@ -156,9 +156,9 @@ By the fourth century BR, **Rethmar** served as a winter gathering where Tarkhan
 
 **Tavisha** belonged to a family which maintained three reservoirs and supervised emergency distribution. Her authority rested upon knowledge, public service and the willingness of visiting houses to accept her measures.
 
-Lethren Ostar approached in 381 BR with an Atherian army and demands for water, transport and passage. Tavisha inventoried the stores, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where Ostar's scouts expected supplies.
+In 392 BR an Atherian army hired by the financier Lethren Ostar and led by his son Pel approached with deeds to the reservoirs and demands for water, transport and passage. Tavisha inventoried the stores, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where the Atherian scouts expected supplies.
 
-**Kharuz of the Stone Wells** organised camel scouts and foot archers. He drew the Atherian columns apart through separate negotiations and attacked the detachments moving between wells. Ostar and his son died during the retreat. Northern forces captured officers, soldiers, servants and carriers.
+**Kharuz of the Stone Wells** organised camel scouts and foot archers. He drew the Atherian columns apart through separate negotiations and attacked the detachments moving between wells. Pel Ostar was taken alive and stayed among the wells; his father had never left Caleran. Northern forces captured officers, soldiers, servants and carriers.
 
 Fever entered the camp before ransom could be arranged. Tavisha ordered the release of sick captives and non-combatant water workers with enough water to reach the first southern station. Kharuz exchanged healthy officers for weapons and animals. Captives whose families sent no payment were exchanged, admitted to local households or enslaved.
 

@@ -124,7 +124,7 @@ The Tidewood coast followed its own local history. Its capture of Aulon's dry fl
 
 ## Casvilar's campaigns and the southern balance, c. 390–350 BR
 
-Teren Casvilar's campaigns from about 390 to 379 BR struck the northern Folk approaches. Morveth's lesser river coalition supplied boats and guides. Drenoc formed a resistance around Kellovar. Velcara organised stores, helped families escape and survived captivity. Kellovar fell in 383 BR. Casvilar mutilated surrendered fighters at Darneth in 380 and returned north with wealth and captives, leaving posts, clients and obligations whose reach remained uneven.
+Teren Casvilar's campaigns from about 390 to 379 BR struck the northern Folk approaches. Morveth's lesser river coalition supplied boats and guides. Drenoc formed a resistance around Kellovar. Velcara organised stores, helped families escape and survived captivity. Kellovar fell in 383 BR, emptied by a crossing of the ford below it in which Drenoc was lost. Casvilar mutilated surrendered ford guides at Darneth in 380 and returned north with wealth and captives, leaving posts, clients and obligations whose reach remained uneven.
 
 The campaigns revealed a persistent material limit. An Atherian army could take a height, landing or market if it maintained river supply and secured local guides. Holding dispersed farms, wet forests and winter refuges yielded less revenue and demanded more grain than its commanders expected. Casvilar's cold-coast voyage in 385 obtained hostages and gifts but no lasting occupation.
 

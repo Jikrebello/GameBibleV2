@@ -53,11 +53,13 @@ Some of Qarzeth's exiles came up the pass after their city fell: kin of its prie
 
 Refuge households, several of them descended from Gateway families who had hidden children from the collectors, carried salt up from the market and poured it across the threshold, as they had heard the Atherians had done at Qarzeth. The table was laid the next night, and the night after. The house closed only when its supply failed. It needed bodies for its table and its back rooms, and it asked the [[The Pale Hand before 350 BR|Pale Hand]]'s crews to sell it the dead they carried. The Hand refused. Its porters stopped calling at the bronze door, and within a season, around 498, the table stood empty and the house's keepers went back down the pass. Vortharans told the story afterwards to show that salt on a doorstep keeps nothing out, and that a corpse porter's refusal can.
 
-## The Spire Pursuit, 399 BR
+## The Spire Pursuit, 410 BR
 
-In 399 BR enslaved workers and fugitives rose along an Atherian supply corridor, burning estate stores and seizing carts meant for the armies. [[Lethren Ostar]] broke the principal force. The captives taken in the field were roped together and sold north in lots to the well trade, and his creditors praised the price. A band of survivors fled the other way, up the pass to the Black Spire, which fugitives had used for longer than anyone could count.
+In 410 BR enslaved workers and fugitives rose along an Atherian supply corridor, burning estate stores and seizing carts meant for the armies. Companies hired by the estate owners on the credit of the financier [[Lethren Ostar]] broke the rear of their column at the foot of the pass. The captives taken in the field were roped together and sold north in lots to the well trade, and the owners he had credited praised the price. A band of survivors fled the other way, up the pass to the Black Spire, which fugitives had used for longer than anyone could count.
 
 Ostar's agents followed them with money instead of soldiers. Captive traders inside the town sold them every fugitive they could find, and the agents sent their purchases down the pass in chains to the ore workings of Olveth. Several refuge households refused to give up the people in their rooms. They barred their doors, fed the hunted inside, and swore on one threshold to hold their doors together: an attack on one house would bring the others. This oath, the **Kept Doors**, bound a handful of households and no one else. The traders kept their warehouses and their customers, and most fugitives without a door were taken. Those who had one lived, and their descendants still show visitors the threshold where the oath was sworn.
+
+Thirty-one years later Ostar came up the same pass as a fugitive, entered against his will as a contestant on a Caleran war-rite and stripped of his ledgers. He lived about five years in rented rooms above the ascent market and died there around 374. Caleran said the Kept Doors stayed shut against him. Some of the sworn households say one of them opened.
 
 ## The Atherian boundary
 

@@ -19,7 +19,7 @@ Aurelia is Eclessia's deep-southern Latinate heartland and the temporal country 
 
 ## Historical Formation
 
-Aurelia preserves the densest Atherian provincial inheritance in Eclessia. Adalmar's grandson Aldwin drew it, with Aurelium and the imperial title, from the helmet at the Partition of Drossfeld in 1049. In the Two Winters his descendant Ermbold, the last Adalring emperor, refused to carry the Crown of Embers through the ash in a penitential procession ("a hat, not a relic"), and in 1102 the other kings deposed him at Drossfeld. The crown passed into the Sanctum's trust in 1104. Aldwin's line kept the Aurelian title without the crown until its last king died in 1166, when the Primarchs took the royal estates into the same trust as the crown and began to rule Aurelia directly.
+Aurelia preserves the densest Atherian provincial inheritance in Eclessia. Adalmar's grandson Aldwin held it, with Aurelium and the keeping of the unworn Crown of Embers, when the lot at Drossfeld came up blank in 1041. In the Two Winters his descendant Ermbold refused to carry the crown to the Sanctum for examination ("a hat, not a relic") and in 1102 sent it to the Primarch in a grain cart. The crown passed into the Sanctum's trust in 1104. Aldwin's line kept the Aurelian kingdom until its last king died in 1166, when the Primarchs took the royal estates into the same trust as the crown and began to rule Aurelia directly.
 
 ## The Grey Sweat
 

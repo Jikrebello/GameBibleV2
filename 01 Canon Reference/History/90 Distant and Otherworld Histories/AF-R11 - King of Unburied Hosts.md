@@ -40,7 +40,7 @@ Mass murder, grave violation, families forced to prepare relatives for reuse, li
 
 ### The march without mourners
 
-In a minor reconquered valley, c. 970–1010 AR (the 990s, in the First Breaking's lapsed burials, after Leovar III drove out the flame-monks who had buried the dead of the return), a Thalmyric commander prohibited burial while a corpse-working emissary rebuilt the dead into a road gang. A mother recognized her son's repaired coat among the workers and followed it, believing the emissary's claim that he still served. At the camp she found several bodies answering to the same call and a copied voice rehearsing words he had never spoken.
+In a minor reconquered valley, c. 970–1010 AR (the 990s, in the Breaking's lapsed burials, after the Breakers drove out the flame-monks who had buried the dead of the return), a Thalmyric commander prohibited burial while a corpse-working emissary rebuilt the dead into a road gang. A mother recognized her son's repaired coat among the workers and followed it, believing the emissary's claim that he still served. At the camp she found several bodies answering to the same call and a copied voice rehearsing words he had never spoken.
 
 The families smashed the driving fittings and burned the assembled work, including the son's coat. Soldiers killed several mourners and walled surviving prisoners beside the remaining machines. The resistance interrupted one supply line to the King's necropolis. It did not free souls from corpses: the lie had been that the persons were there at all.
 

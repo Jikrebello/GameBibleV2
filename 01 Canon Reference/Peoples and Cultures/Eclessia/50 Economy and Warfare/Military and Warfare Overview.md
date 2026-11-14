@@ -36,7 +36,7 @@ The Korrheim Accord prohibits armed conversion across recognized borders. It doe
 - **War of the Crimson Banner, 1288-1295 AR:** Caldria and the Drusenwald marcher district fought over custody of a frontier relic and its toll road. The relic court retained the object; Caldria retained the road.
 - **Ostermark-Ironvale Trade Wars, 1312-1320 AR:** river toll fights and foundry embargoes became a northern theater of the Reform Wars.
 - **Veridancian Succession War, 1278-1282 AR:** rival court houses contested the ducal line; the settlement strengthened the Council of Verdissia and its lay jurists.
-- **First Southern Crusade, 1060-1067 AR:** post-Drossfeld marcher expansion continuing Adalmar's Folk policy.
+- **First Southern Crusade, 1060-1067 AR:** post-Drossfeld marcher expansion around the lake country, where the Peace of the Bent Oak had struck Adalmar's grants from the register.
 - **Great Southern Purge, 1158-1163 AR:** destruction of seers and shrine settlements under a relic-court ruling that the shrines held unexamined fire; remembered by the Folk as a campaign against land memory. It ended in 1163 after the boundary groves were cut and riders without breath went through the marcher camps on three nights; an Aveline chapter was lost.
 - **March of the Redeemer's Sword, 1258-1261 AR:** failed attempt to occupy the deeper cold forest shortly after the Grey Sweat.
 

@@ -25,7 +25,7 @@ Vortharan weapons killed defenders when a counter-script propagated through the 
 
 ## Consequences
 
-The Covenant advance into Eclessia ended. Its dispersed survivors and damaged siege train could not reinforce every occupation corridor. Caedros's rebels later exploited that overextension at Caelmount in 917. Shattered Engines therefore enabled the Mountain Rebellion and Long Reconquest.
+The Covenant advance into Eclessia ended. Its dispersed survivors and damaged siege train could not reinforce every occupation corridor. The mountain valleys later destroyed one such column at Caelmount in the winter of 917–918. Shattered Engines therefore enabled the Mountain Rebellion and Long Reconquest.
 
 The two engines that escaped, one Depth-Core and one Slave-Soul, went back north to Iqashar for repair. Iqashar's foundry drew its own lesson from the opened name-cage: its next great frame, finished about 944, was a pure-pattern Surrender Engine with no soul or beast inside for an enemy to set free. The surviving Depth-Core engine walked loose through Iqashar's dyers' quarter in 931, and Covenant crews later called it the Elder. The Slave-Soul engine came south again only in 956, when Thalmyric war-lamps opened its cage before Caleran.
 

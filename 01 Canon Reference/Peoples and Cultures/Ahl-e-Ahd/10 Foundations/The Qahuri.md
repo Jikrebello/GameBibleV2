@@ -17,7 +17,7 @@ The Qahuri are the cultivators, water engineers, shrine communities, boat househ
 
 Qahuri life follows flood, planting, pilgrimage and harvest. Extended households pool fields and water shares; village matrons and canal elders hold practical authority that military landlords ignore at their peril. Food centres on river grain, dates, lentils, fish, herbs and festival sweets sold to pilgrims. Linen, reed work, painted ceramics and devotional recitation distinguish the Basin.
 
-Ancient Qahur passed through several royal reunifications and divisions remembered as the **Twin-Reed Crowns**. Tenaret, Qemaret and Sakhret ranked among its enduring centres. Royal houses built canals, organised armies and supported craft settlements; they also imposed forced labour, executed rivals and enlarged mortuary estates at the expense of living households. The failed Single Radiance cult and periods of Arqeshite and Vasharan rule remain visible in local ceremonies, damaged sanctuaries and competing royal histories.
+Ancient Qahur passed through several royal reunifications and divisions remembered as the **Twin-Reed Crowns**. Tenaret, Qemaret and Sakhret ranked among its enduring centres. Royal houses built canals, organised armies and supported craft settlements; they also imposed forced labour, executed rivals and enlarged mortuary estates at the expense of living households. The Single Radiance, a gilded procession of older dead that one king set on the tombs, and periods of Arqeshite and Vasharan rule remain visible in local ceremonies, damaged sanctuaries and competing royal histories.
 
 ## Ancient belonging
 

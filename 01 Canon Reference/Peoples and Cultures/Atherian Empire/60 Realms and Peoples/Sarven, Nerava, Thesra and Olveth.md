@@ -24,7 +24,7 @@ Open observation terraces served the royal astronomers. Fixed sighting stones al
 
 The palace lost control of its river estates during the Great Unbinding. After Arveth's death, rival claimants burned stores and removed skilled workers. Inhabitants who remained salvaged fittings and reused service buildings. Later settlement followed the portions that could be supplied and repaired, leaving much of the great complex abandoned. Damaged sighting stones and oversized terraces survive among later work; their interpretation requires distinguishing royal construction from subsequent repairs.
 
-Sarven held a seat in the Celestial Compact, which it owed to those old sighting stones: the Compact's boundaries were sighted from them. In 488 BR the veterans of Ilyessa came to the terrace with the magistrate Eshren Damar, and the Sun answered them at noon. [[The Last Generations of the Caleran Republic]]
+Sarven held a seat in the Celestial Compact, which it owed to those old sighting stones: the Compact's boundaries were sighted from them. In 488 BR the veterans of Ilyessa came to the terrace with the magistrate Eshren Damar, and the Sun answered them at noon. Damar kept a plot below the terrace and worked it bareheaded for the thirty years he had left. [[The Last Generations of the Caleran Republic]]
 
 ## Nerava
 
@@ -46,7 +46,7 @@ Sareth returned to Thesra with her children after Avren killed Caleth. She conti
 
 Tarsenna brought Thesran learning and family connections into her joint reign with Ilaron. Her public settlement gave inland teachers an influential place in Caleran, but Thesran houses retained disagreements about the use of their ancestral objects and ceremonies. The city's contribution to Astratheon continued through these arguments.
 
-Thesra held a Compact seat as keeper of festival order. In 606 BR Celor Marath held the approaches below the town against Zamaret Ordan, using its olive terraces and ancestor tombs as breastworks; Thesran house-books count that stand a draw Thesra paid for. Thesra refused the Oar's ship money in 469 and was admitted on unequal terms in 461. [[The Gateway Wars]]
+Thesra held a Compact seat as keeper of festival order. In 606 BR Celor Marath held the approaches below the town against Zamaret Ordan, using its olive terraces and ancestor tombs as breastworks; Thesran house-books count that stand a draw Thesra paid for. Thesra refused the Oar's ship money in 469; under the Chain Peace of 461 it paid in silver and sent no more sons. [[The Gateway Wars]]
 
 ## Olveth
 
@@ -56,7 +56,7 @@ Velketh rulers drew animals, metal and service from this country. Their loss of 
 
 Later maritime demand enlarged markets for Olveth's animals and metal products. Lowland patrons recruited soldiers and drivers as well as buying goods. People returned with money, foreign equipment and new family connections, while some settled permanently below. These journeys contributed to Atherian influence in the uplands without making every valley part of one political society.
 
-Olveth sent metal, pack animals and soldiers to the Compact, paid the Oar's ship money in silver and sons, and rebelled in 469. In 399 BR fugitives hunted at Vorthara were sent in chains to its ore workings.
+Olveth sent metal, pack animals and soldiers to the Compact, paid the Oar's ship money in silver and sons, and rebelled in 469. In 410 BR fugitives bought at Vorthara were sent in chains to its ore workings.
 
 ## Reading the region
 

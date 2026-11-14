@@ -33,7 +33,7 @@ Fragmented, church-bound, confessional, and reform-haunted. Its powers want unit
 
 The densely layered old heartland: urban, mystical, imperial, and militarized, with authority expressed through icons, sacrament, monastic witness, Atherian law, and the memory of return. It wants security, demographic recovery, control of its buried inheritance, and an answer to the unfinished Zanthir claim. Its central political danger is turning stewardship into entitlement and the Long Reconquest into a permanent mandate for war.
 
-*Wounds.* The bill for the water, the Forfeiture of the Drinkers and Markellos's deposition (1214–1215); the Poured Cup (1225); the Refusal of the Lamp (1227); the half-recovered Qarath districts (1238–1246); Gavrin's murder by its own envoy (1281, authorial); Orinel, the Crimson Pilgrimage and Zehrim (1318–1325), financed by Sestaran debt; the summer flux and the adoption that made Caedros IV (1327–1329); Vasilia and Prince Nikandros (1357–1358). The emperor's flame-silences are the newest unopened proof.
+*Wounds.* The well's price at Qarath, the Forfeiture of the Drinkers under a stolen seal and the War of the Seal (1214–1225); the Poured Cup (1225); the Refusal of the Lamp (1227); the half-recovered Qarath districts (1238–1246); Gavrin's murder by its own envoy (1281, authorial); Orinel, the Crimson Pilgrimage and Zehrim (1318–1325), financed by Sestaran debt; the summer flux and the adoption that made Caedros IV (1327–1329); Vasilia and Prince Nikandros (1357–1358). The emperor's flame-silences are the newest unopened proof.
 
 ### Sestaran Concord
 
