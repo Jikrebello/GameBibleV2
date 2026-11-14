@@ -33,7 +33,7 @@ Weapons vary by region: bows, crossbows, spears, sabres, ship weapons, hunting a
 
 ## Sanctuary and Retreat
 
-Companies prepare caches, friendly yards, hidden slips, mountain passes, and host households. Way-Gates are a last strategic option because opening reveals location, requires two benches, and can transfer danger to the receiving tower.
+Companies prepare caches, friendly yards, hidden slips, mountain passes, and host households. Way-Gates are a last strategic option because opening reveals location, requires two benches, and can transfer danger to the receiving tower. Benches cite Migdal Shahar (68 AR), whose partner bench took the households and refused the fighters.
 
 ## Moral Boundary
 

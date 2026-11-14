@@ -32,7 +32,7 @@ The encyclopedia distinguishes four kinds of account: **what happened** (establi
 11. [[The Long Frontier and the First Unsealing]] — 398–905 AR. The palace's fire guttering while the frontier's burned, famine and the Bread of the Bound, a conquest served by courts as much as fought, a peace made by two frightened armies, and the crusade that broke it.
 12. [[The Fall and the Long Reconquest]] — 905–1052 AR. Invasion, refugees, mountain resistance, an enemy whose oaths widowed with its sovereign, and the recovery of provinces amirate by amirate.
 13. [[The Great Split — Two Crowns, One Fire]] — 962–1104 AR. Two crowns claim Atheria; the Lamp Controversy, the schism of 1015, the partition by lot and the Crown of Embers vaulted.
-14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. The Wall of the World's frontier districts, the sworn well at Qarath and a blinded emperor, the Grey Sweat and the Black Wind on the grass.
+14. [[High Noon and the Qarath Disaster]] — 1104–1290 AR. The Wall of the World's frontier districts, the sworn well at Qarath and an emperor sent home with a bill for the water, the Grey Sweat and the Black Wind on the grass.
 15. [[The Age of Held Proofs]] — 1297–1360 AR. The reckoning of the assurance trade, the Reformation and the Accord sworn on the Weiss, the Black Wind's partition, the Boiling Sea crossing and the unopened proofs of the present day.
 
 Every age article ends with a labelled route back to this index and onward to the next period, or from the final age into the present day.

@@ -8,7 +8,7 @@ region: ["Eclessian Eastern Riverlands"]
 culture: ["Jirahar"]
 related_factions: ["Keepers of the Path", "Eclessian Custodians"]
 appears_in: []
-needs: ["place the ruin, pilgrimage roads, and final fortress on the Eclessian production map"]
+needs: ["place the ruin, pilgrimage roads and Migdal Shahar (the last stronghold, two days east on the Dawn Road) on the Eclessian production map"]
 aliases: ["The Empty City"]
 tags: []
 ---
@@ -35,6 +35,8 @@ The city was always larger below ground than above. Most deep halls are collapse
 
 The altar's sign of acceptance could be touched: an accepted offering burned without smoke and left the stones cool under the hands of the custodial houses. It was first withheld in the first winter of the Arqeshite siege, and it returned about 654 BR at the rebuilt altar, under an offering carried by mixed households of returners and settlers.
 
+Every appointed offering went up the sanctuary stair. In the first city the guardian of the walls carried the basket, and the crowd in the paved yard cheered him beside the cool stones as if the sign had confirmed him. Yedran bar Aqev, a carrier of altar wood, became guardian around 959 BR by catching the basket when a fevered guardian fell on the steps. Around 945 the widow Rava bat Horel climbed them ahead of the offering and asked the custodians whom the stones answered, and from that festival the bearer was chosen by lot. Around 826 the custodian Tobel bar Yamin was killed in his doorway for refusing to lay his hand on the altar while an Arqeshite royal image stood on the stair. The image stood there, the stones were cool, and eighty years later King Neshkar II cited that morning when he demanded a place for his own.
+
 Sacrifice continued from the Second Tower's consecration until 65 AR. From the late Serrat years the sanctuary stood under an Atherian charter that kept every image out of its courts and required a daily offering on the emperor's behalf; the tower houses remembered its making as the Governor's Question. After Isfir's resurrection, ritual fire and procedure continued but the authenticated sign of divine acceptance never returned.
 
 ## The burial slope
@@ -47,7 +49,11 @@ Jirahar custodians maintain paths, stabilise masonry, receive pilgrims, bury dis
 
 ## Silent Gate
 
-The gate chamber lies beneath the Second Tower ruin. It has not opened since 65 AR. The Keepers prohibit experimental activation. A true response would be treated as possible Mesakha evidence and an international emergency. The charter names no one to recognise the Mesakha. The Church claims the power to say which signs are real, inherited from the augur colleges in 383; the Keepers hold the Mesakha tests. A sign recognised by either would be claimed to lift the ban on rebuilding.
+The gate chamber lies beneath the Second Tower ruin, at the foot of its own stair. It has not opened since 65 AR. The gate of Migdal Shahar, the revolt's last stronghold two days east on the Dawn Road, closed three years later for a plainer reason: its keeper sent the tower's households through to Vasharan country and broke the scroll-keys before the legions reached her.
+
+From 1288 the claimant Meshalem led families from half the tower towns to the Empty City, and by 1291 tens of thousands were camped outside the ruin while the riverland lords threatened to clear them. The Keepers asked him to go down the gate stair before the whole return and lay his hand on the gate. Twice he went down, and twice he came back up without touching it; one account gives him the words *not with these hands*. The return broke up within the month. Meshalem stayed, swept the outer court as a mourner and died there in 1303, and a few households the Keepers call the Sweepers still hold that his turning proved him true.
+
+Since Meshalem no claimant may go down the gate stair until the Keepers have examined him, and the Keepers prohibit any attempt to wake the gate. A true response would be treated as possible Mesakha evidence and an international emergency. The charter names no one to recognise the Mesakha. The Church claims the power to say which signs are real, inherited from the augur colleges in 383; the Keepers hold the Mesakha tests. A sign recognised by either would be claimed to lift the ban on rebuilding.
 
 ## Present Conflict
 

@@ -20,7 +20,7 @@ The [[The Gateway Wars|Gateway Wars]] had enlarged Caleran's resources without s
 
 ## The Noon Sighting, 489–487 BR
 
-The rowers and soldiers who broke Xarun of Vashar's fleet at the Narrows of Ilyessa in 493 were mostly small citizens and allied crews. They came home in 491 to find the republic's public land leased in great blocks to a few families, the same families who supplied most of the augurs. That land had been entered "on the sky". Its boundaries were star-lines sighted from the old stones on Sarven's terrace, and they could be re-sighted only on days the augurs declared open.
+The rowers and soldiers who took Xarun of Vashar's granary fleet at its moorings off Ilyessa in 493 were mostly small citizens, allied crews and the king's own deserting oarsmen. They came home in 491 to find the republic's public land leased in great blocks to a few families, the same families who supplied most of the augurs. That land had been entered "on the sky". Its boundaries were star-lines sighted from the old stones on Sarven's terrace, and they could be re-sighted only on days the augurs declared open.
 
 In 489 the magistrate **Eshren Damar** proposed to cap the renewal of the great leases and settle the Ilyessa veterans on the surplus. The augurs answered with the calendar. They inserted **the Long Month**, an extra month that carried the renewal day past the end of Damar's term. The observers of Irenai, trained in methods older than Caleran's, disputed the intercalation in public, and Damar's veterans began to say that the sky belonged to whoever paid for the augurs.
 

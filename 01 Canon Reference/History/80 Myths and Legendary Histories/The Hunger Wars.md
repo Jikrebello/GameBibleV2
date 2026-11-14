@@ -124,7 +124,7 @@ Bruckmoor changed Eclessian piety more than any genuine wonder of its century. T
 
 ## The Pyre of Masks (1346–1349 AR)
 
-In Fiorenzia, the Flame-preacher Frate Severin taught that the masks, portrait-faces and carnival likenesses of the merchant houses had become doors for the Hungers. In 1346 his followers burned them, with mirrors, paintings and gowns, in the cathedral square, and witnesses still argue about what they saw standing in the fire. A Medori-restored government hanged and burned Severin in 1349. Fiorenzia's studios have worked in his shadow ever since, and every one keeps a drawer of things it would burn first next time.
+In Fiorenzia, the Flame-preacher Frate Severin taught that the masks, portrait-faces and carnival likenesses of the merchant houses had become doors for the Hungers, which are shut by naming, never by fire. In 1346 the Medori, answering him, paid to burn them, with mirrors, paintings and gowns, in the cathedral square against his warning, and witnesses still argue about what they saw standing in the fire. Severin led the city's four-year Long Vigil and in 1349 was found dead in the mask-makers' cellar wearing a mask nobody could lift. Fiorenzia's studios have worked in his shadow ever since, and every one keeps a drawer of things it would burn first next time.
 
 ## What the wars left
 

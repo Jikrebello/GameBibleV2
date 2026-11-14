@@ -18,7 +18,7 @@ The Black Reef was the burned and grounded urban mass left by [[Marelith]] after
 
 ## A city broken from its bearer
 
-Fire broke Marelith's living works during Melvo's linked attack on the mobile city and Ardel's nearby fleet. Cultivated shell, attached harbours, living buildings and part of the flotilla broke apart as the maimed bearer rolled or fled, and the mass that became the reef tore away and grounded. Most of the city's residents were killed or captured. Some escaped by boat or into deep water, leaving households and stores behind; others were taken from disabled craft or out of the water; others stayed among the structures until they grounded. The name remembers the colour the fire left, and makes one reef of many burned neighbourhoods.
+Fire broke Marelith's living works during Melvo's linked attack on the mobile city and Ardel's nearby fleet, while Pyrassa's harbour chain held the city fast in the shallows. Cultivated shell, attached harbours, living buildings and part of the flotilla broke apart as the maimed bearer rolled or fled, and the mass that became the reef tore away and grounded. Most of the city's residents were killed or captured. Some escaped by boat or into deep water, leaving households and stores behind; others were taken from disabled craft or out of the water; others stayed among the structures until they grounded. The name remembers the colour the fire left, and makes one reef of many burned neighbourhoods.
 
 Sailors later blamed wrecks in bad weather on something still moving beneath the blackened structures. Some of their stories may preserve encounters with the surviving reefback; others describe ordinary reefs, storms or deliberate raiding.
 
@@ -28,7 +28,7 @@ The reef's remains offered materials and relics to salvors while making the rout
 
 Salvage promised usable material and evidence of Marelith's living craft, but the burned structure was unstable. The wreck also changed how sailors understood the route. A captain could use its reported position as a warning, while another blamed a later loss on the alleged surviving bearer.
 
-Marelith's survivors had different reasons to return or avoid it. A free family might seek a lost relative or property; a person taken by Atherian forces could not choose whether to revisit the wreck. Because Marelith had sheltered refused crews and proscribed families as well as raiders, Elmarai pilots passing the reef in bad weather dipped their lanterns to it, as to the drowned refuge they called a second Kelarion.
+Marelith's survivors had different reasons to return or avoid it. A free family might seek a lost relative or property; a person taken by Atherian forces could not choose whether to revisit the wreck. Because Marelith had sheltered refused crews and families fleeing the Writing-In as well as raiders, Elmarai pilots passing the reef in bad weather dipped their lanterns to it, as to the drowned refuge they called a second Kelarion.
 
 ## Related histories
 

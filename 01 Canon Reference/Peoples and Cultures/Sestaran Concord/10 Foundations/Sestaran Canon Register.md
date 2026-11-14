@@ -49,8 +49,10 @@ Vorthara occupies the mountain border knot between Thalmyria, Eclessia, and Sest
 
 - The Kept Doors (399 BR), sworn on one threshold by refuge households against Lethren Ostar's purchasing agents during the Spire Pursuit, are the oldest refuge oath Vortharan households still point to. They bound a few households, not the town, and the captive trade continued.
 - Caleran hired its first Sestaran Shell-fire cohorts in the succession war of 447–452 AR. In the Decadence the Sestaran cities revived charters older than the empire, Vardessa's the famous case, and sold ships and warlock contracts to the court in place of tax. A Sestaran warlock's brass fire-cup, sold to a Covenant factor at Sermora in 683, exposed the Copper Lamp.
-- The Medori fortune rests on the estates and Sendings of the Grey Sweat's dead, a Golden Book seat bought when the Sweat emptied a third of the Book, Bartolo Medori's purchase of Alessior II's Primarchy (1281) and the Chancery of Sendings' master registers, held as surety since 1296.
+- The Medori fortune rests on the estates and Sendings of the Grey Sweat's dead, a Golden Book seat bought when the Sweat emptied a third of the Book, Bartolo Medori's purchase of Alessior II's election (1281) and the Chancery of Sendings' master registers, held as surety since 1296.
 - The grass-toll of the Black Wind Years (1265–1300) turned Sestaran trade to the sea. Castara's route opened with the 1328 Breath-day crossing of the *Naris's Hand*.
+- Nicanor Vetti, a Sermoran-born Medori factor sold into Fiorenzia's Debtors' Corps in 1336, wrote the *Mirror for Sovereigns* in its grey coat about 1340 and dedicated it to Lauro Medori, who held his paper. The senate freed the Corps after the Medori fled, and he died a free man in the winter of 1347.
+- The Medori fled Fiorenzia with the registers after their own Pyre of Masks (1346) and were bought back by the senate as hereditary dukes (1349). Arrigo Medori paid for the Pyre to answer Frate Severin, who begged the city not to light it. Severin held no office; he led the Long Vigil (1346–1349), in which the city sang every Fiorenzian name it could remember without the registers, and was found dead at the carnival of 1349 wearing a gilded mask nobody could lift. The Medori did not kill him ([[Medori Family - Authorial Truth]]).
 
 ## Language Boundary
 

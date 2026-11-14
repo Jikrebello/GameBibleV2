@@ -58,9 +58,9 @@ Service to the crown offered limited advancement. A deported mason might be plac
 
 Kassur's armies captured Nemeru after a three-year struggle. The final assault killed defenders and civilians in the riverside district. Officers deported boatwrights, dyers and metalworkers, settled loyal troops near the quay and installed the royal image in the old civic temple. Nemeru recovered its wealth under Arqeshite rule and remained a centre of resentment.
 
-**Merod II Ubar**, who ruled from approximately 836 to 798 BR, inherited Kassur's provincial system after two shorter reigns. His armies were already competing for the roads and cultivated approaches east of Qahur when the Single Radiance collapsed. In 814 BR, as Queen Zaheret reopened the Basin's temples, officials of the fallen cult fled east to Arqeshite road stations carrying deeds to temple fields the Radiance had given them. Merod took up their claims. He sent his younger son **Ashkur Ubar** with an escort to bring the exiles back down the road and seat them on their estates. Ashkur was killed before reaching the Sacred Basin.
+**Merod II Ubar**, who ruled from approximately 836 to 798 BR, inherited Kassur's provincial system after two shorter reigns. His armies were already competing for the roads and cultivated approaches east of Qahur when the Single Radiance ended. In 815–814 BR, as the allotment households of the middle river rose against the dead king of Aseret, his former stewards fled east to Arqeshite road stations carrying copies of deeds to the fields they had managed. Those deeds were good only if the dead king's house confirmed them. Merod took up their claims and sent his younger son **Ashkur Ubar** with an escort to bring the exiles to Aseret and have their stewardships sealed in the palace. Ashkur went into the sealed courts with three of the exiles, and the doors closed behind them.
 
-No surviving account identifies the killers. Merod blamed the Qahuri crown houses collectively and used the death to justify a larger intervention. Arqeshite troops occupied road stations, captured eastern canal towns and transferred fields to military supporters over the following decade. Ashkur's death gave the court a dead prince around whom conquest could be presented as punishment. The killing entered both Arqeshite and Qahuri royal histories, although they assigned responsibility to different houses.
+The escort waited three days at the gate and fled when Zaheret's boats came up the river. Merod blamed the Qahuri crown houses collectively and used the loss to justify a larger intervention. Arqeshite troops occupied road stations, captured eastern canal towns and transferred fields to military supporters over the following decade. Ashkur gave the court a lost prince around whom conquest could be presented as punishment. Arqeshite histories say the Qahuri crowns murdered him and hid the body; Qahuri histories say the dead king kept him.
 
 ## Court, households and learning
 
@@ -84,7 +84,7 @@ Several rulers exploited these responses. Others feared them and continued the c
 
 ## Expansion towards Qahur and Qiryath, c. 820–746 BR
 
-Arqeshite armies reached the eastern approaches of Qahur during a period of divided crowns. Their aim was to secure grain, caravan stages and the road between Khalbar and the Basin. Merod II's campaign after Ashkur's death enlarged an existing military presence. A royal commander repaired one neglected canal and established garrisons beside it. When a local rising killed tax agents, the army executed its leaders, deported skilled households and transferred land to supporters. Direct Arqeshite rule remained confined to the approaches, where garrisons and allied Qahuri houses controlled the road.
+Arqeshite armies reached the eastern approaches of Qahur during a period of divided crowns. Their aim was to secure grain, caravan stages and the road between Khalbar and the Basin. Merod II's campaign after Ashkur's loss enlarged an existing military presence. A royal commander repaired one neglected canal and established garrisons beside it. When a local rising killed tax agents, the army executed its leaders, deported skilled households and transferred land to supporters. Direct Arqeshite rule remained confined to the approaches, where garrisons and allied Qahuri houses controlled the road.
 
 Qiryath occupied a different strategic position. Its route houses could move goods and messages around formal provincial stations. Its sanctuary drew something more dangerous than trade. Canal districts carried their quarrels up the road to be settled at Qiryath's festival offerings, where an accepted offering burned without smoke and the altar stones stayed cool under the hands of the witnesses. A judgement given over cool stones felt beyond appeal. By the middle of the eighth century, Arqeshite provinces were bringing disputes to the sanctuary in the hills instead of to the river-king's governors. Early treaties secured tribute and guides. Later kings demanded hostages from protector and priestly families.
 
@@ -151,7 +151,7 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 | c. 1100–960 BR | Arqesh gains control of the principal canal junction |
 | c. 958 BR | Merod I Ubar takes the throne |
 | c. 918–879 BR | Kassur I develops the provincial and deportation system |
-| c. 836–798 BR | Merod II expands towards Qahur; Ashkur's murder in 814, while escorting Radiance exiles, becomes a grievance of conquest |
+| c. 836–798 BR | Merod II expands towards Qahur; Ashkur, lost in 814 inside the sealed palace at Aseret, becomes a grievance of conquest |
 | c. 820–760 BR | expansion towards Qahur, Qiryath and the highlands |
 | 758–728 BR | reign of Neshkar II |
 | 746 BR | demand for Qiryath's hostages and royal image |
@@ -167,7 +167,7 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 
 ## Historical memory
 
-Arqeshite successor families remember an age of safe canals, learned kings and protected trade. Subject accounts remember the same roads carrying deportees and siege timber. Jirahar tradition gives particular weight to 742 BR. Qahuri histories remember Ashkur's death, occupation of their eastern approaches and Eryndor's later royal visit. Ortheian biographies make Eryndor the sole destroyer of Arqesh; Vasharan inscriptions give that honour to Arezan. Canal-city accounts preserve the governors, boat crews and forced workers without whom neither invader could have entered the capital.
+Arqeshite successor families remember an age of safe canals, learned kings and protected trade. Subject accounts remember the same roads carrying deportees and siege timber. Jirahar tradition gives particular weight to 742 BR. Qahuri histories remember the prince the dead king kept, occupation of their eastern approaches and Eryndor's later royal visit. Ortheian biographies make Eryndor the sole destroyer of Arqesh; Vasharan inscriptions give that honour to Arezan. Canal-city accounts preserve the governors, boat crews and forced workers without whom neither invader could have entered the capital.
 
 ## Read with
 

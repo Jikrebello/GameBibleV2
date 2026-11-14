@@ -32,13 +32,14 @@ Extradimensional containers are object-anchored micro-demiplanes. A sound tether
 
 ### Historical Second Houses of Qahur
 
-The [[The White Measure and the Second Houses|White Measure]] created corpse-anchored demiplanes for founders who completed its funerary rite. Three are historically established:
+The [[The White Measure and the Second Houses|White Measure]] created corpse-anchored demiplanes for founders who completed its funerary rite. Four are historically established:
 
 - **Court of Unspent Lamps:** Meresha of Isethar's idealised flood-season town. Oil placed in unlit Material lamps sustained her attention. Its owner was Meresha's complete bound human soul; Hesenu entered as a separately captive human soul.
-- **House of the Returning Cargo:** Khaseret of Qemaret's funerary harbour, joined to ships, stores and rooms in which she retained a material share. Its services included storage and route knowledge; its agents pursued claims unrecognised by later owners.
+- **House of the Returning Cargo:** Khaseret of Qemaret's funerary harbour, joined to ships, stores and rooms in which she retained a material share. Its services included storage and route knowledge; its agents pursued claims unrecognised by later owners. Its factor took Qemaret around 1076 BR to recover a royal pledge.
 - **Copper Orchard:** Tamekha Rasen's clinics, ordered store courts and copper-leaved trees. Repairs in the demiplane consumed Material grain and metal, contributing to the Tenaret workers' stoppage of 903 BR.
+- **Court at Noon:** Deshren of Aseret's sealed palace-necropolis (c. 815 BR), endowed with tomb metal stripped under his father's Single Radiance and with the deeds of the fields the Radiance confiscated. Its stewards collected rent in a dead king's name; an Arqeshite prince entered it in 814 and was lost. Its owner is Deshren's complete bound human soul.
 
-The House of Nemeret the Pure was a failed imitation. Nemeret's soul departed; an estate-office answered in his manner until a dependent Greed Mask learned to inhabit it. None of the four cases establishes which houses remain reachable in 1360.
+The House of Nemeret the Pure was a failed imitation. Nemeret's soul departed; an estate-office answered in his manner until a dependent Greed Mask learned to inhabit it. None of the five cases establishes which houses remain reachable in 1360.
 
 ### Quiet Index
 

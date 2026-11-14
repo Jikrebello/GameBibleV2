@@ -181,7 +181,7 @@ The remembered changes belong after the formation of the actual twelve-city Comp
 
 ## The Lamp Answered Twice
 
-**Split era; the wayhouse at Pelin's Bridge on the watershed road.** Two congregations received useful responses from one sacred object, a night lamp mended from pieces blessed under both churches, under different immediate needs: around 1020, while its host sheltered fugitives from a mob, and around 1048, under Eclessian custody, while its keepers sheltered the wounded of both armies. Between the two, in 1029, Leovar IV's Master of Lamps carried it to the siege of Meliton and tried to force an answer as a verdict before the siege lines; he was burned. The two answers remained real without proving either church's whole case. See [[The Great Split — Two Crowns, One Fire]].
+**Split era; the wayhouse at Pelin's Bridge on the watershed road.** Two congregations received useful responses from one sacred object, a night lamp mended from pieces blessed under both churches, under different immediate needs: around 1020, while its host sheltered fugitives from a mob, and around 1048, under Eclessian custody, while its keepers sheltered the wounded of both armies. Between the two, in 1029, Leovar IV's Master of Lamps, his old companion Kallion, carried it to the siege of Meliton and tried to force an answer as a verdict before the siege lines; he was burned. The two answers remained real without proving either church's whole case. See [[The Great Split — Two Crowns, One Fire]].
 ^atlas-b4-05
 
 ## The Two Weeping Advocates

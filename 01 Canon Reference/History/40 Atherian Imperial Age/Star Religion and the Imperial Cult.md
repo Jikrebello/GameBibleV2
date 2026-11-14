@@ -20,7 +20,7 @@ This article includes authorial knowledge about the dependent Pride Mask called 
 
 ## The imperial settlement
 
-Thalion elevated Astaroth's priesthood in rites of victory and command. The First Celebrant of the Common Sky retained senior ceremonial duties, while imperial occasions gave the Warrior a new precedence. The arrangement presented the emperor as defender of a public religious order inherited from the cities.
+Thalion elevated Astaroth's priesthood in rites of victory and command, because its priests declared the Red Field closed for him in 350 when Seluc Varroth, First Celebrant of the Common Sky, would not. The First Celebrant retained senior ceremonial duties, while imperial occasions gave the Warrior a new precedence. The arrangement presented the emperor as defender of a public religious order inherited from the cities.
 
 The Red Star's priests also took up a gentler rite, dedicating finished public works and asking their patron that they stand. Military engineers had long used his true test, loading a valuable frame until a crack showed where force would carry. In 326 BR a new treasury hall at Caleran received the dedication and no test, and it fell during the heir Caelor's inspection. Thalion would not disown the priesthood on which his victory rites rested, so he divided its work. Priests kept blessings and victory rites. Rune-trained wardens performed the test before a priest of the Red Star, broke the portion of each work built to break (the Star's share), and the official who opened the work stood beneath it while the first loaded wagons crossed. The wardens' rite remained standing practice through the age and beyond it.
 
@@ -42,7 +42,7 @@ Coins, statues and painted portraits allowed people who had never seen the emper
 
 The representations were never perfect copies. Provincial artists gave rulers familiar local features; old statues received new names; jokes compared an official portrait with the emperor's actual face. Even so, repeated acclaim produced a stable cultural image greater than any one biography.
 
-At Caleran every emperor from Meren onwards was confirmed before one accession portrait in the palace audience hall, later called the Face. Olarion made it the centre of court life: guards knelt to it at each change of watch, officials renewed their loyalty before it, and his informers swore their denunciations in its sight.
+At Caleran every emperor from Meren onwards was confirmed before one accession portrait in the palace audience hall, later called the Face. It had begun as one of the painted boards of Thalion's face that his companies carried and swore to during the succession wars, while he refused to take the field in person, and it hung in the audience hall from 350. Olarion made it the centre of court life: guards knelt to it at each change of watch, officials renewed their loyalty before it, and his informers swore their denunciations in its sight.
 
 ## The Emperor after the Emperor
 

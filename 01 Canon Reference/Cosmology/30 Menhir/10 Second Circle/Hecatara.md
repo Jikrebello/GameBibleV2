@@ -55,7 +55,7 @@ She does not govern the human soul-road, fate, generic dark magic, or lawful con
 
 Atherian mystery cults made Hecatara patron of crossroads, secret knowledge, and witches. Folk road customs treat her more accurately as the pressure behind paths that remember terms. Warlocks sometimes mistake topological effects for Astral or contract magic.
 
-Astrion's augurs entered the unfreezing reach at Velos as Hecatara's answer (c. 349 AR); she gave none, and the bishops called the entry a forgery of authorship. The ford below Kellovar was held by a river-court of her grammar whose toll was paid in Folk household tokens; Lucar's army crossed unpaid in 377 and broke in the water.
+Astrion's augurs entered the unfreezing reach at Velos as Hecatara's answer (c. 349 AR); she gave none, and the bishops called the entry a forgery of authorship. The ford below Kellovar was held by a river-court of her grammar whose toll was paid in Folk household tokens; Lucar's army crossed unpaid in 377 and drowned, while Lucar himself crossed dry on a token his officers had confiscated: the court does not ask whose token it is.
 
 ## Limits and Counterplay
 

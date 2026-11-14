@@ -21,7 +21,7 @@ Sainthood in the West is a **verdict**. A cause is opened; a postulator assemble
 
 The resulting cults are **personal, specific, and charismatic**. Western saints are individuals with faces, quirks, and portfolios — the saint *of* bakers, *of* barren women, *of* doubters — celebrated on name-days, painted realistically, begged for particular favors. And Western sanctity runs hot in the living: Eclessia is where devotees manifest **the Four Marks** — spontaneous wounds at wrists and ankles matching the Four Nails of the Binding — along with weeping images, ecstasies, and visionary raptures. The relic courts authenticate a few and expose many; the charismatic stream and the juridical dam define each other.
 
-**Failure mode:** sanctity as fee schedule. When the verdict machine is captured — political canonizations, purchased causes, the routing-assurance logic applied to heaven's honors — the West produces exactly the corruption Ansgar burned for naming.
+**Failure mode:** sanctity as fee schedule. When the verdict machine is captured — political canonizations, purchased causes, the routing-assurance logic applied to heaven's honors — the West produces exactly the corruption Ansgar died for naming.
 
 ## Veridun: Glorification (the Recognized Way)
 
@@ -33,7 +33,7 @@ The classic Thalmyric saint is not a charismatic but a **wonder-working elder** 
 
 ## The Freeflame: No Making At All
 
-Ferro's congregations recognize **tested elders** in this life and leave the next to the Lord: no canonization, no invocation, no relic cults — *"the only register is the Book of Life, and we do not hold the pen."* The saints of the old rolls are honored as exemplars, quoted like scripture, and never prayed *to*. In practice, Freeflame communities keep unofficial memory-days for Ansgar and Menos with an intensity that looks remarkably like everything they abolished, and their opponents say so.
+The congregations built on Ferro's book recognize **tested elders** in this life and leave the next to the Lord: no canonization, no invocation, no relic cults — *"the only register is the Book of Life, and we do not hold the pen."* The saints of the old rolls are honored as exemplars, quoted like scripture, and never prayed *to*. In practice, Freeflame communities keep unofficial memory-days for Ansgar and Menos with an intensity that looks remarkably like everything they abolished, and their opponents say so.
 
 ## Limits of Recognition
 

@@ -57,7 +57,7 @@ We got through.
 
 I don’t remember the killing. Not most of it. Just flashes. A man begging in a tongue I didn’t know. The sound steel makes when it strikes bone. My hand shaking so bad I couldn’t unclench it even after the fight.
 
-We found the square where they’d burned the relics. Where they’d strung the emperor. We put the banners back up.
+We found the square where the sermons say they burned the relics and strung up the emperor. A deacon of the quarter told us the relics had been counted and kept, and that the old emperor had lived three years among them, a prisoner in his own hall. We put the banners back up.
 
 ---
 

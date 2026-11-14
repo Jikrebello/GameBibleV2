@@ -180,7 +180,7 @@ In another retreat of the same decades, a cult carrying a black, dripping banner
 
 ## The Fall and the Reconquest (905–1015 AR)
 
-Caleran fell to Idris al-Fattah in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[The Reclamation of Caleran]].
+Caleran fell to the armies of Idris al-Fattah in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[The Reclamation of Caleran]].
 
 ### The Saint at the Last Door of the Borrowed Temple (c. 905–907 AR)
 
@@ -221,6 +221,10 @@ The Covenant had its own wonders in these years, and Iqashar tells this one. Idr
 A Vashari-born engine feeder named Gulnar followed it down. From the threshold stone of the Dyers' Hall she called its feeding name again, and gave it to no man: she spoke it "to the threshold of the house of Qahir, whoever stands in it". The frame stopped in a vat of indigo and lay down. Iqashari crews have called it the Elder ever since, and the blue still shows in its seams.
 
 Her sentence named a throne. Oaths since have been sworn to the Sublime Threshold, an office that cannot die, witnessed at Al-Qahur. The dyers' quarter credits Gulnar and pours a measure of indigo into the cistern on the anniversary; foundry masters of her day said the beast had drunk itself quiet in the vats; Qazmari preachers say Iqashar invented the story to give its new throne a miracle. See [[The Fall and the Long Reconquest]].
+
+### The Eleven Keepers (957 AR)
+
+The third generation of the Covenant keepers who held the Eternal Ember as a deposit for the final audit had been born in occupied Caleran, and their names stood pledged that the lamp would be neither divided, removed nor put out. When their own amir's guard came in the second week of the funeral revolt to carry the lamp to his ships, they barred the basilica, and eleven died at the lamp before the funeral crowds came up. The survivors would not open the forum precinct to the Thalmyric army until it had heard terms for the garrison families their amir had abandoned. Caleran's clergy pray for them by name each spring; Iqashar counts them among its honest dead; Thalmyric zealots have never forgiven the clergy for praying for unbelievers. See [[The Reclamation of Caleran]].
 
 ### The King of Unburied Hosts (c. 970–1010 AR)
 
@@ -280,7 +284,7 @@ In 1166 a rival's fleet and hired Ättar keels besieged Sermora with a leased st
 
 ### Despina of Kolonna and the Widow's Lamp (1167 AR)
 
-Caedros III, the Wall of the World, died childless in 1167, believing that the Fire watched the throne, and left his succession to it. Seven claimants, nephews and generals, stood at his bier in Veridun holding lamps. None kindled. One flared, an old warlock in the choir smelled script-fire under the wick, and the other six had the counterfeiter blinded on the cathedral steps. In the nave, among the district honour guard, Despina of Kolonna, a soldier's widow who had walked to Veridun to pray for her three sons on the frontier, was holding a lamp of her own. It took the Flame.
+Caedros III, the Wall of the World, died in 1167, believing that the Fire watched the throne. Twenty-eight years earlier, at Kolonna, he had left his succession to it, to bar his son Orestan, who had cut down surrendered men at Vresna, without naming him. Seven claimants, his son, two sons-in-law, three nephews and a guard captain, stood at his bier in Veridun holding lamps. None kindled. Orestan's flared, an old warlock in the choir smelled script-fire under the wick, and the other six had the emperor's son blinded on the cathedral steps. In the nave, among the district honour guard, Despina of Kolonna, a soldier's widow who had walked to Veridun to pray for her three sons on the frontier, was holding a lamp of her own. It took the Flame.
 
 The court suppressed the report, and the district soldiers carried it home. In the War of the Seven Lamps that followed, the district armies made the widow's lamp their warrant and acclaimed their own commander, Andrion, whom the court called the Widow's Emperor and who wore the name as a badge. Despina went home to Kolonna and refused every summons to court. Thalmyric villagers venerate her without waiting for a synod to canonise her; Eclessian examiners note that no one ever tested the lamp; court historians call her the districts' pretext. The Widow's Lamp is kept in Kolonna's church, and district families still carry their door-lamps to it on the anniversary.
 
@@ -295,6 +299,14 @@ Royal Lives make the prince the saviour of his people; victims' records insist h
 ### The Prince Who Would Not Sell the Peace (c. 1190–1220 AR)
 
 In Vlastrava, around 1220, in the civil wars that followed Qarath, an agent arranged a surrender that saved the household of King Stanimir. Once the captives were safe, the same agent offered the king his enemy's defenceless children and urged him to avenge an old murder; the treaty had been designed so that breaking it would be easy. He refused. His own brother called the refusal disloyal and killed the mediator. The children went home under guard, one household had kept its word, and one murder went unpunished. Later tellers made Stanimir universally merciful. Vlastravan Lives call the mediator a devil's agent, Vlastrava's word became the one men trusted, and its treaty law hardened around him. Vlastrava's backing later helped crown Nikandros the Restorer. Agents of what border clergy call the Oathbreaker are said to be waiting still for a peace that someone will sell.
+
+### Aubert of Corvel, the Ferryman Primarch (1240–1251 AR)
+
+In 1240 the plague-thinned conclave elected Aimery of Corvel, who sickened that evening and died before dawn, before he had sung a single rite. Under the quarantine rule the conclave would have been sealed in with the fever. His twin Aubert buried him in the conclave garden without a rite, put on his ring and came out to the loggia in his place, and for twenty months reigned as his brother. His Ferry Rule of 1241 let any baptised person who knew the names of the dead sing the funeral where no priest lived, and thousands of parishes buried their dead by it. In the spring of 1242 sacristans saw a cardinal in red at the garden wall at night, with the Primarch's face; one said the name *Aimery* and sang, and the figure went. Aubert confessed, the two colleges split over whether his acts stood, and families who had buried by the Ferry Rule did not know whether their dead had been sent. Gelasin II confirmed the Rule for the plague years only, and Aubert died in a Brauvalis abbey in 1251. Aurelian canonists call him the Usurper of the Ring; Brauvalis abbeys and the Freeflame call him the Ferryman Primarch. See [[The Grey Sweat]].
+
+### The Rider of the Benches (d. 1241 AR)
+
+Prince Mihrzad, Suhrab's most gifted son, rode the Qarath-frontier forts in the Emptying of the Benches as a living witness so that their garrisons could re-swear and stay; the forts he reached held. His escort carried the Sweat into three forts that had been clean. Frontier villages remember the rider who brought the plague; the Iqashar bazaar sings the son whose death made his father give the Guard the throne's witness. See [[Historical Spine of the Covenant]].
 
 ### Gavrin the Farrier, the Grey Uncle (c. 1215–1281 AR)
 
@@ -318,9 +330,9 @@ The assurance trade made the dead a matter of paper, and the age of reformations
 
 Quarne was a Fiorenzian notary's son whom the last wave of the Sweat left with a ledger and a gift for figures. He came to the Chancery of Sendings about 1265 and made it efficient: the printed letter, rates by age and estate with a cheaper rate for a child, the blank letter sold with the name left open, and the household bond that covered a family for three generations. As Alessior II's Cardinal-Treasurer from 1282 he put Saint Gerlind's face on the letters, and Lantern investigators later traced the apparition that condemned the Saint-Leon singers to his office.
 
-By 1288 his own audits told him the Sending Houses sang perhaps one rite in ten of those sold. He sold the unsung letters too, in bundles, to brokers in Vorthara, and the money went to Alessior's wars and the Sanctum's dome. When the Grievances appeared in 1297 he left Aurelium with his private ledgers, and he died in 1299 in a rented room in the Black Spire wards of Vorthara. The ledgers were gone when the room was opened.
+By 1288 his own audits told him the Sending Houses sang perhaps one rite in ten of those sold. He sold the unsung letters too, in bundles, to brokers in Vorthara, and the money went to Alessior's election debt and the Sanctum's dome. When the Grievances were sung in 1297 he left Aurelium with his private ledgers, and he died in 1299 in a rented room in the Black Spire wards of Vorthara. The ledgers were gone when the room was opened.
 
-The Freeflame named him from Ansgar's First Grievance, *you have sold the poor a bridge that is not yours*, and found his office's countersign on the dead paper in brokers' houses. Sestaran historians call him a gifted administrator blamed for a Primarch's appetite, and Fiorenzian counting-houses teach his methods without his name. In 1360 letters bearing his countersign are the most prized dead paper in the trade, and Vortharan tellers say his ledgers still add up at night.
+The Freeflame named him from Ansgar's First Grievance, *you have sold the poor a bridge that is not yours*, and found his office's countersign on the dead paper in brokers' houses. Sestaran historians call him a gifted administrator blamed for a Primarch's credulity, and Fiorenzian counting-houses teach his methods without his name. In 1360 letters bearing his countersign are the most prized dead paper in the trade, and Vortharan tellers say his ledgers still add up at night.
 
 ### The Guardian at the Workhouse (c. 1327–1331 AR)
 
@@ -328,7 +340,7 @@ A baptised tallyman falsified warehouse measures; poor households lost grain, an
 
 ### Frate Severin and the Pyre of Masks (1346–1349 AR)
 
-The Flame-preacher Frate Severin held Fiorenzia's soul for four years and burned the vanities of the merchant age—masks, mirrors, paintings, gowns—in the cathedral square in 1346. Witnesses still argue about what they saw standing in that fire. A Medori-restored government hanged and burned him in 1349. The Freeflame claim him as a kindled prophet, the Order of the Lantern studies him, and the city's painters keep a drawer of things they would burn first next time.
+After the Sermoran pamphlet of 1345 the Flame-preacher Frate Severin taught that the Medori held Fiorenzia's dead in pawn and that the carnival masks of the merchant houses had become doors for the Hungers, which are shut by naming what stands behind them, never by fire. In 1346 the Medori answered him with a pyre of masks, mirrors, portrait-panels and gowns in the cathedral square, and he begged the city not to light it. Witnesses still argue about what they saw standing in that fire. The crowd turned on the Medori, who fled with the registers, and for four years Severin, holding no office, led the city's Long Vigil, singing every Fiorenzian name anyone could remember; he preached against the crowds who drowned mask-makers as door-makers and was not obeyed. At the carnival of 1349 he went alone into the mask-makers' cellar and was found in the morning wearing a gilded mask nobody could lift from his face. He was buried masked outside the walls, and within weeks the senate bought the city's dead back from the Medori by making them hereditary dukes. The Freeflame claim him as a kindled prophet, the Order of the Lantern studies him, many Fiorenzians believe the Medori had a hand in the mask, and the city's painters keep a drawer of things they would burn first next time.
 
 ### The Lady of the Sloe-Field at Vessing (1352 AR)
 

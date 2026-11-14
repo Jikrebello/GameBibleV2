@@ -37,7 +37,7 @@ Its oldest and densest infrastructure accumulated in the land now forming Thalmy
 
 ## Empire from an older world
 
-The unification around 350 BR gathered centuries of Atherian settlement, maritime rivalry, cities and republican experiment. [[Teren Casvilar]] had conquered southern districts and defeated republican rivals before his assassination in 370 BR. His nephew [[Aurelius Thalion]] emerged from the subsequent divided commands and civil wars to establish continuing imperial government. [[The Wars of the Atherian Succession]] follows that founding generation through the conquest of Sarqen and the settlement at Caleran.
+The unification around 350 BR gathered centuries of Atherian settlement, maritime rivalry, cities and republican experiment. [[Teren Casvilar]] had conquered southern districts and defeated republican rivals before his assassination in 370 BR. His nephew [[Aurelius Thalion]] emerged from the subsequent divided commands and civil wars to establish continuing imperial government. [[The Wars of the Atherian Succession]] follows that founding generation through the hunt for Casvilar's seven killers, the meal at Sarqen's landing and the settlement at Caleran.
 
 Imperial government enlarged a system which could admit outsiders while keeping them unequal. Service, language, citizenship, landholding and ancestry overlapped without becoming identical. A provincial family could supply officers for three generations and still be called foreign in the capital. Another could acquire civic standing through military settlement and lose its farm when a later governor changed the levy.
 

@@ -24,7 +24,7 @@ Foot column 15–20 miles/day; mounted courier 35–40; cart and wagon 12–15; 
 - **The Thalassian Sea** — the inner sea between Thalmyrica's east coast, the Sestaran peninsula, and Eclessia's western shore; the world's trade heart. Sermora's fleets police (and tax, and rob) it.
 - **The Boiling Sea** — the equatorial ocean along the world's hot north and northeast; hurricane belt; the only road to the New World. Castara is the last safe port.
 - **Wolfsmere** — the sacred lake of the Drowning (993 AR), southern Eclessian frontier near Grenzburg; standing leftward thin space; no boats, no bells, no iron.
-- **Rivers:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (Ansgar's ashes); the **Celion**, descending through Kedrava to the western outer coast at Halmenth (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
+- **Rivers:** the **Aurin**, Caleran's river, falling from the Veridun highlands to the northwest coast; the **Weiss**, the marches' river through Brauvalis to the Thalassian (the Preacher's Water, where the river took Ansgar); the **Celion**, descending through Kedrava to the western outer coast at Halmenth (Saint Naris's drowning); the **Orzva**, Virelia's great plains river to Strazgorod.
 
 ## The Realms
 

@@ -14,7 +14,7 @@ tags: ["in-world-source"]
 ---
 # The Bir Qassim Safe-Conduct - Annotated
 
-*The Witnessed-Seal recension of the instrument under which Husan ibn Raiq and seventy-two members of his household travelled to arbitration in 603 AR. The Sealed-Blood recension differs in no clause and in every annotation. At the Mourning of the Wells, each clause receives the answer: “And yet the well was dry.”*
+*The Witnessed-Seal recension of the instrument under which Husan ibn Raiq and fifty-seven members of his household travelled to arbitration in 603 AR. The Sealed-Blood recension differs in no clause and in every annotation. At the Mourning of the Wells, each clause receives the answer: “And yet the well was dry.”*
 
 ## The Instrument
 
@@ -34,13 +34,13 @@ tags: ["in-world-source"]
 
 ## What Happened
 
-Flood damage took the causeway at Bir Nadim. The escort led the Travellers six miles along a drover's track before returning to the named road above Bir Qassim. A travelling court ruled that departure from the specified route voided the entire protection, regardless of cause or escort responsibility.
+Flood damage took the causeway at Bir Nadim. The escort led the Travellers six miles along a drover's track before returning to the named road above Bir Qassim. The station well's bound keeper drew for the escort and for the unnamed drovers, and would not draw for the Travellers. A travelling court at Qafra, under the jurist Jarud ibn Sulayt, ruled that departure from the specified route voided the entire protection, regardless of cause or escort responsibility.
 
-Under ordinary law Husan was then a rebel under arms. By sunset, seventy-three people were dead. Their escort dug the graves. Its commander paid for the stones, a fact the mourning liturgy remembers with contempt rather than gratitude.
+Under ordinary law Husan was then a rebel under arms, and water given to him was aid to a rebel. By the third evening seven of the Travellers had died of thirst. That night Husan read this instrument aloud at the well-mouth, clause by clause, and after each clause the bucket came up dry. At dawn the escort killed thirty-four, Husan among them, and gave the seventeen survivors to the drovers. The escort dug the graves. Its commander paid for thirty-four stones, a fact the mourning liturgy remembers with contempt rather than gratitude; the mourning houses paid for seven more.
 
 ## The Two Annotations
 
-Witnessed-Seal schools offer necessity of form, escort corruption, and tragedy without legal error. The dominant modern position, after Suhrab's *Ledger of Ledgers* introduced flood clauses centuries too late, is the formula **lawful and wrong**.
+Witnessed-Seal schools offer necessity of form, escort corruption, and tragedy without legal error. The dominant modern position, after the first book of Suhrab's *Ledger of Ledgers* entered the massacre as a debt and supplied a flood clause centuries too late, is the formula **lawful and wrong**.
 
 The Sealed-Blood recension places one sentence beside Clause the Fourth: *The law was the knife. The flood only carried it.*
 
