@@ -29,6 +29,10 @@ Enslaved people may petition over food, injury, separation forbidden by an instr
 
 Freedom may be purchased, granted, inherited through a clause, earned after fixed service, ordered for breach, or secured by sanctuary foundations. A valid release returns legal control of the person's name. Freed households often remain clients of former owners because land, work, and witnesses are still controlled by the same network.
 
+## Release at Death
+
+A bound person's name is released by a witnessed entry in the register at death. Custodians have reasons to delay it, since a released debt-name is a debt written off, and families have long feared that an unreleased name keeps something of the dead in custody. The fear has moved history. In occupied Caleran in 957 a custodian refused the release entry at a bound dockworker's funeral, and the mourners' riot became the revolt that ended the occupation. During the Grey Sweat of the 1230s and 1240s deaths outran the witnesses needed for release; the Covenant remembers those years as the Emptying of the Benches.
+
 ## Reform and Resistance
 
 Reformist jurists attack perpetual and inherited bondage, arguing that obligation without a possible completion is ownership disguised as covenant. Their opponents claim that abolishing old instruments would collapse estates, armies, and public works. The conflict is political, moral, and gameable; the institution itself remains genuinely evil.
@@ -37,3 +41,4 @@ Reformist jurists attack perpetual and inherited bondage, arguing that obligatio
 
 - [[Contract Magic and True Names]]
 - [[The People of the Lamp]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

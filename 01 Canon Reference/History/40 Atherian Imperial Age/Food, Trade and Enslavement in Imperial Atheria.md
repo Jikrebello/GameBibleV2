@@ -22,13 +22,15 @@ Caleran required regular deliveries from the Aurin, eastern river provinces, Sar
 
 Public distributions supported citizens and stabilised prices. Eligibility depended on recognised residence and status. Migrants and enslaved people lived beside distribution points whose rations excluded them.
 
-A failed harvest became an imperial concern when it threatened troops or major cities. Relief could save lives, as at Raveth, while loans and land transfers changed who controlled cultivation afterwards.
+A failed harvest became an imperial concern when it threatened troops or major cities. Relief could save lives, as at Raveth, while loans and land transfers changed who controlled cultivation afterwards. After the Raveth hunger of 119 BR the eastern basins became one crown estate, and its grain reached the garrisons through estate contracts. Garrison towns such as Lacaris paid for the arrangement in bread prices, and riots over arrears and bread followed.
+
+Hunger could also be decreed. In 247 BR, with the grain convoys held back by rival commanders, Caleran's magistrate sent soldiers into the poor districts behind a speaking portrait that insisted no imperial granary was empty. They broke doors, took household stores and killed demonstrators outside an inner market.
 
 ## Farms and estates
 
 Most food came from households whose members combined cultivation with animal keeping, craft and seasonal labour. Great estates gathered adjoining land, water rights and dependent workers. Some belonged to private families, others to temples or the emperor.
 
-Enslaved labourers worked on estates, in mines, workshops and domestic households. War and punishment supplied people to markets. Sale separated parents, children and spouses. Mining and large rural gangs imposed the harshest conditions. Skilled urban workers sometimes possessed greater freedom of movement, although their labour remained an owner's property.
+Enslaved labourers worked on estates, in mines, workshops and domestic households. War and punishment supplied people to markets. Sale separated parents, children and spouses. Mining and large rural gangs imposed the harshest conditions. Quarry gangs cut the extra stone every public work needed for the Star's share, the portion built to be broken when the wardens tested it, and enslaved labourers died with the heir Caelor when the untested treasury hall fell in 326 BR. Skilled urban workers sometimes possessed greater freedom of movement, although their labour remained an owner's property.
 
 Manumission allowed some former slaves to establish shops, marry freely and obtain civic standing for their children. Owners used it as reward and incentive.
 
@@ -48,7 +50,7 @@ Baths provided washing, exercise, conversation and business. Festivals filled st
 
 ## The price of connection
 
-A road could bring medicine and soldiers to a threatened town. It could also remove its grain, carry captives away and let an estate owner supervise land from a distant city.
+A road could bring medicine and soldiers to a threatened town. It could also remove its grain, carry captives away and let an estate owner supervise land from a distant city. Raveth learned both lessons from the Arcelon road: it pulled the province's trade west, and its levy took the men who had kept the flood channels clean.
 
 Households responded through cooperation, bargaining, concealment, migration and revolt. Their work made the monuments and intellectual life of the Glory possible.
 

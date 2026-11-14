@@ -3,7 +3,7 @@ type: culture
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 1900 BR-395 AR"]
+era: ["c. 1900 BR-398 AR"]
 region: ["Atherian Heartland", "Atherian Empire"]
 culture: ["Atherian"]
 related_factions: ["Star Priesthoods", "Astral Keepers"]
@@ -16,7 +16,7 @@ tags: []
 
 Astratheon was the principal public religion of Atherian civilisation before the imperial conversion to the Redeemer's faith. It placed seven Star Children within a shared celestial family and interpreted constellations, seasons and unusual heavenly events as signs of their favour or hostility. The religion united older maritime cults, inland rites and Giant-era astronomy while leaving considerable room for household worship and local variation.
 
-Astratheon described several genuine powers through an inaccurate divine genealogy. Most of its Star Children corresponded to Menhir or powers encountered through their courts. Thanatos was an Atherian interpretation of [[The Boatman]], whose actual commission never permitted bribes, bargains over souls or membership in a celestial family. Political theology and received myth therefore reveal Atherian belief without settling the identities of the beings concerned.
+Atherians never settled what the Star Children were. Temple hymns sang of a family born from the light of Father Sun and Mother Moon. The Astral Keepers, astronomers who recorded where and how each power answered, sorted the same powers into Circles by their works and left their births to the priests. Folk neighbours knew several of them as courts of their own country under other names, and Redeemer preachers later called them created powers enthroned in the sky. The longest quarrel concerned Thanatos, the seventh Star Child, whom funeral priests made lord of the dead's passage and whom ferrymen's songs remembered as [[The Boatman]], a carrier who heard no offers.
 
 ## Historical Formation
 
@@ -24,7 +24,7 @@ The religion developed over many centuries. Maritime settlers brought navigation
 
 Around 1000–950 BR, King Ilaron and Queen Tarsenna established the [[The Common Sky and the Formation of Astratheon|Common Sky]] at Caleran. Their settlement gave the principal cults a shared calendar, public festival ground and system of royal patronage. The Celestial Compact later adopted this calendar, and republican families used priesthoods and festivals to display wealth, ancestry and civic service.
 
-Imperial rule strengthened the common pantheon. Thalion's government raised Astaroth as protector of imperial destiny and presented conquest as the extension of celestial order. Provincial communities continued to adapt the cults to local histories. Astratheon consequently possessed common names and ceremonies without ever becoming wholly uniform.
+Imperial rule strengthened the common pantheon. Thalion's government raised Astaroth as protector of imperial destiny and presented conquest as the extension of celestial order. After Thalion's heir was crushed under a hall the priests had blessed and never loaded, the Red Star's priests also stood witness while rune-trained wardens loaded every new bridge and aqueduct until its weakest stone cracked. The emperor's own portrait gathered a cult of acclamation, and after it answered in the Emperor's voice in 247 BR the Common Sky kept it veiled in the Caleran audience hall. Provincial communities continued to adapt the cults to local histories. Astratheon consequently possessed common names and ceremonies without ever becoming wholly uniform.
 
 ## The Star Children
 
@@ -40,6 +40,18 @@ Imperial rule strengthened the common pantheon. Thalion's government raised Asta
 
 The Star Children were feared as powerful and capricious. Worshippers sought usable relations with them through offerings, vows and attention to signs. Priests also told stories of rivalry and kinship that made political conflict intelligible: generals resembled Astaroth, artists invoked Lyraxis and a dangerous journey could be understood as a dispute between Hecatara and Thanatos.
 
+## Hymns, Circles and Other Names
+
+The hymns gave the Star Children a nursery. Father Sun and Mother Moon quarrelled over which child to punish; Astaroth and Orionis fought over a stag; Hecatara was confined to the crossroads by the brother who ferried the dead. Priests used the family to explain why a power that answered one city's offerings ignored another's: siblings feud, and parents favour one child over the rest. Temple lists disagreed about the order of birth, and later imperial recensions added Thanatos as a seventh child whose parentage no two temples gave alike.
+
+The Astral Keepers kept tables instead of hymns. From the observatories at Caleran and the island schools they wrote down where a power had answered, in what season, at what price and with what failure when the price went unpaid. Their Circle-tables sorted the powers by works rather than births. The Second Circle held eight: Father Sun and Mother Moon sat in the same column as the six so-called children, one order of like powers. Priests called the arrangement an insult to parents. Keepers replied that a column records what a power does at a ford or a harvest, and that no one had ever watched a star give birth. The Third Circle held the sea, the wood and the wind, with a note for the rare conjunctions when the three answered as one and the hymns spoke of Trium. The Fourth held the four seasons. The First the Keepers left empty, and priests filled the bare ruling with a harmony lost before the world was settled.
+
+The oldest Keepers' tables have no place for Thanatos. Keepers observed that the dead-carrier never answered a petition, kept no court and took no price in the way the other powers did; funeral offerings left nothing to record in their columns. Temple recensions inserted him anyway, and for centuries the Keepers and the funeral priesthoods argued over the empty ring where a seventh child should stand. Philosophers took sides. One school held that a family explained the heavens better than a ledger; another that a power which never answered could not be the child of powers that always did.
+
+Folk who traded and married across the southern marches knew several of the same powers as courts in their own country rather than lights in the sky. The Atherian Father Sun was their Pitiless Day or Eye Without Eyelids, and Mother Moon the Moon Court, whom Ättar halls call ancestress. Orionis was the Hunt That Hunts Back, Lyraxis the laugh heard just before the path changes, Hecatara the pressure behind paths that remember terms. Folk seers said that the Star Children were their Courts wearing Caleran clothes, and Atherian priests called the Folk names rustic slander.
+
+Jirahar teachers, whose law forbade bargaining with any power but the Lord, called the Star Children powers that take a price. Redeemer preachers later called them created powers set on thrones they had never been given, and taught that the Boatman of the funeral songs was a servant of the soul-road who sold no passage and took no bribe.
+
 ## Fate and the Heavens
 
 Atherian astrologers taught that the sky at birth inclined a person's character and revealed likely dangers. Natal signs affected naming, education, marriage negotiations and the selection of auspicious dates. Practice differed by class. A wealthy household might commission a complete chart, while a dock family remembered the ruling constellation and one warning attached to it.
@@ -54,7 +66,7 @@ Astratheon taught that Thanatos carried the dead towards a destination fitted to
 
 The cult described three broad destinations. The Celestial Realm received people favoured by a Star Child. The Abyss of Stars held the condemned and forgotten. The Shadowed Crossing received those whose fate remained contested. Myths claimed that Thanatos could delay passage, lend back a dead soul or improve its destination in exchange for payment.
 
-These promises rested upon a false understanding of the Boatman. He carries human souls under a heavenly commission and cannot sell their judgement. Atherian funerals nevertheless possessed genuine social value: they gathered kin, honoured the dead and ensured burial. Fraud arose when priests sold authority they did not have.
+Ferrymen and boat families told against these promises long before the Church did. Their songs knew a ferryman who carried rich and poor in the same hull and would not hear an offer for a better landing, and the Astral Keepers could find no entry for any bargain he had kept. Redeemer teachers later taught that the Boatman carries human souls under a heavenly commission and sells no judgement. Atherian funerals nevertheless gathered kin, honoured the dead and ensured burial. Satirists, Keepers and later Church writers called it fraud when priests sold a family assurances over a crossing; the priests called the same payments devotion.
 
 ## Worship and Sacrifice
 
@@ -70,7 +82,7 @@ Each cult maintained its own priests, property and rites. The Astral Keepers stu
 
 ## Conversion and Survival
 
-Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian's compulsory settlement of 380 closed or converted many temples, dissolved augur colleges and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
+Redeemer communities condemned sacrifice, celestial fatalism and the worship of created powers. Astratheon remained publicly dominant through the Underground Centuries, then shared imperial patronage after legalization in 292 AR. Astrion restored temple stipends, funded hospitality and required publicly paid teachers of the classics to honour Star rites. His successors restored church stipends and left some Star estates in local hands. Vestian's compulsory settlement of 385 closed or converted many temples, dissolved augur colleges and exposed priests and dependants to confiscation, violence and forced conformity. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 The religion survived in household customs, rural shrines, philosophical schools and civic festivals stripped of their older dedications. Eclessian, Thalmyric and Sestaran societies inherited its calendars, architecture, dramatic traditions and celestial vocabulary. A constellation may now provide the date of a feast without receiving worship, while old temple ruins continue to attract pilgrims, antiquarians and cult revivalists.
 

@@ -26,6 +26,8 @@ The later Regalis, Nocturnis, Sanguine, Eclipsis, and Militis did not begin as e
 
 The first fracture came when mortal vampire households ceased accepting that their blood belonged to Giant patrons. Some joined human uprisings. Some sought freedom for their own households while preserving predation over ordinary mortals. Others tried to replace their makers.
 
+The Drinking Wars followed the same hunger that broke the other horizons. As Giant blood thinned, each satrap needed more mortal blood to hold the same memories and the same strength, and the blood-tithe on dependent households rose every generation until the households refused it (Causality Pass 01.2, 14 November 2026).
+
 Giant satraps answered revolt by drinking rebellious lineages, absorbing memory and strength. Rival courts then attacked weakened neighbors to seize blood archives and cultivated heirs. Mortal vampires fed upon Giant descendants and one another. Paradise-gardens closed their boundaries, trapping households inside perfect estates that starved or repeated themselves.
 
 This period is called the **Drinking Wars** in the Sanguine Memory. No surviving account offers a complete chronology. The phrase **Anshara drank itself** is literal authorial truth: the court system's final resource was the life and blood of the court itself.

@@ -24,7 +24,7 @@ Nerethan of Delkos was born around 525 BR and arrived as an Atherian harbour com
 
 Hadrima's family held cultivated land and a share in the storage and carrying trade of Esharat. The town lay inland from the coastal landings, close enough for its produce to reach them by cart and pack animal. Its households had sheltered children fleeing Qarzeth's collectors and had supplied passage during the final intervention. Some relatives prospered after the war; others lost people or property to the victorious army.
 
-Hadrima's mother **Hesara** had participated in the concealment of children during the Years of Three Collections. Hesara was the daughter of **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who settled in the Gateway country around 548 BR. The marriage connected Esharat to Sacred Basin kin and burial traditions. Later Nerethans used the relationship to strengthen their ceremonial standing; Qahuri genealogists continued to regard Tazirun as a prince who had left the Twin-Reed succession.
+Hadrima's mother **Hesara**, then a young woman, had hidden children in Esharat's grain bins and irrigation culverts during the siege years of 526–520 BR, when the capital's collectors made their last sweeps through the towns. Hesara was the daughter of **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who settled in the Gateway country around 548 BR. The marriage connected Esharat to Sacred Basin kin and burial traditions. Later Nerethans used the relationship to strengthen their ceremonial standing; Qahuri genealogists continued to regard Tazirun as a prince who had left the Twin-Reed succession.
 
 Nerethan and Hadrima married in 497 BR. She brought credit, kinship and knowledge of local obligations to the governing household. She also resisted his officers' attempts to assign recovered fields to their own dependants. A settlement protected several cultivated holdings while confirming grants elsewhere. Compulsory repair work continued, and households with weaker patrons obtained less protection.
 
@@ -42,9 +42,11 @@ Nerethan died around 462 BR and Hadrima around 459. Their son Arenes inherited r
 
 In 457 BR, Arenes obtained support from town leaders who wanted continuity in supplies and protection against competing officers. Atherian patrons recognised him as ruler in return for payments, military assistance and secure access. The crown arose through bargaining among people who already possessed authority in the country.
 
-Arenes governed from Sarqen while retaining local leaders in several towns. His son Tavren succeeded in 434 BR and expanded royal patronage of storage, festivals and coastal defence. Marriage connected the family with further town households. Atherian influence remained substantial through military access and support for claimants who could challenge the reigning branch.
+The towns set one condition of their own. Before they would call Arenes king, he had to come down to Sarqen's landing, where the survivors of Qarzeth's sack had eaten together in 520, and eat at an unranked table among carriers, farmers and freedmen, served in no order of worth, with every seat filled. Then he swore the **Table Oath** the towns had renewed there every year since the sack: *no child for the table; no seat kept empty; no guest served by worth.* From then on the oath was read as covering suppliants as well as guests. Royal speakers liked to say that the house had brought order to the towns; the towns answered that they had made the house swear first.
 
-The next ruler, Olymes, succeeded in 408 BR. He cultivated eastern Atherian commanders and paid heavily for recognition during disputes within his own family. Those payments increased demands on cultivators and port revenues. His children inherited both a developed royal government and resentment towards the means by which he had maintained it.
+Arenes governed from Sarqen while retaining local leaders in several towns. His son Tavren succeeded in 434 BR, ate at the same table and swore the same oath, and expanded royal patronage of storage, festivals and coastal defence. Marriage connected the family with further town households. Atherian influence remained substantial through military access and support for claimants who could challenge the reigning branch.
+
+The next ruler, Olymes, swore the oath and succeeded in 408 BR. He cultivated eastern Atherian commanders and paid heavily for recognition during disputes within his own family. Those payments increased demands on cultivators and port revenues. His children inherited both a developed royal government and resentment towards the means by which he had maintained it.
 
 | Generation | Place in the dynasty |
 |---|---|
@@ -65,13 +67,15 @@ The dynasty supported town cults and ceremonies that had survived the capital's 
 
 The rulers sought standing within maritime religious traditions as well as the customs of the gateway towns. Court display used inherited royal imagery and stories of protection.
 
-Hadrima's position remained important to later accounts of the house. Royal speakers cited her ancestry when claiming the loyalty of Esharat and other surviving towns. Those towns could answer that their contribution preceded the crown and imposed responsibilities on its heirs.
+Hadrima's position remained important to later accounts of the house. Royal speakers cited her ancestry when claiming the loyalty of Esharat and other surviving towns. Those towns could answer that their contribution preceded the crown and imposed responsibilities on its heirs, and they had the oath to prove it.
+
+The oath also explains why the kings ruled from Sarqen and never from the ruins of Qarzeth a day's sail away. The old capital's cisterns were broken and its sanctuary ground salted, so it could not have fed a court. Gateway priests said a palace raised over the sanctuary would be a place kept for the Provider, and that such places do not stay empty for long. And the oath that made a Nerethan a ruler had been sworn at Sarqen's landing, over Sarqen's salt.
 
 ## Samyra's contested succession
 
 Olymes's death in 375 BR brought Samyra and her younger brother Nethar into joint rule. The minister Vardek and members of the garrison backed Nethar, excluded Samyra from the port government and relied on foreign recognition to secure their position. Her older sister Merath gathered supporters of a different royal branch.
 
-Samyra maintained relationships with Esharat households and sought allies outside the country. The arrival and murder of [[Marovan Veyr]] in 373 BR brought [[Teren Casvilar]] into the struggle. His intervention restored her position, removed Vardek and ended Nethar's claim after the younger ruler died in the fighting.
+Samyra maintained relationships with Esharat households and sought allies outside the country. In 373 BR Vardek invited the fugitive [[Marovan Veyr]] to land at Sarqen and laid the royal table for him with an empty seat, meaning to kill him there and win [[Teren Casvilar]]'s favour. An Esharati elder warned Veyr, who fled to Ilamar. A minister who laid a table to kill a guest had broken the oath sworn by every ruler of the house, and the towns rose for Samyra. Casvilar, who needed Esharat's grain, backed the side that held it. The towns judged Vardek under the oath before Casvilar's officers executed him, and Nethar's claim ended when the younger ruler died in the fighting of 372.
 
 Her subsequent relationship with Casvilar produced Amesar in 372 BR. Years later, her alliance with [[Darion Velsar]] produced Talven and Lethia and a wider programme of royal claims. The capital remained at Sarqen. The old sacrificial city was a ruined part of the country over which these families argued.
 

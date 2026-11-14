@@ -30,7 +30,7 @@ Delkos became the principal base for part of Eryndor's conquered army. After his
 
 The term **Delkosi** first named inhabitants of the city. It widened among people attached to its fleet, court and military settlements. Service, residence, marriage and public admission brought new households into the identity. A person could be Delkosi through civic life and remain conscious of Ortheian, Arqeshite or island ancestry.
 
-The Delkosi Successor consisted chiefly of controlled routes, harbours and garrisons. Its officials depended on local stores and pilots. Military grants dispossessed some existing households; other communities profited by supplying the fleet. Court culture combined Atherian speech with eastern dress, administration and marriage politics.
+The Delkosi Successor consisted chiefly of controlled routes, harbours and garrisons. Its officials depended on local stores and pilots. Military grants, many of them sealed in the name of the dead king whose tomb at Delkos was said to speak, dispossessed some existing households; other communities profited by supplying the fleet. Court culture combined Atherian speech with eastern dress, administration and marriage politics.
 
 ## Position in 350 BR
 

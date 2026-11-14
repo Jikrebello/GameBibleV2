@@ -28,7 +28,7 @@ The Xolotlan **Red King without a Face** rose around sacrificial command during 
 **Atherian inner-gulf cities, late City-States into Stars.** Blood houses, theatrical victors, office families and beauty cults promoted incompatible Pride biographies through public processions. Their sponsors forced marriages, murdered witnesses and mutilated defeated images. Scholars later called the rivalry the **Parliament of Borrowed Faces**. It was not a chamber of independent gods.
 ^atlas-id-r02r
 
-In a separate inner-gulf city, the **Champion of Four Doors** was an autonomous Envy Archmask which stole a human champion's biography and accepted three foreign gifts. Each gate supported a different route and demanded incompatible conduct. Victory left prisoners and former beneficiaries liable to the next payment. Closing one door injured its access but did not turn it into a composite Idol.
+In a separate inner-gulf city, c. 1010–940 BR, besieged magistrates enthroned the **Champion of Four Doors**, an existing autonomous Envy Archmask, as emergency protector. It held three leased routes from Wrath, Greed and Pride beside its native Envy route. No human champion or stolen human biography is involved. Each gate supported a different route and demanded incompatible conduct. Victory left prisoners and former beneficiaries liable to the next payment. Closing one door injured its access but did not turn it into a composite Idol.
 ^atlas-id-r04r
 
 ## Protection as ownership
@@ -64,4 +64,5 @@ Six archfiend epithets belong in this ecology: the Red-Lease General to Wrath, t
 
 - [[Infernal Kings and the Wars of the Depth]]
 - [[Distant Lands and Otherworld Histories]]
+- [[The Hunger Wars]] — public reader account of these wars, told through witnesses' claims.
 

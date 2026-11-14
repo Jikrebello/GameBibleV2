@@ -33,6 +33,12 @@ Older Orphaned families remained important after southern settlement. Migrants j
 
 Foreign powers sought landings, stores and pilots because the chain connected wider seas. Caleran's selected outer footholds, strongest toward the Gateway, gave it influence over approaches without conquering the Elmarai core. On the eastern and Saronikan-facing side, Atherian-speaking port households, councils and ship service had developed their own history. The [[Arkenan and Saronikan Cities before the Empire|Arkenan–Saronikan city account]] describes those ports.
 
+## The pilots' hostages and the gale of 466
+
+Elmarai pilots took other cities' ships through waters those cities could not read. Pyrassa's grain fleet, in particular, sailed with Elmarai families at the steering oar. When Pyrassa fell behind on the ship money owed to the League of the Eastern Oar, about 475 BR, the League's commanders did not seize Pyrassan citizens, whose kin sat in councils and could complain at Caleran. They took the pilots' wives, parents and children instead, and kept them on a guard-ship off Velathene as surety for the debt. Pyrassa paid in the end. The families came home thinner, and the pilots did not forget who had held them.
+
+In the autumn gale of 466 BR, during the War of the Closed Chains, League harbours closed their chains against the rebel hulls on Caleran's orders. The same Elmarai pilots, at sea in the weather, gathered the refused ships and led them through the night to the one harbour that had no chain, the moving city of [[Marelith]]. Caleran's commanders called it treason; island songs call it the night the pilots paid their debt back. After the Chain Peace of 461 the Elmarai pilots were among the first to swear before the copy of the Roll of Refused Hulls at [[Ilamar before 350 BR|Ilamar]].
+
 The isles retained particularly strong local dialects, family histories, pilot institutions and ritual customs in the later Saronikan world.
 
 ## Related histories

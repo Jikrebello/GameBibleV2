@@ -22,6 +22,18 @@ The basin supported [[Ancient Qahur and the Twin-Reed Crowns|the civilisation of
 
 Ancient burial districts remain part of the inhabited country. Some belong to the [[The White Measure and the Second Houses|White Measure]], whose most successful founders bound their souls to embalmed bodies and small estates in the Egg White. Basin authorities seal, tax, bargain with or deny these houses according to circumstance. A responding tomb may hold a genuine Patron, a constructed office or an Idol Mask; age and splendour cannot distinguish them.
 
+## The Bread of the Bound
+
+The Covenant's hold on the Basin began in famine. In the Thin Floods of 546–552 the river failed in five summers of seven and the yoke-sickness killed the plough oxen. Through the worst years the 4,444 bound offices dug the oasis and channels at Al-Qahur day and night while children starved in the canal towns below, and grain went to those who sealed their names into the Covenant, one household at a time. Qahuri villages remember both halves of that bargain.
+
+## The Basin and the Threshold, 931–1190
+
+Al-Qahur's present weight in Qahirid politics dates largely from the Unsworn Years. When Idris al-Fattah died in 931, two years after his heir, the oaths that bound the Qahirid army to him lapsed. The Regency at Iqashar rebuilt the throne as the Sublime Threshold and had every new oath witnessed at Al-Qahur, so that the throne's continuity rested on the Basin's sacred custody. The first rival prince to be lodged, his true name taken into custody so that nobody could swear to him, lived out thirty years in a walled garden in the Basin.
+
+The Basin captains would not re-swear without land. In 938 they took estates in the Sacred Basin on fixed-term leases, with the Basin engine yard, and became the military households. Qahuri canal councils have pointed out ever since that the leases had end dates. "Armed tenants who forgot the lease had an end" began as a lawyer's phrase and became a village insult.
+
+In 1059 Sultan-Caliph Tamim divided the Vault of Names. Its old halls at Al-Qahur, which already held the founding instruments and the Fourth Seal, became the **Deep Vault**. The names of the dead and the surrendered names of the Unnamed Custodians came south from Iqashar to join them in a train of sealed chests that took eleven days on the Basin road, while villagers covered their wells as it passed. Al-Qahur has held the name of Iqashar's chief registrar ever since. The Basin starved in the Two Winters of 1101–1103, when the grain failed under ash-grey skies, and its farmers were saved from ruin by the Court of Breaches' grey-sky ruling that a contract which cannot be performed is suspended rather than voided.
+
 ## Sacred Authority
 
 Caliph Uwais, Custodian-of-the-Wells, guards the pilgrimage sites, the remembered Covenant of the 4,444, and the Vault containing the Fourth Seal. His acknowledgment gives Qahirid rulers sacred legitimacy; his silence can wound them.
@@ -57,3 +69,4 @@ Qahuri grave-watch cautions against following erased names or empty funeral trai
 - [[Qasr Ilyun]]
 - [[The Disputed Fourth Seal]]
 - [[Status, Slavery, and Manumission in the Covenant]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

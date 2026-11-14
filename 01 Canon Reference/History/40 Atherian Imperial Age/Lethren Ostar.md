@@ -26,17 +26,17 @@ Ostar maintained a large receiving household where petitioners could seek money,
 
 ## The suppression of 399 BR
 
-A revolt among enslaved workers and fugitives threatened estates and military supplies in 399 BR. Ostar led its suppression. After defeating the principal force, he ordered captured rebels crucified along a supply road.
+In 399 BR enslaved workers on the estates along a military supply corridor rose, joined by fugitives from the road gangs, and burned the stores they had been made to fill. Ostar raised the force that broke them. He was a financier before he was a general, and he punished like one. The captured rebels were chained in lots of twenty and sold north to the dealers of the well country, who paid in silver and in promises of water and passage on the northern roads. Owners who had lost workers were compensated from the proceeds; the families of the sold never learned which well had bought them.
 
-The executions discouraged immediate resistance and made his name inseparable from the punishment. Owners celebrated recovered property. Families searching for fugitives encountered bodies exposed where travellers had to pass them. Some survivors escaped into other districts, carrying accounts that differed sharply from the public celebration.
+The rebels who escaped the field fled up the mountain pass to Vorthara, the refuge town in and around the Black Spire, where no city magistrate could be made to hand anyone back. Ostar's agents followed them up the road in what Vortharans remembered as **the Spire Pursuit**. They did not storm the town. They bought: fugitives taken by Vortharan captive traders were purchased out of the pens and marched to the Olveth ore workings. Several refuge households barred their doors to the buyers and swore to defend one another's thresholds, an agreement later called **the Kept Doors**. It saved the people behind those doors and no others.
 
-Ostar's command increased his standing without giving him the extensive overseas achievements associated with Veyr. He remained sensitive to the difference.
+The sales made Ostar's name hated among the enslaved and respected among owners. They also gave him what he had lacked: friends among the northern well dealers, knowledge of the roads between the wells, and a belief that the north could be bought. His command increased his standing without giving him the overseas victories associated with Veyr. He remained sensitive to the difference.
 
 ## The first partnership
 
 Ostar supplied money and political support to Casvilar while cooperating with Veyr over appointments and provincial interests. Their partnership operated through personal agreement, marriage and influence in public bodies.
 
-Casvilar's southern command gave his creditor a useful ally and an increasingly independent competitor. Ostar sought a foreign victory of his own. Northern trade and the wealth moving between wells made the approaches beyond established Atherian control attractive to him.
+Casvilar's southern command gave his creditor a useful ally and an increasingly independent competitor. Ostar sought a foreign victory of his own. He looked north, where the dealers who had bought his rebels told him of rich wells, quarrelling clans and water that a strong army could simply take.
 
 His son Pel accompanied the expedition. Born in 407 BR, Pel had grown up expecting a public career supported by his family's means. Their shared ambition placed two generations of the household in the same vulnerable army.
 
@@ -52,11 +52,13 @@ Some soldiers escaped; others were killed or taken captive. Fever entered the no
 
 The coalition dispersed after securing Rethmar. Tavisha's authority governed the reservoirs, while Kharuz commanded people who had followed him to war. The loss damaged lenders and suppliers at home as well as military households. Northern communities remembered the preservation of their wells and the relatives lost in achieving it.
 
+A Rethmar tradition holds that some of the water carriers who emptied the cisterns ahead of Ostar's columns were rebels he had sold north eighteen years before. The well households tell it with relish. Ahdari genealogists answer that the carriers named in the story belong to known local families, and Atherian writers left it out of every account.
+
 ## Consequences
 
 Ostar's death removed a wealthy intermediary from the relationship between Veyr and Casvilar. His resources passed to heirs and claimants with different loyalties. The surviving partners could no longer rely on him to finance agreement or restrain a dispute which threatened all three.
 
-Later accounts used the expedition to illustrate greed. Its failure also depended on a practical misjudgement: Ostar treated local water and cooperation as resources that military arrival would make available.
+Later accounts used the expedition to illustrate greed. Its failure also came from a practical misjudgement learned in 399: having once bought the north's goodwill, Ostar believed its water and its people could be had the same way when his army arrived.
 
 ## Further reading
 

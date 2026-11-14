@@ -20,6 +20,10 @@ Zanthir is the last autonomous remnant of the Banu Mizan conquest order, ruled f
 
 Badis rules through household troops, water courts, merchant patrons, contract jurists, Velian and Jirahar communal leaders, provincial notables, and tribute agreements. He pays toward Iqashar and Veridun in alternating seasons without admitting final submission to either.
 
+## The Seasons of 1044
+
+Zanthir's divided tribute is older than Badis. By the 1040s the last Covenant amirates of the old Thalmyric heartland were starving, Iqashar had declared them claimed but no longer defended, and its last relief army had dispersed at the wrong well in 1041. In 1044 the emir at Qabir held back his fleet and grain barges from the amirates and signed with Veridun an instrument valid in alternate seasons, paying tribute to Veridun in one and to Iqashar in the other. Thalmyria accepted Zanthir's autonomy as the price of the amirates' surrender. Iqashar, with its army committed to the Tarkhan frontier, could only register the arrangement. Thalmyric chroniclers call it Zanthir's "timelier treachery"; in Qabir it is simply the seasons, and Badis still keeps them.
+
 ## People and Faith
 
 The [[The Zanthiri|Zanthiri]] are a mixed frontier people, not simply an occupying caste. Qabir contains Witnessed-Seal schools, the Catholicos of the [[The Velian Church|Velian Church]], Sealed-Blood congregations, Jirahar quarters, Thalmyric exile monasteries, foreign factors, enslaved people, and freed households.
@@ -43,3 +47,4 @@ Badis delays conquest through tribute, hostages, foreign patrons, and protected 
 - [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[Zanthir and the Unfinished Reconquest]]
 - [[The People of the Lamp]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

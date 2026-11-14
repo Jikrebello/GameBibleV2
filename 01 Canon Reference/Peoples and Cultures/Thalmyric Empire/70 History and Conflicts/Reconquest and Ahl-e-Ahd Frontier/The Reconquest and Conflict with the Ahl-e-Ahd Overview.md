@@ -23,6 +23,10 @@ Caleran fell in 905 AR. Veridun survived beneath the Veil in 906, and the Mounta
 
 Covenant authorities distributed conquered land among garrison families and rewarded clients, retained contract-bound locals, transplanted subject peoples, and used forced labor on strategic estates and roads. Their law could provide predictable protections to recognized parties while denying full personhood to those trapped beneath imposed obligations. The system was orderly, productive in places, and genuinely predatory.
 
+## The Covenant's Own War
+
+Covenant registers tell the same years from the north. The Qahirid army had sworn its service to Sultan-Caliph Idris by name, and when he died in 931, two years after his drowned heir, those oaths lapsed together; bound hounds slipped their names at the northern wells, and the throne was rebuilt as the Sublime Threshold. The occupied south was left to Amir Durayd ibn Sahl, who swore it to himself and surrendered Caleran in his own name in 957. From 951 Iqashar's army was fighting Grass-Tarkhan riders on hymn-blessed Atherian horses, and from 1033 its treasury treated the southern amirates as a loss. The Covenant ended the Reconquest with a grievance of its own: the deeds the Southern Houses carried north in 1052, which it tried to enforce with engines in 1131–1139. See [[The Covenant from Idris to Suhrab (905-1190 AR)]].
+
 ## What Return Did
 
 Thalmyric armies broke contract engines, reopened churches, restored some dispossessed communities, and ended many forms of bondage. They also created veteran estates, enforced population transfers, privileged documented claimants, and sometimes treated language or ancestry as proof of collaboration. Later amnesties attempted to distinguish perpetrators from descendants, but their enforcement remains uneven.

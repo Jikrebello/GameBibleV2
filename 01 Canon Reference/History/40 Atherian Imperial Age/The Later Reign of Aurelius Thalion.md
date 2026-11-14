@@ -38,7 +38,15 @@ Ilvara Deneth managed audiences, household finance and relationships among provi
 
 Thalion and Ilvara's son Caelor was born in 363 BR. He served in provincial administration and was publicly treated as the likely heir. A collapse at a building inspection injured him severely in 326; he died two years later. Workmen and enslaved labourers also died, though imperial memorials concentrated on the prince.
 
-Their daughter Lysara formed another branch of the household through marriage. Her supporters expected her children to receive precedence. Thalion instead adopted his nephew Meren, the son of Evara and Velsar, as his political heir. Meren's descent joined the ruling family to soldiers who had once followed Thalion's rival.
+Their daughter, named Lysara after Thalion's mother, formed another branch of the household through marriage. Her supporters expected her children to receive precedence. Thalion instead adopted his nephew Meren, the son of Evara and Velsar, as his political heir. Meren's descent joined the ruling family to soldiers who had once followed Thalion's rival.
+
+## The hall that was never tested
+
+The building that fell on Caelor was a new treasury hall on the forum at Caleran, roofed with cedar beams long enough to need a dozen yoke of oxen each. Military engineers had used the Red Star's test since Casvilar's southern wars: they loaded a valuable frame before the priests until a hairline crack showed where it would fail, then built to the crack. Thalion's elevation of the Red Star's priesthood had added a gentler rite for public works, in which priests dedicated a finished building and asked their patron that it stand. The treasury hall received that blessing and nothing else. Its roof came down while Caelor walked the upper gallery with the clerks and the workmen who had built it.
+
+The engineers said aloud what the priests would not: the hall had been asked for strength without a trial. Thalion could not disown the priesthood whose rites crowned his victories, so he divided its work. Priests kept the blessings and the victory rites. The trial went to rune-trained engineers, the wardens, with a priest of the Red Star beside them as witness. No one was to enter a public work until the wardens had loaded it past its expected burden and listened for the stone to speak. Every bridge, hall and aqueduct carried a portion built to be broken in the test, which masons called the Star's share. When the wardens had repaired the crack, the official who opened the work stood beneath the arch while the first loaded wagons crossed above him.
+
+Thalion, already ill, had himself carried beneath the first arch tested under the order. Builders soon told stories of officials who paid a slave or a condemned man to stand under in their place, and of the works that fell on them afterwards. The wardens' rule outlived his dynasty and shaped quarry labour, road building and festival works for the rest of the age.
 
 ## Provinces, roads and public religion
 

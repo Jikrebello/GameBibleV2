@@ -134,3 +134,11 @@ Package 2B closes for review here. Package 2C, imperial-depth writing, commits a
 ## Subsequent identity integration
 
 [[Ancient Peoples before Atherian Unification - Canon Integration Review]] subsequently fixed the changing meanings of Atherian identity through 350 BR and expanded the Enathi, Serathi, Vardeni, Arkenan and Saronikan population histories. It changes no event or date recorded in this delivery review.
+
+## Causality Pass amendment (14 November 2026)
+
+[[Causality Pass - 02 Gateway Wars and the Late Republic]] changes several republican facts recorded above. The Compact's twelve seats are now named (Caleran, Nerava, Thesra, Olveth, Sarven, Velos, Olyssar, Orthea, Velathene, Verion, Irenai and Pyrassa), with Kyrame and Delkos outside; reader prose calls Orthea "the archive valley". Caleran's road from host to hegemon now runs through the Olyssar seat (c. 680–672), Verion's unreckoned years (c. 652–649), the rebuilding of the rolls after Orthea's collapse (c. 513) and the Oar's ship money (491–469). The Gateway Wars run c. 660–520, and the Nerava dispute's band widens to c. 660–500 accordingly.
+
+Ilaron and Tarsenna's festival ground gains a later use: the Lustration of the Field in 609 BR, when Caleran killed Gateway hostage children and captives for Astaroth. The couple's culpability for their own captive sacrifice is unchanged; the later rite is Caleran's, under Dema Varin, and creates the Warden of the Red Field. Avren, Caleth, Ravessa and the Common Sky's founding facts are unchanged.
+
+Doreva's Pyrassan grain voyages and Mesthra's Irenai school acquire descendants in the new history: Pyrassa's grain houses eat at the Gateway's festival tables in the 650s, and Irenai's observers dispute the augurs' Long Month in 489. Neither changes the earlier figures.

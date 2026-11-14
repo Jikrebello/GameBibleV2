@@ -9,35 +9,59 @@ culture: ["Eclessian"]
 related_factions: ["The Undertow", "Eclessian Church"]
 appears_in: []
 needs:
-  - decide whether the original breach had a deliberate mortal agent
+  - decide whether the original breach had a deliberate mortal agent (deliberately open; see Unresolved below)
 aliases: ["Grey Sweat Authorial Truth"]
 tags: []
 ---
 # The Grey Sweat - Authorial Truth
 
-This note contains the creator-facing truth behind [[The Grey Sweat]]. Public histories should describe evidence, consequences, and competing explanations without naming the machinery below.
+This note contains the creator-facing truth behind [[The Grey Sweat]]. The causal chain that runs from the Sweat to 1360 is in [[Causality Pass - 09 The Road to 1360]].
 
 ## The Hidden Catastrophe
 
-The Grey Sweat was a disease and a **soul-logistics catastrophe**. Deaths arrived faster than the Vestibule's damaged routes and Eclessia's burial ministries could process them. Interrupted rites did not cause the fever, but they multiplied the number of souls left exposed between death and safe passage.
+The Grey Sweat was a disease and a **soul-logistics catastrophe**. The fever was biological; its mortality was not changed by rites. Deaths arrived faster than the Vestibule's damaged routes and Eclessia's burial ministries could process them. Interrupted rites did not cause the fever, but they multiplied the number of souls left exposed between death and safe passage. The walking dead of the reader article were real: residue and unsent souls at thin places, in the proportions the Bestiary and soul-road controls allow.
 
-The **Quiet Ninth** was the interval in which neither ordinary intercession nor institutional routing could account for the missing dead. The Church suppressed the scale of the discrepancy because its assurance offices had continued selling certainty throughout the crisis.
+Church quarantine doctrine was written about rite-integrity rather than contagion. That was a reasonable response to what people could see, and it was also the legal tool Virelia's magnates used to seal priestless villages and bind their survivors (the bond of the clean village).
 
 ## The Undertow Harvest
 
 The [[The Undertow|Undertow]] bought, diverted, and trapped unguarded routes in bulk. Several of its oldest standing passages date from these years. Modern Undertow claims on plague cemeteries, drowned charnel pits, and extinct parishes are not metaphors: they are inherited pieces of stolen soul-infrastructure.
 
-## Ash-Walkers and Thin Places
+## Ash-Walkers, Gerlind and Thin Places
 
 Ash-Walker processions sometimes closed thin places in their wake. Their suffering did not purchase salvation, but shared repentance, truthful naming of the dead, and the presence of genuine sanctity stabilized places abandoned by formal institutions. This is why some processions worked and others became feeding grounds for [[The Weeping Courts]].
 
+Saint Gerlind of Lindenfurt (c. 1228–1279) worked by the same principle, and her sanctity was genuine. Neither her voice nor any rite owned the result. The Thalmyric lay singers who sang their own dead out worked the same way where they were righteous; where they were not, Thalmyric villages were haunted too, and Thalmyric memory has smoothed that over.
+
+## Beyond Eclessia
+
+- **The Covenant (the Emptying of the Benches).** Every death of a bound person required a witnessed release in the Living Register. Deaths outran witnesses; unreleased names piled up; debts of the dead rolled onto heirs; garrison instruments were widowed and frontier forts opened. Custody without a name-cage does not touch routing, so the Unreleased were a bookkeeping catastrophe and not a soul trap. The Vault cannot know that, and its living and dead registers have never balanced since. Neither the Vault nor the relic courts knows that the other's books also fail to balance.
+- **Sestara.** The emptied Golden Book and the Medori clearing house. No special soul-road effect.
+- **The steppe.** Light mortality. Wind-speakers read death residue but cannot recall routed souls; their claim that the steppe's dead "go with the wind" is a belief, and the authorial record does not rule on it.
+
+## The Sending and the Paper of the Dead
+
+The post-Sweat Sending Houses worked where rites were sung, because intercession is real. A sealed assurance letter never touched judgement. An **unsung** letter is an unresolved sealed promise over a named soul, and that makes it a lien that a Patron collecting soul-liens, the Undertow or an infernal broker can press to delay or contest passage. This is what Silvio Quarne sold. The full ruling is in [[Causality Pass - 09 The Road to 1360#Silvio Quarne, the Bridge-Seller]].
+
+## The Ossuary Crown
+
+The crown that spoke in the plague dead's voices (1251–1263) is the coherence-piece of a mature Ossuary Mind, a full-agency Astral person assembled from wrecked plague refuges and abandoned route offices in the Egg White. It is not the dead and not their collective soul. Its voices are accurate copies, which is why the Ruling of the Hollow Mouth was right and unbelieved. Whether the crown is the Mind's core, whether any soul is separately trapped in it, and what returning its remains would do stay open.
+
+## The Quiet Ninth
+
+The end of the Sweat is held in [[The Weird of History — The Unexplained Register]] and is unexplained here as well. This file attaches no cause, interval, discrepancy or mechanism to it. Covenant registers record the date and no cause.
+
 ## Institutional Knowledge
 
-The highest relic courts know that plague-year routing records do not balance. The Order of the Lantern possesses fragments of the Quiet Ninth files but not the full explanation. Undertow agents, a few Left Hand scholars, and the authorial record know the larger truth.
+The highest relic courts know that plague-year routing records do not balance. The Order of the Lantern holds copies of the Chancery registers it bought from the Medori to sing the Great Arrears and, through that work, knows more than any other body about where the dead were and were not sent; it does not know about liens as such. The Medori hold the master registers and, through the family's inherited contract craft, understand what an unsung letter is worth. Undertow agents, a few Left Hand scholars and the authorial record know the larger truth.
+
+## Unresolved
+
+Whether the Sweat's first outbreak had a deliberate mortal agent is deliberately left open, even here. Its origin is unknown in every surviving source.
 
 ## Public-Facing Boundary
 
-Public notes may establish missing souls, failed rites, contradictory registers, haunted plague sites, and theological panic. They must not identify the Quiet Ninth, the Undertow harvest, or the precise soul-route failure as settled public knowledge.
+Public notes may establish missing souls, failed rites, walking dead, contradictory registers, haunted plague sites, theological panic, the Ossuary Crown's voices and the Hollow Mouth ruling, the Sending Houses, and in-world claims about dead paper. They must not identify the Undertow harvest, the lien nature of unsung letters, the Ossuary Mind, or the precise soul-route failure as settled public knowledge, and nothing anywhere explains the Quiet Ninth.
 
 ## Navigation
 
@@ -45,3 +69,4 @@ Public notes may establish missing souls, failed rites, contradictory registers,
 - [[Soul Routing and the Vestibule]]
 - [[Thin Spaces]]
 - [[The Atlas of the Left Hand]]
+- [[The Weird of History — The Unexplained Register]]

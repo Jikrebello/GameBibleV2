@@ -34,7 +34,9 @@ Training joined rowers, sailors and fighting troops who often came from differen
 
 ## The sea-heir's defeat
 
-An agreement with Ardel in 357 BR briefly reduced conflict. Disputes about supplies, property and captured vessels renewed it. In 355 BR Melvo destroyed Ardel's independent ally, the mobile harbour-city [[Marelith]], and defeated the sea-heir's nearby main force among the central Thalassian anchorages in one operation. Accounts differ over the prize-ship deception; the incendiary attack on the city left the [[Black Reef]] and killed or captured many residents.
+An agreement with Ardel in 357 BR, carried between the two sides by Calvena Casvilar, briefly reduced conflict. Disputes about supplies, property and captured vessels renewed it. In 355 BR Melvo destroyed Ardel's independent ally, the mobile harbour-city [[Marelith]], and defeated the sea-heir's nearby main force among the central Thalassian anchorages in one operation. Accounts differ over the prize-ship deception; the incendiary attack on the city left the [[Black Reef]] and killed or captured many residents.
+
+Marelith had a name among sailors older than Ardel's war. Since the gale of 466 BR, when it took in crews refused at the League's closed harbours, it had been "the harbour without a chain": a city that never anchored, kept no harbour chain and turned no hull away in a storm. Families fleeing the proscriptions had gone there for that reason. Melvo burned a refuge as well as a pirate base. Atherian accounts called Marelith a nest of pirates and slavers, which it also was. Its survivors, and the Elmarai pilots who had guided ships into it for a century, called the burning a second Kelarion, after the old harbour that had drowned for shutting out ships in a storm.
 
 The victory opened routes and destroyed a refuge for displaced households. Some defeated crews were left beyond rescue as the victors concentrated on securing ships and prisoners. Captives subsequently faced pardon, sale or delivery to former enemies.
 

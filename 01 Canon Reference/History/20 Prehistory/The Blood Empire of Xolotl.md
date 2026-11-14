@@ -47,13 +47,20 @@ The Obsidian Giants were also masters of volcanic energy, which they used to cre
 
 ### Decline
 
-Xolotl's final decline unfolded during the Great Unbinding. Prophetic warning and the failure of captive-supply systems created openings, while enslaved households, subject cities, and calendar rivals rose through their own networks before, during, and after the principal host's departure. The Obsidian Giants answered with increasing brutality, but sacrifice could no longer be supplied or synchronized at imperial scale.
+> [!note] Amended 14 November 2026
+> [[Causality Pass - 01 Deep Past and the Ancient East|Causality Pass 01.2]]: Giant dilution is the root of the collapse, and the Blood Sun's ritual explosion is now survivor legend. The Sun starved, and the works beneath it vented after their human keepers fled.
 
-As the number of sacrifices decreased, the Blood Sun began to wane, its light growing dimmer and more ominous. The Obsidian Giants, desperate to maintain their power, turned on each other, each seeking to claim the blood of the other’s subjects to keep the Blood Sun burning. This infighting led to a series of devastating civil wars, further weakening the empire.
+Xolotl's decline was written into its calendar. The Blood Sun held the lineage-memory of the Obsidian houses: the first rulers, close to their Titanic origin, could read their ancestors in its red light after a season of offerings and a cut of their own blood. Each diluted generation needed more lives to keep the same memory legible. The calendar thickened. Festival killings that had marked the rains came monthly, then on market days. Frontier wars were fought for captives rather than land, and causeway towns that could not find captives paid in their own sons and daughters.
 
-The final catastrophe occurred when one of the most powerful Obsidian Giants, in a fit of madness and desperation, attempted to draw upon the Blood Sun’s power to annihilate the human rebels. The ritual backfired, causing the Blood Sun to explode in a massive eruption of volcanic energy. The resulting devastation obliterated Xolotlan and triggered a chain reaction of volcanic eruptions across the empire, burying Xolotl in molten lava and ash.
+Beneath the Pyramid of Blood lay the volcanic works that warmed the Sun's cradle and powered the obsidian forges. Human crews kept them: the vent-keepers, who cleared ash from the flues, carried water up the Smoke Stair in clay jars to damp the vents and knew by smell which seam was about to open. As the calendar demanded more hands at the altars, the vent-keepers' sons were taken for the levies, and their crews worked short.
+
+Prophetic warning ran along the causeways during the Great Unbinding. Subject cities stopped delivering their quotas; calendar priests in rival cities quarrelled over which day was owed; enslaved households, subject cities and calendar rivals rose through their own networks before, during and after the principal host's departure. The Obsidian Giants answered with increasing brutality, but sacrifice could no longer be supplied or synchronized at imperial scale.
+
+The Sun starved. Its light thinned to the colour of a coal under ash. The Obsidian Giants turned on each other, each seeking the blood of the other's subjects to keep it burning, and their civil wars stripped the causeway towns of anyone young enough to kill. The vent-keepers, hunted now for the altars themselves, took their families down the Smoke Stair one night and walked into the jungle. Nobody cleared the flues after them. Within a season the untended works beneath Xolotlan vented. The Pyramid of Blood split, the darkened Sun fell into the fire, and eruptions followed the old works outward across the empire, burying Xolotl in molten rock and ash.
 
 The imperial heartland became a fiery wasteland, many cities were consumed, and surviving peoples scattered into unequal successor histories. Many Obsidian Giants died or lost coherent command; others may have fled, remained sealed, persisted in lesser courts, or survived by means whose complete roster remains unresolved.
+
+**Survivor legend.** Highland songs and later art tell a single night of madness: an Obsidian lord fed the Blood Sun every rebel he had taken, it drank them and burst, and the mountains answered. The vent-keepers' descendants tell a quieter story about the night their grandmothers walked down the stair and did not look back. Both survive. The bursting Sun is the famous one; the empty stair is the true one.
 
 ### Legacy and Myth
 

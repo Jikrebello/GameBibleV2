@@ -25,16 +25,19 @@ The **Great Unbinding** is the authorial name for the converging judgements, rev
 
 > **Controlling ruling:** the Great Prophet announced and led; the plagues severed systems of bondage; enslaved peoples rebelled; Giant houses consumed one another; the Lord's commissioned servants bound what mortals could not safely defeat; and an ordered migrating host entered the ancient Glass while the old political world finished falling behind it. The longer refuge and formation of that host are controlled by [[The Glass Sojourn]].
 
-No single hero, plague, battle, rebellion, natural disaster, or imperial flight caused the whole collapse.
+No single hero, plague, battle, rebellion, natural disaster, or imperial flight caused the whole collapse. Its declared root is the cost of continuity under dilution, set out in item 1 below.
+
+> [!note] Amended 14 November 2026
+> [[Causality Pass - 01 Deep Past and the Ancient East|Causality Pass 01.2]], approved under the Consequence Rule in [[The Divergence Pass — Torque Register]] and the Direction's decision 6. Fixed Sequence items 1–4 now lead with Giant dilution and the rising human cost of continuity works. In the plague table, "the Giant ritual that dries the Serpent's Spine" and "the Blood Sun catastrophe" are replaced by their causes; the ritual and the explosion survive as survivor legend. Everything else in this ruling stands.
 
 ## Fixed Sequence
 
 The sequence below is authorial fact. Its phases overlap, and later traditions may count or arrange their public signs differently.
 
-1. **The Closing-Court crisis:** diluted dynasties, disputed successions, rebellious clients, failed continuity works, refugee movement, and preparations for escape weaken the Giant order before the Prophet's public campaign.
-2. **The cry and warning:** the Lord answers enslavement, murder, predatory generation, and violated creation. The Prophet is commissioned both to demand release and to prepare a remnant.
-3. **The plagues of unbinding:** bounded signs expose and disable the systems through which Giant courts claim ownership of created goods, human bodies, names, labour, death, and political necessity.
-4. **Revolt and defection:** enslaved households, burial fraternities, subject cities, client rulers, soldiers, and lesser courts act upon the openings. Some obey one warning without becoming righteous in every other matter.
+1. **The Closing-Court crisis:** Giant blood had diluted across generations. Every continuity work built by Titans and early High Giants — Vathra's sky routes, Ishkatar's title-estates, Xolotl's Blood Sun, Qianglong's recurrence vaults, Ansharan blood-memory and Nythalum's berths — answered thinner blood only when more was fed into it from outside: labour, then captives, then grain, then bodies. By c. 2400–2300 BR the subject districts had nothing left to feed them. Tomb crews ate seed grain, dike and canal crews were moved to tomb and vault works, and children were taken for recurrence. Disputed successions, rebellious clients, failing works, refugee movement and preparations for escape followed from that hunger and weakened the Giant order before the Prophet's public campaign.
+2. **The cry and warning:** the Lord answers the cry of the districts being consumed: enslavement, murder, predatory generation, and violated creation. The Prophet is commissioned both to demand release and to prepare a remnant.
+3. **The plagues of unbinding:** bounded signs expose and disable the systems through which Giant courts claim ownership of created goods, human bodies, names, labour, death, and political necessity. They strike chiefly where continuity was being bought with bodies: tomb-estate ownership, the sacrificial calendar and captive roads, recurrence conscription and the granaries diverted to it, launch provisioning.
+4. **Revolt and defection:** enslaved households, burial fraternities, subject cities, client rulers, soldiers, and lesser courts act upon the openings. Revolt begins where the takers came: on Ishkatar's towpaths and dikes, among Xolotl's vent-keepers, at Qianglong's tally-gates, in Urum-facing roster houses, and in conscript columns that learn to lower Broken Standards. Some obey one warning without becoming righteous in every other matter.
 5. **The wars of the Closing Courts:** scarcity, exposed betrayal, rival succession, incompatible marriage claims, and competition for escape routes drive Giant houses into responsible civil war.
 6. **The commission of severance:** one Phoenix, supported by specialized angelic choirs and Host servants, contains selected apex threats that mortal liberation cannot safely overcome.
 7. **The breakout and pursuit:** several refugee columns and defecting communities converge towards the Great Glass Desert. Commissioned heavenly servants break the supernatural cohesion of the final pursuit without completing humanity's political work for it.
@@ -56,13 +59,17 @@ Human liberation also remains human history. Refugees must gather, carry, ration
 
 The number, names, and exact order of individual signs remain open. The following causal functions are fixed:
 
-| Imperial horizon | Systems exposed or severed | Established collapse retained |
-|---|---|---|
-| **Qianglong** | caste measure, coerced specialization, recurrence administration, and the political appropriation of the Four Horsemen's domains | the War of the Four Horsemen and retreat into recurrence vaults |
-| **Ishkatar** | ownership of river, tomb, body, estate, debt, and dynastic title | slave revolt, Giant succession war, and the Giant ritual that dries the Serpent's Spine |
-| **Xolotl** | captive supply, sacrificial calendar, false cosmic necessity, and the Blood Sun's feeding architecture | civil war over dwindling sacrifice and the Blood Sun catastrophe |
-| **Nythalum** | identity-copy, labour and berth allocation, continuity claims, and launch logistics | the rushed physical lunar launch, destruction of the island, and a small number of genuine Moon survivors |
-| **Anshara** | no direct prophetic plague cycle is authorially assigned | human uprising, mortal-vampire secession, and the parallel Drinking Wars in which the courts consume themselves |
+| Imperial horizon | What dilution made the works demand | Systems exposed or severed | Established collapse retained | Survivor legend |
+|---|---|---|---|---|
+| **Qianglong** | human conscripts and tally-gate children as recurrence bodies; the Famine Caste's granaries for vault-towns and the Unending Muster | caste measure, coerced specialization, recurrence administration, and the political appropriation of the Four Horsemen's domains | the War of the Four Horsemen fought over the last full granaries; the ruling Giants' entry into recurrence in the vaults (later called the retreat) | the Horsemen called their children home |
+| **Ishkatar** | dike and towpath crews moved to tomb-works; captives and living districts' grain for the tomb-estates; children on the tomb rolls | ownership of river, tomb, body, estate, debt, and dynastic title | canal-crew and slave revolt; Giant succession war over the regulators; the unmaintained Serpent's Spine breaking into a lower bed in a high flood, drying the royal reach along its old course | a Naga lord's ritual drank the river |
+| **Xolotl** | an ever-thicker sacrificial calendar to keep lineage-memory legible in the Blood Sun; the vent-keepers' sons for the levies | captive supply, sacrificial calendar, false cosmic necessity, and the Blood Sun's feeding architecture | civil war over dwindling sacrifice; the Blood Sun starving; the untended volcanic works beneath Xolotlan venting after their human keepers fled | an Obsidian lord fed it the rebels and it burst |
+| **Nythalum** | test bodies for heavier transfer machinery; the coast's food and boats for launch provisioning | identity-copy, labour and berth allocation, continuity claims, and launch logistics | the rushed physical lunar launch after provisioning had stripped the coast of food, destruction of the island, and a small number of genuine Moon survivors | the spires fell at the Prophet's prayer |
+| **Anshara** | a rising blood-tithe on dependent households | no direct prophetic plague cycle is authorially assigned | human uprising, mortal-vampire secession, and the parallel Drinking Wars in which the courts consume themselves | Anshara is erased from most mortal histories |
+
+**Vathra** follows the same rule outside the table. Its sky routes were opened under Hecatara correspondences recognising the First Road-Mother's Titan-continuity, and Hecatara displaces the distance of every shortened route onto the country below. Diluted heirs could not open the routes with blood and fed them with anchors, crews, tribute and captives. In the Closing-Court years the displaced distance returned all at once (the failure condition "displaced distance returns all at once"); the valleys under the crown-cities stretched, and Ozhur IV's requisitions were bodies thrown into that stretching. [[Vathra and the Great Unyoking]] carries the reader account.
+
+Later cultures fear continuity relics because keeping something past its time is how the Giants ate people. The same cost recurs at human scale: Meresha's White Measure from an Ishkatari plate, the Copper Orchard's diversion of 903 BR, Aramen's dead landlords, Eryndor's corpse and the Reclaiming of the Bronze Roads (Causality Pass 01.6–01.7). Grenzburg's Unending Muster in 1360 AR is the same demand still being made.
 
 The same created condition may become judgement to an oppressor and provision to the oppressed without a Menhir choosing a moral side. Menhir remain morally blind sovereignties; Idols remain culpable predators whose Thrones survive the loss of particular Masks and feeding systems.
 

@@ -26,11 +26,11 @@ It is told in Conversion-era hospital houses, among counter-church descendants a
 
 A barefoot preacher entered a fever quarter carrying no recognised Gospel and speaking with such tenderness that abandoned families gathered around him. He washed the sick, persuaded wealthy converts to open storehouses and taught a broth that kept many children alive. People began calling his sayings the Second Gospel.
 
-Praise changed him. He demanded that followers prove freedom from earthly attachment by surrendering children, marriages and property to his household. A grieving mother who asked for her daughter back was beaten as an enemy of charity. When one disciple challenged him, the preacher ordered the man sealed in a cold room to await a sign. The disciple died there.
+Praise changed him. Rebuked by a bishop, he went alone into a stripped temple and asked the dark for an answer. His disciples said three voices answered him, and that they disagreed. After that his touch broke fevers that no broth could reach, lamps lit themselves at his night offices, and he demanded that followers prove freedom from earthly attachment by surrendering children, marriages and property to his household. A grieving mother who asked for her daughter back was beaten as an enemy of charity. When one disciple challenged him, the preacher ordered the man sealed in a cold room to await a sign. The disciple died there.
 
 The household split. Some destroyed the sermons and kept the hospital. Others carried the preacher's sandals as relics and accused the dissenters of murder. One nurse cut the useful broth recipe from a sermon and sewed it into her apron. She removed the preacher's name but left a line commanding that no patient owe service for food or medicine.
 
-Centuries later, hospitals that despise the Second Gospel still use her broth during fever. A cult uses other fragments to demand families, labour and sexual obedience. Both inherit real words; neither fragment turns the preacher into what its readers need.
+Centuries later, hospitals that despise the Second Gospel still use her broth during fever. A cult uses other fragments to demand families, labour and sexual obedience, and its members say the full copies speak in the preacher's voice when read alone after dark. Carters on one inland road tell of a figure with ash-dark wings who stopped a wagon of annotated Gospels in the night and burned it to the axles. Both inherit real words; neither fragment turns the preacher into what its readers need.
 
 During outbreaks, nurses repeat the nameless line against service debt before serving the first bowl. Cultists call that mutilation of sacred teaching. Patients call it the sentence that lets them drink without fearing who will claim them afterward.
 
@@ -40,7 +40,7 @@ The myth asks whether a true act of mercy can be retained without acquitting the
 
 ## How tellers differ
 
-Hospital versions credit the nurse with every good sentence. Cult versions call her the betrayer. Some church historians think several preachers were folded into one remembered figure.
+Hospital versions credit the nurse with every good sentence. Cult versions call her the betrayer and the three voices revelation. Physicians say the fevers broke because the broth worked. Some church historians think several preachers were folded into one remembered figure.
 
 ## What remains
 
@@ -50,7 +50,7 @@ Old hospital aprons contain ragged recipe patches in incompatible hands. Users o
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
-- [[GS-02 - Preacher of the Second Gospel]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Conversion of the Empire]]
 - [[Myths and Legendary Histories MOC]]

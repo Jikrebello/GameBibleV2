@@ -34,13 +34,15 @@ Some believed her spirit continued the work. Others found an apprentice who had 
 
 The general's descendants tried to close the hall. Mixed families occupied it overnight and cooked beneath the portraits, letting new smoke expose further paint. They did not need the murdered artist to be present for her refusal to remain active among the living.
 
+The same families tell of a second hall. The general, they say, still holds court after his death in a hall of glass that moves from city to city by night and opens its doors to households that lost someone in the wars. Inside, the dead hero waits whole and unscarred, smiling, ready to come home, in exchange for the bones and letters that remember him otherwise. Some families have taken the bargain. Their returned officers are said to be perfect at parades and unable to remember a single hard thing.
+
 ## Why it is remembered
 
 The tragedy is intimate: a liberator murders someone he loves to preserve the version of himself he wants history to see. The reappearing families make restoration an encounter with persons, not merely pigments.
 
 ## How tellers differ
 
-Military Lives blame an enemy assassin. Artist guilds call the general murderer. Mixed households disagree whether all underfaces should be exposed when some living families fear renewed persecution.
+Military Lives blame an enemy assassin. Artist guilds call the general murderer. Mixed households disagree whether all underfaces should be exposed when some living families fear renewed persecution. Pageant schools call the glass hall a slander invented by the painted-out families; a physician who examined one "returned" officer recorded that his scars had been painted on.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Smoke or warmth brings wounded hands and mixed households through the later pain
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-- [[GS-11 - General of the Glass Court]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Fall and the Long Reconquest]]
 - [[Myths and Legendary Histories MOC]]

@@ -17,7 +17,7 @@ The Jirahar diaspora extends through kingdoms, empires, ports and overland route
 
 ## Eclessia
 
-Eclessian realms contain Qiryath, old persecution sites, protected quarters, and recurring collective-blame polemic. Old-Church and Freeflame jurisdictions differ sharply. Talga depends on marcher charters that can become bargaining weapons during winter or war.
+Eclessian realms contain Qiryath, old persecution sites, protected quarters, and recurring collective-blame polemic. Old-Church and Freeflame jurisdictions differ sharply. Talga depends on marcher charters that can become bargaining weapons during winter or war. Qiryath itself is held under Vestian's Empty Charter, which forbids rebuilding "before the Mesakha" and names no one to recognise him; the Eclessian Church claims the old imperial right to say which signs are real, and the Keepers hold the Mesakha tests, so reports of warmth beneath the Silent Gate stair alarm both. [[Qiryath Reqa]]
 
 ## Thalmyria
 
@@ -41,7 +41,7 @@ Trade includes timber, medicines, metalwork, amber, fish, furs, whale products, 
 
 ## Velians
 
-The Velian Church preserves Isfir's Jirahar speech in worship. That intimacy makes theological disagreement sharper. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls.
+The Velian Church preserves Isfir's Jirahar speech in worship. Its dialect came from the baptised congregations of Jirahar descent in Qabir and the gateway ports, whose families named the Second Silence of 385 and lodged their sworn accounts of it in the Jirahar hearing house at Raveth before a crowd burned it about 389. Bishop Nasriel, condemned at Halmenth in 411, was one of them. That intimacy makes theological disagreement sharper. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls. [[Vestian Persecutions and the Long Diaspora]]
 
 ## Navigation
 

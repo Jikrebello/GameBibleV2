@@ -28,6 +28,12 @@ Qazmari clans, maritime houses, orchard towns, sailors, artisans, and soldiers p
 
 Witnessed-Seal subjects retain courts and worship but are excluded from the highest offices and periodically accused of Qahirid allegiance. Redeemer-faithful communities are smaller than in Zanthir and receive narrower protections.
 
+## The Proclamation of 933
+
+Qazmarid's rulers took the title Caliph-Wasi during Iqashar's Unsworn Years. When Sultan-Caliph Idris died in 931, two years after his heir, the oaths his army had sworn to him by name lapsed together. Qazmarid had been the Sealed Blood's stronghold since the seventh century, and under Qahir its lords had paid Iqashar for peace in the strait. In 933 they stopped paying, and the lord of Qazmarid's jurists drew the lesson in public: if oaths died with the man, the Qahirid claim had only ever been a man's, and the Fourth Seal had been widowed with Uthar ibn Qays; only blood continued, and the blood was Ruqaiya's. Witnessed-Seal jurists answered that the witness of a living community cannot be widowed. The argument has not moved since.
+
+For the rest of the century Qazmari naval stations tolled every Covenant convoy that used the western strait, including the ship that carried Iqashar's last Slave-Soul engine south to Caleran in 955, and sheltered fugitives from every Qahirid succession. Qazmari chroniclers boast that Qazmarid never fought Iqashar in those years. It charged it.
+
 ## Foreign Policy
 
 Zahran denies Marzuq's universal title, competes for routes through the western strait, and uses Sealed-Blood minorities as influence networks. Qahirid invasion is limited by sea, distance, and the risk of turning Zahran into the martyr he claims already to be. Qazmari captains alternately fight, hire, ransom, and enslave Ättar crews moving between the Lion-Mane Coast and western Kedrava.
@@ -37,3 +43,4 @@ Zahran denies Marzuq's universal title, competes for routes through the western 
 - [[The Qazmari]]
 - [[The Sealed Blood]]
 - [[The Disputed Fourth Seal]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

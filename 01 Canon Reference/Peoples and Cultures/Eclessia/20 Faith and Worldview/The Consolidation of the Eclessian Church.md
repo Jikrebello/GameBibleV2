@@ -16,7 +16,9 @@ tags: []
 
 The Eclessian Church did not appear fully formed after the Fall. It developed across two centuries as eastern bishops, monasteries, rulers, and refugee institutions turned emergency independence into a permanent claim.
 
-Aurelium's work as a centre of teaching and record-keeping began in the Underground Centuries. Its early see trained readers and exchanged copies of testimony with provincial congregations. That history gave the later Sanctum an institutional inheritance to draw on when the eastern dioceses lost contact with Caleran. [[The Church after Qiryath - From Exile to Legalization]]
+Aurelium's work as a centre of teaching and record-keeping began in the Underground Centuries. Its early see trained readers and exchanged copies of testimony with provincial congregations. That history gave the later Sanctum an inheritance of readers, copies and habits to draw on when the eastern dioceses lost contact with Caleran. [[The Church after Qiryath - From Exile to Legalization]]
+
+The habit that most marked the later Sanctum began under Vestian. In 381 the bishops took over the augur colleges' power to say which signs existed in law, and Aurelium received the augurs' signed account of Astrion's test of 350. When the lamps at Vestian's compulsory professions burned yellow in 385, Aurelium's readers went district by district collecting dates, witnesses and accounts of every lamp that failed and every one that kindled, sent the court its official totals, and sealed the full register. Aurelium kept every word its readers had written and shut the chest on them. Eclessian relic judges still trace their courts, and their dread of an inconclusive finding, to that sealed register of the unkindled professions. [[The Conversion of the Empire]]
 
 ## The Eastern Emergency, 905-974 AR
 

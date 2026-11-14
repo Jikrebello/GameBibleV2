@@ -30,7 +30,9 @@ Years later he returned to the community. Some sheltered him; the dyer's mother 
 
 At the first feast in his honour, the dyer's mother entered carrying a lamp made in her daughter's workshop. She set it before his and said, “If his courage is true, it began after her blood. Name her first.” Some tried to remove the lamp. Others put out the feast rather than submit. The old woman remained until dawn.
 
-The next year two lamps were lit, the dyer's first. In some tellings the dead deacon appeared in a dream and commanded the order. In the harsher and older telling, no apparition was needed: the living understood repentance only when it stopped demanding that the victim disappear.
+The next year two lamps were lit, the dyer's first. In some tellings the dead deacon appeared in a dream and commanded the order. In the harsher and older telling, the living understood repentance by themselves, once it stopped demanding that the victim disappear.
+
+A century later the deacon spoke again, or something spoke for him. Under the converted empire, the keepers of a new reliquary in his city began issuing commands in his voice, naming enemies of the state, and soldiers arrested whoever the voice named. On the reliquary's last night, witnesses heard a second voice in the chamber, the deacon's own, call the first one a counterfeit and say the dyer's name before its own. The reliquary cracked from top to base, its keepers were carried out, and the arrests in that province stopped.
 
 The mother never attended again. Her lamp came through a niece who thought the deacon's later courage mattered. Thus even the victim household carried disagreement, and no tidy reconciliation could be imposed by feast organisers. The empty chair beside it stayed hers.
 
@@ -40,7 +42,7 @@ It makes room for genuine repentance and later courage without rewriting betraya
 
 ## How tellers differ
 
-One tradition names both people and calls the deacon a martyr. Another keeps only the lamps, fearing his cult. A fabricated Life claims the dyer blessed him before death; her household denies it.
+One tradition names both people and calls the deacon a martyr. Another keeps only the lamps, fearing his cult. A fabricated Life claims the dyer blessed him before death; her household denies it. One church reads the dyer's name before the deacon's at the annual reading, and another reverses the order. Sceptics say the reliquary's keepers fell out among themselves and staged the second voice.
 
 ## What remains
 
@@ -51,6 +53,7 @@ Two lamps are lit in a fixed order. The first must come from the betrayed person
 - [[The Ember Underground]]
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Age of the Redeemer]]
 - [[Myths and Legendary Histories MOC]]

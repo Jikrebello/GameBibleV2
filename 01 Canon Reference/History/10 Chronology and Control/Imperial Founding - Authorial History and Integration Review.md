@@ -66,6 +66,9 @@ Thalion's final seizure of Caleran remains around 350. His earlier presence as a
 
 ## Chronology and generations
 
+> [!note] Amended November 2026
+> Damar, Harod, Calvena, Velos, Veyr's death, the 370 killing, Velsar's 358 campaign and the 399 suppression are revised in [[#Causality Pass amendment (14 November 2026)]].
+
 Dates narrow the researched bands where relationships need an order. They do not supply a day-by-day campaign calendar.
 
 | Date BR | Established event |
@@ -112,6 +115,9 @@ Precise coordinates, full modern identifications of ancient sites and every camp
 
 ## Source fidelity and transformation
 
+> [!note] Amended November 2026
+> The Pompey, Cato, Julia, Crassus, Antony and Decimus Brutus transformations are bent further in [[#Causality Pass amendment (14 November 2026)]].
+
 | Source grammar | World Egg use | Hard edge retained and changed setting |
 |---|---|---|
 | Gracchan land conflict, allied admission and Sullan coercion | Damar, allied resistance and Harod are separate preliminary episodes | Political murder, unequal admission and confiscation; no invented single reform creates a permanently personal army |
@@ -130,7 +136,7 @@ The public story does not reproduce ancient speeches, exact troop totals, dagger
 ## Actor identities and supernatural limits
 
 > [!note] Amended November 2026
-> These limits govern identity and truth. Where a ruling below limits what a supernatural power may cause, rather than what it is, the Consequence Rule in [[The Divergence Pass — Torque Register]] supersedes it.
+> These limits govern identity and truth. Where a ruling below limits what a supernatural power may cause, rather than what it is, the Consequence Rule in [[The Divergence Pass — Torque Register]] supersedes it. The Red Field and the Noon Sighting are added as materially effective episodes in [[#Causality Pass amendment (14 November 2026)]].
 
 All named mortal figures in this package possess complete **human souls**. Citizenship, dynastic descent, public honours, adoption and political deification neither change that continuity nor confer sainthood. No final judgement, saintly manifestation, damned office or returning ancestor is established for this cast.
 
@@ -181,3 +187,66 @@ The delivery checker confirms fourteen new articles, twenty-two targeted existin
 Develop the wider Age of Glory, 350 BR–0 AR, from this settled foundation: provincial society, the continuing imperial household, succession, public works, military service, learning and religious change. Thalion's later reign and death need their own coherent sequence. Existing Redeemer-era facts and all subsequent canonical dates remain controlling.
 
 Reading route: [[The Last Generations of the Caleran Republic]] → [[Teren Casvilar]] → [[The House of Nerethan]] → [[Samyra Nerethan]] → [[The Wars of the Atherian Succession]] → [[Aurelius Thalion]].
+
+## Causality Pass amendment (14 November 2026)
+
+Approved items 02.3, 02.4 and 02.5 of [[Causality Pass - 02 Gateway Wars and the Late Republic]] change parts of the founding sequence above. Where this section and the earlier tables disagree, this section controls. The earlier text is kept as the record of the September delivery.
+
+### Revised chronology
+
+| Date BR | Established event | Replaces |
+|---|---|---|
+| 489–487 / 486 | Damar's land bill for the Ilyessa veterans; the Long Month; the Noon Sighting at Sarven (488); the harvest rots; Damar killed in a bread crowd (487) / the Licensed Sighting | 495–491 land proposals and murder |
+| 466–c. 441 | Vespen Harod accepts the Red Field in person (466); troops into Caleran (448); dies of fever in his field tent, still Warden (c. 441) | Harod's resignation of exceptional command |
+| 399 | Captured rebels sold north in lots to the well trade; the Spire Pursuit at Vorthara; the Kept Doors | Crucifixion of defeated rebels along a supply road |
+| 386 | Calvena marries Veyr | unchanged |
+| 380 | Darneth; Calvena **lives** | Calvena's death in childbirth |
+| 379–377 / 377 | Casvilar's veterans claim the Noon Roll lands held by Veyr's leaseholding allies / Calvena publicly refuses her father's offer of divorce | — |
+| 376 | Casvilar dedicates arms at a frontier altar, names the senators, accepts the Red Field | the crossing as a plain advance |
+| 374 | Velos: neither army breaks; Veyr loses the sea when the Oar ports refuse him ship money; Arest Corven joins Veyr (no suicide) | Casvilar's victory at Velos; Corven's suicide |
+| 373 | The empty seat at Sarqen; Veyr turns back to sanctuary at Ilamar with Calvena and Corven; the towns rise for Samyra under the Table Oath; Vardek judged by the towns, executed by Casvilar's officers | Veyr's murder at a landing |
+| 371 | Veyr dies of fever at Ilamar (dates now 435–371) | 373 murder |
+| 370 | Challengers entered in Tolm's arms register strike Casvilar on the muster ground below the river stores before the contest opens | Tolm's lure to an assembly hall |
+| 367 | Varroth, as First Celebrant, rules the Field open and unclaimed | — |
+| 358 | Velsar's failed campaign runs north-east into the Avesh approaches (Pass 03.6) | "northern extension" through defended water |
+| 357 | Calvena carries the terms of the agreement between Thalion and Ardel | — |
+| 355 | Marelith burned as "the harbour without a chain" | unchanged date |
+| 353 | Corven Ilar's accusation answered with the Table Oath and the names of the hostages of 609 | unchanged date |
+| 350 | Thalion stands at the muster ground with no named challenger living; the augurs declare the Field closed into his command | — |
+
+Ages remain ordinary. Veyr dies at about sixty-four. Calvena is born 405 and is alive at 350; her later life and death belong to the Age of Glory and are not fixed here.
+
+### Source fidelity, revised rows
+
+| Source grammar | Revised World Egg use |
+|---|---|
+| Pompey | Prior competence, clients, marriage and civil defeat are kept. Pharsalus becomes an indecisive Velos; the murder on landing becomes a table laid with an empty seat, refused, and a fever death in sanctuary at Ilamar. |
+| Cato at Utica | Arest Corven survives in exile at Ilamar and writes the history later used against Casvilar's heirs. |
+| Julia | Calvena lives. The break is caused by land (the Noon Roll grants) and fear of prosecution; her public refusal of divorce is its visible moment. |
+| Crassus | Predatory wealth, the son's death and Rethmar are kept. The crosses on the Appian Way are cut: the rebels are sold north, which explains his northern contacts and his misjudgement at Rethmar. |
+| Antony | The Parthian campaign no longer copies Rethmar: Velsar is beaten by Vasharan relay riders, the Dawn Road and snow in the Avesh approaches. |
+| Decimus Brutus and the Ides | The trusted officer keeps the arms register; the killers enter their names as lawful challengers and strike before the contest opens. |
+| Sulla | Harod's office cannot be laid down; he dies in it. |
+| Gracchi | Damar's crisis turns on a boundary answered by a noon-bound place-mind of Father Sun, and on the price and taboo of that bargain. |
+
+### Actor identities and supernatural limits, additions
+
+This amendment follows the Consequence Rule in [[The Divergence Pass — Torque Register]]. All named humans remain complete human souls; no saint, damned office or returning ancestor is added.
+
+1. **The Red Field.** Astaroth's bargain grammar governs it: a commander who dedicates arms and names his opponents is accepted into a genuine contest whatever its justice, and may not flee the field while a named opponent contests it; substituting a helpless victim for the named contestant is taboo. Caleran's office grew from the breach of that taboo in 609 (the Lustration of the Field), after which the augurs held that only a living commander standing in person could accept the Field. Harod's acceptance (466) ended with his death; Caleran believed the Field stood open for two generations afterwards. Casvilar's acceptance in 376 was real and bound him. The killing of 370 broke the contest's bounds, and Astaroth's failure clause ran: conflict spread until every faction near it had been forced to prove itself. It is **one cause of the succession wars among several**; the unpaid armies, the rival inheritances and the proscriptions are human causes and remain sufficient on their own. The failure clause ends when Thalion stands at the muster ground in 350 with no named challenger living. Astaroth remains morally blind: the acceptance proves no justice, commission or legitimacy, and the augurs' declaration of closure is a human reading of an ended contest.
+2. **Varroth's ruling of 367** is a human interpretation by the First Celebrant. It happens to agree with the authorial position (acceptance is personal and dies with the Warden), which is why it held.
+3. **The Noon Sighting (488).** A noon-bound place-mind of Father Sun answered an upland boundary rite performed by Vardeni soldiers at Sarven. For one hour every shadow in the lower Aurin pointed along the old star-sighted lines. The veterans paid the recognised price, a season's labour bareheaded beneath open sky. Some petitioners also asked the land to bear for them without limit, which is the Sun's taboo; the failure clause ran, and that autumn the public-land harvest ripened in days and rotted. The answer proves where boundaries had run, not who deserved the land. The Noon Roll is a surveyors' record of an observed event, not a relic.
+4. **The Table Oath** is a human oath. Its meal closed a dominion overlay of the Bronze-Faced Provider (see [[Atherian Palace and Maritime Histories - Integration Review]]); swearing it confers no supernatural protection on a ruler. The towns' power over Vardek in 373 was political.
+5. **Darneth.** Unchanged in nature: a structural answer, not a commission. Casvilar's later use of it to justify the Field is his own claim.
+
+### Canonical decisions, amended row
+
+| Decision | Selected history, as amended |
+|---|---|
+| Royal seat | Sarqen, the enlarged Second Harbour. Three reasons now stand: Qarzeth's cisterns were broken and its sanctuary ground salted; a court over the old sanctuary would be a place kept for the Provider, from which Gluttony forms re-form; and the Table Oath that made each Nerethan a ruler was sworn at Sarqen's landing (from 457 for Arenes, then Tavren 434, Olymes 408 and Samyra 375 and again on her restoration). |
+
+Hesara's concealment of children moves from the Years of Three Collections (548–540) to the siege years (526–520); she was born after Lemara's marriage of c. 548.
+
+### Reader articles revised under this amendment
+
+[[Teren Casvilar]], [[Marovan Veyr]], [[Lethren Ostar]], [[Darion Velsar]], [[Seluc Varroth]], [[Istran Melvo]], [[Households of the Imperial Founding]], [[The Wars of the Atherian Succession]], [[The Southern Campaigns of Teren Casvilar]], [[Samyra Nerethan]] and [[The House of Nerethan]]. [[Aurelius Thalion]] belongs to another writer and receives the 350 closure of the Field through the integration patch.

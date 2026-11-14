@@ -38,7 +38,7 @@ Blood sacrifice remained part of public worship. During one campaign celebration
 
 The Common Sky's central narrative represented humanity as favoured by the Star Children and the Giant overthrow as a recovery of stolen celestial knowledge. Astronax connected that account with the maritime settlers' liberation memory. Inland traditions supplied the experience of servitude, royal observatories and surviving craft.
 
-These narratives developed through selection and reinterpretation. The claim that the stars had commissioned humanity's conquests belonged to the religion. It did not establish a divine command for settlement or empire. Stories about celestial parentage also brought several distinct kinds of power into one supposed family.
+These narratives developed through selection and reinterpretation, and they were argued over from the start. Upland households that kept offerings to the Sun refused to call him father of hunters and weavers. Inland specialists who had watched powers answer at particular fords and fields described separate powers with separate prices, and the later Astral Keepers would sort them into Circles by their works rather than into a family. The claim that the stars had commissioned humanity's conquests became royal and then republican doctrine. Jirahar and Folk neighbours who suffered those conquests never accepted it.
 
 ## Principal cults
 
@@ -46,7 +46,7 @@ These narratives developed through selection and reinterpretation. The claim tha
 
 **Lyraxis** joined several kinds of performance. Palace entertainments, Serathi banquet songs and maritime tales of cunning all contributed to the cult. Under the couple, contests became an important part of shared festivals, providing livelihoods for musicians and amusement across household divisions. Republican sponsors enlarged them and used popular performers to attract support. Stories of inspired invention remained accompanied by tales of tricks which injured or humiliated their targets.
 
-**Thanatos** brought together crossing rites, funerary practice and maritime stories about travel and theft. Enathi boat families had long described the dead as departing on a journey; Serathi houses equipped tombs with vessels and gifts. The common cult connected these practices to a Star Child who supposedly guided the dead. Its priests increasingly taught that appropriate payment and favour could improve a soul's passage. Republican patrons supported magnificent funerals and purchased promises which the priests could not fulfil.
+**Thanatos** brought together crossing rites, funerary practice and maritime stories about travel and theft. Enathi boat families had long described the dead as departing on a journey; Serathi houses equipped tombs with vessels and gifts. The common cult connected these practices to a Star Child whom its priests called the guide of the dead. Its priests increasingly taught that appropriate payment and favour could improve a soul's passage. Republican patrons supported magnificent funerals and purchased promises that Enathi boat families, whose own songs knew a ferryman deaf to offers, openly mocked.
 
 **Orionis** had established followings among hunters and among households accustomed to dangerous woodland travel. Caleran's royal associations added the wolf-founders to this body of stories. The Common Sky gave their descendants a place in public celebration while different families continued to disagree about Ravessa. Republican hunters and military households later favoured versions in which discipline, pursuit or mastery explained the city's success.
 
@@ -72,7 +72,7 @@ Astaroth's elevation as guardian of imperial destiny belongs to Thalion's subseq
 
 Astratheon called Thanatos a Star Child governing passage, travel and theft. Funerary gifts and stories about crossings supplied familiar imagery for that role. Wealthy patrons purchased assurances that offerings could obtain favour for the dead.
 
-The cult's explanation of the Boatman was false. He was not a child of the stars, and payments could not alter his routing of human souls. Elaborate funerals therefore reveal the beliefs, wealth and relationships of their participants without proving the afterlife promised by the officiants. This distinction is retained in the [[01 Canon Reference/Peoples and Cultures/Atherian Empire/Overview of the Astratheon Religion.md|Astratheon religious overview]].
+The explanation was contested from the beginning. Enathi boat families sang of a ferryman who carried rich and poor in one hull and took no fare for a better landing. The Astral Keepers' oldest Circle-tables had no place for Thanatos, since the dead-carrier never answered a petition or took a price as the other powers did. Redeemer teachers later taught that the Boatman serves the soul-road under heaven's commission and that no payment alters a soul's passage. Elaborate funerals record the beliefs, wealth and affections of their participants; what they bought for the dead was disputed by everyone except the priests who sold it. The [[01 Canon Reference/Peoples and Cultures/Atherian Empire/Overview of the Astratheon Religion.md|Astratheon religious overview]] follows the quarrel.
 
 ## Inheritance
 

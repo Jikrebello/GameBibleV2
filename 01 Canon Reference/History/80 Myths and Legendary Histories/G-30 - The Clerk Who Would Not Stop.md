@@ -34,13 +34,15 @@ The clerk's power ended without a glorious battle. In some versions he accepted 
 
 The well women never agreed whether he had become a tyrant or merely failed to notice the famine was over. Their disagreement kept the tale dangerous: future officials could resemble him while still doing genuine good at the beginning. That is precisely the warning.
 
+Well songs keep one more scene. A century after the clerk's death, a frontier court used a copied Hundred-Wells manual to register kidnapped people as "contributions" to the waterworks. On the third day of the hearing a thin clerk in ink-stained sleeves came in out of the dust, snapped the court's counting candle and laid his hand on its seal so that it would not close. He stood by the door until every captive had been heard. Nobody saw him leave.
+
 ## Why it is remembered
 
 It traces how genuine rescue becomes oppression without requiring greed or secret possession. The forward pull lies in wondering whether the man who once broke rules to feed children can recognise the moment his own rule must end.
 
 ## How tellers differ
 
-Officials say he prepared the ending himself. Well songs give the action entirely to women. Enemies blame every famine death on him; grateful families remember the children who lived.
+Officials say he prepared the ending himself. Well songs give the action entirely to women. Enemies blame every famine death on him; grateful families remember the children who lived. Clerks' guilds keep his feast and call the hearing his second ending; Banu Mizan jurists cite his register in water law and doubt the visit.
 
 ## What remains
 
@@ -50,7 +52,7 @@ At the first new moon after an emergency, officials must snap a counting candle 
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-07 - Clerk of a Hundred Wells]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

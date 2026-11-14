@@ -16,11 +16,11 @@ tags: [research, author-only, biography, chronology-control, imperial-expansion]
 
 The companion [[The First Imperial House - Proposed Character Biographies|proposed biographies]] develops Thalion, Meren, Valeran, Cassara and Olarion as a connected family history. Its main proposal is that improvements in government and southern occupation create the provincial resources later used in the Four Eagles war. The first dynasty makes substantial territorial gains. The Veloran and later houses inherit the task of extending them.
 
-First review **9 October 2026**, revised **13 November 2026**. The creator's succession revision is incorporated in the dynasty articles. Character motives, supporting cast and campaign placements in these biographies remain proposals.
+First review **9 October 2026**, revised **13 November 2026** and **14 November 2026**. The creator's succession revision is incorporated in the dynasty articles. Under [[Causality Pass - 03 Age of Glory and the Bridge to 0 AR|Causality Pass 03]] the biographies were cut to one page: private characterisation and most new names were removed, Cassara's death date was left open, the southern general lost his name, and the 274 strike gained its cause (stone for the Star's share). Campaign placements remain proposals.
 
 ## Scope and governing decisions
 
-The selected route is recorded in [[350 BR to 0 AR - Three Imperial Expansion Routes]] and its [[350 BR to 0 AR - Imperial Expansion Canon Constraint Sheet|constraint sheet]]. Broad southern provinces grow over generations, supported throughout by a naval network. Qahur is intended to become a direct imperial possession before Isfir's birth in 33 BR. Major Atherian–Vasharan wars belong after 0 AR and before the Ahl-e-Ahd's rise from 541 AR.
+The selected route is recorded in [[350 BR to 0 AR - Three Imperial Expansion Routes]] and its [[350 BR to 0 AR - Imperial Expansion Canon Constraint Sheet|constraint sheet]]. Broad southern provinces grow over generations, supported throughout by a naval network. Under [[Causality Pass - Direction]] decision 5, Qahur is three crowns inside the Atherian sphere at 33 BR and 0 AR, under no direct rule; Sarqen is the one annexed royal country. Major Atherian–Vasharan wars belong after 0 AR and before the Ahl-e-Ahd's rise from 541 AR.
 
 This delivery covers the first house and its fall, ending in 246 BR. It develops character and causal history sufficiently to guide the regional sequence. The broad new campaign intervals below are proposed placements, with exact participating settlements and ancient borders still to be established. They should not be copied into a map or canon chronology as completed conquests.
 
@@ -28,10 +28,10 @@ This delivery covers the first house and its fall, ending in 246 BR. It develops
 
 | Subject | Established anchors | New development in the biographies |
 |---|---|---|
-| Thalion | Life 390–318; father dies 384; Casvilar inheritance 370; marriage 365; imperial settlement and Sarqen annexation 350; Caelor injured 326 and dies 324; Meren adopted and recognised before succession | Anxiety about another succession war as a governing motive; private social habits and marriage dynamics; limited southern land settlement c. 334–329; greater detail on maintaining the naval system and negotiating access |
-| Meren | Born 358 to Evara and Velsar; reign 318–286; Talven appointment; racing patronage; southern treaties and punitive campaigns; Valeran designated and adopted | Alessa Corven; Cassara's birth c. 310; Tavren Arel and Brenna; campaign and settlement intervals; Ossen setback; Meren's handling of compensation, captives and provincial obligations |
-| Valeran and Cassara | Valeran reigns 286–263. Cassara is Meren's daughter and supervised the Aurin stores. Water, harbour and road works grow; troops put down the quarry revolt in 274; Olarion succeeds his father | Olarion's birth c. 283; household relationships; administrative integration c. 285–276; Maerdis and Dovren shipping agreements c. 272–266 |
-| Olarion | Reign 263–247; mechanical birds, performances and expenditure; execution of an eastern commander and two relatives; shortage and killings 252; uncertain death; four rival claimants | Accession at about twenty; psychological formation; Mirsa Tel; centralisation c. 260; commander named Avel Darsen and execution placed in 258; specific connection between arrears, information failures and political defection |
+| Thalion | Life 390–318; father dies 384; Casvilar inheritance 370; marriage 365; imperial settlement and Sarqen annexation 350; Caelor injured 326 under the untested treasury hall and dies 324; the wardens' test; Meren adopted and recognised before succession | Anxiety about another succession war as a governing motive; limited southern land settlement c. 334–329; greater detail on maintaining the naval system |
+| Meren | Born 358 to Evara and Velsar; reign 318–286; Talven appointment; racing patronage; southern treaties and punitive campaigns; Valeran designated and adopted | Cassara's birth c. 310; an unnamed southern general and Brenna of Kellovar; campaign and settlement intervals; Ossen setback as a supply limit |
+| Valeran and Cassara | Valeran reigns 286–263. Cassara is Meren's daughter and supervised the Aurin stores. Water, harbour and road works grow; troops put down the quarry strike of 274 over stone for the Star's share; Olarion succeeds his father | Olarion's birth c. 283; administrative integration c. 285–276; Dovren shipping agreements c. 272–266 |
+| Olarion | Reign 263–247; mechanical birds, performances and expenditure; denunciations before the accession portrait; execution of an eastern commander and two relatives; shortage and killings 252; uncertain death; four rival claimants | Accession at about twenty; centralisation c. 260; the commander's petitions for harbour arrears; specific connection between arrears, information failures and political defection |
 | Four Eagles | Mott, Daran, Halven and Samor; commands and constituencies; war 247–246; Samor victory | Greater causal connection to the preceding biographies, without changing the established contestants, outcome or means of support |
 
 All new private motives, interactions and habitual behaviour in the narrative are proposed characterisation, including those attached to canon events. No invented conversation, quotation, chronicle or witness is offered as evidence. Existing events retain their established causes where specified; new motives add a proposed explanation of individual choices.
@@ -44,14 +44,9 @@ The proposed c. 310 birth makes Cassara about twenty-four when Valeran accedes. 
 
 | Proposed person | Placement and purpose | Boundary |
 |---|---|---|
-| Alessa Corven | Meren's wife and Cassara's mother; Aurin municipal supply background; helps explain Cassara's early access to practical administration | Marriage date, birth and death remain unassigned; no claim of descent from an existing famous family |
-| Tavren Arel | Meren's southern commander, active across the proposed campaigns of c. 312–296 | Career fits one adult generation; no connection to the much later Arcelon campaign |
 | Brenna of Kellovar | Widow managing a grain store and dependent households; bargains for seed, labour and transport allowances | Uses a recognised male speaker at assembly, respecting canon restrictions; no invented descent from Velcara |
-| Maerdis of the Dovren | Shipping household leader negotiating particular services and landings with Valeran's officers | Represents participating shipping households. The contracts specify services and access to particular landings |
-| Avel Darsen | Name and circumstances proposed for the canon eastern commander executed by Olarion | His command's exact location is open; not a conqueror of Vashar or a replacement for Aster Halven |
-| Mirsa Tel | Mechanism maker and workshop patronage recipient under Olarion | Her practical craft is not an unbounded magical technology; no secret role in Olarion's death is assigned |
 
-Thalion's daughter Lysara remains distinct from his mother Lysara Casvilar. Death dates for Evara, Ilvara and Melvo are not supplied. Melvo's personal work is kept within Thalion's generation; later rulers inherit arrangements and trained institutions. Meren's canon racing interest is retained without introducing northern horse hordes or changing the later Tarkhan First Catch.
+Brenna is the only new name kept, because she changes a result. Alessa Corven (a third Corven), Tavren Arel (collides with King Tavren of Sarqen), Maerdis, Avel Darsen (echoes Darsil) and Mirsa Tel (joins the Mira–Meren cluster) were dropped on 14 November 2026. Thalion's daughter Lysara is named after his mother Lysara Casvilar, a family custom now stated in [[The Later Reign of Aurelius Thalion]]. Death dates for Evara, Ilvara and Melvo are not supplied. Melvo's personal work is kept within Thalion's generation; later rulers inherit arrangements and trained institutions. Meren's canon racing interest is retained without introducing northern horse hordes or changing the later Tarkhan First Catch.
 
 ## Proposed sequence and territorial consequences
 
@@ -59,12 +54,12 @@ Thalion's daughter Lysara remains distinct from his mother Lysara Casvilar. Deat
 |---|---|---|
 | 350–334 BR | Thalion secures core revenues, Sarqen administration and continuing naval services | Stable starting resources; no new conquest of Qahur |
 | c. 334–329 BR | Limited settlement of land disputes behind the southern frontier | Better assessment and partial compensation; no general restitution |
-| c. 312–307 BR | Meren and Tavren extend control through disputes involving crossings, stores and local protection | Additional governed agricultural districts; Brenna's bargaining gives local people an active part |
+| c. 312–307 BR | Meren and his southern general extend control through disputes involving crossings, stores and local protection | Additional governed agricultural districts; Brenna's bargaining gives local people an active part |
 | c. 305 BR | Attempted advance through Ossen routes fails after withdrawal of guides and transport failure | A concrete limit to imperial reach; later campaigning follows more dependable supply |
 | c. 303–296 BR | Slower conquest and settlement along supported southern approaches, including selected northern Belathi districts | A substantial provincial body grows; precise districts require the regional pass |
 | c. 294–286 BR | Cassara gains practical responsibility in Meren's later government. Valeran's service and adoption prepare his succession | Cassara brings knowledge of the stores into the imperial household. Commanders have grounds to recognise Valeran |
 | c. 285–276 BR | Valeran connects and strengthens occupied districts, with Cassara following stores and works | Deeper regular occupation becomes possible. Some local institutions adapt and others lose authority |
-| 274 BR | Fixed quarry revolt, killing of strikers and expulsion of families; programme continues | The event retains its established consequences; the aqueduct and quarry are not assigned an unsupported location |
+| 274 BR | Fixed quarry strike over cutting stone for the Star's share through the harvest; killing of strikers and expulsion of families; programme and test continue | The event retains its established consequences; the aqueduct and quarry are not assigned an unsupported location |
 | c. 272–266 BR | Dovren transport and repair agreements | More dependable western shipping; no annexation of all Dovren land or island foundation dates |
 | c. 260–258 BR | Olarion centralises decisions; proposed date and context for the commander's execution | Provincial patronage becomes politically dangerous; debts remain after the execution |
 | 252–246 BR | Fixed shortage, subsequent dynastic death and Four Eagles; proposed explanation of worsening delivery and trust | Samor inherits the resources for the next expansion phase and grievances requiring settlement |
@@ -73,7 +68,7 @@ Casvilar's earlier conquest chiefly affected the Rauven-facing northern Folk app
 
 The new gains contain occupied farms, towns and assessed districts, sufficient to begin the broad provincial transformation requested by the creator. Brael, Varena, Suroth, Tidewood and the Gale-Crown ranges receive no invented first-house annexation. Their individual relationships require subsequent development. The first-house frontier does not determine the final 0 AR line.
 
-Qahur retains three crowns; Vashar remains a sovereign peer. Qiryath's transfer, Raveth's incorporation and Ortheia's eventual settlement remain outside this first delivery. Fleet agreements provide transport and access without making all the Elmaric islands imperial provinces. No present-day Eclessian, Sestaran or Covenant polity is projected into this period.
+Qahur retains three crowns; Vashar remains a sovereign peer. Qiryath's transfer and Raveth's incorporation are now fixed by Causality Pass 03 (Raveth c. 160 BR; Qiryath under the late Serrats); Ortheia's eventual settlement remains open. Fleet agreements provide transport and access without making all the Elmaric islands imperial provinces. No present-day Eclessian, Sestaran or Covenant polity is projected into this period.
 
 ## Historical inspiration
 
@@ -102,6 +97,6 @@ The development review checks reigns, kinship, plausible ages, regional starting
 
 Technical validation on 9 October 2026 passed all eighteen checks in the existing World Atlas validator. The three changed Markdown files had no unresolved new wikilinks, malformed frontmatter or generation artefacts; the validator also confirmed its existing history reachability and register checks. A rendered Atlas preview was not inspected for these author-only research files.
 
-The proposed character emphases are succession security for Thalion, obligations secured through bargaining for Meren, dependable supply for Valeran and Cassara, and personal recognition for Olarion. Valeran bears responsibility for retaining compulsory labour after the quarry killings.
+The proposed character emphases are succession security for Thalion, obligations secured through bargaining for Meren, dependable supply for Valeran and Cassara, and personal recognition for Olarion. Valeran bears responsibility for retaining compulsory labour after the quarry killings. Cassara shares responsibility for defending the works; her death date stays open, so she may outlive Valeran.
 
 [[From Thalion to Isfir - Imperial Expansion and the Redeemer]] carries the new succession and the southern proposals forward through the Velorans, Serrats and Othrans. Final placement still depends on reviewing the southern districts and the eastern route.

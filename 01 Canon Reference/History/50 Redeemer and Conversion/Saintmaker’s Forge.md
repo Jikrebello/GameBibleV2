@@ -3,20 +3,24 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: []
-culture: []
+era: ["289–c. 310 AR", "Underground Centuries", "Conversion of the Empire"]
+region: ["Marvesh", "Atherian Empire"]
+culture: ["Atherian", "Redeemer Church"]
 related_factions: []
 appears_in: []
 needs: []
 tags: []
 ---
+# Saintmaker’s Forge
+
 > _“He melted the chains he once locked. He carved saints from his shame.”_  
 > —Lament of the Saintmaker, Line 17
 
+The Saintmaker's Forge is the hidden workshop at Marvesh where a former imperial interrogator and executioner, remembered only as **the Saintmaker**, made icons and reliquaries for Redeemer martyrs in the last years of the persecutions and on into Cassian's reign. He converted at a burning he had helped to light in the closing prosecutions of 288–291 AR. His palm-sized iron icons are among the most treasured objects of early Redeemer devotion. Reports that they glow have been argued over since the bishops refused to enter them as a sign.
+
 ### **Date**:
 
-Circa ~463 AE, final decade of the Era of Blood and Ash
+The conversion, c. 289–291 AR, during the closing prosecutions of the civil war that brought Cassian to power. The forge worked on into Cassian's reign.
 
 ### **Location**:
 
@@ -26,15 +30,15 @@ City of **Marvesh**, a hill-fortified garrison settlement near the central provi
 
 ### **Overview**
 
-Among the most mysterious and beloved figures of early Redeemer history is the one referred to only as **“The Saintmaker”**—a former imperial **interrogator and executioner** who, after experiencing a vision at the foot of a pyre he helped light, vanished from the imperial record and **resurfaced as a creator of icons and reliquaries**.
+The Saintmaker was an **interrogator and executioner** in the service of the court that held Caleran during the civil war. After a vision at the foot of a pyre he had helped to light, he vanished from the imperial record and **resurfaced as a maker of icons and reliquaries**.
 
-His workshop, known only through scattered mentions as **“The Hidden Forge”**, is said to have produced the **first canonized saint-icons** of Redeemer martyrs. These icons, modest in scale but profound in effect, were believed to **glow faintly in the presence of the faithful**, especially those marked for martyrdom.
+His workshop, known only through scattered mentions as **“The Hidden Forge”**, produced small iron icons of Redeemer martyrs. Believers carried them to executions and buried them in martyrs' graves. Many held that they **glowed faintly in the presence of the faithful**, especially those marked for martyrdom.
 
 ---
 
 ### **The Vision at the Pyre**
 
-According to the **Monastic Annals of Aveline**, the Saintmaker’s conversion occurred while he was overseeing the **execution of a Redeemer nun**, whose name is lost. As she burned, she sang the _Hymn of Chains Broken_—a song forbidden by imperial edict.
+According to the **Monastic Annals of Aveline**, the Saintmaker's conversion came while he was overseeing the **burning of a consecrated widow** of a Redeemer burial fraternity, one of the women who washed the executed dead and kept lamps at their graves. Her name is lost. As she burned, she sang the _Hymn of Chains Broken_—a song forbidden by imperial edict.
 
 When her voice ceased, the flames turned blue, and the executioner was said to **drop his torch and weep**. That night, he abandoned his post.
 
@@ -54,7 +58,7 @@ There he began crafting:
 - **Reliquary frames** for ashes, teeth, and bits of cloth smuggled from execution sites.
 - **Censer-charms**—tiny incense burners shaped like Redeemer hands, used to anoint the condemned.
 
-The **icons were not decorative**. They were devotional instruments used in silent liturgies and final blessings before martyrdom. Some were hidden in tombs; others buried in fields where saints had died.
+The **icons were not decorative**. They were devotional instruments used in silent liturgies and final blessings before martyrdom. Some were hidden in tombs; others buried in fields where saints had died. After legalization in 292 the forge went on working in the open, and congregations recovering their graveyards under Cassian's restitution brought him the ashes of their dead to frame.
 
 ---
 
@@ -66,7 +70,9 @@ Multiple early sources attest to the icons emitting a **soft, reddish-orange glo
 - During prayer, particularly before dawn
 - At the moment of someone’s execution within a certain distance
 
-While later scholars debate the literal truth of this “glow,” **Thalmyric mystics** hold it to be a minor miracle—proof that the icons were **infused with flamebound grace**, or that the metal remembered the Redeemer’s death.
+Under the persecutions no one could write such a thing down plainly, and the earliest reports survive as hymns. After 381, when the bishops took over the augur colleges' power to say which signs existed in law, the Marvesh congregation asked the bishops' readers to enter the glow as a sign. The readers declined. Their record gives the reason plainly: an executioner's iron, forged from manacles and the tools of torture, was exactly the kind of object in which a Mask would hide, and a light that answered devotion proved nothing about who sent it.
+
+**Thalmyric mystics** hold the glow to be a minor miracle—proof that the icons were **infused with flamebound grace**, or that the metal remembered the Redeemer’s death. Eclessian examiners have never moved from the readers' refusal.
 
 Modern pilgrims still seek out surviving **Saintmaker Icons**, said to number only **twelve complete sets**.
 
@@ -78,7 +84,7 @@ Modern pilgrims still seek out surviving **Saintmaker Icons**, said to number on
 - In Eclessian murals, he is depicted as **hooded, hammer raised**, forging light from ash.
 - In Thalmyric stained glass, he is sometimes shown **surrounded by broken chains**, while fire curls from his anvil.
 
-His story is the **foundation of Redeemer iconography**, setting the theological precedent that:
+Thalmyric smiths call his story the **foundation of Redeemer iconography**, and cite it for the principle that:
 
 > _"That which was used to harm the faithful can be remade to honor them."_
 
@@ -116,4 +122,5 @@ The **Thalmyric Orders** reject this, holding to the legend of the **single peni
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-
+- [[The Church after Qiryath - From Exile to Legalization]]
+- [[The Conversion of the Empire]]

@@ -43,7 +43,7 @@ Land concentration, military patronage and provincial wealth strengthened comman
 
 The conquest of Sarqen and Thalion's final seizure of Caleran around 350 BR concentrated supreme command in his household. Republican offices continued with civic and ceremonial duties. The settlement established the government from which hereditary imperial rule developed.
 
-Thalion's reforms created a standing army, centralised provincial appointments, regularised taxation, and elevated Astaroth's priesthood as guardian of imperial destiny. [[The Later Reign of Aurelius Thalion]] follows their development through his death in 318 BR. Successors expanded the imperial household, court schools, archive ministries and public cult across the [[Historical Atlas of the Atherian Age of Glory|three and a half centuries before the Redeemer]].
+Thalion's reforms created a standing army, centralised provincial appointments, regularised taxation, and elevated Astaroth's priesthood as guardian of imperial destiny. After his heir was crushed in 326 BR under a hall the priests had blessed without testing, he added the wardens' load test that every later public work had to pass. [[The Later Reign of Aurelius Thalion]] follows their development through his death in 318 BR. Successors expanded the imperial household, court schools, archive ministries and public cult across the [[Historical Atlas of the Atherian Age of Glory|three and a half centuries before the Redeemer]].
 
 ## Why the Heartland Is So Layered
 

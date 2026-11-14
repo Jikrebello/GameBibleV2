@@ -34,13 +34,15 @@ The enemy took the wall. The apprentices were killed, but the chamber remained s
 
 The captured fortress changed rulers repeatedly. Each conqueror found the blank door and assumed the defeated side had hidden treasure. Each was restrained, for a time, by workers who knew that curiosity had once been given prisoners' bodies to spend.
 
+Garrison cults tell the rest. The mason, they say, still builds, somewhere below, and his ninth rooms are joined. When a massacre is done inside one bastion, the ninth rooms of the others knock from within, and something too large for any door walks one room nearer. Masons of a later siege swore the knocking in their own ninth room stopped on the night a one-handed warden opened their outer ward first and held it until the last child was through.
+
 ## Why it is remembered
 
 It gives admired engineering a concealed human price and asks when obedience under impossible pressure becomes authorship of an atrocity. The sealed room pulls the audience forward because opening it promises knowledge while repeating the very temptation that made it.
 
 ## How tellers differ
 
-Fortress songs say the chosen tenth volunteered. Quarry songs name them as strikers. Some claim every ninth room is connected below ground; builders laugh at that until a wall knocks back.
+Fortress songs say the chosen tenth volunteered. Quarry songs name them as strikers. Cultists who try to fill the ninth rooms say every one is connected below ground; builders laugh at that until a wall knocks back. Engineering schools teach the mason's safe measurements and keep his appendix on "necessary loss" under lock.
 
 ## What remains
 
@@ -50,7 +52,8 @@ Otherwise unrelated bastions contain blank ninth doors sealed with bricks bearin
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-04 - Mason of the Ninth Bastion]]
+- [[Saints and Sinners of the Chronicles]]
+- [[G-35 - The Child's Cord at the Redoubt|The Child's Cord at the Redoubt]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

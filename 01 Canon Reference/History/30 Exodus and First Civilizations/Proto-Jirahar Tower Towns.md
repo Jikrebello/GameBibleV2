@@ -38,7 +38,7 @@ Proto-Jirahar life combines movement and rooted memory. Families travel by carav
 
 ## Claim to the Prophet
 
-The Jirahar preserve the strongest claim to the Great Prophet's original teaching. Their culture is built around the conviction that forgetfulness is a form of betrayal.
+The Jirahar preserve the strongest claim to the Great Prophet's original teaching. Their culture is built around the conviction that forgetfulness is a form of betrayal. Their road-singers tell his death as *the Slow Road*: commanded to go no faster than the last cart, he turned back along the column to the rear camps where the bread had already stopped, and died among the people the captains had outpaced. Tower towns kept the habit that story teaches, waiting for the slowest caravan before closing the gate.
 
 ## Future Consequence
 

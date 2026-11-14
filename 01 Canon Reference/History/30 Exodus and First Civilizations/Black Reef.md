@@ -28,7 +28,7 @@ The reef's remains offered materials and relics to salvors while making the rout
 
 Salvage promised usable material and evidence of Marelith's living craft, but the burned structure was unstable. The wreck also changed how sailors understood the route. A captain could use its reported position as a warning, while another blamed a later loss on the alleged surviving bearer.
 
-Marelith's survivors had different reasons to return or avoid it. A free family might seek a lost relative or property; a person taken by Atherian forces could not choose whether to revisit the wreck.
+Marelith's survivors had different reasons to return or avoid it. A free family might seek a lost relative or property; a person taken by Atherian forces could not choose whether to revisit the wreck. Because Marelith had sheltered refused crews and proscribed families as well as raiders, Elmarai pilots passing the reef in bad weather dipped their lanterns to it, as to the drowned refuge they called a second Kelarion.
 
 ## Related histories
 

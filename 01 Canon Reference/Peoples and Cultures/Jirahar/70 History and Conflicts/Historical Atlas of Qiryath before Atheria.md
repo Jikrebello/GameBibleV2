@@ -16,6 +16,8 @@ tags: [history, jirahar, qiryath, ancient-world]
 
 The early history of **Qiryath** follows Jirahar communities from the Near-Glass road camps to a populous sanctuary city under Vasharan rule. Between about 2165 and 350 BR, travelling households developed public stores, burial duties and portable judgement; local protectors defended or exploited settlements; and towers gathered workshops, markets and schools around dependable water. Arqesh destroyed the first city in 742 BR. Deportees, surviving villages and road families later rebuilt it without recovering its former sovereignty.
 
+The city's altar gave a sign that could be touched. An accepted offering burned without smoke, and afterwards the stones were cool under the hand. In the first winter of the Arqeshite siege the smoke rose black and the stones were hot. No offering was answered again for nearly ninety years, through the city's fall, the exile and the consecration of the rebuilt sanctuary. The stones went cool at last under an offering carried by mixed households whom a severe faction wanted expelled. Jirahar call those years **the Withholding**, and they remember that it ended.
+
 ## Historical setting
 
 Qiryath arose on the **Reqa shelf**, a broken limestone country between the Near-Glass roads and the western approaches to the eastern riverlands. Seasonal streams descended from the shelf into the cultivated valleys below. Three dependable springs, several older cistern fields and a ford across the lower **Ubar River** made the district useful long before it possessed a sacred city.
@@ -52,6 +54,8 @@ Trade passed through a patchwork of royal districts, temple lands, fortified wel
 
 The **Breaking of the Bronze Roads**, conventionally dated c. 1450–1325 BR, unfolded district by district. Harvests declined in different years. Palace wars closed crossings. Armed sailors seized coastal stores. Refugees travelled beside mercenaries and slave dealers. Royal officials took pack animals faster than breeders could replace them. By the time the principal palace routes failed, many households had already shortened their journeys or abandoned them.
 
+Road-house songs add a stranger cause, which they call **the Reclaiming**. Much of the copper and bronze on the long roads was old metal from the Serpent Kingdom's buried estates, dug out by ruin traders and recast, and some ingots still carried the marks of their first owners. When traders broke into deeper vaults, the old estates woke. Gilded guardians, great coiled processions sliding on runners and the bound dead of the estates came up the ceremonial roads that the Bronze Roads had reused as trunk routes, and they took back whatever bore their marks. Caravans were found stripped of metal, their drivers dead or gone; palace storerooms were opened in the night with the doors left whole. The trunk roads that followed the old ceremonial ways failed first. Short roads between towers survived, because they carried barley, goats and cloth. Jirahar smiths of later centuries asked where a piece of scrap had come from before they would put it in the fire.
+
 Tower settlements expanded as long journeys became dangerous. Stores, cisterns and workshops gathered around visible refuges. Travelling families shortened their circuits and relied upon settled branches. A tower could keep a district alive through a poor season. It could also refuse grain to families unwilling to accept its preferred judge.
 
 ## Judges of reed and bronze, c. 1400–1050 BR
@@ -66,11 +70,11 @@ The villages offered Tovan a hereditary protectorate. He refused the title but a
 
 **Tirzah bat Oren**, an animal physician from the Night-Rein House, became a judge after diagnosing deliberate poisoning at a chain of cisterns around 1210 BR. The armed household paid to defend the wells blamed foreign drovers and prepared to seize their children as hostages. Tirzah demonstrated that the poison came from an allied orchard owner who expected to claim the grazing land after the drovers fled. She then helped organise the pursuit when the owner withdrew behind armed retainers. The fighting killed two of her brothers and several field workers who had taken no part in the poisoning. The drovers recovered their surviving animals, buried the dead and left the district.
 
-The cycle of **Hador bar Mavin**, placed around 1170 BR, belongs to orchard villages under the toll fortress of Gedran. His parents had been childless for many years and dedicated him before birth to a sanctuary vow. He was to leave his hair uncut, refuse strong drink and avoid contact with the dead. The songs describe him as a man of extraordinary strength whose gift served that vow. They also remember how often appetite, pride and anger governed him.
+The cycle of **Hador bar Mavin**, placed around 1170 BR, belongs to orchard villages under the toll fortress of Gedran. Hador was a drover's son of great size and strength, and the songs remember how often appetite, pride and anger governed him.
 
-Hador courted **Nareh bat Dovan**, a woman of Gedran, and set an impossible riddle during their marriage feast. Her relatives threatened her household until she obtained the answer from him. Hador killed men on the road to pay the lost wager with their clothing. When Nareh's father gave her to another man, Hador burned the fortress grain fields. Gedran's rulers answered by burning Nareh and her father inside their house. Hador then killed guards, labourers and villagers in a private war which weakened the fortress without freeing the district.
+Hador courted **Nareh bat Dovan**, a woman of Gedran. At the marriage feast Gedran's lords demanded the orchard villages' road toll as part of the bride-price, payable in cloth. Hador paid it with the cloaks of men he killed on the road below the fortress. When Nareh's father gave her to another man, Hador burned the fortress grain fields. Gedran's rulers answered by burning Nareh and her father inside their house. Hador then killed guards, labourers and villagers in a private war which weakened the fortress without freeing the district.
 
-Years later, Gedran's lords paid **Delira of the South Gate**, Hador's lover, and threatened to enslave her brothers unless she discovered the condition of his vow. Hador deceived her several times and assaulted men sent to bind him. He eventually told her about his hair. The fortress guard shaved him while he slept, blinded him and put him to work turning a grain mill. During a public feast, Hador was brought into the pillared hall as an object of ridicule. He prayed, tore down two supports and died beneath the building with Gedran's ruling household, its guards, servants, entertainers and captives. Later heroic songs count only the enemy dead. The orchard lament names Nareh, the mill workers and the prisoners killed with him. Gedran survived the disaster and remained strong enough for Othan's coalition to fight a generation later.
+Gedran answered by closing its road. No orchard fruit went down to the river markets and no grain came up. In the second hungry spring the elders of the orchard villages bound Hador with braided halters while he slept and carried him to the fortress gate in exchange for the road. Gedran set him to turn a grain mill beside captives taken in his war. During the harvest feast he led the mill prisoners against their guards, and the guards killed him and every prisoner in the mill-house. Later heroic songs count only the guards he killed. The orchard lament names Nareh, the mill workers and the prisoners who died with him, and it names the elders who traded him for the road. Gedran remained strong enough for Othan's coalition to fight a generation later.
 
 **Othan bar Raqel** commanded a coalition against the toll fortress of Gedran around 1140 BR. Before the campaign he vowed that the first person to greet him at Mattan would belong wholly to the sanctuary. His young daughter **Seleth** came out carrying a hand drum. The oldest account says that Othan killed her despite judges who offered payment and substitution as a lawful release from the vow. Later versions turn her into a lifelong temple singer or make the victim an animal. A women's fast held in several Reqa villages preserves the harsher ending and names Seleth rather than her father.
 
@@ -81,6 +85,8 @@ Repeated raids and the slow assembly of local councils encouraged settlements to
 ## The rise of First Qiryath, c. 1050–800 BR
 
 Qiryath grew around the largest of the Reqa refuges. Its earliest monumental works were practical: a deep communal cistern, grain rooms, animal courts and a paved yard where several travelling benches could sit at once. The sanctuary developed beside them. It housed readings associated with the Prophet's road, objects carried from older camps and an altar served by several custodial families.
+
+The altar gave the city its reach. At the appointed festival offerings, an offering that was accepted burned without smoke, and when the fire was out the stones were cool to the hand. Elders of three old custodial houses laid their palms on the stone in front of the crowd, and their names were written beside the day. The custodians taught that the sign answered the appointed offering itself. Pilgrims read it as a verdict on whatever the city was doing that season, and judgements given in the paved yard on a day of cool stones carried an authority no road court could equal.
 
 **Amariah bat Qoreb**, remembered as the first Keeper of the Upper Room, brought rival calendars into a common sequence around 1020 BR. Her calendar fixed the weeks of common pilgrimage while allowing remote towers to begin agricultural observances according to local conditions. Large gatherings became easier to provision and Qiryath's teachers gained a wider audience. Its custodians also acquired influence over market dates and the public standing of communities accused of observing the wrong week.
 
@@ -94,9 +100,9 @@ The best remembered protector was **Yedran bar Aqev**, born around 985 BR to a h
 
 Shaqel came to fear the younger man's popularity. Yedran spent several years as an outlaw along the shelf, protecting some villages while extorting food from others. When Arqeshite-backed raiders killed Shaqel, Yedran returned, defeated the responsible client house and accepted the title **Guardian of Qiryath**. Songs written two centuries later call him king. Road-house accounts insist that he was only the strongest protector recognised by a frightened city.
 
-Yedran restored cisterns, admitted foreign artisans and established a regular grain contribution for defence. He also used office to take **Rava bat Horel**, the wife of his loyal officer **Uriad bar Sem**, into his household. Uriad was sent to hold an exposed river post and died when promised relief failed to arrive. Rava later secured property for her surviving children and publicly accused Yedran during a pilgrimage feast. His confession ended the celebration, and the struggle among his sons soon reached Rava's household and the families that had supported Uriad.
+Yedran restored cisterns, admitted foreign artisans and established a regular grain contribution for defence. In a drought year his loyal officer **Uriad bar Sem** held an exposed river post with a small garrison and sent three times for relief grain. Yedran kept the grain in the city to feast the river house whose daughter was marrying his eldest son. The wedding tables stood for seven days on the sanctuary terraces. Uriad and most of his garrison starved at the post. His widow, **Rava bat Horel**, secured property for her surviving children and publicly accused Yedran during a pilgrimage feast. His confession ended the celebration, and the struggle among his sons soon reached Rava's household and the families that had supported Uriad.
 
-The household war following Yedran's death broke the protector dynasty. One son killed a half-brother after the rape of their sister; another raised rural followers against Qiryath; Mikalet's kin seized part of the grain stores. The city survived because village councils and road houses continued supplying it after the palace household failed. Later royalists remember Yedran as the founder of civic order. Rava's lament contrasts the poor goat keeper who once begged food from villages with the ruler who controlled Qiryath's granaries and army. Its image of a hungry man eating from a golden bowl accuses Yedran of having ample wealth and power when he still took Uriad's wife and arranged the posting in which Uriad died.
+The household war following Yedran's death broke the protector dynasty. The hungry years had left each of his sons holding a grain room with his own guards. The keeper of the lower rooms raped their sister when she came to draw her household's portion, and a half-brother killed him at the grain-room door and took the room. Another son raised rural followers against Qiryath; Mikalet's kin seized part of the grain stores. The city survived because village councils and road houses continued supplying it after the palace household failed. Later royalists remember Yedran as the founder of civic order. Rava's lament contrasts the poor goat keeper who once begged food from villages with the ruler who controlled Qiryath's granaries and army. Its last verse shows the once-hungry man eating from a golden bowl while Uriad's post starved.
 
 ## Councils, prophets and the last protector houses
 
@@ -120,9 +126,13 @@ During that siege, Haviel ordered the eastern gate opened for families whom Qora
 
 Arqesh first approached Qiryath through tribute, road inspection and demands for skilled service. Some merchants favoured accommodation because their relatives lived in Arqeshite cities. Rural households feared that a siege would consume their fields. Sanctuary factions interpreted any royal image as an unlawful claim over worship.
 
-King **Neshkar II Ubar** demanded priestly hostages and a royal image within the upper sanctuary in 746 BR. The chief guardian **Elior bar Hadan** accepted increased tribute but refused both demands. An opposing councillor, **Maraiah bat Qesem**, argued that hostages might preserve the city. Her supporters opened negotiations without authority, and militants killed an Arqeshite envoy when the talks became known.
+The quarrel was also about where the river provinces took their disputes. Canal districts had begun carrying quarrels over water, debt and boundary stones up the road to Qiryath, to be settled at the festival offering, because a judgement given over cool stones felt beyond appeal. Every case heard in the paved yard was a case the river-king did not hear. Jirahar teachers later said that King **Neshkar II Ubar** chose a demand he could not lose: if the sign went on answering beside his image, his kingship shared the altar's authority; if it stopped, the rival court was broken. His sister **Iltara Ubar**, who governed Khalbar, is remembered as urging him to buy Qiryath's merchants instead.
 
-The siege lasted through two harvests. Arqeshite engineers diverted a spring channel and raised an earth ramp against the eastern wall. Qiryath's defenders stripped roofs for timber and expelled some foreign residents to conserve grain. Several were killed between the lines. Villagers carried food through burial passages until soldiers found the route and executed captured carriers beside its entrance.
+Neshkar demanded priestly hostages and a royal image within the upper sanctuary in 746 BR. The chief guardian **Elior bar Hadan** accepted increased tribute but refused both demands. An opposing councillor, **Maraiah bat Qesem**, argued that hostages might preserve the city. Her supporters opened negotiations without authority, and militants killed an Arqeshite envoy when the talks became known.
+
+The siege lasted through two harvests. Arqeshite engineers diverted a spring channel and raised an earth ramp against the eastern wall. Qiryath's defenders stripped roofs for timber. In the first winter the council drove foreign residents out of the gates to save grain. The besiegers would not let them through the lines and the city would not take them back, and several died in the ditch between, in sight of both walls.
+
+At the next appointed offering the smoke rose black over the sanctuary, and when the three elders laid their hands on the altar the stones were hot. No one living had seen it. The council split. Maraiah's party said heaven had answered the envoy's murder and gained hearers in every quarter. The burial fraternities said it answered the foreigners left in the ditch. Elior's followers said it foretold a destruction already decided and called for the walls to be held. Households began slipping out by night through the burial passages. Villagers carried food in by the same passages until soldiers found the route and executed captured carriers beside its entrance. Every appointed offering for the rest of the siege smoked.
 
 Arqesh entered the city in 742 BR. Soldiers killed defenders and inhabitants in the upper streets, stripped the sanctuary and broke the crown of the tower. Officers selected judges, engineers, metalworkers, musicians, scribes and leading families for deportation. Other captives were divided among estates and military households. Executed defenders were denied burial. The Washers of Nahal Or recovered bodies at night; three were caught, mutilated and displayed at the river road.
 
@@ -136,7 +146,9 @@ The musician **Sameth bar Yorin** became celebrated at Nemeru for adapting Jirah
 
 Burial fraternities recovered the bodies of executed people and maintained household teaching. Engineers learned Arqeshite surveying and water management. Merchants acquired partners throughout the riverlands. A census compiled to organise grain and labour was later used to identify and seize households suspected of supporting a provincial revolt. Some deportees gained skill, property or influence, but guards, labour assignments and masters still determined where they could live and whether their families remained together.
 
-## Return and Second Qiryath, c. 690–660 BR
+The exiles learned to live without the sign. Their judges ruled on witnesses alone and never claimed to speak with the altar's voice. They prayed facing the ruined city. At each appointed festival, when no offering could be made, an elder wrote one line in the **Book of the Unanswered Years**: the year, and the words "no answer". Teachers in the canal settlements said the sign would come back to an altar and never to a king. Children born in exile learned their letters from its lengthening column.
+
+## Return and Second Qiryath, c. 690–654 BR
 
 Arqesh fell in 690 BR after a succession war divided House Ubar and the palace army. **Arezan I Tiravan** led a coalition of Vashari highland houses, Nemeru boat crews, rebellious Arqeshite governors, Qahuri rulers seeking the return of their eastern districts and Tarkhan leaders attacking the imperial remount stations. Forced workers inside Khalbar opened one of the coalition's routes. Arezan's army seized the eastern gates and the water stations serving the capital.
 
@@ -144,17 +156,25 @@ A second command came from the western sea. **Eryndor III of Ortheia**, the Far-
 
 Eryndor died at Arqesh in 684 BR. His generals, Arezan and the households of his nominal heirs divided the conquered army and provinces. Their Wars of the Inheritance lasted until about 650 BR. Returning Jirahar therefore travelled through garrisons and districts whose rulers were still changing.
 
+Slave dealers made one stretch of the eastern road between the river cities and the shelf into a trap for returning families, with way-stations that sold the guests they sheltered. Road-house tradition remembers the **Choir at the Eastern Road**. Drovers saw winged shapes standing across the road at dusk, and from that night no caravan could pass along it: animals stopped and would not be driven, and men who went on alone came back unable to say what had turned them. An ordinary caravan carried the last freed captives round by the hill tracks. The dealers lost their stations. Traders who later reopened stretches of the road died on it, and Jirahar caravans kept to the hill tracks for generations.
+
 In 684 BR, Arezan issued the **Decree of Roads and Houses**. It allowed displaced communities to restore named sanctuaries and return with property recognised by Vasharan officials. Returned households owed taxes, road service and political obedience to the new empire. The decree weakened surviving Arqeshite military households and reopened neglected routes while denying a general restoration to people displaced by Arezan's own conquest.
 
-Many Jirahar remained in the river cities. Those who returned found fields cultivated by families who had survived the conquest or descended from imperial settlers. The widow **Yaelith bat Coren**, keeper of the principal surviving cistern, married **Neram bar Elior**, an exile official sent to supervise reconstruction. Her neighbours feared the returned houses would dispossess them. His relatives accused him of surrendering ancestral claims through marriage.
+Arezan also paid for stone. His first grants and road labour began the rebuilding of the sanctuary, and his son **Daryav I** completed it. Qiryath's sign was the one answer in the east that anyone could put a hand on, and Vasharan inscriptions already claimed that the Right Order had chosen Arezan to correct the Lie of Arqesh. If the stones went cool in a sanctuary rebuilt by the crown, every province would know whose side heaven had taken. If they did not, the crown had still bought a road, a market and a city of interpreters. Jirahar teachers said afterwards that the house of Tiravan had wagered on the altar.
 
-Their household organised water and labour for the new sanctuary. When a severe restoration faction later demanded the expulsion of spouses associated with Arqeshite settlers, Yaelith refused to let its judges dismiss her workers' children as foreigners. The resulting agreement recognised families whose members had received public instruction, accepted the community's duties and been admitted before witnesses. Several old houses rejected the ruling and departed.
+Many Jirahar remained in the river cities. Those who returned found fields cultivated by families who had survived the conquest or descended from imperial settlers. The widow **Yaelith bat Coren**, keeper of the principal surviving cistern, married **Neram bar Elior**, an exile official sent to supervise reconstruction. Her neighbours feared the returned houses would dispossess them. His relatives accused him of surrendering ancestral claims through marriage. Their household organised water and labour for the new sanctuary, and much of that labour was done by the spouses and children of Arqeshite settlers.
 
-Second Qiryath was consecrated around 660 BR, while the inheritance wars continued along the coast and lower river. Arezan's government protected the rebuilding because the sanctuary drew trade, supplied interpreters and strengthened a route under Vasharan control. Returned households supplied money and labour; river communities sent craftworkers; villages around the site provided food and stone. The city possessed a larger sanctuary, schools, workshops and underground accommodation. It remained one centre within a dispersed civilisation. The road companies, river quarters and eastern settlements established before and during exile continued to develop.
+Second Qiryath was consecrated around 660 BR, while the inheritance wars continued along the coast and lower river. Returned households supplied money and labour; river communities sent craftworkers; villages around the site provided food and stone. The consecration offering was carried up in the king's name before Vasharan officers and the returned houses. It smoked, and the stones were hot. Another line went into the Book of the Unanswered Years.
+
+The severe restoration faction blamed the continuing silence on the settler households and demanded their expulsion. Yaelith refused to let its judges dismiss her workers' children as foreigners. The resulting agreement recognised families whose members had received public instruction, accepted the community's duties and been admitted before witnesses. Several old houses rejected the ruling and left the city.
+
+Around 654 BR, at the next appointed festival, the households the severe faction had wanted gone carried the offering up the stair. It burned without smoke, and the stones were cool under the elders' hands. The Book records the order without comment: the crown's offering unanswered, the households' offering answered. The departing houses said the witnesses at the altar were Neram's kin and could not be trusted. Vasharan inscriptions credited the king. Yaelith's admission rules held.
+
+The Vasharan crown protected the rebuilt city because the sanctuary drew trade, supplied interpreters and strengthened a route under its control. The city possessed a larger sanctuary, schools, workshops and underground accommodation. It remained one centre within a dispersed civilisation. The road companies, river quarters and eastern settlements established before and during exile continued to develop.
 
 ## Qiryath under Vasharan and Atherian pressure, c. 660–350 BR
 
-The Vasharan kings confirmed Qiryath's sanctuary and internal courts in exchange for taxes, road service and political quiet. Governors intervened in appointments when local factions threatened supply. Jirahar interpreters and relay keepers served the royal roads, while other Jirahar communities suffered collective punishment when governors suspected them of carrying messages or sheltering fugitives.
+The Vasharan kings confirmed Qiryath's sanctuary and internal courts in exchange for taxes, road service and political quiet. Governors intervened in appointments when local factions threatened supply. After the cool stones, the sign answered the appointed offerings of a city that had no king, under a crown it had not answered. Governors could confirm a Keeper and count the pilgrim dues; none could cool the altar, and every disputed appointment came to be argued over what the three elders felt under their hands. Jirahar interpreters and relay keepers served the royal roads, while other Jirahar communities suffered collective punishment when governors suspected them of carrying messages or sheltering fugitives.
 
 Wars between Vasharan and Atherian powers divided the dispersed people. Western towers traded with Atherian cities. Qiryath remained within the Vasharan imperial system. Sea companies supplied ports on both sides. Each government suspected the route networks of carrying information for the other.
 
@@ -166,35 +186,40 @@ By 350 BR, Qiryath was a populous pilgrimage and market city under Vasharan supr
 |---|---|
 | c. 1800 BR | Mareh bat Sivan administers three road camps during famine and fever |
 | c. 1750–1450 BR | mature Bronze Roads and occupational houses |
-| c. 1450–1325 BR | Breaking of the Bronze Roads |
+| c. 1450–1325 BR | Breaking of the Bronze Roads; the Reclaiming strips marked metal from the trunk routes |
 | c. 1290 BR | Tovan bar Rameq defeats House Sereq and creates the ring-standard |
 | c. 1210 BR | Tirzah bat Oren exposes the cistern poisoning |
-| c. 1170 BR | Hador bar Mavin's war with Gedran ends in the hall collapse |
+| c. 1170 BR | Hador bar Mavin's war with Gedran ends when the orchard villages hand him over for the road |
 | c. 1140 BR | Othan bar Raqel's victory and the death of Seleth |
 | c. 1050–1000 BR | monumental refuge and sanctuary at Qiryath |
 | c. 1020 BR | Amariah bat Qoreb's calendar settlement |
 | c. 955–925 BR | Yedran bar Aqev's protector rule and household war |
 | c. 842–835 BR | Qoram and Zimra seize Tobel's vineyard; Haviel confronts the court cult and later opens the eastern gate |
 | 746 BR | Neshkar II demands hostages and the royal image |
+| c. 743 BR | foreign residents driven out to die between the lines; the first withheld offering |
 | 742 BR | First Qiryath destroyed and leading households deported |
 | 702–690 BR | Eryndor's western invasion and Arezan's eastern coalition converge upon Arqesh |
 | 690 BR | Arqesh falls to their separate commands and internal revolts |
 | 684–c. 650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
 | 684 BR | Decree of Roads and Houses permits return |
-| c. 660 BR | Second Qiryath consecrated |
+| c. 700–650 BR | the Choir at the Eastern Road closes a slavers' road to returning families |
+| c. 660 BR | Second Qiryath consecrated; the royal offering smokes |
+| c. 654 BR | the stones go cool under the offering of Yaelith's mixed households; the Withholding ends |
 | c. 660–350 BR | Qiryath develops under Vasharan supremacy and widening diaspora |
 
 ## Principal received traditions
 
 - **The Mother of Measures** remembers Mareh's public division of food and the family left behind.
 - **The Lamps beneath the Jars** remembers Tovan's night victory, refused title and murderous heirs.
-- **The Braids at Gedran** preserves Hador's strength, appetites, betrayals, mutilation and final mass killing.
+- **The Braids at Gedran** preserves Hador's strength and appetites, Nareh's burning, the orchard elders' trade of their protector for the road and the killings in the mill-house.
 - **Four Nights for Seleth** preserves the lethal version of Othan's vow.
 - **The Goat-Keeper's Crown** recounts Yedran's rise, Uriad's death and Rava's accusation.
 - **The Rain at the Dry Channel** remembers Haviel's contest, the killing of the diviners and his flight.
 - **The Six Women at the Gate** remembers the lifting of the rain-swollen gate and the families who escaped the siege.
 - **The Fingers of Sameth** concerns artistic achievement and compromise in exile.
+- **The Choir at the Eastern Road** remembers the closed slavers' road and the caravan that carried the last captives round it.
 - **The Keeper Who Married the Return** remembers Yaelith and Neram through incompatible descendant traditions.
+- **The Book of the Unanswered Years** preserves the exile's empty lines and the morning the stones went cool. Jirahar keep the name *the Withholding* for those years and speak of *the Silence* for the sign's ending after the Redeemer's death. Those who wait for acceptance to return to the Empty City cite the cool stones of the second city as proof that a withholding can end.
 
 These traditions belong to different centuries and districts.
 

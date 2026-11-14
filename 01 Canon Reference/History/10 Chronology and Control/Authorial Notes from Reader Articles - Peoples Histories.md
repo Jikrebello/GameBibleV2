@@ -30,6 +30,11 @@ Safeguards, verdicts and design notes moved out of the public peoples' history a
 - Shattered Engines enabled the Mountain Rebellion and Long Reconquest "without making Vorthara a Thalmyric ally or subject." [[Sestara and the Wider World]] likewise said Vorthara's role in 907 binds it to Caldrian history "without making it Eclessian."
 - Narrator's ruling on the three memories (Caldrian crusading victory, Vortharan paid intervention, Thalmyric useful prelude): "All three accounts contain part of the truth." Reader text now leaves the disagreement open.
 
+## [[Historical Spine of the Covenant]], [[The Covenant from Idris to Suhrab (905-1190 AR)]] and the Reconquest articles
+
+- Added in the Causality Pass (November 2026). The author-only rulings behind the Widowed Seals, the Threshold, lodging, the Long Reach, the Ember deposit, the Pledged Custodian and the two houses of the Vault are held in [[The Covenant after Caleran - Authorial Truth]]. Reader prose gives them only as in-world testimony.
+- Safeguard carried there rather than into reader text: custody of a living name never touches soul-routing; only a foundry name-cage closed at death does.
+
 ## [[Eclessia During the Invasion]]
 
 - Aratheos and Fareth survive as local leagues "rather than lost kingdoms"; they "explain later regional institutions without replacing the larger history."

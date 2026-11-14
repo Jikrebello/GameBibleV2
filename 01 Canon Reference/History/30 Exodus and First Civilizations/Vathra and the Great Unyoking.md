@@ -16,7 +16,7 @@ tags: [world-historical-atlas, giants, vathra, great-unbinding]
 
 **Vathra** was a confederated Giant kingdom whose rulers carried their courts through the Material sky. Its crown-cities travelled above the northern dry belt during the last centuries of Giant rule. Human subjects maintained the wells, anchor towers, herds, workshops and roads that allowed those cities to move. The War of Altitude and the human-led Great Unyoking destroyed the kingdom between approximately 2300 and 2260 BR.
 
-Vathra ranked among the important lesser crowns of the Giant world. Its rulers traded with several horizons, married into other Giant houses and supplied cavalry, beasts, captives and mercenaries to neighbouring powers.
+Vathra ranked among the important lesser crowns of the Giant world. Its rulers traded with several horizons, married into other Giant houses and supplied cavalry, beasts, captives and mercenaries to neighbouring powers. In its last centuries the sky roads demanded more workers, tribute and captives every generation, and the country beneath them stretched until wells lay days from their fields. The war that followed left four cities lost, one fallen and one grounded, and the Hundred Wells of Narash in the keeping of Meya's daughters.
 
 ## The First Road-Mother
 
@@ -71,15 +71,23 @@ Varakesh concealed shortages, purchased tether-house loyalty and seized war-plat
 
 **Kelvara**, a Dynastic Giant of a junior line, supervised the descent grounds. She served Ozhur during the early crisis and allowed captive workers to be transferred to Urzavad. She later turned against the high court after witnessing the people killed in royal reprisals.
 
-### The three uncertain cities
+### The lost cities
 
 **Sairat** carried Vathra's mobile archive, foster genealogies and route accounts. **Molqara** grew from a war-platform around armouries and prisons. **Yazuran** belonged to a cadet royal line and attempted an unknown passage during the final war.
 
-Sairat entered a route after its destination anchor had been destroyed. Molqara lost its steering while part of its lift remained active. Yazuran disappeared without reaching any known Material landing. Later claims concerning their survival remain unverified.
+Sairat entered a route after its destination anchor had been destroyed. Molqara lost its steering while part of its lift remained active and drifted beyond the northern circuit. Yazuran disappeared without reaching any known Material landing. Dazhur outlived the war by less than three years and then vanished from every dependable record. Scholars therefore count four lost cities. Northern tellers give "three or four", and Tarkhan songs mourn three, because they refuse to mourn Dazhur. Herders still report lights moving against the wind over the dry belt, and every generation produces someone who has seen Sairat's archive towers on the horizon.
+
+## The hungry roads
+
+The first kings of Urzavad had lifted their cities along routes that answered their blood. Their descendants were thinner-blooded, and the routes answered them less readily each generation. Late Vathran kings kept the same roads open by feeding them: new anchor towers raised with conscript labour, route crews sent up the currents in greater numbers, tribute columns and captives marched out along the old lines between landing fields. Tether-town songs of the period count the people who walked out under the anchors and never walked back.
+
+During the wider Closing-Court crisis the country beneath the routes began to stretch. Valleys lengthened under the crown-cities' shadows. A walk between two anchor towers that had taken a morning took a day, then three. Wells ended up beyond reach of the fields they watered, and camel trains arrived at the landing grounds with empty skins and dead animals. Kel-Orun's weavers said the sky was taking back what the kings had borrowed from it. Storm-house priests blamed the impiety of the lower courts. Later Tarkhan singers said the First Road-Mother had come to collect her roads.
+
+**Ozhur IV** answered with requisitions. He demanded more food, more ballast, more workers and more children, and sent them out along routes that swallowed them. Whole tether villages were emptied to keep Urzavad aloft for one more season of progresses.
 
 ## The War of Altitude
 
-Familiar sky roads became costly and unreliable during the wider Closing-Court crisis. Ozhur demanded greater tribute and tighter control over the route calendar. Varakesh challenged him with cloud-house wealth and lower-route support. Their followers destroyed anchor towers, withheld rain from rival districts and used false beacons to steer cities into dangerous air.
+Ozhur demanded greater tribute and tighter control over the route calendar. Varakesh challenged him with cloud-house wealth and lower-route support. Their followers destroyed anchor towers, withheld rain from rival districts and used false beacons to steer cities into dangerous air.
 
 War-platforms dropped burning wreckage onto towns. An attack on a pressure mantle killed people in the city and those living beneath its route. Ground communities prepared tribute for one court and lost their remaining stores when a rival arrived unexpectedly.
 
@@ -119,11 +127,21 @@ Royal horse lines disappeared because they had been concentrated in exposed esta
 
 Objects acquired new meanings. Pressure mantles became tents and burial covers. Tether cables became marriage ropes. Fallen foundation stones became well curbs. Northern children continued to play an unyoking game in which the smallest player won by releasing the team before the cart owner returned.
 
-## Historical limits
+## Meya and the Hundred Wells
 
-The Great Unyoking formed one regional theatre of the Great Unbinding. Human workers overthrew Vathra through their own knowledge, alliances and violence.
+The broken routes did not die quietly. In the first winters after the Unyoking, abandoned anchors turned travellers round: a caravan that took an old sky-cut across the dry belt might walk a whole day and come out at its own cold hearth from the morning. Raiders who had learned the surviving route fragments used them to strike the Hundred Wells of Narash, where the displaced families Meya had led out of the war were camped around too little water.
 
-The First Road-Mother's fate remains unknown. Later sightings of Sairat, Molqara, Dazhur or Yazuran prove no surviving dynasty.
+Meya went up to the dead anchor field above the wells. Caravan tradition says a figure of road dust and knotted cord stood among the toppled towers, of the kind drivers call a Way-Weaver, and that she bargained with it for a night and a day. When she came down, the wells were closed to every short road. Raiders who rode at them along the old sky-cuts walked through a day of dust and found themselves back at their own morning camp. Travellers who came by the long road, well to well on foot, arrived as before.
+
+From that winter the Narashi wells were the safest water in the western dry country, and Meya's house was the reason. She had governed three of the hundred before the war; afterwards every keeper along the chain needed her daughters. Every crown-mother of Narash since has walked the whole round of the Hundred Wells at her accession, by the long road, and has called each well by its name at its lip. No crown-mother rides a carpet or takes a shortcut; Narashi say the wells know only Meya's daughters, and succession has passed from mother to daughter while every neighbouring crown passed to sons, nephews or sons-in-law. The neighbours watch each accession closely, because a daughter too sick to walk cannot be made crown-mother.
+
+Meya had supplied Vathra with captives taken in local wars, and her house went on selling captives after Vathra was gone. The seal sheltered fugitives at the wells and also let crown-mothers bind rescued families to years of service. Ahdari and Tarkhan neighbours, who held their own wells with walls and sworn protectors, called the Narashi road custom a crown that could not be taken away. Narashi houses still walked the round in 1360, a disputed road custom tolerated under Covenant law. The later history of the wells is told in [[Historical Atlas of Vathra and the Northern Ground]].
+
+## Memory
+
+The Great Unyoking was one regional theatre of the Great Unbinding. Northern peoples remember it as their own victory: human workers overthrew Vathra with their own knowledge, alliances and knives, and every northern assembly still has a singer who can recite the knot-cutting at Kel-Orun.
+
+The First Road-Mother's fate remains unknown. Claimants to the lost cities' blood have appeared in most generations; none has produced a city.
 
 ## Further reading
 

@@ -33,6 +33,8 @@ The resistance won because local communities accepted the destruction of terrace
 
 Captured conscripts were offered amnesty if they surrendered binding instruments. Contract officers and name custodians were exchanged rather than executed, giving the resistance leverage for imprisoned civilians.
 
+Qazem's soldiers had sworn their service to Sultan-Caliph Idris by name, and Iqashari registers counted the battle as a loss of bound men as well as a lost column: the custodians taken at Caelmount carried rolls of the names under which their levies served. The exchanges begun after Caelmount became the regular hostage traffic between the mountain leagues and the occupied south over the next forty years.
+
 ## Aftermath
 
 Caelmount gave Caedros the legitimacy to command beyond his own league. It also created the imperial habit of calling civilian sacrifice strategically necessary and commemorating it more readily than compensating it.
@@ -42,3 +44,4 @@ Caelmount gave Caedros the legitimacy to command beyond his own league. It also 
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]
 - [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]
 - [[The Long Reconquest (908-1052 AR)]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

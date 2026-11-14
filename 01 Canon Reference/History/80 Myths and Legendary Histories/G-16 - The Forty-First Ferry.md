@@ -34,13 +34,15 @@ When authorities finally seized the boat, the physician burned it rather than le
 
 The widow kept no nail. She kept the stranger's first burial cloth, washed and repaired, and used it when her husband's hidden grave was finally found. By then she had buried so many others that private grief and public work could no longer be separated.
 
+Boat families add a stranger coda. In the years after the Sweat, salvagers working the white country beyond the Material roads came back from a belt of wrecked plague refuges with word of a crown of fused bone and lamp-glass that spoke in thousands of voices. Families who travelled to hear it recognised a dead child's lisp or a husband's cough among them. A plague register taken from the same wreckage changes its entries each time it is carried back onto Material ground. Churches, Patrons and burial confraternities have fought over the crown ever since, each claiming to speak for the dead it speaks with.
+
 ## Why it is remembered
 
 The story begins with one woman's desire to bury one man and widens through repeated choices. It does not romanticise plague bodies or promise piety prevents infection.
 
 ## How tellers differ
 
-Church Lives place a Saint aboard. Boat families name only exhausted criminals and kin. Official chronicles blame the ferry for new deaths; grave evidence shows executions continued after it burned.
+Church Lives place a Saint aboard. Boat families name only exhausted criminals and kin. Official chronicles blame the ferry for new deaths; grave evidence shows executions continued after it burned. Confraternities call the salvage crown the plague dead's own voice and demand it be buried; Eclessian relic courts call it a thing of the white country that learned to speak from copies of the dying; the boat families who carried the real dead refuse to cross to it.
 
 ## What remains
 

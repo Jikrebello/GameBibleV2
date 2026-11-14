@@ -29,6 +29,10 @@ The faction publicly forbade the binding of a human soul. Bereaved families and 
 
 Mortuaries, preparation spaces and defended entrances made the quarter recognisable. Corpse porters used marked working routes, while living carriers, witnesses and families moved through the same neighbourhood. The adjoining cult courts drew some of the same clients, including people seeking funerary patronage or witnesses to a bargain. They followed many incompatible powers. Cooperation at the shared edge could be profitable; disputes over a body or patron claim could be severe.
 
+## The bronze door, c. 498 BR
+
+The Hand's best-remembered refusal concerned a neighbour. About 505 BR exiles from the fallen Gateway capital opened a house of the Bronze-Faced Provider at the edge of the cult courts, and within a few years its keepers came to the Hand's preparation rooms with silver, asking to buy the dead for their table and back rooms. Some crews were tempted; the price was good and the dead were already dead. The senior preparers met in the long room and refused for the whole quarter. They had heard what the Provider's tables had done to the Gateway towns, and a contract to feed bodies to a house that ate them was, they said, too near the binding their rule forbade for any worker of theirs to touch. The porters changed their routes so that no bier passed the bronze door. Around 498 the house's table stood empty, and its keepers left the town. Families who had distrusted the Hand pointed to the refusal for generations as proof that its rule meant something.
+
 By 350 BR the Pale Hand was a durable exception to Vorthara's mostly informal faction landscape.
 
 ## Related histories

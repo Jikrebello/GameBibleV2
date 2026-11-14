@@ -13,457 +13,493 @@ tags: [causality-pass, proposal]
 ---
 # Causality Pass — 05 The Guttering, 400 to 905 AR
 
-> [!note] Proposal for approval
-> Nothing here is canon until approved. Tick an item's box to approve it; strike it through or annotate it to reject or change it. Index: [[Causality Pass - 00 Proposal Index]].
+> [!note] Decided 14 November 2026
+> Every item below was decided on the creator's instruction to proceed on best judgement, under [[Causality Pass - Direction]]. All eight are approved with changes: the causes stand, and each is retold through the land rather than the docket. The revised items replace the originals in place. Approved material has been promoted into the reader articles listed under each item; the authorial truth is in [[The Guttering - Authorial Truth]]. Changes to files this pass does not own are in [[#Integration patch]]. Index: [[Causality Pass - 00 Proposal Index]].
+
+## Decisions at a glance
+
+| Item | Decision | Reason |
+|---|---|---|
+| 05.1 Four houses | Approved with changes | Gives the centuries faces and a cause for every change of house; the march machinery and administrative table were courthouse and move to authorial control. |
+| 05.2 The Guttering | Approved with changes | The strongest cause in the pass; retold as things people saw, with a named first scandal (the Copper Lamp, 681–683). |
+| 05.3 Toll War, Thin Floods, Vashar | Approved with changes | A toll-road war, an ox plague and devils digging while children starve; Vashar's fall told through empty relay stations. |
+| 05.4 The Unsealing | Approved with changes | Keeps "served, not fought" as one striking fact; the dead witness becomes silent protector-stars, and the halt becomes a terrified standoff at Tamsar (611). |
+| 05.5 The Clause of the Given | Approved with changes | Qahir's loophole is the best single cause of the Fall's engines; native name deferred to the locked register. |
+| 05.6 Eastern drift and Simeon | Approved with changes | An honest test made cheap by a shipwreck; the relic is the Velos Standard, which ties 711, 876 and the Ash Hall together. |
+| 05.7 The frontier's political spine | Approved with changes | Border hearings and the "paper war" cut to seasoning; the late frontier gains a saint's rescue whose refusal gives the Second Crusade its emperor's motive (the Captain of the Sacrificial Wind). |
+| 05.8 The Fall re-caused | Approved with changes | The trap stays; told in in-world voices with Sarion, the Borrowed Temple, the children of the old house and the engineers' Red Star. |
+
+Rejected sub-proposals, with reasons, are marked inside each item.
 
 ## Summary
 
-The [[World History Causality Review - November 2026|causality review]] found that 400–905 AR has events but almost no causes. This file proposes an author-only causal spine for those five centuries. It adds little new metaphysics; it runs on four rules the vault already holds:
+The [[World History Causality Review - November 2026|causality review]] found that 400–905 AR had events but almost no causes. This file gives the five centuries a causal spine. It adds little new metaphysics; it runs on four rules the vault already holds:
 
-- The Flame answers the righteousness and purpose of a person, not the prestige of an office ([[The Making of Saints]]; the authorial ruling in the Great Split section of [[Real-History Concordance]], moved out of the reader article in November 2026).
+- The Flame answers the righteousness and purpose of a person, not the prestige of an office ([[The Making of Saints]]; the authorial ruling in the Great Split section of [[Real-History Concordance]]).
 - The Flame resists predatory contract re-typing ([[White Flame Doctrine]]). Shell-fire passed off as a miracle "may create a breach" ([[The Holy Fire]]).
-- The First Unsealing was "served, not fought": breach-courts void instruments that carry a defect.
+- The First Unsealing was "served, not fought".
 - Menhir pacts demand obedience to living law, and the Star Pantheon was misread Menhir (author-only).
 
-From these the period gets a mechanism.
+From these the period gets its turning points.
 
-- **Dead witnesses.** Vestian's abolition of the Star rites left augur-witnessed charters with a dead witness.
-- **The Guttering.** As sanctity became office, court rites stopped kindling, and the court covered the gap with hired Shell-fire.
-- **Vashar's fall.** War, drought and murrain broke the well-country; Vashar fell first, served on its own king's broken oath.
-- **The Suspension of 612.** The breach-courts served Atheria until re-seals in the Fire and the Fourth Seal schism stalled them. The Suspension froze both untested proofs.
-- **Protocol in the east.** The east grew protocol where honesty was cheap; the capital faked.
-- **The Fall.** The Second Crusade broke the Suspension. Qahir answered unservable walls with engines no clause bound, and Corvenas III faced tests he could not afford to fail.
+- **The Guttering.** As sanctity became office, the palace's rites stopped kindling while the frontier's went on, and the court covered the gap with hired Shell-fire and then with counterfeit.
+- **Vashar's fall.** A toll-road war, a drought and an ox plague broke the well-country; Vashar's own founding oath was turned on it.
+- **The Unsealing and the standoff.** Towns sworn under silent stars were taken by reading them their charters; towns re-sealed in the Fire held; at Tamsar in 611 both sides' wonders failed in the field and the peace of 612 was made in fear.
+- **The east.** A sunk tax fleet made honesty cheap in the east while the capital faked.
+- **The Fall.** An emperor broke the peace in 874; Qahir won two rulings before he won a battle; Corvenas III faced tests he could not afford to fail.
 
-The only new names are those of people who change a result: **Teomar Saldane** (proposed). **Leovar I–II**, **Corvenas I–II** and **Simeon** are names canon already implies, given roles here. I checked every AR date against its analog's AD year: none coincides, and no analog sequence keeps its source's spacing.
+**Dates.** Vestian's death moves to 398 (Direction, decision 1), so the Vestianic house runs 398–447. I checked every AR date against its analog's AD year: none coincides, and no analog sequence keeps its source's spacing.
 
-**Canon conflicts found**
+**Canon conflicts found and resolved**
 
-- [[The Long Frontier and the First Unsealing]] has the Covenant forming "in the south and east". The locked geography puts it north and northwest.
-- The First Crusade "held the advance" in 594–598, yet conquest went on to 612 (resolved in 05.4).
-- The resurgence is 885–902 in Prelude, Invasion and Golems, but c. 885–905 in the Chronology (05.8 separates the two).
-- None of the five great engines at the Fall is a Surrender Engine (05.8).
-- Corvenas III is absent from Named Figures. "Leovar III" implies predecessors, and "Simeon's primacy" has no source (05.1, 05.6).
-- The Banu Mizan end c. 885, yet Zanthir is "the last pearl of the Banu Mizan" (05.7).
-- The Decadence ends in 540 only because Mujalib begins; Sestara's drift has no cause but "weak emperors" (05.1).
+- [[The Long Frontier and the First Unsealing]] had the Covenant forming "in the south and east". The rewrite drops the phrase; the locked geography puts it north and northwest.
+- The First Crusade "held the advance" in 594–598, yet conquest went on to 612. Resolved: the field line held while service continued in the east (05.4).
+- The resurgence is 885–902 in Prelude, Invasion and Golems, but c. 885–905 in the Chronology. Resolved: c. 885–902 foundry reform, 902–905 Idris's campaign (05.8).
+- None of the five great engines at the Fall is a Surrender Engine. Resolved: in 905 the Surrender line was lesser engines and siege tables; the first great frame comes after 905 (05.8; Pass 06).
+- Corvenas III is absent from Named Figures, "Leovar III" implies predecessors, and "Simeon's primacy" had no source. Resolved in 05.1 and 05.6.
+- The Banu Mizan end c. 885, yet Zanthir is "the last pearl of the Banu Mizan". Resolved: a Banu Mizan marriage line keeps Zanthir as tributary emirs (05.7).
+- The Decadence ended in 540 only because Mujalib began, and Sestara's drift had no cause but "weak emperors". Resolved: Aurelium's historians end it in 514 with the Toll War; Sestaran drift is charter revival and the warlock trade (05.1).
 
 ## The spine at a glance
 
 | Century | Pressures | Turning points | Contingent accident |
 |---|---|---|---|
-| **400s** | Sanctity as office after Vestian; relic estates bought out of tax; Ättar raids on Kedrava; Folk pressure on the southern forts; Sestaran cities reviving pre-imperial charters | Halmenth 411 leaves Nasriel's communion on the northern dry margin; succession war 447–452, won with sold immunities; first hired Shell-fire cohorts | The last Vestianic heir's only son drowns when a harbour barge overturns at Caleran, 446 |
-| **500s** | Hollow treasury; war debt; the well-country's client stipends unpaid; the Thin Floods (546–552) and the yoke-sickness (548–551); dead-witness charters | Ubar Toll War 514–523; Mujalib 541; Covenant of the 4,444 c. 549; Vashar served 555–560; Nine Wells 558; Unsealing from 568; Saldane house deposed 587; First Crusade 594 | The northern commander gives battle at the Dry Ford, 575, misreading Covenant law |
-| **600s** | Burned-out bearers; disputed seals on both sides; garrisons that must eat | Fourth Seal 597; Qatada dismissed 598; Zanthir 601; Bir Qassim 603; Velian belt protected c. 610; the Suspension 612; the marches; the Proof of Answering c. 640 | The eastern tax fleet founders in a Thalassian squall, 653 |
-| **700s** | March oaths that need an emperor at the frontier; Aurelium's register; Banu Mizan translation economy; Covenant division | War of the Two Oaths 709–713; Simeon's examination 711; the right of examination 713; the Sealing Office | Leovar II and his heir die of one summer fever nine days apart, 709 |
-| **800s** | Registers still carrying the lost north; debased soldiers' silver; a hollow Sealing Office; Covenant jurists gathering proofs of counterfeit fire | Banu Mizan emir dies 872; Second Crusade 874–878; Cassian's Standard fails before Oronda 876; Ruling of the Broken Suspension 884; Banu Mizan rule in the Velian belt ends 885 | The heartland harvest fails, 872–873 |
-| **900–905** | No legal shield; marches bound to their ground; no examined summons for the east; a compromised capital charter | Idris's campaign 902–905; Caleran falls | A late Aurin flood holds the southern levies three weeks short of the capital, 905 |
+| **400s** | Sanctity as office after Vestian; relic estates bought out of tax; Ättar raids on Kedrava; Folk pressure on the southern forts; Sestaran cities reviving pre-imperial charters | Halmenth 411; succession war 447–452, won with sold immunities; first hired Shell-fire cohorts | The emperor's only son and heir drowns when a harbour barge overturns at the Aurin mouth, 446 |
+| **500s** | War debt; the well-country's client stipends unpaid; the Thin Floods (546–552) and the yoke-sickness (548–551); charters sworn under silent stars | Ubar Toll War 514–523; Mujalib 541; the Bread of the Bound c. 549; Vashar's end 555–560; Nine Wells 558; Unsealing from 568; Saldane house deposed 587; First Crusade 594 | The northern commander rides out to kill a court's escort at the Dry Ford, 575 |
+| **600s** | Broken bearers; disputed seals on both sides; garrisons that must eat | Fourth Seal 597; Qatada dismissed 598; Zanthir 601; Bir Qassim 603; the Velian chests c. 610; Tamsar 611; the peace of 612; relic tests c. 640s; the Copper Lamp 681–683 | The eastern tax fleet founders in a Thalassian squall, 653 |
+| **700s** | March oaths that need an emperor at the frontier; Aurelium's register; the Banu Mizan translation economy; the frontier lives | Fever Week and War of the Two Oaths 709–713; Simeon's examination 711; the right of examination 713 | Leovar II and his heir die of one summer fever nine days apart, 709 |
+| **800s** | Registers still carrying the lost north; debased soldiers' silver; counterfeit accession rites; a file of counterfeit fire | The Captain's rescue on the river marches c. 866; Banu Mizan emir dies 872; Second Crusade 874–878; Oronda 876; the broken peace 884; Banu Mizan rule in the belt ends 885; the Ruling on Parties 885–886 | The heartland harvest fails, 872–873 |
+| **900–905** | No legal shield; marches bound to their ground; no examined summons for the east; a compromised capital charter | The Jubilee and Sarion 903–904; Idris's campaign 902–905; Caleran falls | A late Aurin flood holds the southern levies three weeks short of the capital, 905 |
 
 ## Proposals
 
-### 05.1 Four houses after Vestian, 395–905
+### 05.1 Four houses after Vestian, 398–905
 
-- [ ] Approve
+- [x] Approved with changes — gives the centuries faces and a cause for each change of house; the administrative machinery is moved to authorial control and told in reader prose as an emperor who must ride.
 
-**What happens.** Four houses rule after Vestian. Each wins through a different bargain for paying the army, and each bargain leaves the next house a weakness.
+**What happens.** Four houses rule after Vestian. Each rises through a different way of paying the army, and each leaves the next a weakness.
 
-| House | Years | Power base | Defining act | End |
+| House | Years | Power base | Face | End |
 |---|---|---|---|---|
-| **Vestianic** | 395–446 | court bishops and paymasters | regency that convenes Halmenth (411); first immunities | heir's son drowned, 446 |
-| **Saldane** (proposed) | 447–587 | southern fort-line army | immunity sales; Ubar Toll War; famine without relief | deposed after the north is lost |
-| **Leovarid** | 587–709 | frontier bishops and the surviving field army | crusade of seals; Suspension of 612; the marches | the Fever Week, 709 |
-| **Corvenid** | 713–905 | the marches, then the Caleran chancery | Sealing Office; Second Crusade; the Ash Hall | the Fall |
+| **Vestianic** | 398–447 | court bishops and paymasters | Vestian's son, a schoolboy ruled through by the men who made his father; immunity sales; Halmenth 411 | his only son and heir drowned in the Aurin mouth, 446 |
+| **Saldane** | 447–587 | southern fort-line army | the fort commander acclaimed by the sees; **Teomar Saldane** (r. 509–531), who went to war for a road; the Granary Thief of the famine years | deposed after the north was lost |
+| **Leovarid** | 587–709 | frontier bishops and the remnant field army | **Leovar I** (r. 587–624), who travelled with a hermit-bishop and knelt at every re-sealing; **Leovar II** (r. 681–709) of the Copper Lamp | the Fever Week, 709 |
+| **Corvenid** | 713–905 | the marches, then the Caleran chancery | **Corvenas I** (r. 713–746), who spent 710 in the saddle; **Corvenas II** (r. 861–884) of the crusade; **Corvenas III** (r. 884–905) | the Fall |
 
-**The Vestianic house** (395–446) rules through Vestian's young son and his managers. The Halmenth settlement belongs to [[Causality Pass - 04 Who May Authenticate a Sign, 0 to 411 AR|Pass 04]].
+**The marches as a ride.** Every march oath must be renewed in person within a year and a day of an accession, before a frontier monk on whom the Fire comes. In 709–713 the Leovarid cousin cannot leave Caleran; Corvenas rides from march to march, kneels at each gate, and the lamps take the Fire. Reader prose tells this as a ride, not a statute. The later Corvenids build a counterweight in Caleran (the Sealing Office, an Ättar household guard, warlock contracts), and the registers keep the lost north because striking it off would concede the Covenant's ruling in writing; the chancery goes on sending orders to dead provinces.
 
-**The Saldane house** (447–587). The southern fort-line army fights the Aurin fleet and port councils for the throne in 447–452. Its commander wins because the great sees and monasteries acclaim him. He pays them with **immunity sales**: relic estates are freed from tax and from audit, so provincial wealth goes there to hide.
-
-**Teomar Saldane** (proposed, r. 509–531) tries to win the revenue back from Vashar in 514 (05.3). In 587 the remnant field army and the frontier bishops depose the last of the house.
-
-**The Leovarids** (587–709). **Leovar I** (r. 587–624) leads the crusade of seals (05.4). He signs the Suspension and builds the rump empire around it. **Leovar II** (r. 681–709) dies in the Fever Week with his heir.
-
-**The Corvenids** (713–905). In the **War of the Two Oaths** (709–713), a Leovarid cousin holds Caleran, the fleet and the court clergy. **Corvenas I** (r. 713–746) commands the march facing the Velian belt and is married to Leovar II's daughter.
-
-Every march oath must be renewed in person within a year and a day of an accession. Corvenas rides the marches and renews them before frontier monks, and the oaths kindle. His cousin cannot leave the capital, so the marches choose Corvenas.
-
-Wary of the marches that made them, later Corvenids build a counterweight in Caleran:
-- the **Sealing Office** of chancery jurists;
-- an Ättar household guard sworn to the emperor's person;
-- gold contracts with Sestaran and Vortharan warlock guilds.
-
-**Corvenas II** (r. 861–884) launches the Second Crusade and is forced to abdicate. **Corvenas III** (r. 884–905) inherits the result (05.8).
-
-**After 612 the rump empire is organised in five parts.**
-- **The marches** (in-world "the kindled marches"). About a dozen frontier districts face the Velian belt, the desert edge and the western strait. Each is held under **one** charter-oath, re-sealed in the Fire and renewed at each accession before a witness on whom the Flame actually comes. Civil and military command sit in one sworn person, because two instruments would leave a seam a breach-court could serve. Land is held for service, tax-free. Frontier monasteries keep the standing witnesses, the hospitals and the remount studs.
-- **The interior provinces** are taxed from the old registers.
-- **The east** has kept its own revenue since 653 (05.6).
-- **The Sestaran cities** stand on revived pre-imperial charters (Vardessa's is the famous case). They sell ships and warlock contracts to the court instead of paying tax.
-- **The Kedravan coast** is held partly by settled Ättar crews serving as marines.
-
-**Tax and coin.** The treasury's base shrinks under three pressures: immunities, tax-free tenures and episcopal revenue. Yet the registers keep every lost northern province, because striking one off would concede a breach-court ruling in writing. Over 290 years that legal claim becomes the budget, and the registers overstate recoverable wealth by design.
-
-Gold stays heavy, because warlocks and foreign captains take nothing else. Soldiers' silver is debased in the eighth century and again after 878, so a soldier would rather hold a tenure than draw pay.
+- *Rejected:* the five-part table of the rump empire after 612 (marches, interior, east, Sestaran cities, Kedravan coast) as a reader structure. It is bureaucracy without story. The facts survive inside the narrative.
+- *Rejected:* "two instruments would leave a seam a breach-court could serve" in reader prose. Kept in authorial control.
 
 **Why.** Each change of house follows a change in who pays the army, and each turns on something only this cosmology has: tax bought out for relics, seals that hold only where the Flame answers, oaths that need a kindling witness.
 
-**What it changes downstream.** Thalmyria's military provinces, soldier-tenure and frontier monasteries descend from the marches. *Leovar* becomes the name of the emperors who held the line by oath, which makes Leovar III's choice of it a frontier commander's claim and his lamp-breaking an irony. The Ash Guard may descend from the Corvenid Ättar guard (option).
+**What it changes downstream.** Thalmyria's military provinces, soldier-tenure and frontier monasteries descend from the marches. *Leovar* becomes the name of the emperors who held the line, which makes Leovar III's choice of it a frontier commander's claim and his lamp-breaking an irony. The Ash Guard may descend from the Corvenid Ättar guard (option kept, unfixed).
 
-**Analog bent or replaced.** The analog is the Theodosian-to-Isaurian sequence. There is no Justinianic reconquest, and no war of exhaustion on the eve of invasion: the Vashar war is limited and 45 years early. The themes become legal marches, and the 717 siege becomes a 612 settlement made in court.
+**Analog bent or replaced.** The Theodosian-to-Isaurian sequence. No Justinianic reconquest and no war of exhaustion on the eve of invasion: the Vashar war is limited and 45 years early. The themes become sworn marches; the 717 siege becomes a 611 standoff.
 
-**Draft Torque Register entry.**
-> **The Kindled Marches (612–905 — the Byzantine themes).** TORQUE: the frontier provinces existed because a charter re-sealed in the Fire cannot be served, and one instrument per march was the only way to keep it whole. Each march was held under a single oath renewed at every accession before a witness on whom the Flame came; a march left unrenewed for a year and a day could be served like any dead-witness town. The military provinces were legal fortresses, the frontier monks were notaries of the Fire, and an emperor who would not ride to his marches could not call them. Thalmyria's military provinces descend from them.
+**Draft Torque Register entry.** Folded into a shorter entry; see [[#Integration patch]].
 
-**Articles to update on approval.**
-- `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`:
-  - add "The Atherian emperors after Vestian" (the four houses; Teomar, Leovar I–II, Corvenas I–III);
-  - add a Corvenas III entry (05.8).
-- `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`:
-  - replace "Weak emperors" with 446, 447–452 and 514, the end of the Decadence as Aurelium's historians reckon it;
-  - add 587, 709–713 and 884.
-- `01 Canon Reference/Peoples and Cultures/Atherian Empire/The Atherian Empire Overview.md`: replace "internal decline" with houses, immunities and marches.
-- `01 Canon Reference/Peoples and Cultures/Thalmyric Empire/40 Government and Institutions/Structure of the Empire Overview.md` and `.../50 Economy and Warfare/Thalmyric Armies and the Long Frontier.md`: trace military provinces and soldier-tenure to the marches.
-- `01 Canon Reference/Peoples and Cultures/Sestaran Concord/70 History and Conflicts/Historical Spine of the Sestaran Concord.md`: replace "Weak emperors lost practical control" with charter revival and the warlock trade.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ Four houses after Vestian; § The frontier as a country), [[Towns and Wars of the Long Frontier]] (§ The Two Oaths seen from the line), [[Prelude to Collapse]], [[The Guttering - Authorial Truth]] (§ The four houses; § The kindled marches).
 
-**Open questions.**
-- Is *Saldane* acceptable?
-- Should any Corvenid besides the three Corvenases be named? (I recommend not.)
-- Does the Ash Guard begin here or in the Reconquest?
+**Open questions decided.** *Saldane* accepted (no vault collision). No Corvenid besides the three Corvenases is named. The Ash Guard's descent is left as a Thalmyric claim.
 
 ### 05.2 The Guttering
 
-- [ ] Approve
+- [x] Approved with changes — the pass's central cause; retold as accession relics that stay dry, hymns that burn yellow, hermits who still kindle, and faked fire in the cathedral.
 
-**What happens.** From the late fourth century, rites performed by the imperial church's office-holders answer less and less. Accession relics that once wept oil stay dry. Palace choirs sing the battle hymns and nothing kindles. Meanwhile frontier hermits, hospital keepers, village priests and the lay brothers at the remount studs kindle much as before.
+**What happens.** From Vestian's death the palace's rites answer less and less while the frontier's go on. What people saw: accession relics that wept oil at Vestian's crowning stay dry at his son's; the palace choir sings the battle hymns over the army of 447 and the altar lamps burn yellow; great feasts in the cathedral of the Celestial Forum pass without a kindling; on the frontier a hermit's lamp takes the white fire over a dying shepherd, hospital keepers kindle at deathbeds, and the lay brothers of the remount studs sing over the foals whose descendants become Grey Sister's line.
 
-The court responds in three stages:
-1. **Concealment.** Failed rites are recorded as postponed.
-2. **Substitution.** The first **Shell-fire cohorts** are hired from Sestaran guilds in the 447–452 war. By the sixth century licensed warlock fire is the standard imperial incendiary, and hired Ättar crews and Folk auxiliaries fill ranks a church-backed muster no longer fills.
-3. **Counterfeit.** From the seventh century Shell-fire is sometimes used at ceremonies to imitate a kindling. That is fraud, and under canon it may create a breach.
+The court answers in three stages:
+1. **Concealment.** The palace calendar enters failed rites as *postponed*; in some years the postponements outnumber the feasts.
+2. **Substitution.** Sestaran Shell-fire cohorts from 447; licensed warlock fire becomes the standard imperial incendiary; Ättar crews and Folk auxiliaries fill the ranks.
+3. **Counterfeit.** **The Copper Lamp (681–683).** Leovar II's accession lamp flares white before the cathedral and Caleran rings its bells for a day. Two years later the unpaid Sestaran warlock sells his brass fire-cup and account to a Covenant factor at Sermora. The Patriarch calls it forgery; the Covenant files it. The file of counterfeit fire runs from this cup to Corvenas III's accession in 884.
 
-The third stage turns a spiritual decline into a legal catastrophe (05.4, 05.8). Later hinges repeat the pattern: the **Proof of Answering** (c. 640) ties an estate's immunity to its relic answering a test, rigged at Caleran and honest in the east (05.6); Cassian's Standard fails at Oronda (876); Corvenas III's rites produce nothing (905).
+**Why (authorial truth).** Nothing changes in the Flame; selection, purpose and coherence change in the people who call on it. Full text in [[The Guttering - Authorial Truth]].
 
-**Why (authorial truth).** Nothing changes in the Flame. Three things change in the people who call on it:
-- **Selection.** After Vestian, sees, choir places and relic custodies go to the loyal and to buyers. The share of officiants the Flame answers falls at court and in the rich sees, but not on the frontier.
-- **Purpose.** Court rites exist to confirm a succession, make a district submit or display possession. The Flame answers a person's righteousness and purpose, not an institution's need to be seen holding it.
-- **Coherence.** Commandment 7 demands sanctity *and coherence*. A witness who knowingly recites a false clause, such as a bought immunity or a forged boundary, gets nothing.
+**Contested in-world.** The name is a Thalmyric refuge chronicler's of the 930s: *in the palace the lamps guttered, and in the passes they burned.* Eclessian historians: **the Unexamined Centuries**, citing the surviving palace register of 794–812 in which a later hand turned *postponed* into *answered* thirty-one times. Covenant jurists: the Fire will not witness a breached title. Velians: Halmenth's warning. Sestaran humanists: a treasury's story told in incense.
 
-The cost structure holds. Sanctity cannot be bought, so the court's purchases yield nothing; the real price is paid in persons, from the bearers the crusade consumed to the frontier monks the marches depend on. Shell-fire has its own price: gold, training, instruments, elemental risk. The chancery's word for kindlings, *yields*, is the error in one syllable.
+- *Rejected:* the chancery word *yields* as reader vocabulary. It stays in authorial control as the error in one syllable; reader prose uses it once, in the Eclessian voice.
 
-**Contested in-world.** The name comes from a Thalmyric refuge chronicler of the 930s: *in the palace the lamps guttered, and in the passes they burned.* Others read the centuries differently:
-- **Eclessian historians** call them **the Unexamined Centuries**: the yields never fell, only the number of wonders anyone checked. They are partly right.
-- **Covenant jurists:** the Fire will not witness a breached title.
-- **The Velian Church:** it warned of exactly this at Halmenth.
-- **Sestaran humanists:** a treasury's story told in incense.
+**What it changes downstream.** As proposed: The Holy Fire's 950s battle manifestations gain a cause; the Freeflame "keeps no landlord" gains a case; the hymn-blessed studs gain keepers; the Vortharan specialists of 907 inherit court contracts to study Covenant script; the Kindling Question becomes the Guttering remembered from opposite ends.
 
-**Caleran and Veridun.** In 905 Caleran's rites were performed by a court whose purpose was to keep what it held, and nobody in the palace was under commission. The Ember went on burning through fifty-two years of occupation, but it neither defended the city nor went out.
+**Analog bent or replaced.** Gibbon's "triumph of barbarism and religion". The faith did not weaken the state; the state's ownership of the faith emptied its public results.
 
-Veridun in 906 was a refuge full of people intent on protecting the defenceless, beside Veridun Minor's hearth tradition, which had never been an endowed office. The Veil was a commission given for a city's need. Who was sent stays unresolved, and so does whether the storm was part of the answer. The Flame protects persons, not possessions.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ The Guttering; § How the age is remembered), [[Prelude to Collapse]], [[The Invasion and the Fall]] (the Veil sentence), [[Eclessia During the Invasion]] (§ Refuge and Estrangement), [[The Guttering - Authorial Truth]].
 
-**Refugee kindling in the 950s.** The office-church died with Caleran. The refuge leagues chose chaplains by service, and the march monasteries' living-witness rite, the one state rite that had kept kindling, became the model for the army chaplaincy. Most who fought the return fought to protect people. The reliability fades again once the restored empire re-endows its church. The Ashfall Omen of the 980s is the same pattern in its second generation; Leovar III's reading of it is his own, not the spine's.
-
-**The Kindling Question.** Veridun learned from the Guttering that office cannot command the Fire and only witnessed presence counts: theophany. Aurelium learned that unexamined claims hide fraud, and that its examined clergy kindled more reliably: protocol. Both lessons are true, and each church remembers half of the five centuries.
-
-**What it changes downstream.**
-- [[The Holy Fire]]'s "first documented battle manifestations" in the 950s gain a cause.
-- The Freeflame saying that the Fire "keeps no landlord" gains a historical case.
-- [[First Catch and Grey Sister]]'s hymn-blessed studs gain keepers: march lay brothers.
-- The Vortharan specialists of 907 inherit three centuries of court contracts in which they were paid to study Covenant script.
-
-**Analog bent or replaced.** This replaces Gibbon's "triumph of barbarism and religion". The faith did not weaken the state. The state's ownership of the faith emptied its public results, which moved to the frontier, the east and the refuge.
-
-**Draft Torque Register entry.**
-> **The Guttering (c. 395–905 — Gibbon's decadence).** TORQUE: the imperial church's rites stopped answering while the frontier's went on, because the Flame answers persons and purposes, not offices. The court hired Shell-fire to fill the gap, then used it to counterfeit kindlings — and counterfeit fire is a breach, so the empire's fraud became the defect its enemies served. The Flame did not save the capital with the most relics; it saved the refuge with the fewest. Both sides of the Kindling Question are the Guttering remembered from opposite ends.
-
-**Articles to update on approval.**
-- `01 Canon Reference/History/50 Redeemer and Conversion/The Long Frontier and the First Unsealing.md`: replace "weak imperial governments" with immunities, office-sanctity and hired fire, told in in-world voices.
-- `01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Holy Fire.md`: a short history of substitution and counterfeit.
-- `01 Canon Reference/Magic & Systems/20 Sacred and Restorative Magic/White Flame Doctrine.md`: add the Guttering as the example under "Institutional Risk".
-- `01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md` and `.../The Reclamation of Caleran.md`: one contested sentence each on why the refuge kindled.
-- `01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/Theological Schism with Eclessia.md`: the roots of theophany and protocol, without stating the authorial ruling.
-
-**Open questions.**
-- Should one partly falsified palace register of yields survive for Eclessian historians to attack? (I recommend yes.)
-- Should the counterfeit stage have a named first scandal?
-- Should reader articles use the Thalmyric name or a neutral one?
+**Open questions decided.** A partly falsified register survives (794–812). The first scandal is named: the Copper Lamp. Reader articles use the Thalmyric name with attribution, alongside the Eclessian one.
 
 ### 05.3 The Ubar Toll War, the Thin Floods and the end of Vashar, 514–560
 
-- [ ] Approve
+- [x] Approved with changes — a toll-road war, an ox plague and devils digging an oasis while children starve; Vashar's "service" retold as empty relay stations and a king's own carved promise turned on him.
 
 **What happens.**
-- **514–523, the Ubar Toll War.** In 500 Vashar holds the Ubar and the highland core, and its road commanders have become semi-hereditary. Teomar Saldane attacks it for the Ubar tolls and the approaches to Qahur's grain. The war is limited and costly. Atheria takes the Avesh corridor's western stations but cannot afford to garrison them. Vashar's western commanders, beaten and unpaid, stop answering the crown. Both crowns pledge future revenue against the debt. Both stop the stipends that had kept the Ahdari well-houses as clients for a millennium, and the well-country falls into feud. Mujalib (b. c. 510) grows up in it.
-- **546–552, the Thin Floods.** Five years after the revelation of 541, the Basin flood fails in five summers of seven, and highland snowmelt fails with it. From 548 an ox murrain, the **yoke-sickness** (proposed), kills plough cattle and road mules from the Basin to the Vasharan valleys. Camels are largely spared, so the settled world loses its traction while the desert clans keep their mobility.
-- **The Atherian north** loses its harvests too. The Saldane treasury, still paying war debt and warlock contracts, keeps Caleran's dole by requisitioning northern stores. The north remembers that the capital ate its seed grain.
-- **c. 549, the Covenant of the 4,444.** The bound dig the channels and the oasis at Al-Qahur through the worst years. Grain goes to those who seal into the Covenant, recorded by name. The Basin's canal councils enter for bread as much as belief.
-- **555–560, Vashar is served.** The Crown of Roads and Dawns ruled by the king's oath to keep the roads. Famine has emptied the relay stations and left the Dawn Road unkept. Covenant jurists serve the crown on its broken oath and rule it void. Road commanders and subject rulers, released from a forsworn king, seal with the Covenant on terms. A few highland valleys fight and are reduced by ordinary armies. The last King at Dawn is pensioned at the oasis.
-- **558, the Nine Wells.** The Tarkhan hold water by labour, burial and use, not by sealed instrument, so there is nothing to serve. The Covenant takes the wells by force in the worst year of drought. The later myth of **First Submission** is a service invented afterwards for a conquest that had none.
+- **514–523, the Ubar Toll War.** Teomar Saldane wants the toll on every bale that crosses the Ubar. A war of relay stations, bridges and wells; Atheria takes the Avesh corridor's western stations and cannot pay to hold them; Vashar's western commanders stop answering their king. Both crowns stop the well-house stipends, and the well-country falls into feud: fouled wells, broken guest-law, caravans that pay twice. Mujalib (b. c. 510) grows up in it.
+- **546–552, the Thin Floods.** Five failed Basin floods in seven summers; thin snowmelt. From 548 the **yoke-sickness**: plough oxen lie down in the furrows, road mules die in their traces; camels are spared. It reaches the Atherian north (decided: yes).
+- **The Granary Thief.** The Saldane emperor of the famine keeps Caleran's bread dole by sending requisition columns north. The north remembers the capital ate its seed grain. Along the grain road the famine dead travel in the bread carts; graves are opened; villages keep grave-watches. (The Feast-Raid corridor first placed on this road moves to the later frontier to agree with [[The Hunger Wars]]; see 05.7.)
+- **c. 549, the Bread of the Bound.** The 4,444 dig the oasis and channels at Al-Qahur day and night while children starve in the canal towns below; the grain goes to those who seal their names, one by one.
+- **555–560, the end of Vashar.** Its inscriptions repeat one promise in three languages: the king keeps the roads. By 554 couriers find the Dawn Road's stations cold and empty, the horses eaten, the keepers gone home. Covenant preachers ride the empty road reading Mazhara of Daryam's saying back to the road commanders. In 555 Covenant jurists declare the last King at Dawn forsworn; road commanders and the Ruzhan horse-lords seal for bread; highland valleys that fight are reduced by 560; the last king is pensioned at the oasis and dies there.
+- **558, the Nine Wells.** Taken by force in the worst year of drought; "First Submission" is later cover.
 
-**Why.** The war breaks the client network and the drought breaks the settled economy. The revelation comes first and the famine proves it: the Covenant's proof is food, not slaughter. Vashar falls to its own founding idea, Mazhara of Daryam's "a king's lie remains a lie when carved in three languages", turned on it by foreign lawyers. The method that later serves Atheria is first tried here.
+**Why.** The war breaks the client stipends and the drought breaks the settled economy; the Covenant's founding proof is food.
 
-**What it changes downstream.**
-- **The Qahirid origin.** Among the houses that seal for bread are horse-lords of **Ruzhan**, Vashar's high pasture country, who enter Covenant service as road and cavalry officers. Qahir ibn Ruzbeh descends from one of them; *Ruzbeh* is a family name kept for three centuries.
-- **The Vault of Names** may begin as the famine ration roll, where to be named was to be fed (option).
-- **The Nine Wells** gain a motive. The Covenant's lasting pattern follows: legal stalemate with peoples who hold charters, permanent war with peoples who do not.
-- **The north's grievance** explains why its magnates take terms in 568.
+**What it changes downstream.** The Qahirids descend from a Ruzhan house that sealed for bread; *Ruzbeh* is kept for three centuries. The north's grievance explains the magnates who took terms after 568. The Covenant's lasting pattern: legal stalemate with peoples who hold charters, permanent war with peoples who do not.
 
-**Analog bent or replaced.** The analogs are the 536 dust veil, the Justinianic plague, the war of 602–628 and Sasanian Persia's fall. Here the war is limited and comes 45 years early. The shock is drought and murrain rather than plague, and it follows the revelation instead of preceding it by seventy years. The empire falls by ruling, before Atheria is touched, with no royal flight east, and its converts become the officer class that later destroys Atheria. No date falls in AR 535–537 or 541–543.
+- *Rejected as canon:* the Vault of Names as the famine ration roll. Kept as one jurist's claim, contested by Witnessed-Seal teachers.
 
-**Draft Torque Register entries.**
-> **The Bread of the Bound (c. 549–556 — the Justinianic catastrophes).** TORQUE: the Covenant's founding miracle was famine relief. The 4,444 dug through the Thin Floods, grain went to those who sealed their names, and a revelation was proved by food.
+**Analog bent or replaced.** The 536 dust veil, the Justinianic plague, the war of 602–628 and Sasanian Persia's fall. The war is limited and early; the shock is drought and murrain; the empire falls by ruling, before Atheria is touched, and its converts become the officer class that later destroys Atheria. No date falls in AR 535–537 or 541–543.
 
-> **The Serving of Vashar (555–560 — the fall of Sasanian Persia).** TORQUE: Vashar was not conquered but served. Its kings ruled by an oath to keep the roads; famine left them unkept; Covenant jurists ruled the crown void, and road commanders released from a forsworn king sealed for bread. Their descendants became the Covenant's officers, and one house produced Qahir.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ The Toll War, the Thin Floods and the end of Vashar), [[Towns and Wars of the Long Frontier]] (opening), [[The Guttering - Authorial Truth]] (§ Vashar and the Bread of the Bound). Vashar, Nine Wells, Al-Qahur and the Covenant spine are in [[#Integration patch]].
 
-**Articles to update on approval.**
-- `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`: add 514–523, 546–552, c. 549 and 555–560.
-- `01 Canon Reference/History/30 Exodus and First Civilizations/Vashar and the Crown of Roads and Dawns.md`: add a closing section, "The end of the Crown, 514–560 AR".
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/70 History and Conflicts/Historical Spine of the Covenant.md`: the Thin Floods, relief and Vashar's submission.
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Al-Qahur/Al-Qahur and the Sacred Basin.md` and `.../10 Foundations/The Qahuri.md`: the famine and the bread of the bound.
-- `01 Canon Reference/Geography/Nine Wells of Tergai.md`: the drought motive; First Submission as a retroactive service.
-- `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`: Qahir's Ruzhan descent.
+**Open questions decided.** Pass 03 may settle the Basin's division otherwise; the reader prose says only that Vashar held the Ubar and the roads to the Basin's grain. Vashar's reigning house in 514 stays unnamed. The yoke-sickness reaches Atherian cattle.
 
-**Open questions.**
-- This file assumes the Qahur basin was divided in 500 AR; [[Causality Pass - 03 Age of Glory and the Bridge to 0 AR|Pass 03]] may settle it otherwise.
-- Should Vashar's reigning house in 514 be named?
-- Should the yoke-sickness reach Atherian draught animals too?
-- Should the Vault-as-ration-roll origin be canon, or one jurist's claim?
+### 05.4 The Unsealing, 568–612
 
-### 05.4 The Unsealing as a legal event, 568–612
-
-- [ ] Approve
+- [x] Approved with changes — "served, not fought" stays as one striking fact; the dead witness becomes towns waking to find their protector-stars silent, and the halt becomes a terrified standoff after both sides' wonders fail.
 
 **What happens.**
-- **Dead-witness charters.** The augur colleges witnessed municipal charters under the Stars: authorially, a Menhir witness bound to the living law of the Star rites. When Vestian ended the rites, the witness lapsed. No Atherian court recognised the defect, but Covenant law does: an instrument whose witness is extinct can be served. The dissolved colleges' families had sold their archives piece by piece, so the breach-courts knew which towns to visit first.
-- **How a service works.** The court demands the charter; refusing to produce it is default, and producing it exposes the defect. The ruling voids sovereignty, and terms follow: tribute, disarmament, restricted testimony, protected worship. It bites through the city's own contracts, not through devils. Garrison oaths, guild monopolies and debts hang from the master instrument, so when it falls the soldiers are released and the creditors panic. Half the north goes this way; cities that refuse are stormed by Qatada's human armies.
-- **575, the Dry Ford.** The northern commander believes that a court unable to protect its escort cannot lawfully serve. He leaves his walls to beat the escort and loses the northern field army to Qatada. The law did not say what he thought, and walls were the one thing a breach-court could not serve.
-- **From 587, the crusade of seals.** Leovar I's frontier bishops re-recite surviving charters before living witnesses. Where the Flame comes on the seal, the instrument is witnessed in the Fire and cannot be re-typed. Where a court cleric officiates and nothing comes, the seal is only wax. Where Shell-fire is substituted, the seal is fraud and the city forfeits its terms.
-- **Forged clauses.** Honest bishops will not recite clauses they know to be false. They seal **truncated charters**, which kindle but strip out the bought immunities and forged boundaries. Many magnates prefer Covenant terms, which confirm their estates for tribute, so collaboration has a motive other than cowardice.
-- **594–598, the First Crusade.** Leovar's armies hold the western field line at ruinous cost while bishops re-seal the towns behind it. Part of the ruin is the bearers, who kindled at sealing after sealing and were broken by it; the Thalmyric rule that bearers be rotated starts here. These kindlings happen at sealings, not in battle.
-- **597–603, the disputed seal.** After 597 every breach-court acts for a caliph whose own instrument is disputed, and defendants enter the **plea of the disputed seal**: *your court sits under an instrument nobody may open.* Sealed-Blood jurists refuse to serve in Uthar's name. In 598 Uthar, whose seal could be questioned, dismisses Qatada, whose authority was victory, and the field advance stops.
-- **598–612, the eastern sector.** Service continues where the crusade cannot reach. Its bishops will not witness charters for congregations condemned at Halmenth, and Nasriel's clergy hold that the Fire crowns a vessel and does not notarise an empire. The Velian cities are served under Uthar's seal. Around 610 they take Banu Mizan protection **without surrendering their charters**, which go into the **fireproof chests**. Zanthir becomes an emirate in 601.
-- **612, the Suspension.** The Banu Mizan broker an instrument between Leovar I and Uthar's successor. Along the line neither side will serve, storm or re-seal the other's instruments, and every disputed charter is held "neither void nor in force". Atherians call it the Long Frontier Peace; Covenant law calls it the Suspension.
+- **Silent stars.** Many northern towns swore their charters under the Stars before augurs and kept a charter-day when the oath was read at the gate under the town's protector-star. Vestian closed the temples and the readings stopped. A breach-court asks to see the charter and its witness: a college that no longer exists and a star nobody has asked anything of in two centuries. The exiled augur families have sold their archives; a dead college's charter list costs the price of a horse in a Sestaran market.
+- **What a voided charter felt like.** A fever breaking: garrisons released from their oaths walk home with their pay chests, creditors besiege counting-houses, gates open from inside. Terms: tribute, surrender of arms, limits on testimony, protected worship. Towns that refuse are stormed.
+- **575, the Dry Ford.** The northern commander rides out to kill a court's escort, believing a court that cannot protect its escort cannot sit; Qatada is waiting.
+- **From 587, the crusade of seals.** Hermit-bishops read surviving charters again before living witnesses. Where the Fire stands on the wax, no court ever voids the charter; where a court cleric officiates and nothing comes, it is wax; where a warlock is hidden behind the screen, the town loses its terms. Honest bishops stop at the lies, and bought immunities fall out of the new seals.
+- **594–598, the First Crusade.** The field line holds at ruinous cost; bearers kindle at sealing after sealing and break, some going blind; the rotation rule begins.
+- **597–598.** Defendants plead the disputed seal at their gates. Uthar dismisses Qatada; the field advance stops.
+- **598–612, the east.** Halmenth's bishops will not witness Velian charters and Velian clergy will not ask; the Velian cities are taken under Uthar's seal; c. 610 they take Banu Mizan protection and lock their charters in fireproof chests.
+- **611, Tamsar.** A breach-court reads its ruling at the gate of a march town re-sealed in the Fire in 607, and nothing yields; two days later the palace choir sings before both armies and the Caleran reliquary's lamps burn yellow; that evening a Sealed-Blood jurist on a wagon tells the Covenant soldiers their court sits under a seal nobody dares open. Neither commander gives battle.
+- **612, the peace.** The Banu Mizan broker it. No service, storm or re-seal along the line; disputed charters "neither void nor in force". Atherians: the Long Frontier Peace. Covenant law: the Suspension.
 
-**Why it stops in 612.**
-1. Charters re-sealed in the Fire cannot be served, and the line of 612 is roughly where they held.
-2. After 597 every service is contestable.
-3. Qatada's dismissal ends the field war.
-4. The founding clause bars the 4,444 from conquest (05.5).
-5. Garrisons and famine country must be fed, and the Covenant is dividing among caliphs, Qazmarid and the Banu Mizan.
-6. Each side holds a proof it dares not test, and the Suspension writes that fear into law.
+**Why it stops.** As proposed (six reasons), now with Tamsar as the event in which they became visible. Full text in [[The Guttering - Authorial Truth]].
 
-**What it changes downstream.**
-- **The chests become a Held Proof.** If the Fourth Seal were proved forged, every service made in Uthar's name would fall and the Velian charters would revive. Qahirid interest in never opening the Fourth Seal is territorial as well as dynastic, and Qazmarid has a standing interest in the chests.
-- **The registers' fictional north** and Thalmyria's claim to unrecovered provinces begin here.
-- **The Velian belt's unequal status** has a legal origin: a suspended judgement, not a conquered province.
+- *Rejected:* "How a service works" (default, production, the master instrument) as reader prose. It is the courthouse the creator objected to; the effects survive as what townspeople felt.
+- *Rejected:* "the plea of the disputed seal" and "the Suspension" as reader headings. Both stay as quoted phrases.
 
-**Analog bent or replaced.** The analogs are the Arab conquests and Khalid's dismissal. Most battles become services. The dismissal turns on the disputed seal, not palace jealousy. Above all the halt has no analog: real expansion ran on for a century and stopped at walls and Greek fire, while this one stops at a stalemate in which both sides fear a test. The heresy that costs the empire a province is its own.
+**What it changes downstream.** The chests become a Held Proof; the registers' fictional north begins; the Velian belt's unequal status has a legal origin; Tamsar is the first recorded deterrence by unopened proof.
 
-**Draft Torque Register entries.**
-> **The First Unsealing (568–612 — the Arab conquests).** *Add to the existing entry:* The defect served was usually the dead witness: charters sealed under the Stars lost their witness when Vestian ended the Star rites, and nobody noticed until a foreign court did. The conquest stopped where frontier bishops had re-sealed charters and the Flame had come, and because after 597 every breach-court sat under a disputed seal.
+**Analog bent or replaced.** The Arab conquests and Khalid's dismissal. Most battles become services; the dismissal turns on the disputed seal; the halt has no analog.
 
-> **The Suspension (612 — no analog).** TORQUE: the Long Frontier Peace was a suspended judgement — neither side would serve, storm or re-seal along the line, and every disputed charter was held "neither void nor in force". It is the first recorded deterrence by unopened proof. The Velian charters in their fireproof chests wait on it still: if the Fourth Seal is ever proved forged, every service made in its name falls.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ The First Unsealing), [[Towns and Wars of the Long Frontier]] (opening), [[The Disputed Fourth Seal]] (§ The Seal on the Frontier), [[The Velian Church]], [[Historical Atlas of the Velians]], [[The Fourth Seal - Authorial Truth]] (§ The Frontier Stake), [[The Guttering - Authorial Truth]] (§ The Unsealing).
 
-**Articles to update on approval.**
-- `01 Canon Reference/History/50 Redeemer and Conversion/The Long Frontier and the First Unsealing.md`: rewrite "The First Unsealing" around service, the crusade of seals and the Suspension; correct "south and east".
-- `01 Canon Reference/History/10 Chronology and Control/The Divergence Pass — Torque Register.md`: the amendment and the new entry.
-- `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`:
-  - add 575, 587 and 598;
-  - add 612 as the Suspension;
-  - gloss the First Crusade: "the field line held while service continued in the east".
-- `01 Canon Reference/History/50 Redeemer and Conversion/The Velian Church.md` and `01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md`: the refused witness, service under the disputed seal, the chests.
-- `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`: Qatada was dismissed by Uthar, whose seal was disputed.
-- `01 Canon Reference/History/70 Later History and Present Day/The Age of Held Proofs - Authorial Control.md`: add the Velian chests; note 612 as the structure's root.
-- `01 Canon Reference/History/50 Redeemer and Conversion/Towns and Wars of the Long Frontier.md`: open with the Suspension line.
-
-**Open questions.**
-- Does Pass 04 accept augurs as charter witnesses and the Menhir lapse? If not, the defect must come from the colleges' dissolution as legal persons.
-- Did any court-witnessed re-seal hold? I recommend a few, where a court cleric happened to be holy.
-- Where exactly was the field line of 594–598?
+**Open questions decided.** Reader prose stands on either reading of Pass 04 (augurs as witnesses, or the colleges' extinction as legal persons). A few court-witnessed re-seals held where the cleric happened to be holy. The field line is left unmapped; Tamsar lies on the Velian road.
 
 ### 05.5 The Clause of the Given and Qahir's loophole
 
-- [ ] Approve
+- [x] Approved with changes — the best single cause of the Fall's engines; told through devils who dig and never march, and capture companies going down into Hell.
 
-**What happens.** The recited Covenant of the 4,444 binds the offices to dig, lift, carry, keep and guard the precinct. It also says that the bound "shall take nothing that is not given". This is **the Clause of the Given**, a proposed translation; the native form should follow the locked Covenant register. Witnessed-Seal jurists read it for three centuries as barring the 4,444 from conquest. From 568 to 905 the Covenant therefore fights with human armies, contract logistics, pure-pattern siege engines and breach-courts. Its one supernatural weapon of conquest is law.
+**What happens.** The recited Covenant of the 4,444 binds the offices to dig, lift, carry, keep and guard and says the bound "shall take nothing that is not given". For three centuries the jurists read it as barring the 4,444 from conquest; the devils dig the oasis and never march. In 885–886 Qahir obtains from the college at Al-Qahur the **Ruling on Parties**: the Clause binds parties, not powers. A beast captured in mapped Hell, a condemned man's forfeited name and a nameless construct are party to nothing. Capture companies go down routes into Hell mapped by Banu Mizan scholars and breach-assessors; foundries hammer name-cages fed from the breach-courts' death sentences. The *people of the Clause* lose and are still taught.
 
-In 885–886 Qahir obtains a ruling from the college at Al-Qahur: the Clause binds **parties**, not **powers**. On that reading three things fall outside it:
-- a captured Depth beast from mapped Hell was never sealed into anything;
-- a condemned man's name is forfeit by sentence, or so the jurists claim;
-- a pure construct has no name.
+**Why.** Consent, the Creditor and Commandment 7, as proposed; see [[The Guttering - Authorial Truth]].
 
-From this ruling come the Depth-Core, Slave-Soul and Surrender lines, standardised 885–902. A minority, remembered as the *people of the Clause*, argue that a covenant of provision cannot be honoured by conquering with what it did not name. They lose, and their argument is still taught.
+**Why not before 885.** Route-registries took generations; the ruling needed a strong patron; until 884 the Suspension left nothing to use it on.
 
-**Why.**
-- **Consent.** Mujalib's tribes sealed a covenant of water in a famine, not of war, and a clause they did not consent to would not have bound them.
-- **The Creditor** (author-only). A revelation proved by provision is the deeper hook, and a devil-host at Caleran's gates would have been visible, whereas the Creditor works at three removes. Whether it later profits from the name-cages is left open.
-- **Commandment 7.** Contracts demand names, consent, loopholes or coercion: the founding covenant shows the first two, Qahir's ruling is the loophole, and the Slave-Soul line is coercion. Canon is explicit that no sentence makes it lawful: the captive remains a complete human soul, imprisoned.
+**What it changes downstream.** [[Covenant Siege Golems]] gains a legal history; the engines, party to nothing, cannot be voided by breach-courts, so only Vortharan counter-scripts answer them; every replacement engine reopens the Clause in 1360.
 
-**Why not before 885?** Capturing Depth fauna needed route-registries of mapped Hell, compiled slowly through the Long Frontier. The ruling needed a patron strong enough to force it. And until 884 the Suspension left a new weapon nothing it could lawfully be used against.
+- *Deferred, not rejected:* the Clause's native name. *The Clause of the Given* is a translation convention; the native form belongs to the locked Covenant register.
 
-**What it changes downstream.** [[Covenant Siege Golems]] gains a legal history. Being party to nothing, the engines cannot be served either, so Atherian chanceries have no legal answer to them, only Vortharan counter-scripts. Every replacement engine reopens the Clause in 1360.
+**Analog bent or replaced.** Ottoman gunpowder and Urban's bombard. The foundry is kept, made possible by a ruling on a clause the analog lacks, at a moral cost the source lacks.
 
-**Analog bent or replaced.** The analog is Ottoman gunpowder and Urban's bombard. The foundry is kept, but it becomes possible through a court ruling on a clause the analog has no equivalent of, and at a moral cost the source lacks.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ Qahir's engines), [[The Invasion and the Fall]] (§ Qahir's machine), [[Covenant Siege Golems]] (§ Historical Register), [[The Guttering - Authorial Truth]].
 
-**Draft Torque Register entry.**
-> **The Clause of the Given and the Ruling on Parties (c. 549; 885 — Ottoman gunpowder).** TORQUE: the Covenant fought three centuries without devils because the 4,444 were sealed to "take nothing that is not given". Qahir's revolution was a ruling, not a forge: the Clause binds parties, not powers, and a captured Depth beast, a condemned man's forfeited name and a nameless construct are party to nothing. The foundries followed the jurists, and the dissent of the people of the Clause has been outvoted, never answered.
-
-**Articles to update on approval.**
-- `01 Canon Reference/Creatures/80 Ancient and Crafted Legacies/50 Covenant War Constructs/Covenant Siege Golems.md`: add the Ruling on Parties to the Historical Register.
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md`: the Clause as a recited term, and its dissenting school.
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/50 Economy and Warfare/Covenant Armies and the Tarkhan Frontier.md`: the jurists' role in engine policy.
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/10 Foundations/Ahl-e-Ahd Canon Register.md`: lock the Clause and the ruling.
-
-**Open questions.**
-- Who compiled the routes into mapped Hell: Banu Mizan scholars, breach-assessors, or both?
-- What is the Clause's native name?
+**Open questions decided.** The routes into mapped Hell were compiled by Banu Mizan scholars and breach-assessors together. The native name is deferred.
 
 ### 05.6 The eastern drift and Simeon's primacy
 
-- [ ] Approve
+- [x] Approved with changes — an honest test made cheap by a shipwreck; the Proof of Answering is reduced to a rigged relic test, and the examined relic becomes the Velos Standard.
 
 **What happens.**
-- **The 400s.** The immunity sales favour the great eastern monasteries, and eastern bishops become landlords. In the famine of 546–552 they hand out grain where governors have none.
-- **653.** A squall sinks the fleet carrying the eastern tax grain to Caleran. The court cannot replace it and lets the eastern bishops collect and spend the revenue locally "for one year". The arrangement is never ended.
-- **The Proof of Answering (c. 640).** At Caleran a failed test sends revenue to rivals, so tests are rigged. In the east after 653 the bishops collect the tax either way, so honesty costs them nothing and they test honestly. Aurelium, a see of readers and copyists since the Underground Centuries, keeps the results in a **register of answered fire** (proposed name): which relics answer, which never did, which clergy kindle. Bishops begin to promote from it.
-- **Simeon of Aurelium** (role and dates proposed; bishop c. 694–731). In 711 the Caleran claimant in the War of the Two Oaths sends a famous court relic east to rally the provinces. Simeon examines it publicly and records it **silent**. He refuses the summons and holds the eastern governors' oaths "in trust for the emperor who proves lawful". In 713 Corvenas I confirms Aurelium's **right of examination** over relics presented in the east for imperial purposes, because the precedent served him. That grant is **Simeon's primacy**, the primacy of the see that examines over the see that keeps. Bonifac III demands that Veridun acknowledge it in 1015.
-- **The 700s–800s.** Bishops become the east's civic governors in practice, running grain, walls, courts and the register. Markish lords of the eastern marches hold the Tarkhan and Folk frontiers and take their oaths from bishops in trust. Ironvale's forges serve the east, not Caleran.
-- **874 and 905.** Aurelium will not back the Second Crusade without examining its standard. In 905 the east does not march: no examined summons comes, and its revenue and soldiers are its own. Its charters, re-sealed before register-tested witnesses, mostly hold, so the Covenant must fight at Crown Gate Pass in 907, where it loses.
-- **By 975.** The bishops already supply one register, one examined law and a habit of holding oaths in trust. A Markish king can join their principalities into a crown. When a Primarch crowns him in 1002, the east reads it as the old trust, not as usurpation.
+- **The 400s–500s.** Immunity sales make the great eastern monasteries landlords; in the Thin Floods their bishops hand out grain.
+- **The 640s.** A short-handed treasury rules that a relic estate keeps its tax freedom only while its relic answers a test. At Caleran the tests are bought.
+- **653.** A Thalassian squall sinks the eastern tax fleet; the court lets the eastern bishops keep the revenue "for one year", and the year is never ended. The east now tests honestly because it keeps the money either way, and Aurelium keeps the **register of answered fire**.
+- **711, Simeon's examination.** The Caleran claimant sends the **Velos Standard**, the battle standard the court holds Cassian carried at the Stone Bridge, east to rally the provinces. Simeon sets it up in Aurelium's cathedral and examines it before the people for three days; the lamps burn yellow. He records it silent and holds the eastern oaths in trust. In 713 Corvenas I confirms Aurelium's right of examination: Simeon's primacy. Caleran says Simeon lied for a rebel.
+- **The 700s–800s.** Bishops run grain, walls, courts and the register; Markish lords take their oaths from bishops in trust; Ironvale's forges work for the east.
+- **874 and 905.** Aurelium will not join the crusade without re-examining the Standard; in 905 no examined summons comes and the east does not march. Its charters, re-sealed before tested witnesses, hold, so the Covenant must fight at Crown Gate.
+- **1002.** Much of the east reads Adalmar's coronation as the old trust over oaths made visible.
 
-**Why (authorial truth).** Protocol worked in the east because the register selected and formed holy clergy, which the authorial ruling allows. Grace itself was not governable. Simeon's verdict, refusing a civil-war summons, was right in outcome and possibly wrong in reasoning: the relic may have been genuine and silent because of the purpose it was sent for. I recommend that the spine hold that it *was* genuine. If so, the protocol tradition's founding verdict condemned a true relic for the wrong reason, a secret neither church could survive learning.
+**Why (authorial truth).** The Standard is genuine and was silent because of what it was sent to do. See [[The Guttering - Authorial Truth]].
 
-**What it changes downstream.** The Commission of the Pen, the Council of Aurelia (946) and the Doctrine of the Ember Seat gain precedents. "Simeon's primacy" gains a meaning. Eclessia's survival in 905–908 gains causes beyond geography. Adalmar no longer comes from nowhere, because the east had governed itself for 250 years.
+- *Rejected:* "the Proof of Answering" as a named institution in reader prose. It survives as a rigged test.
 
-**Analog bent or replaced.** The analogs are the papacy's rise, Gregory the Great's grain administration, the Donation of Constantine and Pepin. There is no forged donation. The see's authority comes from an honest test made cheap by an accident, and its founding verdict may be wrong. The coronation precedent is a trust over oaths, not a transfer of empire.
+**Analog bent or replaced.** The papacy's rise, Gregory's grain, the Donation and Pepin. No forged donation; the see's authority comes from an honest test made cheap by an accident, and its founding verdict may be wrong.
 
-**Draft Torque Register entry.**
-> **Simeon's Examination (711 — the rise of the papacy).** TORQUE: Aurelium's primacy began with a negative result. Simeon tested a court relic sent to rally the east for a claimant, recorded it silent and held the eastern oaths in trust; the winner confirmed his right to examine because it suited him. The east could afford honest tests because, since the tax fleet sank in 653, its bishops kept the revenue either way. Protocol was born where the truth was cheap.
+**Promoted to.** [[Eclessia During the Invasion]] (§ Before the Fall; § The Fall Reaches the East; § The Third Crusade; § Toward Adalmar), [[The Long Frontier and the First Unsealing]] (§ The frontier as a country), [[The Invasion and the Fall]] (§ The Northern Advance Breaks).
 
-**Articles to update on approval.**
-- `01 Canon Reference/Peoples and Cultures/Eclessia/20 Faith and Worldview/The Consolidation of the Eclessian Church.md`: new opening section, "Before the Fall" (653, the register, Simeon, the trust).
-- `01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md`: why the east did not march and why it held.
-- `01 Canon Reference/History/60 Fall and Successor Empires/The Great Split — Two Crowns, One Fire.md`: gloss "Simeon's primacy" in an in-world voice.
-- `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`: a Simeon of Aurelium entry.
-- `01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Historical Atlas of Eclessia.md`: episcopal government before 905.
-
-**Open questions.**
-- Was Simeon's relic genuine? (I recommend yes, as an author-only secret.)
-- Which relic was it? One that later enters the Ash Hall would connect to the [[Ash Hall District]] inventory hook.
-- Should Pass 04 give Aurelium an earlier examining habit?
+**Open questions decided.** Simeon's relic was genuine (author-only). It is the Velos Standard, which later fails at Oronda and enters the Ash Hall. Pass 04 may give Aurelium an earlier examining habit (its sealed register of the Second Silence fits).
 
 ### 05.7 The Long Frontier's political spine, 612–885
 
-- [ ] Approve
+- [x] Approved with changes — the frontier becomes a country of marches, monks, ferries, water-courts and corpse roads; the hearings and the "paper war" shrink to seasoning; a saint's war in the 860s gives the Second Crusade its emperor's motive.
 
-**What happens.** Peace along the line is a legal arms race.
+**What happens.**
+- **The line as a country.** Kindled marches with standing witnesses, hospitals and remount studs; watch-towers on both sides lighting fires for the same raiders; ferrymen with two tolls and two calendars; funeral parties crossing under safe conduct on the corpse roads, with grave-watches along them; Banu Mizan translation houses, water-courts at the canal heads, libraries; Rab Yequtiel. Covenant commanders keep still through Atheria's civil war of 709–713 because crossing would open the peace.
+- **The frontier lives**, told with their historical effects: the Clerk of a Hundred Wells, the Mason of the Ninth Bastion, the Chain-Bearer of Sarrat, the Bitter Reaper, the Reader and the Smith, the House of Divided Instruments, the School of the Open Cinder, the Night Procession, the Rule of Five Closures, the Saint of Five Remembered Wings.
+- **c. 800–872, hollowing.** The Sealing Office finishes failed accession rites with warlock fire; Covenant breach-assessors add each case to the file begun with the Copper Lamp; Banu Mizan power passes to military households.
+- **The river marches in the 860s** (new). Floods and raiders drive the garrisons back from the lower fords, and two rescues are told together, as in [[Saints and Sinners of the Chronicles]]. About 866 a host led, by soldiers' account, by a drowned ferrywoman, **the Captain of the Sacrificial Wind**, holds the road behind a convoy. When the convoy is safe, the army's commander, carrying Corvenas II's orders, demands she lead them into the Velian belt; the host withdraws, and an officer who charges on without support dies with his followers. Caleran never records her; Velian songs claim her; Aurelium registers the rescue. Separately, a drowned-banner cult takes children as levies after a safe crossing; the ferry is cut loose; the river towns still unfasten a boat's rope once a year.
+- **872–874, why the crusade.** The emir's death and the regent's oath; the failed harvest of 872–873 and the wedding of the last store; registers believed; a Covenant that looked divided; and above all Corvenas II's belief that the Velos Standard would do what the Captain had refused.
+- **874–878.** The Velian cities shut their gates; before Oronda in 876 the Velos Standard is raised and nothing comes, while the Velian clergy light one lamp on the walls; the crusade collapses with its prisoners unransomed. An enclave on the stripped river marches takes a Mask's protection; the Beloved Standard's seizure fails.
+- **884–885.** Qahir, who made his name defending the belt, obtains the ruling that Atheria broke the peace of 612. The march commanders force Corvenas II to abdicate. Qahir's officers end Banu Mizan rule in the belt; a Banu Mizan line keeps Zanthir as tributary emirs.
 
-- **612–c. 680, hearings at the line.** Breach-courts summon march towns to show their seals at border sittings; refusal is default, and production risks exposure. The marches answer by keeping a standing witness at every frontier monastery. Covenant jurists develop the **plea of counterfeit fire**: proof of Shell-fire at a sealing voids the instrument.
-- **c. 680–800, the paper war.** The Banu Mizan golden age: the Suspension makes the Velian belt rich, since the Banu Mizan take its tribute while Atheria cannot lawfully reclaim it. Sestaran notaries sell opinions to both sides; Jirahar physicians and jurists, Rab Yequtiel among them, work across the line. Neither side exploits the other's civil wars, because doing so would open the Suspension.
-- **c. 800–872, hollowing and evidence.** The Sealing Office routinises accession re-seals with court clergy and, when nothing comes, with Shell-fire. Covenant breach-assessors quietly gather a file of counterfeit fire, while Banu Mizan power passes to military households.
+- *Rejected:* "612–c. 680, hearings at the line" and "c. 680–800, the paper war" as the frame of the period. Border sittings appear once, in the author-only Towns and Wars article.
+- *Rejected:* "Ruling of the Broken Suspension" as reader vocabulary. Reader prose says Qahir obtained a ruling that Atheria had broken the peace of 612.
 
-**Who started the Second Crusade, and why after 260 years.** **Corvenas II**, urged by the Sealing Office jurists and the Patriarch of Caleran. The march commanders opposed it, and Aurelium refused to join without an examination. Four things moved him:
-1. **A pretext that looked safe.** The Banu Mizan emir dies in 872, leaving a child. The Velian compacts require renewal by the emir's own oath within a year and a day. The regent renews them, and Caleran's jurists argue a regent's oath is void. The compacts have lapsed, they say, the suspended charters revive, and an army can march to *receive* the Velian cities without testing any seal.
-2. **Grain.** The heartland harvest fails in 872–873, and the Velian districts are the nearest grain.
-3. **Belief in the registers.** A court that had carried the lost north for 260 years had come to believe its books.
-4. **The Covenant looked divided.**
+**What it changes downstream.** Prelude's "the frontier could not be repaired by ceremony" becomes literal. The Velian refusal of 874 explains collaborator-heretic suspicion and Velian distrust of liberation. Qahir's legitimacy rests on a legal victory before a military one. Thalmyric doctrine's "first documented battle manifestations" in the 950s stands: Caleran declined to document the Captain.
 
-**874–878.** The Velian cities shut their gates. They had accepted the regent's renewal, they remembered Halmenth, and they would not open the chests in a war. The crusade has to besiege. Before Oronda (proposed) in 876, with both armies watching, the standard carried as Cassian's is raised and does not kindle. The capital's hollowness is exposed in the one place it cannot be hidden. The crusade collapses in 878, leaving many prisoners whom the treasury cannot ransom.
+**Analog bent or replaced.** The thughur and akritai, and Umayyad al-Andalus. The crusade is a lawyer's adventure undone by its own pretext; the war of the 860s has no analog.
 
-**What ends the Long Frontier proper.** Qahir ibn Ruzbeh made his name defending the Velian belt in 874–878. In 884 he obtains from the Witnessed-Seal college the **Ruling of the Broken Suspension**: by attacking on the pretext of a lapse, Atheria breached the instrument of 612. The Suspension is void and service may resume.
+**Promoted to.** [[The Long Frontier and the First Unsealing]] (§ The frontier as a country; § Saints and sinners of the frontier; § The late frontier; § The Second Crusade and the broken peace), [[Towns and Wars of the Long Frontier]], [[The Velian Church]], [[Historical Atlas of the Velians]], [[The Guttering - Authorial Truth]] (§ The Captain of the Sacrificial Wind; § Oronda and the broken peace).
 
-In 885 Qahir's officers take the Velian client courts from the regency, ending Banu Mizan rule in the belt; a Banu Mizan marriage line keeps Qabir as tributary emirs, "the last pearl". Also in 884, the march commanders force Corvenas II to abdicate.
-
-**What it changes downstream.** Prelude's line that 878 showed "the frontier could not be repaired by ceremony" becomes literal. The Velian refusal of 874 explains why reconquest authorities later treat Velians as collaborators, and why Velians distrust liberation. Qahir's legitimacy rests on a legal victory before a military one.
-
-**Analog bent or replaced.** The analogs are the Byzantine–Arab thughur and akritai, and Umayyad al-Andalus. The border war becomes a war of hearings. The crusade is a legal adventure undone by its own pretext, and the dynasty's rise begins with a court ruling against the aggressor.
-
-**Draft Torque Register entry.**
-> **Oronda and the Broken Suspension (876; 884 — no direct analog).** TORQUE: the Second Crusade marched to receive cities whose protection it claimed had lapsed; the Velians shut their gates, and before Oronda the standard carried as Cassian's did not kindle in front of both armies. Eight years later Qahir obtained the ruling that ended the Long Frontier: by attacking, Atheria had broken the Suspension, and service could resume. The empire handed its enemy the loophole.
-
-**Articles to update on approval.**
-- `01 Canon Reference/History/50 Redeemer and Conversion/The Long Frontier and the First Unsealing.md`: rewrite "Three centuries of ordinary coexistence" and "The peace ends".
-- `01 Canon Reference/History/50 Redeemer and Conversion/Towns and Wars of the Long Frontier.md`: the border sittings and standing witnesses.
-- `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`: add 872, 876, 884 and 885.
-- `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`: Banu Mizan (rule ends 885; the Qabir remnant) and Qahir (Ruzhan descent; the Ruling).
-- `01 Canon Reference/Peoples and Cultures/Velian/70 History and Conflicts/Historical Atlas of the Velians.md`: 874 from the Velian side.
-- `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/70 History and Conflicts/Historical Spine of the Covenant.md`: the Ruling ends the Long Frontier.
-
-**Open questions.**
-- Is *Oronda* acceptable?
-- Should the crusade's commander be named? (I recommend not.)
-- Was the standard genuinely Cassian's? (I recommend genuine, and silent for the same reason as Simeon's relic.)
+**Open questions decided.** *Oronda* accepted (no vault collision). The crusade's commander stays unnamed. The Standard was genuine and silent for the same kind of reason as in 711 (author-only). Whether the Velian lamp at Oronda kindled is deliberately unresolved.
 
 ### 05.8 The Fall re-caused, 885–905
 
-- [ ] Approve
+- [x] Approved with changes — the trap stays and is told in in-world voices; the Surrender train, Sarion the Pale, the Borrowed Temple, the children of the old house and the engineers' Red Star carry the strangeness.
 
-**What happens.** Five pressures converge.
-1. **Money.** The registers carry a north lost 290 years earlier. An honest muster would show empty depots, and striking the north off would concede it.
-2. **The Guttering.** Corvenas III's own accession re-seal in 884 was finished with Shell-fire when the court witness failed. Covenant intelligence, gathered through traders, water courts and contract archives, has the file.
-3. **The east** will not move without an examined summons.
-4. **The law.** The Suspension is void, and every march is legally bound to its ground. Leaving without a kindled summons would breach the march oath and expose the march to service.
-5. **Qahir's machine**, which is an industry, not five monsters.
+**What happens.** Five pressures converge: money (the registers' lost north), the Guttering (Corvenas III's accession rite finished with warlock fire, and the Covenant has the file), the east (no examined summons), the law (marches bound to their ground) and Qahir's machine (an industry, not five monsters).
 
-**The machine.** By 902 the Covenant fields:
-- capture companies working the routes into mapped Hell;
-- name-cage foundries fed by a **foundry docket** of breach-court death sentences. As an option, the first cages hold Second Crusade prisoners Caleran never ransomed, condemned under the 884 Ruling.
-- Shell extraction from Covenant-held anchors;
-- coerced Ahdanite levies trained as engineers and foundry crews;
-- Vault-sealed supply contracts;
-- the **Surrender line**, still only lesser engines and siege tables travelling with the breach-court train, which read each district's title and offer each district its own terms: service mechanised.
+- **The machine.** Capture companies; name-cage foundries fed by a docket of death sentences, the first cages holding Second Crusade prisoners Caleran never ransomed (adopted: Thalmyric "martyr irons" is literal, told in reader prose as Thalmyric belief); Shell extraction; coerced Ahdanite engineers; Vault-sealed supply; the Surrender line as lesser engines and siege tables travelling with the breach-court train. Five great golems: three Depth-Core, two Slave-Soul.
+- **Corvenas III's trap.** Every remedy needs a public test: ride to the marches and kindle a summons; concede the north in writing; submit his relics to Aurelium. He chooses the rites inside Caleran and the Ash Hall, a collector's faith that enough holy things under one roof must bring the Fire. A palace rumour says he tried the summons alone and nothing came (true, author-only).
+- **The Jubilee, 903–904, and Sarion the Pale** (restored from the superseded Prelude draft). A march monk preaches in the Forum: *"The inked ones are coming. They walk with chains and offers of peace. The crown will burn in silence."* He is stoned the next day; his words go on a memorial wall after 957. Sceptics say he had been a chancery clerk and knew about 884.
+- **902–905.** Qahir dies; Idris leads. The breach-court train serves Caleran district by district on a charter last re-sealed with warlock fire; guild quarters with honest instruments open their gates; Ättar marines sail for Kedrava; a late Aurin flood holds the southern levies; the bravest march commanders come on written orders and their marches are served behind them. The great engines come only after the city has split, to two points on the land walls. Thalmyric tradition says the Red Star showed the engineers those points at the price of a lesser engine broken under the test load (adopted, Direction decision 2; author-only truth: yes). Corvenas III's death is told three ways.
+- **The Borrowed Temple (IP-06, c. 905–907)** and **the children of the old house (HC-N13, c. 907)** enter the reader article as told versions with their saints restored.
 
-The five great golems, three Depth-Core and two Slave-Soul, are the visible capital. They are brought to two points on Caleran's land walls only *after* the Surrender train has split the city.
+**Why.** The Fall needs no bad man, only five pressures meeting an enemy who had turned law into industry. Corvenas's piety is the shape his trap took.
 
-**Corvenas III's trap.** He is sincerely devout, and every remedy needs a public test:
-- to call the marches he must ride to them and kindle a summons, and failure there would void every march charter at once;
-- to reform the treasury he must concede the north in writing;
-- to win the east he must submit his relics to Aurelium.
+- *Rejected:* "Corvenas III faced tests he could not afford to fail" as the reader framing. Reader prose tells the trap through what Thalmyric, Eclessian and Covenant writers said about it.
 
-So he does what the capital can hide. He holds rites inside Caleran and issues *written* orders for partial mobilisation, which cannot lawfully move a march. The bravest commanders come anyway, and their marches are served behind them. The Ash Hall is the Guttering's purest error: a collector's attempt to gather enough holy objects that the Fire *must* come. A palace rumour, never confirmed, says he tried the summons alone the night before the rites and nothing came.
+**What it changes downstream.** As proposed: Thalmyria learns that the emperor must go to the frontier and that registers lie; Eclessia that institutions must survive without the capital; the Covenant takes a capital half by law, which is why Idris impounds the Ember; Vortharan counter-scripts work in 907 because Vortharans had studied Covenant script for the court.
 
-**902–905.** Qahir dies in 902. Idris (b. c. 879) leads the campaign through the northwestern approaches and the seaward supply line. The Surrender train serves Caleran's compromised charter on its own walls, district by district. Guild quarters holding honest instruments of their own are offered separate terms, and some open their gates. Ättar marine crews, months unpaid, sail for Kedrava. A late Aurin flood holds the southern levies three weeks short of the city. Caleran falls. How Corvenas III died is left to sources that disagree.
+**Analog bent or replaced.** 1453. No cannon and no Giustiniani; Constantine XI's doomed heroism becomes a trap made of law; the aid that never comes is withheld for the east's own reason. "Weak emperors" and "devout and strategically incapable" are retired (the second survives as an attributed schoolbook verdict).
 
-**Why.** The Fall needs no bad man, only the five pressures above meeting an enemy who had turned law into industry. Corvenas's piety is not the cause; it is the shape his trap took.
+**Promoted to.** [[The Invasion and the Fall]], [[Prelude to Collapse]], [[Covenant Siege Golems]], [[Eclessia During the Invasion]], [[The Guttering - Authorial Truth]] (§ The Fall).
 
-**What it changes downstream.**
-- **Thalmyria** learns that the emperor must go to the frontier, that the Fire comes to the refuge and not to the palace, and that registers lie. Caedros's oath limiting confiscation answers the north's old grievance.
-- **Eclessia** learns that institutions must survive without the capital.
-- **The Covenant** takes a capital half by law, which is why Idris impounds the Ember rather than destroying it.
-- **Vortharan counter-scripts** work in 907 because Vortharan contractors had studied Covenant script for the court for generations.
-
-**Analog bent or replaced.** The analog is 1453. There are no cannon and no Giustiniani. Constantine XI's doomed heroism becomes a trap made of law. The aid that never comes is withheld for the east's own reason: an unexamined summons. "Weak emperors" and "devout and strategically incapable" are retired.
-
-**Draft Torque Register entry.**
-> **The Serving of Caleran (905 — 1453).** TORQUE: the capital was taken half by law. Qahir's Surrender train read Caleran's own charter, whose last re-sealing had been finished with warlock fire, and offered each district its own terms before the great engines came to the walls. Corvenas III could have saved the city only by passing tests in public: kindling a summons at the marches, conceding the lost north, submitting his relics to examination. He chose the rites that could fail in private, and they did.
-
-**Articles to update on approval.**
-- `01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md`: replace "The Last Court" with the trap in in-world voices; add the Surrender train and the industrial machine.
-- `01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md`: rewrite "Corvenas III and the Ash Hall", "Structural Weakness" and "The Last Error" around the trap.
-- `01 Canon Reference/Creatures/80 Ancient and Crafted Legacies/50 Covenant War Constructs/Covenant Siege Golems.md`: the foundry system and docket; the Surrender line as lesser engines in 905, with the first great frame after 905 (Pass 06).
-- `01 Canon Reference/Peoples and Cultures/Sestaran Concord/70 History and Conflicts/The Battle of the Shattered Engines (907 AR).md`: the Vortharan contract inheritance.
-- `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`: "c. 885–902, foundry reform; 902–905, Idris's campaign".
-
-**Open questions.**
-- How did Corvenas III die? (I recommend three incompatible accounts, all kept.)
-- Option: Qahir's siege tables were checked against a bounded Menhir bargain with Astaroth, whose power over structural weakness the review notes is never used in imperial collapses.
-- Adopt the crusade-prisoner cores? They would make the Thalmyric "martyr irons" literal.
+**Open questions decided.** Corvenas III's death: three incompatible accounts, all kept, deliberately unresolved. The Astaroth option is adopted. The crusade-prisoner cores are adopted.
 
 ## Interfaces
 
 **With [[Causality Pass - 04 Who May Authenticate a Sign, 0 to 411 AR]]**
-- **The augurs as witnesses.** 05.4 needs Pass 04 to accept that augurs witnessed municipal charters and that the witness lapsed with the Star rites. This follows from Pass 04's augural monopoly on authenticating signs and from Menhir obedience to living law. If Pass 04 rules otherwise, the defect must come from the colleges' dissolution as legal persons.
-- **Vestian's legacy.** The Guttering's clock starts in 395. Pass 04's compelled professions that fail to kindle in 380 are its prologue, and Vestian's welding of sanctity to state power is the shared precondition.
-- **Halmenth 411.** Whatever cause Pass 04 gives the Man-Bearer party, this file needs three results:
-  1. Nasriel's communion ends concentrated in the northern dry-margin cities, Qabir among them.
-  2. Its doctrine denies that any institution can summon the Fire.
-  3. Orthodox and Velian clergy will not witness each other's charters, which is what costs the empire the Velian belt in 598–612.
-- **The four sees.** Aurelium's reading and copying tradition is the register's ancestor. The 395–411 regency belongs to Pass 04.
+- **The augurs as witnesses.** Reader prose says the northern charters were "sworn under the Stars, before augurs" and that their witness was "a college that no longer existed". That stands whether Pass 04 accepts augurs as charter witnesses (a Menhir witness that lapsed with the rites) or not (the colleges' extinction as legal persons).
+- **Vestian's dates.** 377, 385, 398 (Direction). The Vestianic house runs 398–447.
+- **Halmenth 411.** This pass needs only that Nasriel's communion ended concentrated in the northern dry-margin cities (Qabir among them), that its doctrine denies any institution can summon the Fire, and that Orthodox and Velian clergy would not witness each other's charters. The reader articles state no more than that.
+- **The Second Silence.** The Guttering's concealment stage continues the pattern 04.4 begins: when the yields fall, the institution removes the instrument that shows it.
+- **Pass 04 as decided** (14 November 2026; [[Signs and Proof - Authorial Truth]]). 04.4 and 04.6 are approved. Because this pass owns [[The Velian Church]] and [[Historical Atlas of the Velians]], 04.6's origins before 411 (the Jirahar-descended congregations of Qabir and the gateway ports, Nasriel's count of the unkindled, Raveth, his election over Caleran's objection) have been added to both in reader prose. Pass 04 does not rule on augurs as charter witnesses; the reader prose here stands on either reading.
 
 **With [[Causality Pass - 06 The Covenant after Caleran, 905 to 1190 AR]]**
-- **Idris.** b. c. 879, r. 902–931. Qahir dies in 902; foundry reform runs 885–902 and the campaign 902–905. Idris inherits the Ruling on Parties and its dissenters; his 931 succession war can turn on the Clause.
-- **The Qahirid origin.** The dynasty descends from a Ruzhan house that sealed for bread in 555–560, and its Vashari memory should stay alive.
-- **Contract limits.** The Clause still binds the 4,444. The foundry replacing the engines lost in 907 works under the 885–886 ruling. The first great Surrender frame comes after 905, which resolves the five-engine discrepancy.
-- **The Impounded Ember.** The Ember belonged to no instrument Idris's jurists could serve, so it became property in dispute.
-- **Zanthir and the chests.** The Qabir remnant and the Velian charters' dependence on the Fourth Seal pass to Pass 06.
-- **The First Catch.** The scattered studs were march studs kept by lay brothers, whom the Guttering never reached.
-- **957.** Caedros's military provinces should cite their Atherian march ancestry.
+- **Qahir.** A converted Ruzhan house without Ahdari sacred lineage; 06's personal instruments follow from that.
+- **Idris.** b. c. 879, r. 902–931; inherits the Ruling on Parties and its dissenters. The published 06 article makes him Qahir's son; this pass's reader prose calls him Qahir's successor, which agrees.
+- **The Clause.** Still binds the 4,444. Bound well-wardens defending in the north fall outside it, as 06 proposes. The replacement foundry works under the 885–886 ruling.
+- **Engines.** In 905 the Surrender line was lesser engines and siege tables; the first great frame comes after 905 (06 proposes c. 944).
+- **The Guttering.** The Covenant formed its view that Atherian holy fire was spent from the file of counterfeit fire; refugee kindling in the 950s surprised it.
+- **The remount blessing.** The studs were march studs kept by lay brothers whom the Guttering never reached.
+- **612 and 905.** Charters re-sealed in the Fire could not be voided, so the occupation rewrote land through coerced consent.
+- **Qazmarid and the Banu Mizan.** Qazmarid is the Sealed-Blood base from the seventh century; its formal independence before 905 is 06's to decide. The Banu Mizan dynasty's rule in the belt ends in 885; its compacts outlive it, so later "Banu Mizan territory" means compact lands.
+- **The Invasion and the Fall.** Its Occupation section is left untouched for 06.3's Southern Threshold lines when approved.
 
 **With [[Causality Pass - 03 Age of Glory and the Bridge to 0 AR]]**
-- This file assumes Qahur was divided in 500 AR (05.3); Pass 03 may decide otherwise.
+- Reader prose says only that Vashar held the Ubar and the roads to the Basin's grain in 500.
+
+**With the writer of [[Saints and Sinners of the Chronicles]] and [[The Hunger Wars]]**
+- The frontier lives are summarised in [[The Long Frontier and the First Unsealing]] with their historical effects; the full lives belong to *Saints and Sinners of the Chronicles*.
+- Reconciled with the published *Hunger Wars* and *Saints and Sinners of the Chronicles* on 14 November 2026. The wedding of the last store (AF-R14) falls in the hungry years 872–873, inside their c. 860–880. The Archmask Protectorate (ID-R03) is a river enclave of the stripped river marches after 878, whose attackers' columns broke at its stones. The Feast-Raid corridor (ID-R05) is identified, by "some chroniclers", with the Second Crusade's supply road through the famine country, inside their "later Long Frontier". The Captain's rescue and the drowned banner are separate rescues of the 860s, the Captain's withdrawal demanded by the army's commander carrying Corvenas II's orders. The Borrowed Temple's saint is their Saint of the Last Door, and the 907 claim at the escape house follows their telling.
+
+## Integration patch
+
+Final wording for files this pass does not own. Each block is ready to paste.
+
+### 1. `01 Canon Reference/History/10 Chronology and Control/Chronology of the Known World (AR Dating).md`
+
+**Line 123 (Vestian).** Pass 04 owns it; per the Direction it reads 377–398.
+
+**Replace the whole section "Decadence and the First Unsealing" (current lines 126–136) with:**
+
+```markdown
+## Decadence and the First Unsealing
+
+- **398–447 AR — The Vestianic regency.** Vestian's son reigns through the court bishops and paymasters who made his father. Relic estates buy freedom from tax and audit, and provincial wealth moves into them. The palace's rites begin to fail while frontier rites go on kindling: the **Guttering**, as Thalmyric refuge chroniclers later name it. Eclessian historians call 398–905 the Unexamined Centuries. (See [[The Guttering - Authorial Truth]].)
+- **411 AR — The Council of Halmenth.** "Fire-Bearer" affirmed; Bishop Nasriel of Qabir's "Man-Bearer" party condemned — his communion flees north and survives as the [[The Velian Church|Velian Church]].
+- **446 AR — The drowned heir.** The emperor's only son and heir drowns when a harbour barge overturns at the Aurin mouth; the emperor dies in 447.
+- **447–452 AR — The succession war.** The southern fort-line army defeats the Aurin fleet and the port councils. Its commander, first of the **Saldane** house, is acclaimed by the great sees and pays them in further immunities. Caleran hires its first Sestaran Shell-fire cohorts.
+- **c. 450–514 AR — The Decadence.** (Aurelium's historians reckon it 398–514.) Ättar sea-raids on Kedrava; Folk pressure on the southern forts; Sestaran cities revive pre-imperial charters, Vardessa's the famous case, and sell ships and warlock contracts to the court in place of tax.
+- **514–523 AR — The Ubar Toll War.** **Teomar Saldane** (r. 509–531) fights Vashar for the Ubar tolls and takes the western stations of the Avesh corridor, which he cannot afford to hold. Both crowns stop the stipends of the Ahdari well-houses, and the well-country falls into feud.
+- **541 AR — The Revelation of Mujalib.** Tribal unification 545–567; Al-Qahur founded.
+- **546–552 AR — The Thin Floods.** The Basin flood fails five summers in seven. The **yoke-sickness** (548–551) kills oxen and mules from the Basin to the Atherian north; camels are spared. The Saldane court keeps Caleran's bread dole by requisitioning northern stores.
+- **c. 549 AR — The Bread of the Bound.** The 4,444 devils dig the oasis and channels at Al-Qahur through the famine; grain goes to those who seal their names into the Covenant.
+- **555–560 AR — The end of Vashar.** With the Dawn Road's relay stations emptied by famine, Covenant jurists declare the last King at Dawn forsworn. Road commanders and the horse-lords of Ruzhan seal with the Covenant for bread; resisting highland valleys are reduced; the last king is pensioned at the oasis.
+- **558 AR — [[Nine Wells of Tergai|Seizure of the Nine Wells]].** In the worst year of the drought, Covenant forces violently seize ancestral Well-Tarkhan water grounds. Later tradition recasts the conquest as voluntary submission.
+- **568–612 AR — WAVE ONE: The First Unsealing.** **Qatada Sayf-al-Ahd** conquers the northern provinces. Breach-courts void town charters sworn before the dissolved augur colleges, and half the north is "served, not fought"; towns that refuse are stormed.
+- **572–601 AR — The Four Rightly-Sealed Caliphs.** The disputed fourth seal.
+- **575 AR — The Dry Ford.** The northern field army leaves its walls to attack a breach-court's escort and is destroyed by Qatada.
+- **587 AR — Leovar I.** The remnant field army and the frontier bishops depose the Saldane house. **Leovar I** (r. 587–624) begins the crusade of seals: hermit-bishops re-seal surviving charters before living witnesses, and no court can void a charter on which the Fire came.
+- **c. 594–598 AR — First Crusade (defensive).** The western field line holds at ruinous cost while bishops re-seal the towns behind it; the rotation of bearers begins with those it broke.
+- **597 AR — The Fourth Seal disputed.** Atherian towns begin pleading that every breach-court sits under a disputed seal. **598 AR — Uthar dismisses Qatada;** the field advance stops.
+- **601 AR — Emirate of Zanthir established.** **603 AR — Bir Qassim.** **c. 610 AR — the Velian States** installed under the **Banu Mizan**; the Velian cities keep their pre-conquest charters in fireproof chests.
+- **611 AR — The standoff at Tamsar.** A breach-court's ruling fails against a march town re-sealed in the Fire, a Caleran reliquary fails to kindle before both armies, and neither side gives battle.
+- **612 AR — The Long Frontier Peace begins.** The Banu Mizan broker the instrument Covenant law calls the Suspension: no service, storm or re-seal along the line, and every disputed charter held "neither void nor in force".
+```
+
+**Replace the bullets of "The Long Frontier and Renewed War (612–905 AR)" (current lines 142–144; keep the section's opening sentence) with:**
+
+```markdown
+- **612–872 AR — Coexistence and friction.** The kindled marches hold the imperial side under oaths each emperor renews in person before frontier witnesses. The Banu Mizan golden age: translation houses, water-courts, libraries. **Rab Yequtiel of Zanthir** (c. 748–831) writes the *Guide for the Wandering*.
+- **c. 640s AR — Relic tests.** The treasury ties relic estates' immunities to their relics answering a test; the tests are rigged at Caleran.
+- **653 AR — The eastern tax fleet founders** in a Thalassian squall. The eastern bishops keep the revenue "for one year" and never surrender it; Aurelium's register of answered fire follows.
+- **c. 641–804 AR — The frontier lives.** The Clerk of a Hundred Wells, the Mason of the Ninth Bastion, the Chain-Bearer of Sarrat, the Bitter Reaper, the Reader Behind the Sealed Door and the Smith of the Refuge Bell.
+- **681–683 AR — The Copper Lamp.** Leovar II's accession lamp is made to flare with Shell-fire; the unpaid warlock sells his brass fire-cup to a Covenant factor, beginning the Covenant's file of counterfeit fire.
+- **709 AR — The Fever Week.** Leovar II and his heir die nine days apart. **709–713 AR — The War of the Two Oaths.** Corvenas rides the marches and renews their oaths in person; the Caleran claimant cannot leave the capital.
+- **711 AR — Simeon's examination.** Bishop Simeon of Aurelium records the Velos Standard silent and holds the eastern oaths in trust. **713 AR — Corvenas I** (r. 713–746) confirms Aurelium's right of examination: Simeon's primacy.
+- **c. 866 AR — The Captain of the Sacrificial Wind.** On the river marches a host led, by soldiers' account, by a drowned ferrywoman holds the road behind a retreating convoy, then withdraws when the army's commander, carrying Corvenas II's orders, demands the conquest of the Velian belt.
+- **872 AR — The Banu Mizan emir dies,** leaving a child; Caleran's jurists call the regent's renewal of the Velian compacts void. **872–873 AR — The heartland harvest fails.**
+- **874–878 AR — Second Crusade.** Corvenas II (r. 861–884) marches to "receive" the Velian cities, which shut their gates. **876 AR — Oronda:** the Velos Standard fails to kindle before both armies. The crusade collapses in 878; its prisoners go unransomed.
+- **884 AR — The broken peace.** Qahir ibn Ruzbeh obtains a ruling that the crusade voided the Suspension. The march commanders force Corvenas II to abdicate; **Corvenas III** (r. 884–905) succeeds.
+- **885 AR — Banu Mizan rule in the Velian belt ends.** Qahir's officers take the client courts; a Banu Mizan line keeps Zanthir as tributary emirs.
+- **885–886 AR — The Ruling on Parties.** The college at Al-Qahur rules that the Clause of the Given binds parties, not powers.
+- **c. 885–902 AR — The Qahirid Resurgence.** **Qahir ibn Ruzbeh** rebuilds the war machine: Ahdanite mass levies, capture companies, name-cage foundries, the Surrender train. Qahir dies in 902.
+- **903–904 AR — The Jubilee.** Corvenas III holds a year of rites inside Caleran; **Sarion the Pale** is stoned for preaching that "the inked ones are coming".
+- **902–905 AR — Idris's campaign.** Through the northwestern approaches and seaward supply line; the Surrender train serves Caleran district by district before the great engines reach the walls.
+```
+
+**Optional, for the owner of "The Fall and the Thalmyric Rise":** after the 905–957 Ember line, add
+`- **c. 905–907 AR — The Borrowed Temple.** A provincial commander's bargain with the Exile is broken by prisoners and refugees at a star sanctuary; the province's claim to succeed Atheria dies there.` and
+`- **c. 907 AR — "No wound inherits the child."** The Saint of Five Remembered Wings guards a client house's children against a claimant from Hell.`
+
+### 2. `01 Canon Reference/History/10 Chronology and Control/Named Figures of the Known World.md`
+
+**Vestian** (Pass 04 owns the entry): dates read r. 377–398.
+
+**Insert a new section after "The Conversion Era", before "The Covenant":**
+
+```markdown
+## The Atherian emperors after Vestian
+
+**The Atherian emperors after Vestian** (398–905 AR) belonged to four houses, each raised by a different way of paying the army. [[The Long Frontier and the First Unsealing]]
+
+- **The Vestianic house** (398–447). Vestian's son reigned through the court bishops and paymasters who had made his father, selling relic estates freedom from tax and audit. His only son and heir drowned at the Aurin mouth in 446.
+- **The Saldane house** (447–587). Founded by the commander of the southern forts, acclaimed by the great sees in the war of 447–452 and paid in immunities. **Teomar Saldane** (r. 509–531) fought the Ubar Toll War (514–523). The emperor of the Thin Floods, remembered in the north as the Granary Thief, kept Caleran's dole by requisitioning northern stores. The house was deposed in 587 after the loss of the north.
+- **The Leovarid house** (587–709). **Leovar I** (r. 587–624), a frontier general who travelled with a hermit-bishop, led the crusade of seals and signed the peace of 612. **Leovar II** (r. 681–709), whose accession lamp was the Copper Lamp, died with his heir in the Fever Week of 709.
+- **The Corvenid house** (713–905). **Corvenas I** (r. 713–746), commander of the march facing the Velian belt and husband of Leovar II's daughter, won the War of the Two Oaths by riding the marches to renew their oaths in person. **Corvenas II** (r. 861–884) launched the Second Crusade and was forced to abdicate.
+
+**Corvenas III** (r. 884–905 AR) — The last Atherian emperor. Sincerely devout, he could reach every remedy only through a public test: riding to the marches to kindle a summons, striking the lost north off the registers, or submitting his relics to Aurelium. He chose rites inside Caleran and turned the palace into the Ash Hall. Covenant files held that his accession rite was finished with warlock fire. His death is told three ways. [[Prelude to Collapse]]
+
+**Simeon of Aurelium** (bishop c. 694–731 AR) — In 711 examined the Velos Standard, sent east by the Caleran claimant, recorded it silent and held the eastern governors' oaths "in trust for the emperor who proves lawful". Corvenas I's confirmation of Aurelium's right of examination in 713 is "Simeon's primacy".
+
+**Sarion the Pale** (d. 903 or 904 AR) — A march monk stoned in Caleran during Corvenas III's Jubilee for preaching *"The inked ones are coming. They walk with chains and offers of peace. The crown will burn in silence."* His words were cut on a memorial wall after 957.
+```
+
+**Replace the Qatada entry with:**
+
+```markdown
+**Qatada Sayf-al-Ahd, "Sword of the Covenant"** (d. 604 AR) — The Wave One general who never lost a field battle; conqueror of the northern provinces, behind armies that marched with breach-courts. Dismissed in 598 at the height of his fame by Caliph Uthar, whose own seal was disputed and who feared the army loved the sword more than the seal — and who obeyed the dismissal without a word, which frightened the caliph more.
+```
+
+**Replace the Banu Mizan entry with:**
+
+```markdown
+**The Banu Mizan, "House of the Scales"** (c. 610–885 AR) — The dynasty of the Velian golden age: translation houses, water-courts, the great libraries where Atherian learning survived in the conqueror's custody. They brokered the peace of 612. Their courts hosted Jirahar philosophers and Thalmyric exiles alike. Their rule in the Velian belt ended in 885, when Qahir's officers took the client courts from a regency; a Banu Mizan marriage line kept Zanthir at Qabir as tributary emirs, and their compacts outlived the dynasty. Every present-day power is embarrassed by how much it owes them.
+```
+
+**Replace the Qahir entry with:**
+
+```markdown
+**Qahir ibn Ruzbeh** (c. 855–902 AR) — Founder of the Qahirid dynasty, of a Ruzhan horse-lord house that sealed with the Covenant for bread when Vashar fell (555–560). Made his name defending the Velian belt against the Second Crusade (874–878); obtained the rulings that the crusade had broken the peace of 612 (884) and that the Clause of the Given binds parties, not powers (885–886); rebuilt the war machine around mass Ahdanite levies, capture companies and siege-golem foundries.
+```
+
+**Append to the paragraph after the "Atlas lives known principally by epithets" table:**
+
+```markdown
+The Captain of the Sacrificial Wind (d. c. 858 AR; her host c. 866) and the Saint of Five Remembered Wings (c. 781–826 AR; later intervention c. 907) are told in [[The Long Frontier and the First Unsealing]] and [[The Invasion and the Fall]].
+```
+
+### 3. `01 Canon Reference/History/10 Chronology and Control/The Divergence Pass — Torque Register.md`
+
+Insert in date order. The first replaces nothing; the First Unsealing entry gains one sentence and keeps its existing text.
+
+**After "Astrion's Restoration", insert:**
+
+```markdown
+**The Guttering (398–905 AR — Gibbon's decadence).** TORQUE: the palace's hymns stopped kindling while the frontier hermits' went on, because the Flame answers persons and purposes, not offices. The court hid the failures as "postponed", hired Sestaran Shell-fire to fill the ranks, and then faked kindlings: the Copper Lamp of 681 began a Covenant file of counterfeit fire that ended with Corvenas III's accession, and counterfeit fire is a breach. The Flame did not save the capital with the most relics; it saved the refuge with the fewest. Thalmyria's theophany and Eclessia's protocol are the Guttering remembered from opposite ends. [[The Guttering - Authorial Truth]]
+
+**The Bread of the Bound and the end of Vashar (c. 549–560 AR — the Justinianic catastrophes and the fall of Sasanian Persia).** TORQUE: the Covenant's founding proof was food. Through the Thin Floods the 4,444 dug the oasis while children starved below, and grain went to those who sealed their names. Vashar was taken by its own promise: its kings ruled by keeping the roads, the famine emptied the relay stations, and Covenant jurists declared the last King at Dawn forsworn. The Ruzhan horse-lords who sealed for bread became the Covenant's officers, and one of their houses produced Qahir.
+```
+
+**Append to the existing "The First Unsealing" entry:**
+
+```markdown
+The towns that went first were those whose charters had been sworn under the Stars before augurs: when the court asked for the witness, it was a dissolved college and a silent star. The conquest stopped where hermit-bishops had re-sealed charters and the Fire had come on the wax.
+```
+
+**After "The First Unsealing", insert:**
+
+```markdown
+**Tamsar and the Suspension (611–612 AR — no analog).** TORQUE: the Long Frontier Peace was made by two frightened armies. At Tamsar a breach-court's ruling failed against a town re-sealed in the Fire, a Caleran reliquary burned yellow before both armies, and a Sealed-Blood jurist told the Covenant soldiers their court sat under a seal nobody dared open. Neither side gave battle. The instrument of 612 held every disputed charter "neither void nor in force": the first deterrence by unopened proof, and the root of the Age of Held Proofs. The Velian charters in their fireproof chests wait on it still.
+
+**The Kindled Marches (612–905 AR — the Byzantine themes).** TORQUE: each frontier march was held under one charter sworn in the Fire and renewed at every accession by the emperor in person, kneeling before a frontier monk on whom the Fire came. An emperor who would not ride to his marches could not call them, which is how Corvenas I won the throne in 713 and why Corvenas III's written orders could not move a march in 905. Thalmyria's military provinces descend from them.
+
+**Simeon's Examination (711 AR — the rise of the papacy).** TORQUE: Aurelium's primacy began with a negative result. Simeon examined the Velos Standard, sent east to rally the provinces for a claimant, recorded it silent and held the eastern oaths in trust; the winner confirmed his right to examine because it suited him. The east could afford honest tests because, since its tax fleet sank in 653, its bishops kept the revenue either way. Protocol was born where the truth was cheap.
+
+**The Sacrificial Wind and Oronda (c. 866–876 AR — no analog).** TORQUE: the Second Crusade began with a rescue the emperor did not command. A host led, by soldiers' account, by a drowned ferrywoman held the road behind a convoy on the river marches and withdrew when the army's commander, carrying Corvenas II's orders, demanded conquest. He carried the Velos Standard into the Velian belt to do what she had refused, and before Oronda it did not kindle in front of both armies. Eight years later Qahir obtained the ruling that the crusade had broken the peace of 612. The empire handed its enemy the loophole.
+
+**The Clause of the Given (c. 549; 885–886 AR — Ottoman gunpowder).** TORQUE: the Covenant fought three centuries without devils because the 4,444 were sealed to "take nothing that is not given". Qahir's revolution was a ruling before it was a forge: the Clause binds parties, not powers, and a captured Depth beast, a condemned man's forfeited name and a nameless construct are party to nothing. The foundries followed the jurists, and the dissent of the people of the Clause has been outvoted, never answered.
+```
+
+**Before "The Fall of Caleran (905) and the Impounded Ember", insert:**
+
+```markdown
+**The Serving of Caleran (905 AR — 1453).** TORQUE: the capital was taken half by law. The breach-court train read Caleran's own charter, last re-sealed with warlock fire, and offered each district its own terms before the great engines came to two points on the land walls. Corvenas III could have saved the city only by passing tests in public: kindling a summons at the marches, conceding the lost north, submitting his relics to Aurelium. He chose the rites that could fail in private, and they did.
+```
+
+### 4. `01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/70 History and Conflicts/Historical Spine of the Covenant.md` (for the Pass 06 writer)
+
+**Replace "Revelation and Unification, 541-567 AR" with:**
+
+```markdown
+## Revelation and Unification, 541-567 AR
+
+Mujalib grew up in a well-country broken by the Ubar Toll War of 514–523, when Atheria and Vashar both stopped the stipends that had kept the Ahdari well-houses as clients. He received the revelation of Malak al-Ahd in 541 AR. Five years later the Thin Floods began: the Basin's flood failed in five summers of seven, and the yoke-sickness killed the settled world's oxen while sparing the desert's camels. Through the worst years the 4,444 bound offices dug the oasis and channels at Al-Qahur, and grain went to those who sealed their names into the Covenant. Alliances, preaching, arbitration, war and that bread united Ahdari clans and settled allies. Al-Qahur became the sacred centre.
+
+Vashar ended in the same famine. With the Dawn Road's relay stations emptied, Covenant jurists declared the last King at Dawn forsworn in 555; road commanders and the horse-lords of Ruzhan sealed with the Covenant for bread, and resisting valleys were reduced by 560.
+
+In 558 AR, in the worst year of the drought, Mujalib's coalition violently seized the [[Nine Wells of Tergai]], ancestral Tarkhan ground and the northern frontier's oldest wound. Later Witnessed-Seal tradition recast the conquest as voluntary submission. Qahirid forts and pilgrimages still depend upon that false public memory.
+```
+
+**Replace "First Unsealing and Schism, 568-612 AR" with:**
+
+```markdown
+## First Unsealing and Schism, 568-612 AR
+
+Qatada Sayf-al-Ahd led the First Unsealing with breach-courts marching beside his armies; half the Atherian north was served, not fought. The disputed succession of 597 and massacre at Bir Qassim in 603 divided Witnessed Seal from Sealed Blood. Atherian towns learned to plead the disputed seal, Sealed-Blood jurists refused to sit in Uthar's name, and in 598 Uthar dismissed Qatada. Zanthir was established in 601; Banu Mizan client states emerged across the Velian belt around 610. After the standoff at Tamsar in 611, the Banu Mizan brokered the instrument of 612 that Covenant law calls the Suspension.
+```
+
+**Replace "Long Frontier, 612-884 AR" with:**
+
+```markdown
+## Long Frontier, 612-884 AR
+
+Banu Mizan rule produced translation houses, water courts, protected Redeemer communions, trade, bondage, and mixed frontier societies. Covenant breach-assessors kept a file of counterfeit fire in Atherian rites from the Copper Lamp of 683 onward, and Banu Mizan scholars mapped routes into Hell. Qazmari support gave the Sealed Blood a durable territorial base. Imperial unity repeatedly fractured among dynasties and military households. When the Banu Mizan emir died in 872 leaving a child, Caleran called the regent's oath void and launched the Second Crusade; the young officer Qahir ibn Ruzbeh, of a Ruzhan house, made his name defending the Velian belt in 874–878, and in 884 obtained the ruling that Atheria had broken the peace of 612.
+```
+
+**Replace the first sentence of "Qahirid Resurgence and Caleran, 885-957 AR" with:**
+
+```markdown
+In 885 Qahir's officers ended Banu Mizan rule in the Velian belt, and in 885–886 the college at Al-Qahur ruled that the Clause of the Given binds parties, not powers. Qahir rebuilt central forces through Ahdanite mass levies, capture companies, name-cage foundries and provincial integration.
+```
+
+### 5. Other files this pass does not own
+
+Requests to their owners, in the wording each needs:
+
+- **[[The Holy Fire]]** (§ Holy Flame and Shell-Fire): add "Between the fifth and ninth centuries the imperial court hired Shell-fire to fill ranks its hymns no longer filled, and then to finish accession rites that failed to kindle. The Copper Lamp of 681 is the first known case; Thalmyric chroniclers call the age the Guttering."
+- **[[White Flame Doctrine]]** (§ Institutional Risk): add "The Guttering (398–905) is the type case: see [[The Guttering - Authorial Truth]]."
+- **[[Vashar and the Crown of Roads and Dawns]]**: add a closing section, "The end of the Crown, 514–560 AR", from 05.3 as revised.
+- **[[Nine Wells of Tergai]]**: the drought motive (558 the worst year) and First Submission as later cover.
+- **Al-Qahur and the Sacred Basin** and **The Qahuri**: the Thin Floods and the Bread of the Bound.
+- **Al-Ahdiya Overview**, **Covenant Armies and the Tarkhan Frontier**, **[[Ahl-e-Ahd Canon Register]]**: the Clause of the Given as a recited term with its native name to be fixed in the locked register; the Ruling on Parties (885–886) and the people of the Clause.
+- **The Consolidation of the Eclessian Church**: a "Before the Fall" opening (653, the register of answered fire, Simeon, the trust), matching [[Eclessia During the Invasion]].
+- **[[The Great Split — Two Crowns, One Fire]]**: gloss "Simeon's primacy" as Aurelium's right of examination, confirmed by Corvenas I in 713 after Simeon recorded the Velos Standard silent.
+- **Historical Atlas of Eclessia**: episcopal government before 905.
+- **The Atherian Empire Overview**: replace "internal decline" with the four houses, immunity sales and the kindled marches.
+- **Structure of the Empire Overview** and **Thalmyric Armies and the Long Frontier**: trace military provinces and soldier-tenure to the kindled marches.
+- **Historical Spine of the Sestaran Concord**: replace "Weak emperors lost practical control" with charter revival (Vardessa) and the warlock trade.
+- **[[The Battle of the Shattered Engines (907 AR)]]**: Vortharan counter-scripts drew on Corvenid court contracts to study Covenant script.
+- **[[The Age of Held Proofs - Authorial Control]]**: add the Velian chests and Tamsar 611 as the structure's root.
+- **[[The Refuge and the Rise of Veridun]]** and **[[The Reclamation of Caleran]]**: one contested sentence each on why the refuge kindled; Sarion's memorial wall after 957.
+- **Theological Schism with Eclessia**: the roots of theophany and protocol in the Guttering, in in-world voices.
+- **Thalmyric Military Orders** (§ Ash Guard): optional claim of descent from the Corvenid Ättar household guard.
+- **Ash Hall District** (playable setting): the Velos Standard is in Corvenas III's final inventory.
+- **[[First Catch and Grey Sister]]**: the studs were march studs kept by hymn-singing lay brothers.
+- **[[Causality Pass - 00 Proposal Index]]**: mark 05 decided.

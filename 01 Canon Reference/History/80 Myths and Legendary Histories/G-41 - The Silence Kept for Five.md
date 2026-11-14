@@ -26,7 +26,7 @@ It is told among Conversion-era singers, descendants of temple custodians and ch
 
 A guild singer learned that five old-temple custodians were hiding sacred objects beneath a bathhouse. Hoping to gain a court place, he informed the governor. Soldiers tortured the five for the hiding place, killed them and burned their bodies with the bathhouse beams. The singer received their instruments and adapted their melodies for a victory hymn.
 
-The hymn became famous. Its fifth measure, however, would not sit easily beneath the new words. Some said the borrowed strings went flat; others said apprentices deliberately spoiled the beat. Years later the singer confessed during a feast and tried to speak the custodians' names. Their families interrupted him: one name was wrong, and repentance would not turn him into keeper of the people he had betrayed.
+The hymn became famous. Its fifth measure, however, would not sit easily beneath the new words. Some said the borrowed strings went flat; others said apprentices deliberately spoiled the beat. At a feast years later, the singer stopped before that measure and begged not to be allowed another profitable lie. The choir saw a brightness come down over the rail in the shape of a great rook, black and white, carrying a coal that gave no smoke. It touched the singer's mouth and then his writing hand, and he cried out before the whole guild. Then he confessed and tried to speak the custodians' names. Their families interrupted him: one name was wrong, and repentance would not turn him into keeper of the people he had betrayed.
 
 He removed five beats from the hymn instead. One choir later filled the silence by naming the dead. Another kept it empty, arguing that the informer's surviving text could not own them. Their quarrel became bitter enough for blows, but neither restored the old triumph unchanged.
 
@@ -40,7 +40,7 @@ The tale makes art carry the cost of the conditions under which it was acquired.
 
 ## How tellers differ
 
-Naming choirs say silence repeats erasure. Silent choirs say using the dead as lyrics repeats possession. Conversion polemic often changes the five into willing martyrs, though the earliest account calls them frightened custodians.
+Naming choirs say silence repeats erasure. Silent choirs say using the dead as lyrics repeats possession. Church tellers call the rook an angel of witness and the burn a mercy; temple descendants call the whole scene a spectacle staged to keep the confiscated house. Conversion polemic often changes the five into willing martyrs, though the earliest account calls them frightened custodians.
 
 ## What remains
 
@@ -50,6 +50,7 @@ Work songs and hymns pause for five beats. Some communities fill the rest with n
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Conversion of the Empire]]
 - [[Myths and Legendary Histories MOC]]

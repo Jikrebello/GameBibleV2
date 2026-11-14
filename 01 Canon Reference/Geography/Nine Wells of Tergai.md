@@ -20,7 +20,7 @@ The **Nine Wells of Tergai** form a broken chain of deep water, seasonal pasture
 
 The Tarkhan call them the **Nine Mother-Wells**. Between approximately 1900 and 1650 BR, Tergai houses deepened older sources and linked them with cisterns, ramps and repair yards. Former Vathran tether workers supplied lifting knowledge; neighbouring camps brought labour, animals and food. Ahdari caravans also used the chain and buried relatives beside several waters, while Tarkhan tenure remained central to its maintenance.
 
-Seasonal rights belonged to houses through labour, burial, hospitality and remembered use. Grey Sister drank at the central well generations after the First Catch, joining western water memory to eastern horse memory.
+Seasonal rights belonged to houses through labour, burial, hospitality and remembered use. In 951, the first raid season of the Long Reach, Grass-Tarkhan riders on the daughters of Grey Sister's line watered their horses at the central well without asking any fort's leave, joining western water memory to eastern horse memory. The hounds the Covenant had bound into the shafts came up spitting silt, and the grey horses, which do not shy from bound things, stood while their riders killed them at the well-lip. Tarkhan genealogists count Grey Sister's line among the wells' rightful drinkers from that day.
 
 ## Covenant Memory
 
@@ -28,9 +28,13 @@ Covenant pilgrimage calls them the **Wells of First Submission**. Official accou
 
 ## Conquest of the Wells
 
-In 558 AR, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound into imposed access agreements or absorbed under military rule. The tradition of voluntary submission arose later as a political theology of the conquest.
+In 558 AR, the worst year of the Thin Floods drought, Covenant forces seized the wells by violence. Defenders were killed, expelled, bound into imposed access agreements or absorbed under military rule. The tradition of voluntary submission arose later as a political theology of the conquest.
 
 Present Qahirid sovereignty at Tergai consequently rests upon an old dispossession. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
+
+## The Hound Wells and the Horse War
+
+Under Qahir ibn Ruzbeh the Covenant bound silt hounds, blind pursuit beasts brought out of the mapped mire of Hell, into the wet shafts of its frontier wells. Their keepers fed them under names sworn to the sovereign. When Sultan-Caliph Idris died in 931, two years after his heir, those names lapsed, and the unfed hounds climbed out and hunted the escarpment towns through the winter. The Covenant re-bound them to its new throne in 938. In 951 the Grass-Tarkhan horse broke the hound wells, and for the next half-century the Nine Wells were the hinge of what Iqashari registers call the Horse War. After 1067 Iqashar bought peace at the wells as often as it fought for it, through Mazrakan's horse fairs and Tarkhan companies hired on word-price.
 
 ## Present Geography
 
@@ -49,3 +53,5 @@ Present Qahirid sovereignty at Tergai consequently rests upon an old dispossessi
 - [[The Tarkhan before the Horse Hordes]]
 - [[The Ahdari before the Covenant]]
 - [[Historical Atlas of Vathra and the Northern Ground]]
+- [[First Catch and Grey Sister]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

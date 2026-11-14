@@ -32,6 +32,8 @@ The coast inherited an earlier division from the death of Eryndor III of Ortheia
 
 Their Wars of the Inheritance moved fleets and soldiers through the coast until about 650 BR. Demeran's agents eventually imprisoned and killed Parena and her child. Serevan sheltered some of her attendants and used their testimony against him. Coastal cities learned to bargain with commanders who claimed the same royal inheritance and issued incompatible grants of land, citizenship and harbour privilege.
 
+The strangest grants came from Delkos. Serevan had carried Eryndor's body there, and veterans swore that the dead king still spoke in the dim tomb-hall, from behind a curtain that smelled of cedar oil, in a voice that remembered their horses' names. Serevan's scribes wrote down and sealed what the voice promised, and it promised the same harbours to more than one captain. The voice fell silent around 657 BR, when Qahuri embalmers testified that their own rite had failed, and Serevan's grandson walled the corpse in its tomb a year or two later. The sealed grants outlived it. Harbour houses kept them in chests and brought them out whenever a magistracy, a berth or an anchorage changed hands. [[Wars of the Inheritance]]
+
 The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
 
 ## The western coast during the Gateway Wars, c. 650–520 BR
@@ -44,7 +46,7 @@ Trade continued throughout these tensions. Atherian captains bought Vashari hors
 
 ## The revolt of Tasar, 514–508 BR
 
-The immediate crisis began with a succession dispute at Tasar. The harbour magistrate supervised the civic warehouses, assigned public berths and negotiated the ships and money owed to Vashar. Two civic households claimed the vacant office. Governor **Mazdan Aresh** supported the weaker claimant in exchange for an increased ship levy and the surrender of three hostages. Tasar's assembly rejected these terms. When Mazdan's soldiers entered the council house to install his candidate, fighting spread through the harbour quarter.
+The immediate crisis began with a succession dispute at Tasar. The harbour magistrate supervised the civic warehouses, assigned public berths and negotiated the ships and money owed to Vashar. Two civic households claimed the vacant office. One had the assembly's support. The other held a sealed Delkos grant, more than a century old, which named its ancestors masters of the public berths in the dead king's voice. Governor **Mazdan Aresh** recognised the grant, which no Tasaran assembly had honoured in living memory, and supported the weaker claimant in exchange for an increased ship levy and the surrender of three hostages. Tasar's assembly rejected these terms. When Mazdan's soldiers entered the council house to install his candidate, fighting spread through the harbour quarter.
 
 **Liora of Tasar**, a magistrate from a ship-owning family, crossed to the Atherian port of **Velathene** and requested aid. She promised harbour access, timber and membership in a defensive league. The Caleran Senate authorised a limited expedition under **Eryon Telmar**, who already commanded ships left from the final Gateway campaigns. Several allied cities joined for their own reasons: Ilyessan pilots wanted protection from Avesh; merchants wanted access to the Ubar trade; veteran crews expected pay and captured goods.
 
@@ -92,7 +94,7 @@ Xarun's successor **Orvaz I Tiravan** abandoned plans for a direct conquest of t
 
 The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. The league consequently extended Atherian power over cities it had first defended.
 
-Vasharan road commanders used local troops and taxes to defend the empire and accumulated enough wealth to treat their commands as family possessions. In 462 BR the governor of Avesh joined three commands against Orvaz. The king offered safe conduct to divide them, then executed two surrendered leaders. **Rathava of Daryam** condemned the broken promise in the palace garden. Orvaz left him alive, destroyed his estate and sold its labourers.
+Vasharan road commanders used local troops and taxes to defend the empire and accumulated enough wealth to treat their commands as family possessions. In 462 BR the governor of Avesh joined three commands against Orvaz. The king offered safe conduct to divide them, then executed two surrendered leaders. **Rathava of Daryam** condemned the broken promise in the palace garden. Orvaz had Rathava's labourers brought into the garden in ropes, and Rathava unsaid his words before the court to keep them from the slave market. His students quarrelled for generations over whether he had failed the truth or kept faith with his household.
 
 No treaty settled the whole coast. Agreements recognised particular cities, returned named hostages and fixed tolls for a few years at a time. Sailors and caravan masters learned which seals mattered at each harbour. Mixed coastal households often possessed property or relatives under both governments and moved what they could before the next breach.
 
@@ -151,13 +153,13 @@ Coastal people tell of winds and channels answering older Menhir relationships. 
 | Person | Position | Principal choice and consequence |
 |---|---|---|
 | **Xarun I Tiravan** | Vasharan Great King | turns coastal suppression into a major invasion; preserves the western command but fails to conquer the leagues |
-| **Mazdan Aresh** | governor of Avesh | manipulates Tasar's succession for ships and hostages; his intervention begins the revolt |
+| **Mazdan Aresh** | governor of Avesh | revives an old Delkos grant to manipulate Tasar's succession for ships and hostages; his intervention begins the revolt |
 | **Liora of Tasar** | harbour magistrate | secures Atherian aid and loses control of violence committed by her coalition |
 | **Eryon Telmar** | Atherian commander | rescues Tasar, then helps build a league capable of coercing its own members |
 | **Daryat Vezh** | Vasharan admiral | ignores seasonal and local advice; dies after the failed voyage of 503 BR |
 | **Nerica Aven** | Atherian fleet commander | preserves the sea alliance at Ilyessa and gains power over dependent cities |
 | **Orvaz I Tiravan** | Vasharan Great King | substitutes client war for invasion and breaks promised safe conduct during a provincial revolt |
-| **Rathava of Daryam** | teacher and estate holder | condemns royal perjury; survives while his household and labourers bear the punishment |
+| **Rathava of Daryam** | teacher and estate holder | condemns royal perjury, then recants before the court to save his labourers from sale; his school splits over the recantation |
 | **Orvaz II Tiravan** | Vasharan Great King | limits intervention in Caleran's civil wars and preserves the empire at 350 BR |
 
 ## Received memories

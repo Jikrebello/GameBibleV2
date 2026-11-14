@@ -30,6 +30,8 @@ Two debt workers shared similar names. One had children who would be seized with
 
 The sick man died under the borrowed name after overseers denied treatment for malingering. His body was sent to the escaped family, which buried him secretly rather than expose the fraud. His own sister received an empty coffin and spent years believing he had been sold elsewhere.
 
+The workhouse washer who laid out the body told a stranger story, and was laughed at for it. All night, she said, a small pale figure with folded wings sat on the dead man's chest and turned his neck tag over, so that each time she woke the borrowed name had been turned face down. At the third waking she read aloud the name scratched on the back, his baptismal name, and the figure was gone before the coffin was sealed. The name she remembered is the one sung in the sister's lullaby, which is why both families now want to hear her granddaughter tell it again.
+
 The escapee lived, raised his children and never told them another person lay beneath their family stone. Funeral wax eventually fused the two corroded tags. When descendants discovered them, one family demanded the grave and name restored. The other feared that confession would revive an old debt now held by a broker who had bought the workhouse claims.
 
 The broker has threatened living dependants. One descendant wants to break the tags and preserve both families. Another believes continued silence repeats the original abandonment. No remedy has yet been chosen.
@@ -42,7 +44,7 @@ The clever swap first appears to save a family, then acquires the weight of a ne
 
 ## How tellers differ
 
-One household calls the dead worker a willing rescuer. His sister's descendants say he was too ill to consent freely. Workhouse records record only one name and therefore settle nothing.
+One household calls the dead worker a willing rescuer. His sister's descendants say he was too ill to consent freely. The washer's grandchildren call the winged figure his guardian angel, keeping faith with a man nobody else kept; the broker's agents call it a grieving woman's dream, and others a bird that got in through the laundry. Workhouse records record only one name and therefore settle nothing.
 
 ## What remains
 
@@ -55,6 +57,7 @@ The tale stops at the present.
 ## Read onward
 
 - [[Present-Day Political Board]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Age of Held Proofs]]
 - [[Myths and Legendary Histories MOC]]

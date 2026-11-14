@@ -13,7 +13,7 @@ tags: []
 ---
 # Historical Spine of the Tarkhan
 
-The Tarkhan are Orphaned peoples of the northern dry belt and eastern grasslands. Western camel-and-well societies and eastern hunting and herding communities developed long before the capture of Atherian horses transformed regional warfare after 905 AR. Their history includes contested wells, caravan brokerage, Qarayel's Black Wind and the later division into four great Horde coalitions, each of which follows its own leadership and routes in 1360.
+The Tarkhan are Orphaned peoples of the northern dry belt and eastern grasslands. Western camel-and-well societies and eastern hunting and herding communities developed long before the capture of Atherian horses transformed regional warfare after 905 AR. Their later history follows those horses: a blessing carried in their blood that let them stand before the Covenant's bound things, its slow thinning, its renewal in one black colt in 1249, Qarayel's Black Wind and the division of his herds into four great Horde coalitions, each of which follows its own leadership and routes in 1360.
 
 ## Orphaned Reassembly in the Dry Belt
 
@@ -31,25 +31,32 @@ During Mujalib's unification, Covenant forces captured the [[Nine Wells of Terga
 
 ## First Catch, 905-920 AR
 
-The Atherian remount network collapsed after Caleran fell. Eastern Tarkhan captured and bred the scattered stock. [[First Catch and Grey Sister]] transformed travel, hunting, war, and status within three generations while western camel life continued.
+The Atherian remount studs broke up after Caleran fell. Eastern Tarkhan captured and bred the scattered stock. [[First Catch and Grey Sister]] transformed travel, hunting, war, and status within three generations while western camel life continued.
 
-## Horse Centuries, 920-1260 AR
+## Horse Centuries, 920-1249 AR
 
-Clans expanded their circuits, traded horses, raided border provinces, and hired out as scouts and cavalry. No ruler kept more than a regional coalition for long. The Nine Wells hardened as the western frontier; the northern Sestaran routes developed recurring grass-tolls.
+The imperial studs had been blessed with hymns, and their horses did not panic before bound things. The Covenant's northern frontier was built on the opposite expectation: bound well-wardens, devil-mantled escorts and warded wells whose terror broke enemy horses. Against the young herds of the First Catch that terror failed, and from the middle of the tenth century Tarkhan riders reached caravan roads and outer wells that had been out of range. Clans expanded their circuits, traded horses, raided border provinces and hired out as scouts and cavalry. The Covenant chartered Mazrakan to turn the horse frontier into customs. No ruler kept more than a regional coalition for long. The Nine Wells hardened as the western frontier; the northern Sestaran routes developed recurring grass-tolls.
 
-## Black Wind, 1261-1303 AR
+The blessing thinned with every generation. Wind-speakers tracked it in the sacred genealogies, and the price of Grey Sister's lines tracked the wind-speakers. By the 1230s the high lines were failing. Clans that had priced dowries, debts and word-prices in sacred foals could not pay them, feuds broke the larger coalitions apart, and the Covenant's bound wardens began to hold the wells again. The steppe calls this the Thinning.
 
-[[Qarayel and the Black Wind|Qarayel]] gathered the Kurultai of the Long Grass in 1261 and raised the Nine-Mane Standard. Between 1265 and 1300 he compelled Iqashar, Velian fairs, and Sestaran routes to pay without attempting permanent occupation. He died undefeated in 1303. The grave remains undisclosed by policy and ritual.
+## Black Wind, 1249-1303 AR
+
+In 1249 a Velian slave farrier, Gavrin, whom the camps called the Grey Uncle, sang an old remount hymn over a dying black colt of Grey Sister's line. The colt lived, and it and its get stood before bound things as the First Catch horses had. Its herd-master took the horse's name, [[Qarayel and the Black Wind|Qarayel]], and built a coalition by offering stud-right under guest-right. At the Kurultai of the Long Grass in 1261 the banners acclaimed him under the Nine-Mane Standard, braided from the manes of the colt's nine proven sons.
+
+Between 1265 and 1300 the Black Wind made Iqashar, the Velian fairs and the Sestaran routes pay without attempting permanent occupation. Iqashar's escort fees bought off a frontier whose wardens could not frighten Qarayel's horses. The first long ride, in 1265, burned the great Velian fair where Covenant brokers sold Tarkhan captives. Gavrin was killed in Qarayel's camp in 1281; who killed him is disputed. By 1300 the grace was thinning again, Iqashar's wardens held, and the payments stopped. Qarayel died undefeated in 1303. The grave remains undisclosed by policy and ritual.
 
 ## Partition and Road Peace, 1304-1360 AR
 
-The Partition of the Herds created White, Iron, Moon, and Ash coalitions. Castara's growing inland route was devastated in 1333; in 1334 the city bought the first [[Castaran Long Road|Ash Road Peace]]. By 1360 White raids threaten Covenant wells, Iron companies occupy imperial contracts, Sorqai's age makes succession dangerous, and Chilgir's debt makes the Castaran peace unstable.
+The Partition of the Herds in 1304 divided Qarayel's horses by grace-line among his children's lines and created the White, Iron, Moon and Ash coalitions. White took the most numerous herds and raided; Iron took the best-kept lines, which Iqashar hired at once because they would stand beside the Covenant's own bound things; Moon took the Standard and the right to call a kurultai; Ash took the eastern grass, the poorest lines and the roads. Iron-mounted companies rode with Covenant night raiders on the Thalmyric frontier in the 1310s, and Iron households have entered Covenant frontier offices since.
+
+In 1333 Castaran surveyors staked wells across Ash pasture for an inland road, which every Tarkhan read as the Nine Wells again; the Ash banners burned the survey camps. In 1334 Castara bought the first [[Castaran Long Road|Ash Road Peace]]. By 1360 White raids threaten Covenant wells, Iron companies occupy imperial contracts, Sorqai's age makes succession dangerous, Chilgir's debt makes the Castaran peace unstable, and every Horde's wind-speakers report the grace thinning in its foals.
 
 ## Navigation
 
 - [[Chronology of the Known World (AR Dating)]]
 - [[Four Hordes of the Partition]]
 - [[Tarkhan and the Wider World]]
+- [[Qarayel and the Black Wind]]
 
 ## Historical Atlas — wider inheritance
 
@@ -57,7 +64,7 @@ Western camel-and-well circuits and eastern hunting and herding developed throug
 
 The Nine Wells seizure in 558 AR violently altered western life. The First Catch, c. 905–920, supplied horses from scattered imperial studs to already-skilled eastern communities. Before it, the Tarkhan possessed a mature civilisation of wells, camel roads, grass circuits, assemblies and craft towns.
 
-Qarayel's 1261 unification and the Black Wind years changed the wider world's costs of movement. Extraction without occupation still meant burned fairs, threatened dependants and coercion. After his death in 1303, successor hordes developed distinct policies. The grave remains protected.
+Qarayel's 1261 unification and the Black Wind years changed the wider world's costs of movement. Extraction without occupation still meant burned fairs, threatened dependants and coercion. After his death in 1303, successor hordes developed distinct policies from the herds each inherited. The grave remains protected.
 
 ## Stories and neighbouring histories
 

@@ -50,6 +50,21 @@ Eryndor dies at Arqesh in 684. Arezan issues the Decree of Roads and Houses. The
 
 Serevan's Delkosi kingdom leaves a mixed naval and royal inheritance. House Nerethan descends from a later Delkosi officer family rather than from Eryndor or Serevan. The Eastern Sea Wars of 514–491 end Vashar's attempt to establish permanent rule over the Atherian leagues. Vashar remains an independent imperial peer in the settlement of 350 BR.
 
+> [!note] Amended 14 November 2026 — Causality Pass 01 (items 01.6, 01.7, 01.9 and cuts)
+> - **Ashkur (814).** Narethi's marriage request is withdrawn as a copied beat, ending the "two queens in 814" collision. Ashkur is murdered while escorting Radiance officials, who had fled Zaheret's restoration to Arqeshite road stations, back to their confiscated temple fields; Merod II presses their claims. The grievance still follows an intervention already under way.
+> - **Coastal deportations (c. 740–730).** After 742 Arqeshite governors seize Compact ships in eastern harbours, hold the crews to ransom and deport the Atherian merchant quarter of Terys to the river cities. Valeron II uses the grievance to win the eastern mandate. Eryndor's motive is disputed in four named in-world traditions; authorially, pay set the timing and the deportations made the war declarable. Terys's massacre (697–695) gains a contested motive of reprisal.
+> - **Coin (01.9).** Ortheian silver, c. 730, is the first struck coin; the Successor courts spread coinage after 684.
+> - **Kassur's images and the Voice at Delkos (01.6).** Kassur III's killers bring Eryndor the body and the portable royal images (688); he keeps the images as regalia. In 685 he consents to a White Measure rite (masters supplied by Neresh of Qemaret, paid for by Serevan). The final rite fails at his death in 684; his soul departs normally. At Delkos the corpse speaks through the Crowned Countenance and the estate-office built around his plans and attendants' memories: the Voice declares him alive and heirless and promises the same provinces twice. This makes the heirs worthless (Demeran kills them) and prolongs the wars. Around 657 Neresh, refused a grant, has the Qemaret masters testify that the rite failed, citing Nemeret's counterfeit; Serevan's grandson walls corpse and images into the tomb c. 655; the living successors settle c. 650. The control "the corpse contained neither the king's soul nor his authority" is amended: no soul, but de facto authority while its promises were obeyed.
+> - **Cuts.** The Plutarch frames for the officer and the companion are withdrawn; both killings stay, now caused by the quarrel over bowing to Kassur's images. The Khalbar apron is withdrawn; Ishara of the Soot Court still leads the workers who open the gate, and the massacre after it stays. The romance incidents are reduced in history prose to one linking sentence; [[The Five Limits of Eryndor]] keeps them and adds "the voice in the tomb" as a sixth tale.
+
+> [!note] Amended 14 November 2026 — Causality Pass 01 (item 01.5, OBA-N01, OBA-N13 and the Qiryath–Vashar cuts)
+> - **Qiryath's sign.** An accepted appointed offering burns without smoke and leaves the altar stones cool, witnessed by touch by elders of three custodial houses. It answers the sanctuary's appointed offerings, not persons or rulers. Haviel's white flame remains a separate sign.
+> - **The Withholding (743–654 BR).** The sign is first withheld in the siege's first winter (743), after the council drives foreign residents out to die between the lines, and stays withheld through the fall (742), the exile and the royal consecration offering (c. 660). It returns in 654 at the offering of Yaelith's mixed households. Its cause is unresolved even authorially. The fixed sequence adds c. 743 and c. 654.
+> - **Vashar's wager.** Arezan's decree and grants begin and Daryav completes the rebuilding as a bet on the sign's return; the Witness of Dawn first appears afterwards and is proclaimed by Daryam as the sign transferred to the king. It decides nothing after 350 BR.
+> - **The Choir at the Eastern Road (OBA-N01, c. 700–650 BR)** closes a slavers' road used against returning families. **The ended acclamation (OBA-N13, 431 BR)** kills Orvaz I at the Kavresh harvest audience and interrupts the Witness of Dawn for about a generation.
+> - **Delkos grants** survive into the Eastern Sea Wars; Mazdan Aresh revives one at Tasar in 514.
+> - **Cuts.** Hador's Samson beats, Yedran's Bathsheba frame, the Fosterling and Champion cycles in Vashar, and the template punishments of Mazhara and Rathava are withdrawn. The victims are kept as recorded in [[Authorial Notes from Reader Articles - Ancient East]].
+
 ## Qahur and the Successor inheritance
 
 Qahur remains an independent Orphaned river civilisation. Merod II's grievance follows an intervention already under way and does not make Ashkur's death the cause of all Arqeshite expansion. Eryndor receives a limited Qahuri title and sign from one crown; other crowns resist or wait. Neresh controls selected crown towns for a generation. Native temple, canal and royal houses absorb or expel the Successor garrisons.
@@ -91,7 +106,7 @@ Eryndor remains separate from Teren Casvilar and Aurelius Thalion. Arezan remain
 - Eryndor's cause of death and final words;
 - the identities of the officer and companion killed by Eryndor;
 - the fate of Liora of Tasar;
-- the current location of Eryndor's remains;
+- the current location of Eryndor's remains (since 14 November 2026: the walled tomb at Delkos, sealed c. 655 BR with Kassur's images, is a lost site whose location stays protected);
 - the identity of the Terys attacker, the missing water-finder and every actor enclosed by the local gate;
 - the complete borders and dynasties of all Successor states;
 - protected Weirds, true Idol successions and events after 1360 AR.

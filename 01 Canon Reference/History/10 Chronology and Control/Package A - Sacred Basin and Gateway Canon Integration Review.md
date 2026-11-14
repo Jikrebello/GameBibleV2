@@ -51,6 +51,11 @@ The canonical dynastic spine comprises the Senareth first crown, the first Twin-
 
 The workers' stoppage of 903 BR follows withheld grain, assault by soldiers and the spread of action to boat crews. The Copper Orchard's demand for funerary material is one established cause of the diversion.
 
+> [!note] Amended 14 November 2026 — Causality Pass 01 (items 01.6, 01.7 and cuts)
+> - **The end of the Aramen empire (c. 858 BR)** now has a stated cause: the dead as landlords. Mortuary estates and Second Houses accumulated the best fields, metal and crews by lending grain and copper for royal campaigns; their land left the levy and still demanded upkeep. Pressed by Kassur I's provinces on the eastern caravan stages, the crown paid its southern garrisons in land the dead already owned; the garrisons sold their allegiance to temple and military houses and the desert mines were abandoned. The 903 stoppage is the visible symptom. Reader homes: [[Ancient Qahur and the Twin-Reed Crowns]], [[The White Measure and the Second Houses]], [[Life in the Ancient Sacred Basin]].
+> - **Narethi** is withdrawn (a copied beat that also produced two queens in 814). Ashkur's murder stays; see Package B.
+> - **Eryndor's rite.** Neresh of Qemaret supplies the White Measure masters for Eryndor's deathbed rite (685–684); it fails exactly as Nemeret's did, and the Crowned Countenance speaks through the corpse at Delkos until the same masters testify against it c. 657. White Measure metaphysics below are unchanged. See Package B.
+
 ## Fixed Gateway history
 
 The Gateway country is a Braided ancient population formed among older shore communities, proto-Ahdari migrants, maritime settlers, captives and freed people. It predates the Covenant and is not an early Covenant state.

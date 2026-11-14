@@ -41,7 +41,7 @@ How the Companions are venerated differs by church, per [[The Making of Saints]]
 
 ### 1. Saint Jareth of the Bound Eye — *the Recorder* (d. 41 AR)
 
-A blind imperial scribe and forger who received partial sight from Isfir and spent it entirely on chronicling him. Taken in the Great Purge at Caleran and **burned in the Celestial Forum with his half-copied Gospel of Fire**; witnesses say he kept writing until the smoke took his one good eye, and the book's charred spine — **the Ash Spine** — survived the pyre and rests in the Sanctum Divinitatis.
+A blind imperial scribe and forger who received partial sight from Isfir and spent it entirely on chronicling him. Taken in the Great Purge at Caleran, where the augurs' commission remembered his old trade and charged him with forging sacred records; it called his half-copied Gospel a forged register. At his trial the commission produced the nails from Isfir's execution, out of the governor's case chest in the forum archive, to prove that the cult's founder had been condemned as a rival king, then had them leaded into the Pillar of Concordance as a monument to a sentence carried out. Jareth was **burned in the Celestial Forum before the Pillar with his half-copied Gospel of Fire**; witnesses say he kept writing until the smoke took his one good eye, and the book's charred spine — **the Ash Spine** — survived the pyre and rests in the Sanctum Divinitatis.
 
 - **Eclessia:** bearer of the Commission of the Pen; patron of scribes, notaries, archivists, and the relic courts; scholarly patron of the Order of the Lantern. Eclessian iconography: the bound eye and the burning pen. His devotees among the chancery clergy have manifested the Four Marks on their writing wrists.
 - **Thalmyria:** honored but pointedly demoted — Thalmyric icons paint him small at the Mother's hearth, writing down what Calira dictates.
@@ -69,7 +69,7 @@ A noblewoman cast out as cursed after seven miscarriages, who claimed the Holy F
 
 ### 5. Saint Erom the Flamebound — *the Penitent* (d. 44 AR)
 
-A murderer who confessed publicly and became a healer of prisoners. When his former brotherhood fired a catechumen orphanage in Velos during the Purge, Erom **walked into the building four times**; he died of his burns days later, having first formally forgiven, by name, the men who set the fire. Two of them are buried beside him.
+A murderer who confessed publicly and became a healer of prisoners. When his former brotherhood fired a catechumen orphanage in Velos during the Purge, Erom **walked into the building four times**; he died of his burns days later, having first formally forgiven, by name, the men who set the fire. Two of them are buried beside him. When the Aurin at Velos stopped freezing in 292, his city's congregation claimed the sign for its martyr; Velosi still say the river remembers the man who walked through fire.
 
 - **Thalmyria:** patron of the **Order of the Iron Martyrs**, the penitential order — men and women with blood-guilt who take the harshest vows; his cult is the East's standing proof that no one is beyond the Fire.
 - **Eclessia:** patron of prisoners, jailers, firefighters, and deathbed conversions; his prison-ministry chains are relics at Velos; charismatic devotees report burn-shaped Marks that do not blister.
@@ -83,7 +83,7 @@ The dockworker of Halmenth who after his healing spoke only in prayer and poetry
 
 ### 7. Saint Virella the Twin-Veiled — *the Discerner* (d. 47 AR)
 
-The herbalist once thought possessed by two spirits, whom Isfir's touch "split the veil" into seer and healer. In Sermora she was **slowly poisoned over months by an imperial inquisitor posing as her patient — she knew, and kept treating him**. He converted at her deathbed and became her first hagiographer.
+The herbalist once thought possessed by two spirits, whom Isfir's touch "split the veil" into seer and healer. In Sermora she was **slowly poisoned over months by an imperial inquisitor posing as her patient — she knew, and kept treating him**. His commission lapsed when the Purge ended in 45; he went on poisoning her for two more years on no one's authority but his own. She died in 47, the first martyr killed by a persecutor whose warrant had run out. He converted at her deathbed and became her first hagiographer.
 
 - **Thalmyria:** founder-patroness of the **Ember-Visionaries**; her "two veils" — the true vision and the false kindling — are the foundation of Thalmyric discernment-of-spirits, and every trance-dormitory keeps her rule: *test the fire before you warm yourself.*
 - **Eclessia:** patroness of physicians, mystics, and the mentally ill; the Inquisition uses her protocols to test visionaries — meaning both the visionaries and their examiners claim the same saint, which she would probably have found funny.
@@ -118,7 +118,7 @@ The baker's daughter who witnessed the Binding outside Qiryath, saw where Isfir 
 
 ### 12. Saint Tyros the Doubter — *the Convert* (d. 45 AR)
 
-The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. **Beheaded in Caleran during the Great Purge — the last of the Companions to die in the Great Purge.**
+The astrologer-priest who came to disprove Isfir and wept at his feet by the argument's end; his defection pulled whole priestly colleges after him. From old colleagues he learned that every augur college in the empire had recorded no answer at all from the hour of the Binding to the third morning, and had sealed the days. His Dialogues never claim that the silence proves the Resurrection. They say that the colleges recorded something they refuse to discuss, and that Tyros had met the man. Junior augurs and register-keepers came over to him with copies of their books, and the High Augurate began the Great Purge to get them back. **Beheaded in Caleran during the Great Purge — the last of the Companions to die in the Great Purge.** One of the colleges that followed him kept an observatory in the Veridancian hills, which later became the Underground's Lantern Cradle. [[The Ember Underground]]
 
 - **Thalmyria:** the **Tyrine Dialogues** (his recorded disputations) are seminary curriculum; patron of catechists and converts from the old cults.
 - **Eclessia:** patron of doubters, scholars, and apologists — invoked, a little uncomfortably, by inquisitors, and a great deal more comfortably by the people they question.
@@ -139,7 +139,7 @@ The Companion who sold the Redeemer's night route to Ezrahel's officers for a pu
 
 Born **Sha'il bar Qoreth**, he was a Jirahar of the scribal aristocracy and a kinsman of Lord-Scribe Ezrahel bar Qoreth, who handed Isfir to the governor. He trained under the Keeper Gamliel the Patient and held Atherian citizenship through his family's imperial service. As **Aquilan the Hound**, he pursued the first assemblies before the Great Purge, using warrants to protect the Path from what he believed was a destructive error.
 
-On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
+On the road to Virelos, carrying warrants, he was struck blind by "the noon behind the noon" and heard: *"Hound, whose scent do you follow?"* Baptized three days later by the congregation he had come to arrest, his sight returned with the water. He never met the living Isfir — his commission came by Flame alone — and he spent the rest of his life carrying the faith **out of the Jirahar world and into the nations**: Atherian cities, Sestaran ports, Folk borderlands. His **Epistles** argue that the Path's law is fulfilled, not abolished, in the Redeemer. The commission charged him with helping Tyros's colleges carry off sacred records, and tried him as a citizen. His citizenship spared him the fire: **beheaded at Caleran**, the same season as Tyros.
 
 - **Both churches** rank him beside the Companions; his Epistles are their common arsenal — cited by each against the other.
 - **The Freeflame** quote him most of all: a commission by Flame, without seat, witness, or laying-on of hands — *"if the Hound needed no seat, why do you?"*

@@ -43,7 +43,7 @@ Imperial government enlarged a system which could admit outsiders while keeping 
 
 ## The machinery people lived inside
 
-Roads shortened some journeys and made armies more dangerous. Provincial granaries saved cities during failed harvests, but the officials who distributed food could demand land or labour in return. The Keeper of Borrowed Grain tradition recalls a minority administrator whose famine policy preserved lives while transferring farms to the ruler and turning independent households into dependants.
+Roads shortened some journeys and made armies more dangerous. One of them, the Via Somnia, was surveyed along the trampled line left by the Sleepwalkers' Summer of about 200 BR, when the people of three provinces walked in their sleep in the same direction until the walking stopped everywhere on one morning. Augurs, churchmen and Vortharan scholars still argue over why. Provincial granaries saved cities during failed harvests, but the officials who distributed food could demand land or labour in return. The Keeper of Borrowed Grain tradition recalls a minority administrator whose famine policy preserved lives while transferring farms to the ruler and turning independent households into dependants.
 
 Markets connected wine, grain, wool, metals, timber, slaves and luxury craft. Veterans became settlers. Captives became domestic workers, quarry labourers, tutors and sometimes freed citizens. Rural obligations kept the cities supplied; civic festivals made that dependence seem like a natural harmony.
 
@@ -51,17 +51,21 @@ Markets connected wine, grain, wool, metals, timber, slaves and luxury craft. Ve
 
 The [[G-09 - The Companions Who Entered by the Low Door|Low Door Companions]] began in provincial service households. Their rise joined skill and friendship to hostage-taking, unlawful killing and the betrayal of a refuge. Later imperial Lives removed the blood from the ascent because successful outsiders made useful examples of imperial generosity.
 
-A cook could become a commander without the kitchen children becoming free; a hostage could learn the court's language and later use it to order hostages taken from another people.
+A cook could become a commander without the kitchen children becoming free; a hostage could learn the court's language and later use it to order hostages taken from another people. When Doran marched on Caleran in 61 BR, two of the companions held the stores and workshops that fed and armed his column, and his officers afterwards entered their commands through a low door carrying a plain bowl.
 
 ## Imperial religion and its victims
 
 The Star Pantheon provided civic ritual and a language of cosmic hierarchy. Imperial cults also standardized the dead ruler's face. Some ceremonies were theatre and some concealed fraud. Temple accounts treated answering portraits as proof that the stars preserved the imperial office; some provincial traditions avoided naming a deceased ruler before his image.
 
+In 247 BR the accession portrait at Caleran answered in the Emperor's voice while no emperor lived, and a magistrate governed through it until soldiers carrying it before them killed hungry demonstrators in its sight. Samor Veloran covered it with a soldier's cloak, and it stayed veiled for the rest of the age. Its copies in governors' courts, town halls and army standards did not. Eastern citizens swore before them, and in famine-struck Raveth debtors who swore before the image gave up their farms with a meekness their neighbours never showed. [[The Year of Four Eagles]] and [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|the Emperor after the Emperor]] follow the portrait and its copies.
+
+The Red Star's priests gained a second duty after an emperor's heir was crushed under an untested hall in 326 BR. Every public work was loaded before the Red Star until its weakest stone cracked, and the official who opened it stood under the arch. Quarrymen killed for refusing to cut "stone for the Star to break" in 274 belong among the age's victims, with the labourers of the Arcelon embankment and the spectators drowned when Velen I's untested festival banks gave way.
+
 Different provincial histories remembered the same victory differently. The capital praised a road and pacified frontier; local accounts recorded burned villages, forced labour and bodies beneath the embankment.
 
 ## Inheritance beyond the empire
 
-The Age of Glory left buildings, techniques and an idea of public order that later peoples could not simply discard. It also left fear that human empire was learning to resemble the Giants. Its achievements and cruelty became the setting into which [[The Age of the Redeemer]] entered.
+The Age of Glory left buildings, techniques and an idea of public order that later peoples could not simply discard. It also left fear that human empire was learning to resemble the Giants. On the eastern frontier it left Atherian governors at the Jirahar sanctuary of Qiryath, taken under a charter during Vashar's War of the Two Dawns, and a Vasharan crown that called the arrangement a lease. Its achievements and cruelty became the setting into which [[The Age of the Redeemer]] entered.
 
 Modern Thalmyrics and Eclessians inherited different regions, imperial layers, conversions, occupations and mixtures.
 

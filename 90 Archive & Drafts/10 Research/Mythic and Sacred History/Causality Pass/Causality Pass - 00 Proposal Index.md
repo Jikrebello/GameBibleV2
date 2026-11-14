@@ -13,7 +13,7 @@ tags: [causality-pass, proposal]
 ---
 # Causality Pass — 00 Proposal Index
 
-The proposals below answer the [[World History Causality Review - November 2026]]. None of them is canon until approved.
+The proposals below answer the [[World History Causality Review - November 2026]]. On 14 November 2026 the creator handed item decisions to best judgement under the brief in [[Causality Pass - Direction]]: land before law, a supernatural blend of about half to three-fifths of turning points, saints and sinners on the page, and real history as a springboard. Each proposal file records its decisions item by item.
 
 **How to approve.** Each proposal file contains numbered items, each with its own `- [ ] Approve` box. Tick an item to approve it. To reject or change it, strike it through or write a note under it. Approved items are then written into the canon articles and the [[The Divergence Pass — Torque Register|Torque Register]] under the Consequence Rule added there in November 2026. Each item lists the articles it would change.
 

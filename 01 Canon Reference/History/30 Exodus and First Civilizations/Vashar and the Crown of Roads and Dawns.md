@@ -80,7 +80,9 @@ After victory, Daryav divided the empire into **road commands**, each governed f
 
 The **Dawn Road** connected Kavresh, Daryam, Durqesh, Arqesh and the western coast. Relay stations maintained horses, food, sleeping rooms and repair yards. Messengers could cross the core rapidly; merchants travelled more slowly and paid at bridges and stations. The road brought markets and news to some towns while exposing them to tax collectors and requisition.
 
-Daryav funded the rebuilding of Qiryath and confirmed its sanctuary estate. In return, road houses supplied interpreters, maintained selected stations and carried recognised correspondence. The king's officials also used Jirahar household knowledge to assess communities that had previously escaped provincial counting.
+Daryav completed the rebuilding of Qiryath that his father had begun, and confirmed its sanctuary estate. The crown had wagered on the altar. Qiryath's sign, an offering that burned without smoke and left the stones cool, was the one answer in the east that anyone could touch, and it had been withheld since the Arqeshite siege. A return under Vasharan protection would show every province that heaven confirmed the Right Order against the Lie of Arqesh; without one, the crown had still bought a road, a market and a city of interpreters. At the consecration around 660 BR the offering made in the king's name smoked. Some six years later the stones went cool under an offering carried by mixed households of returners and Arqeshite settlers. Vasharan inscriptions credited the crown, and the Jirahar wrote down which offering had been answered.
+
+Road houses supplied interpreters, maintained selected stations and carried recognised correspondence. The king's officials also used Jirahar household knowledge to assess communities that had previously escaped provincial counting.
 
 At Kavresh, Daryav began a ceremonial terrace where delegations carried soil, tools, textiles, animals and vessels representing their provinces. The art described the empire as willing cooperation around the king. Tribute records, garrison letters and accounts of suppression reveal the force behind that procession.
 
@@ -90,11 +92,9 @@ Vasharan kings adopted the language of Right Order and tended light. A royal fla
 
 Three traditions later claimed that a sacred flame had accompanied Arezan's conquest. Daryam remembered a household lamp carried on a mule. An Arqeshite relief showed a royal brazier taken from Kassur's palace. Qiryath remembered a lamp lit when the return decree was read. Later writers fused these separate objects into one travelling relic called the **Threefold Fire**.
 
-During Daryav's reign, a radiance like that of the royal ceremony began to appear in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn**. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
+In the years after the consecration offering smoked, a radiance like that of the royal ceremony began to appear in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn** and proclaimed it the sign Qiryath had withheld from the king. Jirahar interpreters at court dated its first appearance to the year of the smoking offering and called it a sign made to order. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
 
-Some priests resisted. **Mazhara of Daryam**, active under Daryav, taught that a king's lie remained a lie when carved in three languages. After she condemned the killing of surrendered rebels, the crown confiscated her family's orchards and sold their bonded workers. Mazhara remained alive and continued teaching in another household. Court histories later cited her survival as proof of royal tolerance and omitted the punishment inflicted upon her workers.
-
-The songs of the White-Haired Fosterling describe an enormous bird, although they disagree about its home and purpose.
+Some priests resisted. **Mazhara of Daryam**, active under Daryav, taught that a king's lie remained a lie when carved in three languages, and she refused to call the radiance a sign. After she condemned the killing of surrendered rebels at Nemeru, Daryav made her keeper of the royal flame. Her family's orchards passed to the flame's estate, and their bonded workers now cut fuel for the king's fire. Her sayings were carved on the Kavresh terrace with the hard lines removed. Her students kept the uncarved text, including her refusal to call the Witness of Dawn a sign, and they noted that the royal fire now burned wood cut by her own household's bondsmen: Ashara's third question, come home. Court histories cite the carved sayings as proof of her loyalty.
 
 ## Kavran I and the western road, 625–584 BR
 
@@ -132,11 +132,13 @@ Vasharan tradition remembers the campaign as the defence of order against oath-b
 
 Orvaz financed rival Atherian leagues, hosted exiled rulers and offered naval timber to coalitions willing to recognise Vasharan coastal claims. Provincial governors acquired semi-hereditary influence, although the crown formally appointed them.
 
-Road-command autonomy brought danger at home. The governor of Avesh joined three other commands in a revolt around 462 BR. Orvaz promised pardon, separated the coalition through private agreements and then executed two surrendered leaders whose safe conduct had been publicly proclaimed. **Rathava of Daryam**, called the Truth-Teller, condemned him in the palace garden. Orvaz spared Rathava but destroyed his family estate and sold its labourers. Royal historians recorded the spared priest and omitted the labourers.
+Road-command autonomy brought danger at home. The governor of Avesh joined three other commands in a revolt around 462 BR. Orvaz promised pardon, separated the coalition through private agreements and then executed two surrendered leaders whose safe conduct had been publicly proclaimed. **Rathava of Daryam**, called the Truth-Teller, condemned him in the palace garden. Orvaz had Rathava's estate labourers brought into the garden in ropes and told him they would be sold unless he unsaid his words. Rathava unsaid them before the court, and the labourers walked home. His school split over that afternoon. One party held that the Truth-Teller had told the single lie that mattered; the other that he had kept an older promise, to the people of his house. Royal historians recorded the recantation as proof that truth served the king.
+
+In his old age, after a run of good harvests, the harvest audience at Kavresh began to hail Orvaz as the one who made the grain rise, and courtiers said the Witness of Dawn filled the terrace mirrors whenever they did. Orvaz accepted the praise. He ordered each road command to send children to be raised in the king's dawn-house as servants of the royal fire. At the harvest audience of 431 BR, as the delegations cried the new praise, he fell from his seat, and he died some days later in great pain. Palace physicians named a sickness of the bowels. Jirahar interpreters present that day said a messenger had stood beside the throne at the moment of the cry. Daryam's keepers wrote nothing. The children were sent home by the new king's officers, and for a generation afterwards, courtiers said, the radiance no longer appeared in the palace mirrors.
 
 ## Tiraz III, Orvaz II and the Caleran crisis, 431–350 BR
 
-**Tiraz III Tiravan** inherited a wealthy but decentralised empire. His western governors dealt increasingly with individual Atherian commanders. Marovan Veyr's campaigns between 414 and 397 BR secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere. Some local rulers played Veyr and the road-command governor against one another.
+**Tiraz III Tiravan** secured the throne after fighting among the royal kin and inherited a wealthy but decentralised empire. With the mirrors dark and the harvest audiences cut short, his western governors feared the king less and dealt increasingly with individual Atherian commanders. Marovan Veyr's campaigns between 414 and 397 BR secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere. Some local rulers played Veyr and the road-command governor against one another.
 
 Tiraz died in 403 BR. His son **Orvaz II** spent the first years of his reign suppressing a cousin supported by eastern horse houses. This limited his ability to contest Veyr's settlements. He recognised several of them temporarily in exchange for Atherian withdrawal from Avesh's inland estates.
 
@@ -176,21 +178,19 @@ Slavery and bonded labour supported estates, mines, roads and households. War ca
 | Ruler | Reign | Principal development |
 |---|---:|---|
 | Arezan I Tiravan | 704–671 BR | coalition against Arqesh; Decree of Roads and Houses |
-| Daryav I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation |
+| Daryav I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation; Qiryath rebuilt; the Witness of Dawn first proclaimed |
 | Kavran I Tiravan | 625–584 BR | western road consolidation and Qahuri relations |
 | Mithara I Tiravan | 584–536 BR | dynastic settlement, fiscal repair and negotiated coast |
 | Xarun I Tiravan | 536–486 BR | coastal suppression and major western invasion |
-| Orvaz I Tiravan | 486–431 BR | diplomacy, provincial revolt and royal perjury |
+| Orvaz I Tiravan | 486–431 BR | diplomacy, provincial revolt and royal perjury; death at the harvest acclamation |
 | Tiraz III Tiravan | 431–403 BR | growing western-governor autonomy and Veyr's arrival |
 | Orvaz II Tiravan | 403–after 350 BR | Caleran civil wars and settlement with Thalion |
 
 ## The eastern heroic inheritance
 
-Vashari singers perform histories of great houses, flawed kings, fostered champions and wars between kin. Most surviving cycles were composed centuries after the periods they describe. They preserve family claims, local grievances and heroic memory.
+Vashari singers perform histories of great houses, flawed kings, physicians, truth-tellers and wars between kin. Most surviving cycles were composed centuries after the periods they describe. They preserve family claims, local grievances and heroic memory.
 
-The **White-Haired Fosterling** concerns **Razana Tiravan**, exposed by an upland lord who feared an Idol had marked her. A great bird-shaped being raised her beyond the pasture roads. She returned as a physician and negotiator, refused the throne offered by her repentant father and supported a rival household whose tenants she had treated during famine. The identity of the fosterer remains unresolved.
-
-The **Champion and the Unrecognised Son** belongs to a later western great house. A commander kills an Atherian-allied opponent at a ford before recognising a token from an earlier hostage marriage. Vasharan singers dwell upon the father's grief after the recognition. In the mother's city, the song begins with her removal as a hostage bride and ends by naming the officials who sent her husband and son to opposite armies.
+The songs of **Razana Tiravan** remember a physician and negotiator of the royal house who refused the throne when it was offered to her and supported a rival household whose tenants she had treated during famine. Daryam singers pair her with Mazhara and Rathava as the three who told kings the truth and paid for it in different coin.
 
 ## Read with
 

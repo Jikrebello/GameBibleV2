@@ -30,7 +30,7 @@ Vathran officials divided their human subjects by work and obligation. Narashi c
 
 ## The War of Altitude, c. 2300–2260 BR
 
-Vathra's last succession opened during the wider crisis of the Great Unbinding. **Ozhur IV**, ruler of the high crown-city Urzavad, demanded additional food, ballast and workers after familiar sky roads began to fail. His cousin **Varakesh of Dazhur** claimed that the lower cloud houses could preserve the kingdom by taking control of the route calendar. Each court stripped the stations below its rivals. A well could supply one city in spring and lose its remaining animals to another in summer.
+Vathra's last succession opened during the wider crisis of the Great Unbinding. For generations the kings had kept their thinning-blooded routes open by marching anchors, crews and captives out along them. Now the country beneath the routes stretched: a morning's walk between anchor towers became a day, then three, and wells ended up days from the fields they watered. **Ozhur IV**, ruler of the high crown-city Urzavad, demanded additional food, ballast and workers to keep his city on roads that swallowed them. His cousin **Varakesh of Dazhur** claimed that the lower cloud houses could preserve the kingdom by taking control of the route calendar. Each court stripped the stations below its rivals. A well could supply one city in spring and lose its remaining animals to another in summer.
 
 The dispute became the **War of Altitude**. War-platforms bombarded anchor towers. False beacons drew rival cities towards thin air and violent weather. Giant rulers withheld rain from districts which supplied the opposing side. Dazhur cut loose an inhabited lower ward to preserve its lift; the falling houses killed the people inside and crushed part of the tether town below. Urzavad answered by destroying three western landing fields and executing their human crews.
 
@@ -44,7 +44,7 @@ Urzavad struck a rival platform above Tal-Kesh and fell across the landing count
 
 Kel-Orun descended under the control of Seyra's pilots and the Dynastic Giant **Kelvara**, who turned against her royal kin after the massacre. Two foundation chambers split during the landing and killed hundreds. Most inhabitants escaped. Later settlements grew among the cisterns and metal ribs; a processional court became a market, and people quarried palaces for houses and wells.
 
-Dazhur survived the battle in which it discarded its ward, then disappeared from dependable records within three years. Sairat entered a route after rebels destroyed its destination anchor. Molqara lost steering while part of its lift remained active. Yazuran attempted an unknown passage and left no confirmed wreck. Northern stories still claim sightings of all four cities. The stories disagree over whether they describe original structures, broken route images, copied processions or ordinary lights in difficult weather.
+Dazhur survived the battle in which it discarded its ward, then disappeared from dependable records within three years. Sairat entered a route after rebels destroyed its destination anchor. Molqara lost steering while part of its lift remained active. Yazuran attempted an unknown passage and left no confirmed wreck. Scholars count these four as Vathra's lost cities; northern counts give "three or four", and Tarkhan songs mourn three and leave Dazhur, the city that dropped its own ward, out of the mourning. Northern stories still claim sightings of all four. The stories disagree over whether they describe original structures, broken route images, copied processions or ordinary lights in difficult weather.
 
 Vathra ended because no surviving house could reconnect court, food, movement and obedience across the northern system. Individual Giants, grounded buildings, human specialists and old instruments endured.
 
@@ -57,6 +57,8 @@ Human communities reorganised around what had endured. Narashi well houses kept 
 The old royal horses nearly disappeared. Vathra had concentrated its best animals at upland estates and military platforms, where fodder, healers and breeding records could be controlled. Horses died in crashes, were eaten during sieges, were taken south by neighbouring rulers or failed to reproduce in the harsher open country. A few chariot houses preserved small lines. Ordinary movement relied upon feet, carts, sledges, donkeys and camels.
 
 Freedom carried severe material costs. Anchor towns no longer distributed grain, and several escaped camps died during the first winters. Armed bands took animals from poorly defended settlements. Former officers tried to restore tribute under human rulers. Human coalitions defeated most surviving Giant enclaves over the following two centuries.
+
+The broken routes kept working in fragments. Dead anchors turned travellers back on themselves, so that a caravan taking an old sky-cut could walk all day and come out at its own morning hearth, while raiders who knew the surviving fragments struck wells far from where anyone expected them. In one of those first winters **Meya of Narash** climbed to the dead anchor field above the Hundred Wells and bargained there, by caravan tradition, with a figure of road dust and knotted cord. Afterwards every short road into the wells led its traveller back to where they had started, and only those who came well to well on foot arrived. Meya had governed three wells before the war. Her daughters became necessary to all hundred. [[Vathra and the Great Unyoking]] tells the bargain and the walk that each crown-mother makes at her accession.
 
 ## The Near-Glass encounter, c. 2050–1750 BR
 
@@ -74,7 +76,9 @@ Western camel breeding enlarged the distance a household could cross between dep
 
 The Nine Mother-Wells of Tergai were deepened over several generations by Orphaned well houses, former tether-town workers and allied camps. Tarkhan-speaking communities maintained most outer stations. Ahdari households also worked and buried relatives there. Rights attached to labour, graves, seasonal use and negotiated protection.
 
-The old Narashi crowns lost much of their Giant-age authority while preserving influential maternal houses. Their marriage networks joined camel owners, gardeners, ransom brokers and sanctuary keepers. Some crown-mothers protected fugitives. Others sold captives or used sanctuary debts to compel years of service. The Hundred Wells remained a chain of related jurisdictions.
+The old Narashi crowns lost much of their Giant-age authority, but the maternal houses outlived it, because the sealed wells answered only to a daughter of Meya's line. While neighbouring crowns passed to sons, nephews and sons-in-law, Narash went from mother to daughter, and each new crown-mother walked the whole round of the wells by the long road and called every well by its name at its lip. Their marriage networks joined camel owners, gardeners, ransom brokers and sanctuary keepers. Some crown-mothers protected fugitives. Others sold captives or used sanctuary debts to compel years of service. The Hundred Wells remained a chain of related jurisdictions, each with its own keepers, joined by the seal and the walk.
+
+Ahdari wells beside the Narashi chain had no such protection. Their keepers held water with walls, sworn protectors and blood-price, and could be removed when they failed. The Ark-descended camps would not let a keeper's sons inherit a gift that no one else could keep, and the difference between the two kinds of well shaped western politics for a thousand years.
 
 Eastern cattle and sheep families gathered at seasonal lake shores. They raced carts, exchanged foster children, arranged marriages and heard singers recite the Great Unyoking. Assemblies settled access to winter shelter and organised retaliation against raiders. A leader's following depended upon food, gifts and judgement.
 
@@ -82,19 +86,31 @@ Eastern cattle and sheep families gathered at seasonal lake shores. They raced c
 
 Northern routes belonged to a wider exchange world connecting Qahur, coastal ports, eastern river cities and the Copper Stairs. Bronze work depended upon metal moving over long distances. Royal chariot houses required imported fittings, wheelwrights and concentrated fodder.
 
+Much of that metal was old. Ruin traders dug copper, gold and bronze out of the tomb-estates of fallen Ishkatar, and smiths recast it into ingots, wheel-tyres and harness. The trunk roads south towards the Sacred Basin ran along Ishkatar's former processional roads, because their beds were straight, paved and already cleared. Some of the recast metal still carried the faint serpent title marks of its dead owners, and drivers learned to rub them off with sand.
+
 Poor floods, drought, royal seizure and unpaid soldiers broke much of this system between approximately 1450 and 1325 BR. Armed carriers kept cargo intended for failing palaces. Palace guards took food from villages to preserve metal shipments. Raiders attacked convoys already divided by disputes over payment.
 
-At **Daram Ford**, the chariot lord **Boran Tall-Hand** ordered porters to discard grain so that his teams could carry copper through mud. The porters killed him and distributed the grain among nearby settlements. Rival captains divided his horses, and most of the lines disappeared within a generation. Later Tarkhan songs called the episode the **Feast of the Copper Wheels**.
+### The Reclaiming
+
+During the same years, diggers opened deeper estate-vaults than any before them, and the old owners' servants woke. Caravan accounts describe long gilded serpents running on the ancient road-beds by night, golden-handed guards walking out of the vault mouths, and dead stewards in estate livery standing at palace storerooms. They went for marked metal. A Processional Coil overtook a convoy, took every ingot and fitting that bore a title mark, and took the drivers who held on to them. Palace stores were emptied of their bronze in a night, the vessels set back in neat rows in the dust of the tombs they came from. Southern chroniclers called these years the **Reclaiming**. Ruin traders said the dead wanted their goods back; Qahuri priests said the estates were only finishing an inventory; carriers on the river road said nothing and refused to carry recast metal at any price.
+
+The long trunk roads failed first, because they followed the processional beds. Short roads between dependable waters, which no Giant had ever paved, survived. Exchange shrank to what a family could carry between wells it knew.
+
+At **Daram Ford**, the chariot lord **Boran Tall-Hand** was carrying salvage copper west, and his porters knew what it was: two convoys on the old processional road had been taken whole that spring. When mud trapped the wagons, Boran ordered the porters to discard grain so that his teams could carry the copper. The porters killed him and distributed the grain among nearby settlements. Rival captains divided his horses, and most of the lines disappeared within a generation. Later Tarkhan songs called the episode the **Feast of the Copper Wheels**.
+
+The drought also reached Narash. Narashi tradition remembers a crown-mother of these years, whose name the wells' books leave blank, who fell sick with fever before she could walk the round. The wells opened to the short roads that season, and raiders came in along them to the inner cisterns. Her daughter walked the round the following spring, and the wells closed again behind her.
 
 Western communities survived most successfully where families still possessed camels, goats, gardens and short local routes. Some protectors guarded dependants through the drought. Others sold slaves and poorer kin before surrendering their own herds.
 
 ## Hearth crowns and market roads, c. 1325–800 BR
 
-Smaller political worlds followed the collapse. Iron tools spread gradually from eastern and upland centres. Settlements repaired short roads between dependable waters. Taleri smiths worked around grounded Vathran structures. Elkari herders moved through the eastern seasonal lakes. Tergai and Narashi houses connected them to the west.
+Smaller political worlds followed the collapse. Iron tools spread gradually from eastern and upland centres, where smiths had long smelted local ore because salvage metal rarely reached them. After the Reclaiming iron became the road metal of the north: no dead owner had ever marked it, and no gilded serpent came for it. Settlements repaired short roads between dependable waters. Taleri smiths worked around grounded Vathran structures. Elkari herders moved through the eastern seasonal lakes. Tergai and Narashi houses connected them to the west.
 
 The broad names **Tarkhan** and **Ahdari** became useful during these centuries. Tarkhan joined several related northern communities whose speech, fosterage and assemblies had grown mutually intelligible. Ahdari described houses admitted to shared protection across western wells and markets. Both names coexisted with local identities.
 
 Around 1280 BR, the protector **Harun Savel** concealed spearheads beneath date sacks during the protected market at Saqara Well. His followers attacked after a satirist accused him of purchasing peace. They killed merchants, pilgrims, slaves and children who had entered without armour. Survivors abandoned the market for nearly fifty years. Traffic moved towards the poorer wells of **Mazar**, whose storehouses and repair yards grew around the safer route.
+
+The lesson of buried metal was learned again on a hill above one of the early northern trade roads, some time before 1000 BR. Claimant houses broke into a barrow whose treasure kept the boundary of the court that lived in the hill. They came away rich, and the households around the hill began losing cattle in the night and finding their back doors open on to ground they did not know. The war that followed killed the barrow's custodians and the tenants who farmed beneath it. A truce returned only as much metal as the boundary needed; the rest is still argued over, and the families of the dead do not call it loot.
 
 At **Kor Ashal**, an oasis ruler answered three failed seasons by killing a debtor family's child beneath a high stone. The well remained brackish. When the child's mother broke the altar, the ruler executed her. Caravan houses sheltered her surviving daughter and abandoned the oasis. The cult and settlement declined together.
 
@@ -120,7 +136,7 @@ The coalition divided after preserving Rethmar. Tavisha's authority concerned wa
 
 ## The balance in 350 BR
 
-The northern world at Atheria's imperial threshold was populous, skilled and divided. Rethmar guarded the western approach through cooperation among several communities. Tergai joined ancestral Tarkhan wells to roads used by Ahdari and Jirahar travellers. Narashi houses maintained older western connections. Eastern Tarkhan assemblies dealt with Vasharan clients and remnants of Arqeshite stations. Fallen Vathran structures supplied building material, danger and political memory.
+The northern world at Atheria's imperial threshold was populous, skilled and divided. Rethmar guarded the western approach through cooperation among several communities. Tergai joined ancestral Tarkhan wells to roads used by Ahdari and Jirahar travellers. Narashi houses maintained older western connections, and their crown-mothers still walked the round of the Hundred Wells at each accession. Eastern Tarkhan assemblies dealt with Vasharan clients and remnants of Arqeshite stations. Fallen Vathran structures supplied building material, danger and political memory.
 
 No army could master this country through one victory. It had to carry water, secure animals, bargain with local keepers and prevent guides from changing sides. Ostar's defeat demonstrated the cost of neglecting those requirements. Thalion inherited that lesson when he began turning Caleran power into an empire.
 
@@ -132,9 +148,10 @@ No army could master this country through one victory. It had to carry water, se
 | c. 2450–2300 BR | Vathra controls the principal sky roads |
 | c. 2300–2260 BR | War of Altitude and Great Unyoking destroy the common system |
 | c. 2260–2050 BR | the Grounding; human communities inhabit ruins, rebuild herds and defeat surviving Giant enclaves |
+| first winters after the Unyoking | Meya of Narash seals the Hundred Wells against the short roads |
 | c. 2050–1750 BR | Near-Glass contact and gradual northern fission |
 | c. 1900–1450 BR | camel roads, Tergai wells, grassland assemblies and limited chariot houses flourish |
-| c. 1450–1325 BR | Breaking of the Bronze Roads destroys distant exchange and most horse concentrations |
+| c. 1450–1325 BR | Breaking of the Bronze Roads and the Reclaiming destroy distant exchange and most horse concentrations |
 | c. 1325–800 BR | protected markets and recognisably Tarkhan and Ahdari communities form |
 | c. 800–690 BR | Arqeshite pressure and rival client houses reshape the roads |
 | c. 706–690 BR | client collapse and northern participation in Arqesh's defeat |

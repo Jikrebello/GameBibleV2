@@ -31,7 +31,7 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 2. [[Age of Exodus]]: the [[The Great Unbinding|Great Unbinding]] breaks Giant rule through converging judgement, revolt, civil war, and systemic collapse; the Great Prophet leads the principal liberated remnant into the [[Great Glass Desert]], while other human communities survive elsewhere. During [[The Glass Sojourn]], the mixed Ark host becomes one people.
 3. [[Age of Scattering]]: after the Prophet's death, southern war-settlement leagues separate first from a continuing Near-Glass population; Orphaned communities continue independent reassembly; conquest and contact begin Braided histories.
 4. [[Age of Hearths and First Kings]]: the later northern fission produces early Jirahar and Ahdari formations while villages, hill forts, river towns, defended wells, ancestor laws, early Menhir pacts, priest-kings and local cults become durable.
-5. [[Age of City-States]]: trade, writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
+5. [[Age of City-States]]: trade, public writing, archives, walls, towers, ports, oasis courts, and elemental engineering create the first urban powers.
 6. [[Age of Stars]]: Atherian city-states consolidate around star cults, civic law, road-building, archives, astronomy, and imperial destiny.
 7. [[Atherian Imperial Age]]: the later Atherian/Redeemer/conversion/fall pipeline begins.
 
@@ -48,6 +48,14 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 - **Tarkhan and Nsizwa:** independent Orphaned peoples whose ancestors survive and reassemble outside the Ark in different regions and under different pressures. Tarkhan history begins among the human subjects and neighbours of Vathra, whose flying crown-cities fell during the Great Unbinding.
 - **Sestara:** later Braided harbor and archive-city populations that survive by monetizing memory, art, finance, ships, legal skill, and secrets.
 - **Vesari:** a later Braided river-plain people of the far east, formed from local remnant populations and arriving Ark-derived groups; their converted princedoms become Virelia's substrate (see [[01 Canon Reference/Peoples and Cultures/Eclessia/10 Foundations/The Making of the Eclessians.md|The Making of the Eclessians]]).
+
+## Writing, metal and coin
+
+**Writing** is older than any human city, and for most of this period it belonged to a few hands. Former estate scribes kept Giant scripts alive in the service of new masters, and the palace and temple scribes of Qahur and Arqesh wrote king-lists, canal accounts and the inventories of the dead. The Ark host kept household, birth, death and service registers in a camp script, from which the Jirahar Scrolls descend. Folk and Ättar halls used tally-sticks, knotted cords and law-speakers who carried whole registers in memory, and they went on doing so until contact with the city-states. *Public writing*, meaning inscriptions set up where citizens could read them and rolls of who belonged to a city, began in the city-states between about 1400 and 800 BR.
+
+**Iron** spread unevenly. Smiths in the cold south smelted local ore from early times, because salvaged Giant metal rarely reached them. Along the old roads near the Sacred Basin, recast tomb bronze dominated until the Reclaiming of c. 1450–1325 BR, when the tombs' servants walked out to collect it; afterwards iron became the road metal of the north and east, because no dead owner had ever claimed it.
+
+**Coin** came late. Earlier traders weighed stamped ingots and ring-silver. The first struck coins were silver pieces minted in Ortheia around 730 BR to pay Valeron II's standing infantry, and the courts that divided Eryndor's conquests spread them after 684 BR.
 
 ## Geography Lock
 

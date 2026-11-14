@@ -57,7 +57,23 @@ Surrender Engines are pure strategic constructs built to break organized resista
 
 ## Historical Register
 
-Qahir ibn Ruzbeh's foundry reforms between **885 and 902 AR** standardized the three lines. Five great golems took the field during the invasion of Caleran. At the [[The Battle of the Shattered Engines (907 AR)|Battle of the Shattered Engines]], Vortharan specialists destroyed one Depth-Core and one Slave-Soul engine, crippled a second Depth-Core, and forced the remaining engines from the field.
+**Before 885.** For three centuries the Covenant fought without bound powers. The recited Covenant of the 4,444 binds its offices to dig, lift, carry, keep and guard, and says the bound "shall take nothing that is not given": the **Clause of the Given**, a translation convention whose native form belongs to the locked Covenant register. Witnessed-Seal jurists read it as barring the 4,444 from conquest, so from 568 to 885 the Covenant fought with human armies, contract logistics, pure-pattern siege engines and breach-courts.
+
+**The Ruling on Parties, 885–886.** Qahir ibn Ruzbeh obtained from the college at Al-Qahur a ruling that the Clause binds parties, not powers. A captured Depth beast from mapped Hell was never sealed into anything. A condemned person's name is forfeit by sentence, by the jurists' claim; canon holds that no sentence makes soulbinding lawful. A pure construct has no name. The dissenting *people of the Clause* lost and are still taught at Al-Qahur. Being party to nothing, the engines cannot be voided by a breach-court either, so Atherian chanceries had no legal answer to them, only Vortharan counter-scripts.
+
+**The foundry system, 885–902.** Qahir ibn Ruzbeh's foundry reforms between **885 and 902 AR** standardized the three lines on an industrial base:
+
+- capture companies working route-registries of mapped Hell, compiled through the Long Frontier by Banu Mizan scholars and breach-assessors;
+- name-cage foundries fed by a docket of breach-court death sentences. The first cages held Second Crusade prisoners Caleran never ransomed, condemned under the 884 Ruling of the Broken Suspension, which makes the Thalmyric *martyr irons* literal. One of the two great Slave-Soul engines at the Fall held such a prisoner;
+- Shell extraction from Covenant-held anchors;
+- coerced Ahdanite levies trained as engineers and foundry crews;
+- supply contracts sealed in the Vault of Names.
+
+In 905 the Surrender line existed only as lesser engines and siege tables travelling with the breach-court train. They read each district's title and offered each its own terms. No great Surrender frame yet existed; the first followed after 905.
+
+**The Fall and Crown Gate.** Five great golems took the field during the invasion of Caleran: three Depth-Core and two Slave-Soul. They came to two points on Caleran's land walls only after the Surrender train had split the city. The siege tables' two points were checked against a bounded answer from Astaroth, priced at a lesser engine frame broken under the test load ([[The Guttering - Authorial Truth]]). At the [[The Battle of the Shattered Engines (907 AR)|Battle of the Shattered Engines]], Vortharan specialists destroyed one Depth-Core and one Slave-Soul engine, crippled a second Depth-Core, and forced the remaining engines from the field. Their counter-scripts drew on generations of Corvenid court contracts under which Vortharan warlocks had been paid to study Covenant script.
+
+**Afterwards.** Every replacement engine reopens the Clause. The foundry that replaces the engines lost in 907 works under the 885–886 ruling, and the people of the Clause contest each new capture.
 
 In **1360 AR**, the Qahirids retain:
 

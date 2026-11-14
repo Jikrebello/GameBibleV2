@@ -24,11 +24,11 @@ It is told along early Long-Frontier slave roads and among abolitionist camps, q
 
 ## The tale
 
-A child taken in a border raid grew to adulthood chained in a convoy that moved prisoners between quarries. He learned every joining rivet by touch. During a flood, he broke one link with a stone, freed the person beside him and passed the stone down the line until the whole convoy scattered.
+A child taken in a border raid grew to adulthood chained in a convoy that moved prisoners between quarries. He learned every joining rivet by touch. His owners had sunk an iron engine beneath his breastbone, and it drank the pain of everyone near him: when the convoy suffered, he grew strong enough to bend a bar and hurt badly enough to scream. During a flood, he broke one link with a stone, freed the person beside him and passed the stone down the line until the whole convoy scattered.
 
 The escapees made him their commander. He led raids on slave pens and killed guards who surrendered after recognising former masters among them. When followers began chaining captured slavers for public display, he broke those chains too and refused the crown they had forged from the iron. Freedom, he said, could be defended but not worn as somebody else's office.
 
-After his death, devotees gathered pieces of the original convoy chain. Some used open links as promises to free captives. Others believed closing the chain around a new bearer would return the Chain-Bearer's power. They raided graves, murdered rival keepers and forged convincing pieces.
+After his death, devotees gathered pieces of the original convoy chain. Some used open links as promises to free captives. Others believed closing the chain around a new bearer would return the Chain-Bearer's power. Prison roads tell of something worse: wherever prisoners are passed from keeper to keeper toward a massacre, a figure with an engine glowing in its chest rises out of the iron, and only breaking the chain of hands before the killing lays it down again. They raided graves, murdered rival keepers and forged convincing pieces.
 
 The final joining link had been carried away by a freed family who wanted no hero cult. Their youngest child dropped it into an unknown river, or used it to mend a cooking pot, or kept it. The recurrence cult still hunts for a piece that may no longer exist.
 
@@ -40,7 +40,7 @@ The escape has the clean pleasure of liberation, but the later struggle asks whe
 
 ## How tellers differ
 
-Abolitionists say the bearer refused all permanent command. Military orders claim he accepted it reluctantly. Quarry songs remember surrendered guards killed in rage; heroic cycles often omit them.
+Abolitionists say the bearer refused all permanent command. Military orders claim he accepted it reluctantly, and that he refused to have the engine cut out because it would have cost him the command. Quarry songs remember surrendered guards killed in rage; heroic cycles often omit them. Recurrence cults call the risen figure the bearer himself; prison chaplains call it something wearing his chain, and tell of a crook-shouldered saint who once held a prisoner road against it.
 
 ## What remains
 
@@ -50,7 +50,7 @@ Broken-chain pendants are forged with an open gap. Closing the gap is taboo outs
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-06 - Chain-Bearer of Sarrat]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

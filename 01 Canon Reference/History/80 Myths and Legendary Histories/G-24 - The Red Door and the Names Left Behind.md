@@ -30,7 +30,7 @@ The route could not carry everyone. When the prison filled after a purge, rescue
 
 The escapees later praised the witness as a deliverer. The rescued child's mother interrupted the first celebration and read the names of people left behind, including a sister who had surrendered her place. The witness did not defend herself. She unhinged the door again, laid it flat like a bier and asked that both the rescued and abandoned be read before anybody called the night a victory.
 
-Later accounts say she died as a Saint, vanished, or returned to prison by choice. The tale ends before judgement.
+Later accounts say she died as a Saint, vanished, or returned to prison by choice. Prison tellers carry her further. In the next purge a dying prisoner swore he had seen her on the road of the dead, holding a red door open with her bad shoulder while winged clerks gathered names out of a burning roll. When a fighting brotherhood began murdering suspected informers under her banner, survivors said she stood among them in the smoke and named the gaoler she had killed as the first of their dead. The brotherhood broke apart within the year. The tale itself ends before any judgement.
 
 The rescued child grew old and rejected every account that made survival proof of the witness's righteousness. She taught her grandchildren the hinge trick and the abandoned names together, so practical courage and accusation would travel in the same household.
 
@@ -40,7 +40,7 @@ It preserves the courage of rescue without converting necessity, fear or murder 
 
 ## How tellers differ
 
-Escape families read the rescued first. Prison-descendant families read the abandoned first. Some omit the helpful gaoler because his death spoils both versions.
+Escape families read the rescued first. Prison-descendant families read the abandoned first. Some omit the helpful gaoler because his death spoils both versions. Courthouse Lives make the witness a crook-shouldered man and a flawless martyr; magistrates have called the burning roll a recruiting song for prison cults.
 
 ## What remains
 
@@ -51,7 +51,7 @@ An unhinged red door is carried flat once a year while both groups of names are 
 - [[The Ember Underground]]
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-- [[GS-01 - Witness at the Red Passage]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Age of the Redeemer]]
 - [[Myths and Legendary Histories MOC]]

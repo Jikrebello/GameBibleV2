@@ -25,7 +25,7 @@ Atherian society developed over many centuries, from southern war-settlers and m
 
 Southern households and war-settlement leagues separated gradually from the post-Glass people during c. 2130–2050 BR. Their descendants seized and repaired inhabited sites, establishing themselves through conquest, slavery, alliance, adoption and intermarriage. Sea-kings, ports, mercenary leagues and founder houses later connected several regions of recovery.
 
-Early Atherian cities grew around defensible hills, rivers and crossings in the Caleran basin and along other coasts. The [[Peoples of the Ancient Aurin|Enathi, Serathi and Vardeni]] contributed distinct Orphaned histories to the Aurin settlements; [[Arkenan and Saronikan Cities before the Empire|the eastern island cities and harbours]] developed their own networks. Competition for grain, copper, coastal access and pilgrimage traffic encouraged both war and cooperation.
+Early Atherian cities grew around defensible hills, rivers and crossings in the Caleran basin and along other coasts. The [[Peoples of the Ancient Aurin|Enathi, Serathi and Vardeni]] contributed distinct Orphaned histories to the Aurin settlements; [[Arkenan and Saronikan Cities before the Empire|the eastern island cities and harbours]] developed their own trade and alliances. Competition for grain, copper, coastal access and pilgrimage traffic encouraged both war and cooperation.
 
 Caleran's royal households emerged from the coalition of [[Avren and Caleth]]. Later, [[Ilaron and Tarsenna]] established a shared public religious settlement drawing on maritime and inland traditions. The [[The Celestial Compact and the Caleran Republic|Celestial Compact]] joined twelve leading cities around 800 BR under a common calendar, arrangements for settling disputes and a military levy. Caleran's river, harbour and road connections made it the meeting place of the league.
 
@@ -33,7 +33,15 @@ The Compact developed into a republic with assemblies, a senate of property-hold
 
 Land concentration, provincial wealth and competition among commanders contributed to civil war. [[Teren Casvilar]] extended Atherian power through southern conquest and defeated republican rivals before his assassination in 370 BR. His heir [[Aurelius Thalion]] then contested authority with senior commanders, shared a public government of three and emerged from renewed war as supreme ruler around 350 BR. [[The Wars of the Atherian Succession]] follows that struggle, including the role of Queen Samyra's gateway kingdom. Republican offices continued under a settlement that established the basis of hereditary imperial command.
 
-[[The Rise of the Atherian Empire Overview|The rise of the empire]] explains the institutional transition; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
+[[The Rise of the Atherian Empire Overview|The rise of the empire]] explains how the republic became an empire; the [[Historical Atlas of Atheria]] connects it with earlier settlement and later imperial history.
+
+The three and a half centuries between Thalion's settlement and the Redeemer were a long change rather than a still golden age. In 326 BR a new treasury hall at Caleran, dedicated by priests who had asked the Red Star that it stand but never loaded it, gave way during an inspection by Thalion's heir Caelor. He died of his injuries two years later, and imperial memorials remembered the prince rather than the workmen and slaves crushed beside him. Thereafter no public work could be entered until rune-trained wardens had loaded it before the Red Star and broken the "Star's share" built into it, and the official who opened a bridge or hall stood under the arch first. The custom cost lives as well as saving them: in 274 quarrymen struck rather than cut "stone for the Star to break" through the harvest, and soldiers killed them.
+
+In 247, with Olarion dead and no heir agreed, the accession portrait in the Caleran audience hall answered questions in the Emperor's voice. Avaren Mott governed through it. When it declared that no granary of the Emperor stood empty, soldiers carried it ahead of them into the poor districts to search for hoarders, and families knelt before the painted face while their stores were taken. Samor Veloran ended the year by covering the Face with a soldier's cloak. From then on it hung veiled in the Common Sky's custody, lifted only at accessions and on the founding anniversary, and always last, while copies multiplied in governors' courts, town halls and on army standards.
+
+The Veloran peace had its own wonders. In 219 the [[The Crown of Olveth|Crown of Olveth]] burned to death a general who wore it as a trophy. Around 200 the people of three provinces walked in their sleep through one summer, every walker in the same direction, and stopped everywhere on the same morning. The empire surveyed the trampled line and built the Via Somnia on it; the road ends at an ordinary hillside that has been dug four times and found to hold dirt. Augurs said a summons had been withdrawn, and the later Church calls the summer a foreshadowing of the pilgrim roads. The Arcelon road, tested in the dry season, slid onto its labourers in the rains, and road crews still call a fair-weather promise "tested in the dry".
+
+When Orent II died without an heir in 151, the commanders remembered 247 and talked instead of marching. Elian Serrat paid the eastern cities with citizenship sworn before the emperor's image, and Jirahar scribes swore with the image veiled. In the Raveth hunger from 119, households whose relief debts had been sworn before the image walked their animals to the estate office unasked. Under the late Serrats a Vasharan succession war, the War of the Two Dawns, opened Qiryath to Atherian rule. The sanctuary's sign of acceptance answered one claimant's offering and gave nothing when a governor's augur demanded that it decide between rivals, and the Qiryath charter that followed kept every image out of the sanctuary. Velen I unveiled the Face at his river spectacles until untested banks drowned his audience. Doran I, who reached Caleran in 61, re-veiled it and had his officers enter their commands through a low door carrying a bowl. His Othran heirs reigned when Isfir was born in a Jirahar tower town in 33 BR. Qahur's three crowns still ruled their own river at the Redeemer's birth, bound to Atheria by grain and harbour contracts.
 
 [[Historical Atlas of the Atherian Age of Glory]] follows the empire from Thalion's later reign through [[The House of Thalion]], the Four Eagles crisis, the Veloran and Serrat dynasties and the Othran household reigning at 0 AR. Its companion articles explain provincial cities, armies, food, trade, slavery, education and the imperial Star cult.
 
@@ -57,11 +65,11 @@ Warlock colleges developed older scripts into regulated forms of military and en
 
 Before conversion, the [[Overview of the Astratheon Religion|Astratheon religion]] organised civic cults around stars and constellations. Priests interpreted eclipses, comets and other celestial appearances as signs affecting rulers and communities. Temples served as treasuries, employers, schools and centres of public ritual.
 
-Imperial worship brought older regional powers into a celestial hierarchy. Most of the named powers were Menhir understood through Atherian astronomy and local cult traditions. The figure called Thanatos arose from a different misunderstanding: priests incorporated signs of [[The Boatman]] into tales about theft and bargaining for passage after death.
+Imperial worship brought older regional powers into a celestial hierarchy. Temple hymns called the principal powers Star Children, born of the light of Father Sun and Mother Moon. The Astral Keepers sorted the same powers into Circles by what they did rather than whom they were born to, and Folk neighbours knew several of them as courts of their own country under other names. The longest argument concerned Thanatos. Priests gathered signs of [[The Boatman]] into a star cult of theft and paid passage, while the Keepers' oldest tables had no place for him and ferrymen sang of a crossing that no fee could change.
 
 ### Astaroth
 
-[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]], the Warrior, was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance.
+[[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Astaroth.md|Astaroth]], the Warrior, was associated with war, chaos and fear. Soldiers offered broken weapons, and battlefield temples displayed trophies and the bones of enemies. Imperial religion also connected Astaroth with conquest and public order; Thalion strengthened the priesthood's political importance. Builders knew a quieter rite. From 326 BR the Red Star's priests stood witness while wardens loaded each new bridge, hall and aqueduct until its weakest stone cracked, and a hairline crack that opened under the test was read as the Star showing where a wall would fail.
 
 ### Lyraxis
 
@@ -69,7 +77,7 @@ Imperial worship brought older regional powers into a celestial hierarchy. Most 
 
 ### Thanatos
 
-The cult of Thanatos addressed passage, mourning and theft. Mourners and thieves visited secluded shrines decorated with skulls, hourglasses and stolen offerings. Priests comforted the bereaved and claimed knowledge of passage after death. Their stories of theft and payment were cult teachings, distinct from the Boatman's actual work.
+The cult of Thanatos addressed passage, mourning and theft. Mourners and thieves visited secluded shrines decorated with skulls, hourglasses and stolen offerings. Priests comforted the bereaved and claimed knowledge of passage after death. Ferrymen, Astral Keepers and later Church teachers all disputed their stories of theft and payment.
 
 ### Orionis
 
@@ -86,6 +94,10 @@ The cult of Thanatos addressed passage, mourning and theft. Mourners and thieves
 ### Arachnara
 
 [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Arachnara.md|Arachnara]], the Weaver, was associated with vermin, shadows and infestation. Underground and forest shrines used webs, bones and the forms of spiders and rats. Worship intensified when disease or infestation threatened a community.
+
+### The emperor's portrait
+
+Imperial cult made each ruler, living or dead, one painted face. Workshops copied the accession portrait for governors' courts, town halls and army standards, and households knelt before it when festival processions carried it through the streets. Temple accounts treated portraits that answered as proof that the stars preserved the imperial office; sceptics exposed hollow statues and hidden speaking tubes in several cities. The Face in the Caleran audience hall spoke in 247 BR and was kept veiled thereafter by the Common Sky's celebrants. Some provincial households would not name a dead emperor before his image, and Jirahar citizens swore their oaths with the copy covered.
 
 ## Conversion, fall and later inheritance
 

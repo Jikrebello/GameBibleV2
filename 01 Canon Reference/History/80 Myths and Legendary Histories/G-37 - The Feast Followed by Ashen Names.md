@@ -34,13 +34,15 @@ The public celebration continued. So did the unofficial second morning. Neither 
 
 Some altered survivors joined the first feast and refused the second. Others did the reverse. Their choices prevented later organisers from assigning all victims one political meaning merely because the commander had once assigned their bodies one military use.
 
+The Saintly Lives add an ending of their own. The commander, they say, confessed, gave up office, went into exile, spent the rest of his life pulling captives out of experiments like his own and died closing one of the doors such experiments had opened. Generations later, prisoners freed from breach-workshops described their rescuer as a figure with wings the colour of cold ash, who walked into the experimenters' halls, broke their gates and left as soon as the last captive was out. Carters on an inland road swore the same figure stopped a wagon of forbidden scripture and burned it to the axles.
+
 ## Why it is remembered
 
 It protects liberation from cynicism and victims from patriotic erasure. The joyful first day gains moral weight because the second forces celebrants to meet the cost their victory story would rather hide.
 
 ## How tellers differ
 
-Saintly Lives say the commander confessed and spent his life serving survivors. Victim families preserve versions in which he never apologised. Some identify him with the Ashen-Wings Saint; the feast cannot prove it.
+Saintly Lives say the commander confessed and spent his life serving survivors. Victim families preserve versions in which he never apologised. Most churches identify him with the Saint of Ashen Wings; victims' families answer that a saint's wings do not feed the second morning's bread, and covert rescue orders all claim him as founder.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Bright liberation bread is eaten publicly. The next morning, black bread made wi
 
 - [[High Noon Provinces and the Qarath Aftermath]]
 - [[Historical Spine of the Sestaran Concord]]
-- [[GS-14 - Saint of Ashen Wings]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[High Noon and the Qarath Disaster]]
 - [[Myths and Legendary Histories MOC]]

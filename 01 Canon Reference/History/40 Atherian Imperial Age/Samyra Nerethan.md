@@ -22,6 +22,8 @@ Samyra belonged to the fifth generation of the House of Nerethan. Its founder ha
 
 Sarqen, the enlarged Second Harbour, was the royal seat. Food came from cultivated districts, storage towns and longer commercial connections. The kingdom's resources depended on maintaining relations with people who remembered their communities' survival before the dynasty arose.
 
+Those people had their own oath, older than the crown. After Qarzeth fell in 520 BR, the survivors of the sack had eaten together at Sarqen's landing, each bringing what food they had, with no one served by rank and no seat kept empty. The rules of that meal became the **Table Oath** of the spared towns: *no child for the table; no seat kept empty; no guest served by worth.* Every Nerethan ruler since Arenes in 457 had eaten at the towns' unranked table and sworn it before the towns would recognise a king. Samyra swore it at seventeen on her father's death in 375, and again when the towns restored her.
+
 Samyra used the Atherian court speech of her dynasty, the languages of the Gateway towns and a Qahuri ritual register learned through her maternal household. At Sarqen she appeared in harbour and spared-town regalia; before Qahuri embassies she used the forms of her mother's river kin; in Atherian diplomacy she presented the military inheritance of Delkos. These practices allowed her to speak directly to groups whom earlier rulers had addressed through interpreters.
 
 Samyra learned to receive petitioners and envoys in several of the languages used in the country. She could address a town's concerns without depending entirely on a court interpreter. Festivals, household visits and the distribution of assistance helped sustain those relationships.
@@ -30,9 +32,11 @@ Samyra learned to receive petitioners and envoys in several of the languages use
 
 Her father Olymes died in 375 BR. Samyra, then about seventeen, entered joint rule with her younger brother Nethar. The minister Vardek and part of the garrison supported Nethar and excluded her from the port government. Their older sister Merath gathered a separate following.
 
-Samyra retained contacts among Esharat households and sought outside assistance. Vardek's decision to murder the fugitive Marovan Veyr in 373 brought Casvilar directly into the dispute. Casvilar executed Vardek, backed Samyra and fought the forces supporting Nethar. Her brother died in 372.
+Samyra retained contacts among Esharat households and sought outside assistance. In 373 the fugitive Atherian commander Marovan Veyr sailed into Sarqen, and Vardek, hoping to please Veyr's enemy Teren Casvilar, invited him to land and eat at the royal table. The table was laid with an empty seat. An Esharati elder at the landing warned Veyr, who turned his ship around and fled to sanctuary on Ilamar.
 
-The restoration cost lives and increased dependence on Atherian support. Samyra also recovered authority through people who had maintained her cause while she lacked the port. Her relationship with Casvilar produced Amesar in 372. His acknowledgment gave the child a distinguished parentage; Casvilar's civic inheritance went separately to Thalion.
+The empty seat cost Vardek the country. A minister who laid a table to kill a guest had broken the oath every ruler of the house had sworn, and the spared towns rose for Samyra. Casvilar, who needed Esharat's grain for his armies, backed the side that already held it. Town elders tried Vardek under the oath at Sarqen's landing, where it had first been sworn; Casvilar's officers carried out the sentence. Nethar's supporters fought on, and her brother died in 372.
+
+The restoration cost lives and increased dependence on Atherian support. Samyra also recovered authority through people who had maintained her cause while she lacked the port, and she knew it: her throne had been given back to her by the towns' oath before it was secured by Casvilar's soldiers. Her relationship with Casvilar produced Amesar in 372. His acknowledgment gave the child a distinguished parentage; Casvilar's civic inheritance went separately to Thalion.
 
 ## Government and dynastic ambition
 
@@ -46,7 +50,7 @@ The titles proclaimed for Samyra and her children in 354 expressed claims beyond
 
 ## War and the sea passage
 
-Thalion's advocates associated the queen with the child sacrifice practised in the old capital generations earlier. The royal country had emerged after that institution's destruction. Spared-town envoys answered the accusation through their own accounts of sheltering children and resisting the collectors.
+In 353 Thalion's advocate Corven Ilar called the queen heir of the child-burning city, though her country had grown up among the towns that had hidden children from its collectors. Spared-town envoys answered him before the Caleran assembly. They recited the Table Oath their queen had sworn, *no child for the table*, and then read out the names of the Gateway hostage children whom Caleran had killed on its own festival ground in 609 BR to win the Red Star's favour. The answer was remembered in the towns for centuries. It did not stop the war.
 
 During the final war, Samyra attempted to preserve her fleet and the resources needed to continue resistance. In one withdrawal, pilots secured a favourable current through a sea bargain involving surrendered cargo and the flooding of a disused galley basin. Officers placed treasure aboard while leaving some wounded people behind. Those abandoned were killed or captured. The successful passage appeared in the royal account without a full account of its human cost.
 

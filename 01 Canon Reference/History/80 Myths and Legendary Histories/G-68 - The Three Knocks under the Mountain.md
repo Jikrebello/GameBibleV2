@@ -24,11 +24,11 @@ It is told in one High-Noon Aversian mining belt under Shield-House extraction.
 
 ## The tale
 
-Miners learned that three knocks from the dark meant a load-bearing seam was moving. Sometimes a small courtier beneath the mine carried the warning. Sometimes stone and timber made the sound without any person behind it. In exchange, workers left one share of ore and never cut the pale rib crossing the deepest shaft.
+Miners learned that three knocks from the dark meant a load-bearing seam was moving. Sometimes the warning came from the courtiers of the mine, small grey people seen at the edge of lamplight with eyes like lantern-horn and tools older than the workings, who would sometimes guide a crew through bad rock and sometimes only watch it pass. Sometimes stone and timber made the sound without any person behind it. In exchange, workers left one share of ore and never cut the pale rib crossing the deepest shaft.
 
-Officials turned the custom into production law. They claimed every missed quota had angered “the Knockers” and sent prisoners and strikers into dangerous workings as payment. To suppress stoppages, an overseer arranged a false middle knock meaning the passage was safe. He also paid a court interpreter to confirm it.
+Officials turned the custom into production law. They stopped leaving the ore share, cut into the pale rib to make quota, and declared dead workers "court-defaulters" whose families owed the mine replacement labour. They claimed every missed quota had angered “the Knockers” and sent prisoners and strikers into dangerous workings as payment. To suppress stoppages, an overseer arranged a false middle knock meaning the passage was safe. He also paid a court interpreter to confirm it.
 
-The crews descended. Gas and collapse killed prisoners, guards and free miners. When surviving interpreters accused the overseer, he executed them as people who had broken the court bargain. The mine answered that night with three knocks from behind a wall nobody had dug—or settling beams repeated the pattern until fear did the rest.
+The crews descended. The weight the pale rib had carried shifted into the inhabited galleries, and they came down. Gas poured into the refuge chambers the overseer had ordered sealed against strikers, and the bodies found there later had died differently from the ones under the fall. Miners say one of the courtiers lied that day too, and knocked a crew it disliked toward the gas. Gas and collapse killed prisoners, guards and free miners. When surviving interpreters accused the overseer, he executed them as people who had broken the court bargain. The mine answered that night with three knocks from behind a wall nobody had dug—or settling beams repeated the pattern until fear did the rest.
 
 Workers abandoned the mine after daubing the untouched rib with meal. When it reopened, they accepted the first and third warning but refused ever to answer the middle knock. The silence became theirs, not the official's and not the courtier's.
 
@@ -40,7 +40,7 @@ The horror lies in being underground and unable to know whether a warning belong
 
 ## How tellers differ
 
-Court-facing families say the interpreter betrayed both peoples. Officials blame superstition for panic. Miners name executed interpreters before managers at every reopening.
+Court-facing families say the interpreter betrayed both peoples. Officials blame superstition for panic, and Shield-House descendants blame the lying courtier for the whole disaster. Engineers accept the cut rib and the travelling load and doubt the grey people; worker societies make every knock a kindness. Miners name executed interpreters before managers at every reopening.
 
 ## What remains
 

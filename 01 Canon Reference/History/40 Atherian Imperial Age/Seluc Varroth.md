@@ -24,6 +24,8 @@ His household received associates with considerable ceremony. Varroth valued pre
 
 During the disorder after 370 BR, troops under his authority occupied a connecting belt between the Aurin and eastern supply routes. Thalion and Velsar needed access to its stores. His inclusion in their agreement therefore reflected resources he could actually withhold.
 
+He also held something neither of them could seize. As First Celebrant of the Common Sky he was the officer who could say whether Casvilar's Red Field still stood. Velsar claimed the Wardenship as Casvilar's senior lieutenant, Thalion as his heir. In 367 Varroth ruled against both. A Warden's acceptance belonged to the man who had stood bareheaded before the Red Star, he declared, and could no more be inherited than a wound; and a contest fouled with blood before it was opened could be closed by no one who had not fought it. The Field therefore stood open and unclaimed. Every commander in Atheria understood what that meant: none of them could safely disband an army while it lay open. The ruling bought Varroth his seat as surely as his magazines did.
+
 ## The government of three
 
 The public commission of 367 granted the partners powers over appointments, levies and confiscations. Varroth administered the connecting command while Velsar fought the principal republican armies and Thalion supervised western resources and payments.
@@ -44,7 +46,7 @@ Varroth retained the office of First Celebrant of the Common Sky, a senior posit
 
 The office gave him a recognised place in occasions that the new ruler wished to present as orderly continuations of public life. Varroth could appear beside men who had taken his soldiers and provinces. His precedence also limited how easily Thalion could reshape ceremony around his own household.
 
-Astaroth's elevation in imperial rites changed the balance within public religion around 350 BR. Varroth continued in office while particular ceremonies of victory and command received new emphasis.
+Astaroth's elevation in imperial rites changed the balance within public religion around 350 BR. His own ruling of 367 had prepared it: when Thalion finally stood on the muster ground with no named challenger left alive, the augurs declared the Field closed into his command, and the Red Star's priests took first place in ceremonies of victory and command. Varroth continued in office, presiding over a calendar of festivals in which his own college now walked second.
 
 ## Further reading
 

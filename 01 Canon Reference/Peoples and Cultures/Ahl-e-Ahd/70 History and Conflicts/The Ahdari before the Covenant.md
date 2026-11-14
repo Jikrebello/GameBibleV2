@@ -16,7 +16,7 @@ tags: [world-historical-atlas, ahdari, ancient-world, ark-derived-peoples]
 
 The **ancient Ahdari** formed in the Near-Glass and western well country between approximately 1950 and 1400 BR. Their principal ancestors belonged to the camp continuum which remained after the southern Glass-descended leagues departed. Older Orphaned well keepers, Narashi caravan houses, Tarkhan families, captives and immigrants entered the same communities over subsequent generations.
 
-Ahdari households recognised common forms of guest protection, water contribution, rescue debt, compensation and public oath. Their related dialects became the principal speech of the western camel roads. Marriage, adoption, manumission and admission at a protected well allowed outsiders to belong. This shared life made the Ahdari a durable people.
+Ahdari households recognised common forms of guest protection, water contribution, rescue debt, compensation and public oath. Their related dialects became the principal speech of the western camel roads. Marriage, adoption, manumission and admission at a protected well allowed outsiders to belong. This shared life made the Ahdari a durable people. Unlike their Narashi neighbours, whose wells were sealed by a bargain only one maternal line could keep, Ahdari houses held their water with walls, sworn protectors and blood-price, and kept the right to replace a keeper who failed them.
 
 Al-Ahdiya and the Covenant did not yet exist. Ancient households preserved portions of the Great Prophet's teaching, forgot others and combined inherited practice with local cults. Their history therefore belongs to the pre-Covenant well country and its own political and religious world.
 
@@ -64,6 +64,18 @@ A caravan joined investors, drivers, guards, guides, cooks, healers and repairer
 
 Caravan traffic also created towns. **Mazar** began around secondary wells bypassed by prestigious routes. Merchants diverted traffic there after the massacre at Saqara. Storehouses, animal markets and repair yards followed, and Mazar's importance grew from this movement.
 
+## Wells without bargains
+
+Alongside the Ahdari wells ran the chain of the Hundred Wells of Narash, sealed after Vathra's fall by **Meya of Narash** in a bargain with the powers of the roads. Raiders who came at the Narashi wells along a short road found themselves back at their own morning camp, and each crown-mother, at her accession, walked the whole round of the wells by the long road. The seal made Narash the safest water in the west and made Meya's daughters impossible to remove.
+
+The Ahdari houses would not build that kind of power. Name-Keeping households taught that the Prophet had turned away the offers of the desert powers in the Glass, and the camps applied the lesson to public office: a household might make a private bargain for a cistern or a safe path, but no keeper of a common well held his place by one, and no keeper's son inherited a gift that only his blood could keep. An Ahdari well was held by walls, draw gear, sworn protectors, blood-price and the willingness of its households to keep answering the call. A keeper who failed could be replaced, and many were. The cost was constant armed watchfulness, feuds over water that a seal would have settled, and protectors who expected their share. The Narashi houses that later married into Ahdari communities brought their walk and their maternal books with them, and were received as keepers of an old road custom with no claim to rule.
+
+## The Beaten Animal's Road
+
+Ahdari drivers tell a story set at the western wells between about 1700 and 1550 BR. A coalition of armed houses hired a seer from the high places to ride out and curse a household whose well they meant to take, so that the killing would come blessed. On the way his pack animal stopped at a narrow cutting and would not pass. He beat it until it fell and broke its leg. Then, the drivers say, the animal spoke once, plainly, and he saw what it had seen: men waiting above the cutting, and in the road between them a messenger holding a drawn sword.
+
+The seer turned back without cursing anyone, and the coalition's attack fell apart in quarrels over whether to go ahead without him. The threatened household kept its well. The seer lived out his life under the mockery of every caravan that passed him, and the animal limped until it died. Name-Keeping households tell the story as the Lord's interruption; high-place priests say a well spirit spoke through the beast; sceptical drivers say the animal smelt the ambush and the seer invented the rest to save his fee. His earlier curses had already blessed other raids, and his turning back raised none of their dead. Ahdari drivers still will not beat an animal that balks at a narrow place.
+
 ## Hospitality, raiding and ransom
 
 Hospitality protected travellers beyond the reach of a dependable water source. A host supplied shade, drink, food and a period of safety. The guest accepted limits upon violence and conduct. This exchange expressed affection, religious duty, political display and practical alliance.
@@ -98,7 +110,7 @@ Ancient Ahdari religion contained several overlapping traditions.
 
 **Stones and standards** carried household histories. Some were memorials or empty cult objects. Others drew darker devotion: vengeance standards demanding blood beyond the original offence, stones at which water, ransom and debt were pledged as property, and genealogical objects said to prove an untouchable line.
 
-**Patron bargains** maintained particular cisterns, warnings or paths through anchors to the Egg White. Patrons demanded goods, secrecy or service. Predatory agreements turned rescue into inherited debt.
+**Patron bargains** maintained particular cisterns, warnings or paths through anchors to the Egg White. Patrons demanded goods, secrecy or service. Predatory agreements turned rescue into inherited debt. These remained household affairs; the keeper of a common well answered to its households, not to a bargain.
 
 No priesthood or cult governed all Ahdari communities.
 

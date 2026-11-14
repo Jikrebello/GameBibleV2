@@ -32,6 +32,8 @@ Two apprentices stole the recipe. Their first batch was too strong and killed se
 
 The settlements broke the physician's stores and copied the recipe onto kitchen walls, herb boxes and songs. They kept the bitter cup but poured its first measure onto the ground for those who died from cure, denial or coercion. The physician escaped, repented, was killed or became something worse, depending on the teller.
 
+The worse version is the one travellers tell. On roads that have closed behind refugees, they say, a clinic stands where no clinic was built, with clean beds and a man in a corpse-carrier's apron pouring from a black cup. His cordial cures the road-fever. Patients who leave without another dose die before the next milestone, and so the clinic is always full. Some say a thin clerk once came to one of these clinics, broke its seal and walked a single family out alive.
+
 The stolen daughter eventually became a healer and removed her former master's name from every measure. She kept one scarred cup only to show apprentices that gratitude for survival never becomes consent to captivity. She never drank from it.
 
 ## Why it is remembered
@@ -40,7 +42,7 @@ The story matters to anyone who has depended on a person they fear. It refuses b
 
 ## How tellers differ
 
-Medical guilds emphasise the apprentices' lethal error. Labour descendants name the stolen children. Cults say the Reaper will return when the exact black cup is filled.
+Medical guilds emphasise the apprentices' lethal error. Labour descendants name the stolen children. Cults say the Reaper will return when the exact black cup is filled, and that the road-clinics prove he never left. Physicians say the road-clinic stories began as a warning against cordial sellers who water their doses.
 
 ## What remains
 
@@ -50,7 +52,7 @@ The cordial remains medically useful. Communities drink it from ordinary cups on
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-08 - Bitter Reaper]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

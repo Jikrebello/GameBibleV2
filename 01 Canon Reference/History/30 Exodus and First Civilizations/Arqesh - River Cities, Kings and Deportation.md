@@ -58,7 +58,7 @@ Service to the crown offered limited advancement. A deported mason might be plac
 
 Kassur's armies captured Nemeru after a three-year struggle. The final assault killed defenders and civilians in the riverside district. Officers deported boatwrights, dyers and metalworkers, settled loyal troops near the quay and installed the royal image in the old civic temple. Nemeru recovered its wealth under Arqeshite rule and remained a centre of resentment.
 
-**Merod II Ubar**, who ruled from approximately 836 to 798 BR, inherited Kassur's provincial system after two shorter reigns. His armies were already competing for the roads and cultivated approaches east of Qahur when the Single Radiance collapsed. In 814 BR, the widowed Qahuri queen Narethi asked him to send a royal son whom she could marry and raise beside the Twin-Reed throne. Merod suspected a trap, demanded a second letter and eventually sent his younger son **Ashkur Ubar** with an escort. Ashkur was killed before reaching the Sacred Basin.
+**Merod II Ubar**, who ruled from approximately 836 to 798 BR, inherited Kassur's provincial system after two shorter reigns. His armies were already competing for the roads and cultivated approaches east of Qahur when the Single Radiance collapsed. In 814 BR, as Queen Zaheret reopened the Basin's temples, officials of the fallen cult fled east to Arqeshite road stations carrying deeds to temple fields the Radiance had given them. Merod took up their claims. He sent his younger son **Ashkur Ubar** with an escort to bring the exiles back down the road and seat them on their estates. Ashkur was killed before reaching the Sacred Basin.
 
 No surviving account identifies the killers. Merod blamed the Qahuri crown houses collectively and used the death to justify a larger intervention. Arqeshite troops occupied road stations, captured eastern canal towns and transferred fields to military supporters over the following decade. Ashkur's death gave the court a dead prince around whom conquest could be presented as punishment. The killing entered both Arqeshite and Qahuri royal histories, although they assigned responsibility to different houses.
 
@@ -76,7 +76,7 @@ Household life continued beneath imperial demands. Courtyard ovens served severa
 
 Every city maintained several sacred households. River gates, gardens, storms, ancestors, kingship and particular crafts received offerings through local traditions. Conquest rarely abolished all of them. Arqeshite rulers preferred to place the royal image above or among a city's accepted powers and require public acknowledgement.
 
-The imperial cult called the enthroned king the **Visible Measure of the Lands**. Reliefs showed conquered peoples carrying their characteristic goods towards a ruler larger than every other person. Provincial ceremonies required leading families to bow before a portable image and speak their city's obligations.
+The imperial cult called the enthroned king the **Visible Measure of the Lands**. Reliefs showed conquered peoples carrying their characteristic goods towards a ruler larger than every other person. Provincial ceremonies required leading families to bow before a portable image and speak their city's obligations. The greatest of these images, gilded likenesses of the reigning king carried on poles from province to province, travelled with the court and were treated as part of the crown itself.
 
 During the later empire, courtiers attributed flattering dreams and a heightened presence at these ceremonies to a power they called the **Crowned Countenance**. On occasion an image answered in the reigning king's voice.
 
@@ -86,9 +86,9 @@ Several rulers exploited these responses. Others feared them and continued the c
 
 Arqeshite armies reached the eastern approaches of Qahur during a period of divided crowns. Their aim was to secure grain, caravan stages and the road between Khalbar and the Basin. Merod II's campaign after Ashkur's death enlarged an existing military presence. A royal commander repaired one neglected canal and established garrisons beside it. When a local rising killed tax agents, the army executed its leaders, deported skilled households and transferred land to supporters. Direct Arqeshite rule remained confined to the approaches, where garrisons and allied Qahuri houses controlled the road.
 
-Qiryath occupied a different strategic position. Its route houses could move goods and messages around formal provincial stations. Its sanctuary attracted people from districts Arqesh wanted to govern separately. Early treaties secured tribute and guides. Later kings demanded hostages from protector and priestly families.
+Qiryath occupied a different strategic position. Its route houses could move goods and messages around formal provincial stations. Its sanctuary drew something more dangerous than trade. Canal districts carried their quarrels up the road to be settled at Qiryath's festival offerings, where an accepted offering burned without smoke and the altar stones stayed cool under the hands of the witnesses. A judgement given over cool stones felt beyond appeal. By the middle of the eighth century, Arqeshite provinces were bringing disputes to the sanctuary in the hills instead of to the river-king's governors. Early treaties secured tribute and guides. Later kings demanded hostages from protector and priestly families.
 
-**Neshkar II Ubar**, who ruled from 758 to 728 BR, inherited a wealthy empire troubled by provincial refusal. His elder sister **Iltara Ubar** had governed Khalbar and directed the Qahuri intervention. She argued that Qiryath could be controlled through merchants and rival protector houses. Neshkar believed visible submission was necessary after revolts elsewhere.
+**Neshkar II Ubar**, who ruled from 758 to 728 BR, inherited a wealthy empire troubled by provincial refusal. His elder sister **Iltara Ubar** had governed Khalbar and directed the Qahuri intervention. She argued that Qiryath could be controlled through merchants and rival protector houses: buy the road, and the city's judges would follow its trade. Neshkar believed visible submission was necessary after revolts elsewhere. He wanted his image in the upper sanctuary beside the altar. If the altar went on answering with the king's likeness standing over it, his crown would share its authority; if it fell silent, the rival court in the hills was broken. Courtiers called it a wager he could not lose.
 
 In 746 BR he demanded twelve priestly hostages and installation of his image within Qiryath's upper sanctuary. The city increased its tribute but refused those terms. Unauthorised negotiations and the killing of an Arqeshite envoy ended the remaining peace.
 
@@ -96,7 +96,7 @@ In 746 BR he demanded twelve priestly hostages and installation of his image wit
 
 The Arqeshite army approached through Khalbar with infantry, subject archers, cavalry, engineers and labour levies. Grain moved by river to a fortified depot; pack animals carried it up to the Reqa shelf. The siege required an earth ramp, timber frames and diversion of one spring channel. Captive workers and requisitioned villagers built under guard.
 
-Qiryath fell after two harvests. Imperial reliefs later showed an orderly assault watched by Neshkar from a raised chair. The city's accounts remember hunger, the expulsion of foreigners, bodies at blocked passages and soldiers fighting through houses below the tower.
+Qiryath fell after two harvests. Imperial reliefs later showed an orderly assault watched by Neshkar from a raised chair. The city's accounts remember hunger, the expulsion of foreigners, bodies at blocked passages and soldiers fighting through houses below the tower. They also remember the first winter of the siege, when the council drove foreign residents out to die between the lines and the next offering sent black smoke over the walls and left the altar stones hot. Arqeshite scouts saw the smoke. Neshkar's reliefs say nothing of it.
 
 Arqeshite troops killed defenders and civilians, stripped the sanctuary and destroyed the upper tower. Executed leaders were displayed without burial. Deportation officers selected households by skill, wealth and political standing. Families were divided among royal workshops, estates and agricultural settlements. Soldiers and officials received captives as rewards.
 
@@ -105,6 +105,8 @@ Iltara supervised the first resettlement and ordered the cisterns preserved so t
 ## The empire after Qiryath, 742–706 BR
 
 The victory displayed Arqesh at its greatest extent. Tribute entered from the Qahuri approaches, Reqa, the coast and several highland districts. Deportees enlarged Arqesh and Nemeru. Royal building consumed stone, timber and labour at a scale earlier kings could not have supported.
+
+Governors carried the same methods to the coast. In the years after Qiryath they seized Atherian ships of the Celestial Compact lying in eastern harbours and held the crews against ransom. Between about 740 and 730 BR they marched the Atherian merchant quarter of **Terys** inland, families and all, to the royal shipyards at Nemeru and the estates along the canals. The seizures filled the yards with skilled hands. They also gave Valeron II of Ortheia the grievance on which he raised an eastern war.
 
 The enlarged empire became expensive to hold. Garrisons required grain during poor floods, provinces concealed harvests and highland horse suppliers changed allegiance. The crown reassigned canal water to estates serving the army, driving small farmers into debt or from their land. When revenue fell, the royal court increased its assessments and deepened the same shortages.
 
@@ -120,17 +122,17 @@ The second great enemy came from the western sea. **Eryndor III of Ortheia**, la
 
 Eryndor entered divided Qahur in 695 BR. Selected crown houses supplied grain and boats in return for recognition against their rivals. He then made a treaty with Arezan. Arezan's command held the highland roads, coordinated provincial defections and attacked Durqesh and Khalbar. Eryndor's command supplied the principal siege army, fleet and treasury.
 
-The allied armies and provincial rebels killed, looted and enslaved as they advanced. At **Khalbar**, workers forced to repair Arqeshite siege engines opened a gate when a smith named **Ishara of the Soot Court** raised her scorched apron above the wall. Rebels and Vashari troops then massacred captured soldiers and the families of several officials. Vasharan coronations later carried an apron in memory of the opened gate and omitted the killings that followed it.
+The allied armies and provincial rebels killed, looted and enslaved as they advanced. At **Khalbar**, workers forced to repair Arqeshite siege engines turned their hammers on the guards and opened a gate, led by a smith named **Ishara of the Soot Court**. Rebels and Vashari troops then massacred captured soldiers and the families of several officials. Vasharan coronation hymns later thanked the workers of Khalbar beside the Daryam flame and left out the killings that followed.
 
 Mardun was murdered by his own guard after attempting to dictate terms to Arezan. Kassur withdrew behind Arqesh's canals. Failed floods and sabotage reduced food in the capital. In 690 BR, Nemeru boats carried Eryndor's soldiers across a supposedly closed channel while Arezan's forces seized the eastern gates and water stations. Arqesh surrendered after street fighting. Both armies killed inhabitants and plundered districts assigned to the other command.
 
-Kassur escaped with several adult sons and the portable royal images. A provincial commander murdered him in 688 BR and offered the body to Eryndor in expectation of reward. Eryndor executed the killers and buried Kassur with royal ceremony, presenting himself as the lawful heir of the king he had pursued. Two of Kassur's sons were killed during the flight; royal daughters and younger children entered guarded households attached to rival successor courts.
+Kassur escaped with several adult sons and the portable royal images. A provincial commander murdered him in 688 BR and brought Eryndor the body and the images together in expectation of reward. Eryndor executed the killers, buried Kassur with royal ceremony and kept the images, presenting himself as the lawful heir of the king he had pursued. Two of Kassur's sons were killed during the flight; royal daughters and younger children entered guarded households attached to rival successor courts.
 
 ## Arqesh under its successors
 
-Eryndor occupied the High Palace and treasury while Arezan held the Gate House, eastern roads and most surviving provincial administration. Canal officials continued working because neither army could feed the city without them. Eryndor accepted Ubar court dress, retained Arqeshite secretaries and allowed the Crowned Countenance to appear in his royal ceremonies. Arezan appointed Vashari officers beside local water managers and strengthened his support among the towns that had opened their gates.
+Eryndor occupied the High Palace and treasury while Arezan held the Gate House, eastern roads and most surviving provincial administration. Canal officials continued working because neither army could feed the city without them. Eryndor accepted Ubar court dress, retained Arqeshite secretaries and set Kassur's images in his audience hall, where courtiers said the Crowned Countenance still attended the bowing. Arezan appointed Vashari officers beside local water managers and strengthened his support among the towns that had opened their gates.
 
-The alliance survived long enough to defeat the remaining Ubar fortresses, but each king continued to govern his own army and conquests. Eryndor marched farther east and died at Arqesh in 684 BR while preparing another campaign. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, was pregnant. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
+The alliance survived long enough to defeat the remaining Ubar fortresses, but each king continued to govern his own army and conquests. Eryndor marched farther east and died at Arqesh in 684 BR while preparing another campaign, in the middle of a Qahuri funerary rite performed at his deathbed. Serevan of Delkos carried the embalmed body and Kassur's images to Delkos. There the images stood in the tomb-hall from which, for nearly thirty years, a voice claiming to be Eryndor promised away provinces, until they were walled into the tomb with the corpse around 655 BR. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, was pregnant. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
 
 Arezan issued the **Decree of Roads and Houses** during the first division of Eryndor's commands. It permitted selected deportees and sacred objects to return. It also required restored communities to register property, maintain roads and acknowledge Vasharan supremacy. Arqeshite families displaced during the conquest received no comparable general restoration.
 
@@ -149,16 +151,18 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 | c. 1100–960 BR | Arqesh gains control of the principal canal junction |
 | c. 958 BR | Merod I Ubar takes the throne |
 | c. 918–879 BR | Kassur I develops the provincial and deportation system |
-| c. 836–798 BR | Merod II expands towards Qahur; Ashkur's death in 814 becomes a grievance of conquest |
+| c. 836–798 BR | Merod II expands towards Qahur; Ashkur's murder in 814, while escorting Radiance exiles, becomes a grievance of conquest |
 | c. 820–760 BR | expansion towards Qahur, Qiryath and the highlands |
 | 758–728 BR | reign of Neshkar II |
 | 746 BR | demand for Qiryath's hostages and royal image |
 | 742 BR | destruction and deportation of First Qiryath |
+| c. 740–730 BR | Compact ships seized in eastern harbours; the Atherian quarter of Terys deported inland |
 | c. 706–702 BR | Ubar succession war and provincial revolt; Eryndor secures the Ortheian throne and Atherian hegemony |
 | 702–690 BR | Eryndor's eastern invasion joins Arezan's highland war and the internal revolts |
 | 690 BR | the two principal allied commands and their local partners capture Arqesh |
-| 688 BR | Kassur III is murdered during flight and buried by Eryndor |
+| 688 BR | Kassur III is murdered during flight and buried by Eryndor, who keeps the royal images |
 | 684–650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
+| c. 655 BR | Kassur's images are walled into Eryndor's tomb at Delkos |
 
 ## Historical memory
 

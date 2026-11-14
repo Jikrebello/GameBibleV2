@@ -25,6 +25,8 @@ The project did not resurrect soldiers. It made armies out of what service had i
 
 War-Caste architects required every reconstructed formation to answer a valid living command. Death-Caste administrators attempted to remove that limit by creating offices that could recursively certify one another. The result could preserve orders but could not establish a morally or historically legitimate commander.
 
+The Muster shared the hunger that broke Qianglong. As caste blood diluted, fewer formations held their pattern, and each repair demanded more bodies, armour and grain from the frontier districts; the Famine Caste emptied granaries to keep it fed while hill farms ate their seed (Causality Pass 01.2, 14 November 2026). Grenzburg's recurrence in 1360 AR is the same demand still being made.
+
 As Qianglong's dynastic wars consumed the frontier, the Muster began retaining contradictory campaigns. Units marched toward extinct borders, guarded officers rebuilt from incompatible records, and recalled every casualty as a reason to demand another body.
 
 ## The Wound Beneath

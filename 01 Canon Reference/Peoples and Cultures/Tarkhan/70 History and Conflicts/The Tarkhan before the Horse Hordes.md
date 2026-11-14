@@ -30,7 +30,7 @@ The **Elkari grass families** followed cattle, sheep and wild herds through the 
 
 The **Taleri tether towns** grew around grounded Vathran works. Their inhabitants preserved masonry, metal repair, wind-cloth weaving and knowledge of old machines. Some descended from privileged sky households. Others came from captives freed during the Great Unyoking.
 
-The **Narashi caravan houses** held western wells and camel routes. Their maternal crowns predated Vathra's fall. Narashi families entered both Tarkhan and Ahdari communities over later generations, and the old network crossed the boundary between the two peoples.
+The **Narashi caravan houses** held western wells and camel routes. Their maternal crowns predated Vathra's fall, and after it **Meya of Narash** sealed the Hundred Wells against the broken sky roads; her daughters walked the round of the wells at each accession, and Narashi succession stayed with mothers. Narashi families entered both Tarkhan and Ahdari communities over later generations, and the old network crossed the boundary between the two peoples.
 
 These populations intermarried, exchanged foster children and admitted outsiders. They also fought over water, enslaved one another and told hostile stories about conduct during the revolt. Their common life developed through these relationships.
 
@@ -80,9 +80,9 @@ The Bronze Roads sustained a few chariot dynasties between approximately 1750 an
 
 **Boran Tall-Hand** built the best remembered chariot house around Daram Ford. His father had married into a Taleri craft family, giving him reinforced wheels. His mother held pasture through Elkari foster kin. Boran protected convoys and defeated rival lords. He also seized children from households which refused animals for his teams.
 
-During the Breaking of the Bronze Roads, Boran contracted to carry copper west. Mud trapped the convoy after poor floods raised the price of food. Porters asked him to abandon the metal. Boran ordered grain dumped so that the wagons could preserve the copper and horses. The porters killed him and distributed the grain among nearby settlements.
+During the Breaking of the Bronze Roads, Boran contracted to carry copper west. It was salvage, dug from the tomb-estates of old Ishkatar and recast, and his porters knew it. That spring gilded serpents had run down the old processional road by night and taken two convoys of marked metal whole, drivers and all; southern carriers already called those years the Reclaiming. Mud trapped Boran's convoy after poor floods raised the price of food. Porters asked him to abandon the metal. Boran ordered grain dumped so that the wagons could preserve the copper and horses. The porters killed him and distributed the grain among nearby settlements.
 
-Rival captains divided the horses, and most of the lines disappeared within a generation. Later songs named the event the **Feast of the Copper Wheels**. Some praised the porters who saved the seed. Others lamented a king murdered by servants.
+Rival captains divided the horses, and most of the lines disappeared within a generation. Later songs named the event the **Feast of the Copper Wheels**. Some praised the porters who saved the seed and threw dead men's copper in the river. Others lamented a king murdered by servants.
 
 ## A common people
 
@@ -90,7 +90,7 @@ The collapse of long-distance exchange drew communities towards shorter circuits
 
 Southern treaties and tribute accounts applied *Tarkhan* to these related populations. The word spread because it allowed people from different routes to negotiate collectively with Qahuri and Arqeshite rulers. A person could call herself Tarkhan among foreign merchants and name only her well and foster house at home.
 
-The Great Unyoking became their most widely shared history. It told how people with different work cut the apparatus which carried rulers above them. The Copper Wheels warned that a king's horses depended on porters and grain. Comic verses accused patrons of claiming descent from animals they could not feed.
+The Great Unyoking became their most widely shared history. It told how people with different work cut the apparatus which carried rulers above them. Tarkhan singers mourn three lost cities, Sairat, Molqara and Yazuran, where southern scholars count four; the singers leave Dazhur, which dropped its own ward on the people below, out of the mourning. The Copper Wheels warned that a king's horses depended on porters and grain, and that a wise carrier asks whose metal he is carrying. Comic verses accused patrons of claiming descent from animals they could not feed.
 
 ## Raid, feud and captivity
 

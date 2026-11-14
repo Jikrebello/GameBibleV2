@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 2400–2260 BR; Late Chains and Unbinding"]
+era: ["c. 2320–2260 BR; Late Chains and Unbinding"]
 region: ["Urum-facing mortuary estates"]
 culture: ["slave-descendant communities"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["Not for the Lower Roster"]
 
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** Urum-facing mortuary estates. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2320–2260 BR; Late Chains and Unbinding.** Urum-facing mortuary estates. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
 It is told among mortuary workers whose predecessors served a lesser Giant court during the Late Chains.
 

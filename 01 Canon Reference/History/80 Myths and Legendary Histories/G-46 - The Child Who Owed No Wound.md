@@ -32,6 +32,8 @@ She refused both him and the enemies who wanted her as proof the dynasty should 
 
 The returning cousin repented after his own son died in the purge he had authorised, or only after he lost power. Some households forgave him; others never did. The girl took another name and left no throne, order or sacred bloodline.
 
+The escape-house chapel adds an ending from the year the old capital fell, long after both cousins were dead. A claimant came to the house under the dynasty's ancient blood clause and demanded every surviving child of the line. The house's keepers said a figure stood in the doorway that night with five scars across its shoulders burning white like folded wings. The chapel says it was the cousin, who as a boy had been cut five times for refusing the same rite the girl later fled, and who had killed for the household and then given it up. While the keepers burned the old compact in the kitchen fire, the figure said one sentence to the claimant, "No wound inherits the child," and the claimant left with no one.
+
 She later sent the cloak back without a message. The escape house gave it to another child rather than preserving it as her relic. That transfer changed the object from proof of one famous refusal into practical shelter for repeated, unequal departures. Its hem keeps acquiring repairs.
 
 ## Why it is remembered
@@ -40,7 +42,7 @@ Its significance lies in an ordinary human freedom: injury belongs to history bu
 
 ## How tellers differ
 
-Dynastic versions call her the true heir who renounced power. Escape-house songs say she was never an heir at all. Some cults claim the cloak contains ancestral pain; families use it merely to shelter the living.
+Dynastic versions call her the true heir who renounced power. Escape-house songs say she was never an heir at all. Some cults claim the cloak contains ancestral pain; families use it merely to shelter the living. Chapel tellers count the scarred cousin a saint; families of the relatives he murdered call him a murderer still, and say the five-winged figure was an angel the chapel mistook for him. Custody courts quote the sentence spoken at the door without deciding who spoke it.
 
 ## What remains
 
@@ -50,6 +52,7 @@ A scar-covering cloak is offered to any child leaving a violent house. It is ret
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

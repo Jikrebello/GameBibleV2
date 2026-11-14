@@ -163,7 +163,7 @@ The received tale's dialogue, omitted years and variant motives remain literary 
 
 The earliest builders of the Deep Hill City remain unidentified. No return of a Titan ancestor, Idol succession, final human judgement, authentic modern apparition or outcome after 1360 is established. The Glass, Bird-Marked Sites, Anshara's final sovereign and the Year of Standing Stars retain their existing boundaries.
 
-Exact ancient sites and full genealogies remain open where the account functions without them. The twelve-city Compact is real; its complete nominal roll is not supplied by this addendum. No Atherian settlement or campaign gains a divine commission through the public cult, and neither Ilaron nor Tarsenna becomes a Saint.
+Exact ancient sites and full genealogies remain open where the account functions without them. The twelve-city Compact is real. Its roll (Caleran, Nerava, Thesra, Olveth, Sarven, Velos, Olyssar, Orthea, Velathene, Verion, Irenai and Pyrassa; Kyrame and Delkos outside) was fixed on 14 November 2026 and is given in [[The Celestial Compact and the Caleran Republic#The twelve seats]], where Orthea appears as "the archive valley"; see [[Causality Pass - 02 Gateway Wars and the Late Republic]], item 02.1. No Atherian settlement or campaign gains a divine commission through the public cult, and neither Ilaron nor Tarsenna becomes a Saint.
 
 ## Sources and connected articles
 

@@ -3,14 +3,37 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["1190s AR (compilation)", "Underground Centuries (subject)"]
+region: ["Aurelium"]
+culture: ["Eclessian"]
+related_factions: ["Eclessian Church"]
 appears_in: []
 needs: []
-tags: []
+tags: [in-world-text]
 ---
+# Codex of the Era of Blood and Ash
+
+The **Codex of the Era of Blood and Ash** is an Eclessian compilation of the martyrs, miracle sites and feasts of the Underground Centuries (1–291 AR), made by the Monastic Office of Historical Sanctity at Aurelium in the 1190s AR. It is one of the most copied devotional handbooks in the eastern Church and one of the least trusted histories. Its compilers worked nine centuries and more after the events, in the decade after the Sanctum defined the Unkindled Conception in 1183 and half a century before the False Lady of Bruckmoor taught the relic courts to doubt every lantern that burns without oil. The Codex doubts nothing. "The Era of Blood and Ash" is its own name for the Underground Centuries and survives almost nowhere else.
+
+## Dates in the Years of the Ember
+
+The Codex dates every event in "AE", the **Years of the Ember**, counted from an epoch its compiler never states. No one has been able to convert its figures to the ordinary reckoning, because its intervals contradict each other. It places Calira's death, in 29 AR, at about 438, and Jareth's burning, in 41 AR, at about 440, so that twelve years shrink to two. Its own revision note is dated 683 in the same years. Some Eclessian archivists think the compiler counted from different events for different saints; Sestaran scholars think he invented the numbers to look old.
+
+## Reading the Codex
+
+The Codex is valuable as evidence of what the Sanctum's feast calendar held in the twelfth century, and Eclessian archivists defend it on those terms. As history it carries the interests of its makers.
+
+- **Velmion** appears as the "founder of White Flame Doctrine". The oldest Caleran accounts of [[The Fireless Trial]] say he founded no order, and the monks who claim him do so as a spiritual inheritance.
+- **Calira's relics** include a "fractured sword-pommel" at Ironvale's Sanctuary of Ash. No such object has been found at Ironvale. The Broken Blade hangs in the Cathedral of the Eternal Ember, and a disputed hilt lies with [[The Apostle’s Bones]] at Veridun Minor.
+- **No informer, recanter or betrayed household** appears in any entry. Contemporary letters of the Underground record all three. [[The Ember Underground]]
+- **Solana** is listed as a martyr, though she died in her sleep among pilgrims, and her death is made "the first recognition of natural sainthood", a category the Codex's own century was arguing about.
+- **The Fifth Nail** is presented as a suppressed truth. Thalmyric writers read the entry as polemic aimed at the custodians of the Pillar of Concordance in Caleran, where the four Nails are kept.
+- **Ashmouth**, a southern site where a martyr's ash was said to give visions, is recorded as barred to clergy "since 622 AE". No other source names the decree.
+
+---
+
+## The text
+
 _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revised 683 AE)_
 
 > _“In their silence, we heard truth. In their death, we found light.”_  
@@ -18,9 +41,9 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-##  **I. Canonized Martyrs of the First Persecution**
+###  **I. Canonized Martyrs of the First Persecution**
 
-### **Saint Velmion of the Muzzled Word**
+#### **Saint Velmion of the Muzzled Word**
 
 - **Date of Martyrdom**: ~455 AE
 - **Cause**: Public trial and imprisonment beneath Temple of Typhonius
@@ -29,7 +52,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **Saint Calira of the Broken Blade**
+#### **Saint Calira of the Broken Blade**
 
 - **Date of Martyrdom**: ~438 AE
 - **Cause**: Killed during defense of Veridun Minor sanctuary
@@ -38,7 +61,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **Saint Jareth of the Bound Eye**
+#### **Saint Jareth of the Bound Eye**
 
 - **Date of Martyrdom**: ~440 AE
 - **Cause**: Burned while transcribing gospel fragments
@@ -47,7 +70,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **Saint Solana of the Last Ember**
+#### **Saint Solana of the Last Ember**
 
 - **Date of Martyrdom**: ~460 AE
 - **Cause**: Died peacefully after protecting a sacred ember
@@ -56,9 +79,9 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-##  **II. Confirmed Early Miracle Sites**
+###  **II. Confirmed Early Miracle Sites**
 
-### **The Temple That Would Not Burn**
+#### **The Temple That Would Not Burn**
 
 - **Location**: Ruins of Cyrian, western provinces
 - **Miracle**: Three failed attempts to raze Redeemer sanctuary; stone remained unscorched
@@ -67,7 +90,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **Ashway Bridge**
+#### **Ashway Bridge**
 
 - **Location**: Near Halmenth
 - **Miracle**: Bridge became covert Ember crossing; ritual of carrying lit coal preserved secrecy
@@ -76,7 +99,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **Velmion’s Vault (The Fireless Trial Site)**
+#### **Velmion’s Vault (The Fireless Trial Site)**
 
 - **Location**: Beneath the former Temple of Typhonius, Caleran
 - **Miracle**: Sunlight through overcast skies; posthumous reports of responses to prayer
@@ -85,7 +108,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **The Lantern Cradle**
+#### **The Lantern Cradle**
 
 - **Location**: Hills of Veridancia
 - **Miracle**: Lanterns burn without oil when martyrdoms are announced
@@ -94,11 +117,11 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-##  **III. Suppressed or Disputed Accounts**
+###  **III. Suppressed or Disputed Accounts**
 
 > Entries in this section are preserved despite ecclesiastical controversy and ongoing theological debate.
 
-### **Ashmouth**
+#### **Ashmouth**
 
 - **Location**: Reportedly in southern Eclessia
 - **Miracle/Curse**: City where a Redeemer martyr was burned; ash believed to grant visions
@@ -107,7 +130,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-### **The Fifth Nail**
+#### **The Fifth Nail**
 
 - **Location**: Unknown
 - **Claim**: A fifth nail, used secretly during the Redeemer’s execution, exists and holds hidden power
@@ -116,7 +139,7 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 ---
 
-##  **IV. Liturgical Commemorations Linked to Early Martyrs**
+###  **IV. Liturgical Commemorations Linked to Early Martyrs**
 
 |Feast Name|Date|Honored Figure/Event|Ritual Practice|
 |---|---|---|---|
@@ -130,4 +153,5 @@ _Compiled by the Monastic Office of Historical Sanctity, Ecclesia Aurelia (Revis
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-
+- [[The Ember Underground]]
+- [[The Conversion of the Empire]]

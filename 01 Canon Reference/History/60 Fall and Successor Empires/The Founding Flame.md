@@ -25,19 +25,23 @@ Imperial clerks compared Atherian archives, occupation contracts, monastery char
 
 The return advanced through fortified roads, irrigation districts, negotiated towns, sieges, amnesties, and military colonies. Occupation-descended communities might retain land, accept imperial service, move under compensation, or face unlawful expulsion depending on local power.
 
+The enemy on the far side of each wall was an amir, not an empire. When Durayd ibn Sahl surrendered Caleran in 957 he released only the city; every other occupied district re-swore its garrison to its own amir, and Iqashar, fighting Tarkhan riders on its northern wells, sent none of them an army. Each amirate had its own price. One river citadel held out for eleven years on horse-meat and rainwater; another amir sold his town for safe passage north and a chest of his own deeds; several opened their gates to the first commander who would sign a protection for the garrison families. The return registers grew out of these bargains, one district at a time.
+
 ## The Breakings
 
 Lamp-breaking emperors turned imperial force against the vessels and icons that had sustained refuge life. The First and Second Breakings therefore became civil wars over what kind of civilization had returned.
 
-Empress Theodosia ended the Second Breaking in 1052. Her Rekindling joined the restored road network, the protected household lamp, and the recovered core provinces in one public act.
+The Covenant could exploit neither Breaking. During the first, its army stood idle at Iqashar from 1006 to 1011 while a lending house held the pledged true name of the Custodian of the Vault of Names. During the second, Tamim the Auditor's treasury declared in 1033 that the southern amirates would be claimed and no longer defended, and the last relief army sent south dispersed at the wrong well in 1041.
+
+Empress Theodosia ended the Second Breaking in 1052. Her Rekindling joined the restored road network, the protected household lamp, and the recovered core provinces in one public act. The last amirate surrendered to her armies that year. Occupation-born families who rejected return law went north with their deeds and house keys and became the Covenant's Southern Houses.
 
 ## The Incomplete Empire
 
-The settlement did not recover the Velian States or Zanthir. It created a strong heartland, a permanent frontier, and the claim that every unrecovered province remained imperial land.
-
+The settlement did not recover the Velian States or Zanthir. It created a strong heartland, a permanent frontier, and the claim that every unrecovered province remained imperial land. Zanthir's emir had starved the last amirates of his grain and fleet in 1044 and bought his autonomy with tribute paid to Veridun and Iqashar in alternate seasons.
 ## Navigation
 
 - [[The Reclamation of Caleran]]
 - [[The Long Reconquest (908-1052 AR)]]
 - [[Thalmyric Heartland - Cities, Ruins, and the Empty Interior]]
 - [[The Layers Beneath Thalmyria]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

@@ -41,6 +41,8 @@ Their early world revolves around:
 
 Glass-descended households remembered that survival depended upon promise, provision and accountable witness. In the well country, these teachings governed water, shade, blood, bread, rescue and sanctuary. Name-Keeping households preserved prayers to the Lord and refused images; other Ahdari followed local high-place rites, household standards or particular Patron bargains.
 
+They also remembered that the Prophet had turned away the offers of the desert powers. While the neighbouring Narashi crown-mothers held the Hundred Wells by a sealed bargain that only their daughters could keep, Ahdari keepers held common wells by walls, sworn protectors and blood-price, and could be removed. Most of the institutions listed above grew from that choice.
+
 ## Later contract doctrine
 
 Over many centuries, some Ahdari thinkers extended familiar obligations into a metaphysical account of creation:

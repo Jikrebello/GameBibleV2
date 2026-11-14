@@ -25,6 +25,10 @@ Thalmyria was founded across five generations. It began as flight, became a moun
 6. [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]: the sacred capital returned in 957; Caedros I died at the Pillar.
 7. [[01 Canon Reference/History/60 Fall and Successor Empires/The Founding Flame.md|The Founding Flame]]: four generations of return law, provincial warfare, resettlement, and religious conflict continued until 1052.
 
+## The Enemy's Clock
+
+Thalmyric founding histories tell the sequence as a refuge's rise. The Covenant's own troubles set much of its pace. Idris's death in 931, two years after his heir drowned, voided the oaths that bound the occupation's army to him and left the south in the hands of Amir Durayd ibn Sahl, who held it without help from Iqashar. From 951 Grass-Tarkhan raids on the Covenant's northern wells pinned Iqashar's army far from Caleran, and after 957 Thalmyria faced a dozen separate amirates instead of an empire. [[The Covenant from Idris to Suhrab (905-1190 AR)]] follows those years from Iqashar.
+
 ## What Was Founded
 
 The court remained at Veridun, the Patriarchate returned to Caleran, Virelos retained the coronation, military provinces became permanent, and mountain-refuge cultures entered the imperial center.

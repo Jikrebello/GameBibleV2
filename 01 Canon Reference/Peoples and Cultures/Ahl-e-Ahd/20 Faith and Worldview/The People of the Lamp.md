@@ -30,6 +30,12 @@ Forced conversion is formally unlawful. Coercive debt, hostage arrangements, con
 
 Conversion to Al-Ahdiya can bring opportunity but does not automatically erase ancestry or client status. Leaving Al-Ahdiya for a Redeemer communion is treated as breach and may carry severe penalties.
 
+## History under the Qahirids, 905–1190
+
+The occupation of the old Thalmyric heartland, 905–1052, brought more Redeemer-faithful under Covenant rule than at any time before or since. Caleran's own parishes lived for half a century beside occupation name vaults whose custodians seldom made the release entry the law required at a bound person's death. Parish clergy taught that a held name might hold a soul, and in 957 a custodian's refusal to release a bound dockworker's name at his funeral set off the revolt that ended the occupation of Caleran.
+
+When Leovar III began breaking lamps in 987, Iqashar's jurists let the First Breaking run and sheltered exiled Thalmyric flame-monks in the Velian belt under the old Banu Mizan compacts. Ioan of Velia wrote the *Three Orations on the Housed Fire* there, and his formula ended the Breaking. Both courts have found the episode embarrassing ever since. When the churches split in 1015, Covenant registrars had to enter every Lamp parish in Covenant lands under one communion or the other, and their registers remain the oldest record of which parish chose which side.
+
 ## Distinct From Jirahar Status
 
 Jirahar communities are governed through tower, Road, Sea, Turning, guest, and sanctuary instruments. They are not People of the Lamp and must not be folded into Redeemer communal law.
@@ -39,3 +45,4 @@ Jirahar communities are governed through tower, Road, Sea, Turning, guest, and s
 - [[Velian Culture Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Velian/60 Realms and Peoples/Velian States/The Velian States Overview.md|The Velian States Overview]]
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

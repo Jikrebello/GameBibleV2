@@ -36,7 +36,7 @@ House Ubar recruited local elites, conquered specialists and deported population
 
 Jirahar deportees entered the river world after the destruction of First Qiryath. Some remained under guards or masters. Others became musicians, builders, interpreters and water officials. Their children could speak Arqeshite, participate in an urban trade and continue Jirahar worship. Arqeshite belonging followed when a family left Jirahar communal life and entered a local household.
 
-Similar choices faced captives from Qahur, Tarkhan districts and rebellious river towns. The empire contained many ancestries. Imperial membership described rule and service; Arqeshite civic culture centred on the capital and spread unevenly through the cities.
+Similar choices faced captives from Qahur, Tarkhan districts and rebellious river towns, and the Atherian merchant families marched inland from Terys to the Nemeru shipyards. The empire contained many ancestries. Imperial membership described rule and service; Arqeshite civic culture centred on the capital and spread unevenly through the cities.
 
 ## Survival after House Ubar
 

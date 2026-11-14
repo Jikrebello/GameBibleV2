@@ -16,7 +16,7 @@ tags: []
 
 Astratheon myths gave human motives and family relationships to the powers gathered beneath the Common Sky. They were performed at festivals, quoted in schools and adapted by cities whose local cults disagreed about the same Star Child. The collection below preserves ten widely circulated stories from the late republican and imperial periods.
 
-The tales describe Astaroth, Lyraxis, Hecatara, Orionis, Typhonius and Arachnara according to Atherian religion. Their kinships and divine titles belong to that tradition. Thanatos is the clearest error: the stories concern [[The Boatman]], whose true commission permits no bargaining over souls. Some events may preserve encounters with Menhir courts or Idol Masks, while others are civic fiction. Similar imagery provides no proof that every telling records the same manifestation.
+The tales give Astaroth, Lyraxis, Hecatara, Orionis, Typhonius and Arachnara the kinships and titles of the temple hymns. Astral Keepers, who sorted the powers by their works rather than their births, read the same stories as garbled records of where a power had answered and what it had cost; Folk listeners recognised their own Courts in several of them. Funeral guilds and ferrymen argued hardest over Thanatos, whose bargains here match nothing in the ferrymen's own songs of [[The Boatman]], and later Church teachers said that the Boatman sells no passage at all. Rural tellers tied several stories to particular woods, crossings and ruins. Antiquarians still dispute which tellings remember an encounter, which borrowed the same images for a different event and which were made for the stage.
 
 ## The Hunt for the Blood-Moon Stag
 
@@ -40,7 +40,7 @@ Thanatos once entrusted Hecatara with a crossing used by the newly dead. She gua
 
 Thanatos discovered the attempt and confined her to the crossroads. She could influence people approaching a decisive choice while remaining barred from the country of the dead. Travellers thereafter brought torches and keys, asking for a clear road and fearing that her answer might serve an older grievance.
 
-This myth supported Hecataran shrines at road junctions and Thanatos priesthoods that claimed authority over burial. Its central bargain is theologically false: the Boatman never transferred custody of the dead. The story nevertheless captures an Atherian fear that a trusted guide might turn necessary knowledge into ownership. Funeral teachers used it to warn families against practitioners who promised to redirect a soul.
+This myth supported Hecataran shrines at road junctions and Thanatos priesthoods that claimed authority over burial. Ferrymen's guilds rejected its central bargain: in their songs the ferryman never handed his crossing to anyone, and Church teachers later said the same of the Boatman. The story nevertheless captured an Atherian fear that a trusted guide might turn necessary knowledge into ownership. Funeral teachers used it to warn families against practitioners who promised to redirect a soul.
 
 ## Zharok and the Sorrow of Arachnara
 
@@ -48,7 +48,7 @@ Typhonius tired of joining familiar bodies and resolved to create a beast withou
 
 Zharok emerged hungry and crossed the surrounding country, consuming farms, herds and several of Typhonius's own servants. Arachnara spread a web across the sky while Orionis drove the beast towards it, Hecatara closed the branching roads and Astaroth struck its limbs. They bound Zharok above the world, where its movement was said to cause destructive conjunctions.
 
-Temple drama treated the binding as a rare cooperation among the Star Children. Breeding houses used the tale to honour restraint after earlier experiments had maimed workers and animals. Some provincial versions deny that Arachnara felt sorrow; she preserves the monster because its continuing terror strengthens her worship. No known creature has been established as the literal Zharok.
+Temple drama treated the binding as a rare cooperation among the Star Children. Breeding houses used the tale to honour restraint after earlier experiments had maimed workers and animals. Some provincial versions deny that Arachnara felt sorrow; she preserves the monster because its continuing terror strengthens her worship. Menageries and breeding houses have shown bones and monstrous foals as Zharok's offspring for centuries; the Astral Keepers entered none of them in their tables.
 
 ## The Dance of Life and Death
 
@@ -56,7 +56,7 @@ Lyraxis complained that the road of the dead possessed no music. They offered Th
 
 The agreement soon produced grief. Returned singers remembered too little of their families, and living admirers treated their broken words as revelation. In several versions, Thanatos ends the bargain after one borrowed child fails to recognise her mother. Lyraxis keeps the songs and claims that memory, rather than the person, was always the intended gift.
 
-Funeral musicians used the tale to explain the personal laments composed for the dead. Mystery cults cited it when selling brief contact with admired ancestors. The actual Boatman lends no human soul to a god of inspiration. A surviving song may carry memory, love or residue without becoming the person it recalls.
+Funeral musicians used the tale to explain the personal laments composed for the dead. Mystery cults cited it when selling brief contact with admired ancestors. Ferrymen's songs answered that the dead are carried and never lent, and Redeemer teachers later preached that the Boatman lends no soul to anyone. Mourners who paid for an ancestor's voice and heard a stranger's tune kept a plainer saying: a song may carry memory and love, and the singer is still gone.
 
 ## Thanatos and the Prince of Thieves
 
@@ -64,7 +64,7 @@ Silas, prince of Aurelion and the most celebrated thief of his age, feared the d
 
 The Boatman of the tale accepted on the condition that the woman come freely. Silas selected a dependant whose family owed him protection and expected obedience. She refused before the appointed witnesses. Silas struck her and attempted to force her into the boat, breaking the terms he had proposed.
 
-Thanatos condemned him to wander the margins of life and death while Astaroth's raven exposed every hiding place. The woman disappears from court versions after her refusal; several household recensions give her a name, an inheritance and a later life among the ferrymen. The tale was quoted against coerced marriage even though its picture of a bargaining Boatman was false.
+Thanatos condemned him to wander the margins of life and death while Astaroth's raven exposed every hiding place. The woman disappears from court versions after her refusal; several household recensions give her a name, an inheritance and a later life among the ferrymen. Moralists quoted the tale against coerced marriage, while ferrymen and later Church teachers objected to its picture of a Boatman who would bargain at all.
 
 ## The Contest at Silanthium
 
@@ -88,7 +88,7 @@ Verethis was famous for tapestries whose patterns concealed signs of Arachnara. 
 
 The city survived the raid and vanished from ordinary geography. Its inhabitants continued weaving within Arachnara's shadow, unable to leave without giving another person their place in the pattern. Visitors who found the city returned with exquisite cloth, gaps in memory and the sense that someone else had followed them home.
 
-Weavers invoked the tale when hiding craft knowledge from conquerors. Families of missing apprentices heard a darker warning about protection that becomes possession. Several ruins claim to be Verethis, and no evidence securely identifies the city or proves that it remains inhabited.
+Weavers invoked the tale when hiding craft knowledge from conquerors. Families of missing apprentices heard a darker warning about protection that becomes possession. Several ruins claim to be Verethis. Antiquarians have never agreed on one, and weavers' guilds keep their own candidates to themselves.
 
 ## Orionis and the Starving Village
 

@@ -50,7 +50,7 @@ Meresha belonged to one of Isethar's funerary-linen households. Her Court of Uns
 
 The agricultural year began with rising water. Crews cleared channels, repaired banks and moved animals from low ground. Flood measurers read marked stones; cultivators judged local soil by colour and smell. As the river withdrew, households sowed grain and tended lentils, flax, onions, dates and orchard crops. Fishing and fowling supplemented the harvest.
 
-Produce passed through household bins, village stores, temple estates and royal collections. Each level offered protection in a bad year and an opportunity for seizure. A ruler who kept stores open could preserve entire districts. An official who withheld grain could turn scarcity into dependence.
+Produce passed through household bins, village stores, temple estates and royal collections. Each level offered protection in a bad year and an opportunity for seizure. A ruler who kept stores open could preserve entire districts. An official who withheld grain could turn scarcity into dependence. Under the Aramen kings a growing number of villages farmed for a tomb: their harvest went to lamp-oil, linen and the stewards of a proprietor dead for generations, and soldiers sent to take up royal allotments sometimes found the land already spoken for by the dead.
 
 Women owned and inherited fields, boats, workshops and household goods under several basin customs. They worked as healers, brewers, merchants, temple musicians and royal patrons. Powerful maternal houses connected rival dynasties through marriage. Soldiers and estate officials could still coerce labour, marriage and property within this unequal society.
 

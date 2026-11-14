@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["c. 2400–2260 BR; Late Chains and Unbinding"]
+era: ["c. 2385–2335 BR; Late Chains"]
 region: ["Sarrakai canal country"]
 culture: ["slave-descendant communities"]
 related_factions: []
@@ -18,7 +18,7 @@ aliases: ["The Four Faces of One Victory"]
 
 ## Historical setting
 
-**c. 2400–2260 BR; Late Chains and Unbinding.** Sarrakai canal country. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
+**c. 2385–2335 BR; Late Chains.** Sarrakai canal country. This tradition belongs to [[Age of Chains]]; its cultural bearers are slave-descendant communities.
 
 It is told along old Sarrakai canals and among descendant boat households.
 
@@ -28,7 +28,7 @@ Two river crowns fought over a canal first dug by prisoners. The upstream king s
 
 The first victory relief showed the king towering over the dead. After soldiers complained that allied boat crews had been erased, stonecutters recarved the scene and placed the allies behind him. A later dynasty shaved them away again and added chains, presenting prisoners as property lawfully won. Generations after that, priests cut grieving faces into the margins and taught displaced descendants that every later tenant was an heir of the original murderers.
 
-Thus one victory offered four different meals. Wrath took the massacre. Pride took the triumph. Greed took the sale of families and water rights. Envy took a true grievance and taught it to hunger for the homes of people born centuries later. The human rulers and commanders chose the crimes; no Hunger forced their hands.
+Canal elders say one victory offered four different meals. In their telling Wrath took the massacre, and weapons from the war grew warm whenever someone of the defeated crown came near. Pride took the triumph, and the processional street narrowed for families whose marks had been chiselled off the relief. Greed took the sale of families and water rights, and freed captives found the old sale-tags still fitted the holes beneath their new titles. Envy took a true grievance and taught it to hunger for the homes of people born centuries later. The elders are firm that the rulers and commanders chose the crimes themselves, and that the Hungers only ate what was served.
 
 Boat households eventually stopped singing the triumphal verse. Before opening the irrigation gates, they began naming those who had surrendered and were killed.
 
@@ -40,7 +40,7 @@ The relief shows how a crime changes meaning without ceasing to be a crime. It a
 
 ## How tellers differ
 
-Royal chronicles compress the recuttings into one restoration. Canal workers say each dynasty revealed the Hunger it preferred.
+Royal chronicles compress the recuttings into one restoration. Canal workers say each dynasty revealed the Hunger it preferred. Ishkatari antiquarians read the relief as the record of a lawful dynastic settlement, and Giant-cult polemicists call the whole affair a war among river gods.
 
 ## What remains
 
@@ -49,7 +49,7 @@ The levee relief still bears four depths of carving. During the boat song, one v
 ## Read onward
 
 - [[Lesser Crowns of the Giant Age]]
-- [[Idol Kingdoms and the Hunger Wars]]
+- [[The Hunger Wars]]
 
 - [[Age of Chains]]
 - [[Myths and Legendary Histories MOC]]

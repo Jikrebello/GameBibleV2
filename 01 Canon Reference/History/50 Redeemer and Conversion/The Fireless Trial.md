@@ -62,6 +62,8 @@ The monks claim descent from Velmion as a spiritual inheritance; he founded no o
 
 The trial became influential because it denied both the Senate and the crowd the spectacle they wanted. Imperial officials displayed their power to isolate and mutilate a dissident. Redeemer witnesses saw a man protect others without receiving rescue. Later churches used the episode in arguments about martyrdom, miracles and the danger of demanding visible proof from Heaven.
 
+The trial took place under the edict of the Great Purge, which made it a crime to publish any wonder the augur colleges had not entered in their books. Had a flame come down in the Senate Dome, the augurs present would have decided in law what it was, and the senators had been raised to read an unlicensed light on a condemned man as the mark of a cult feeding something. Couriers of the Underground called the edict "the gag", and later Redeemer preachers made Velmion's star-forged bit its emblem.
+
 Velmion's silence did not save the tortured servants or close the prison beneath Typhonius. Their suffering remains part of the account preserved by the oldest Caleran commemorations, which read the household names before the senator's own.
 
 ## Navigation

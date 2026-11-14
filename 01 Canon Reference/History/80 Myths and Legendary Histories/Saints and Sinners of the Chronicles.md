@@ -1,0 +1,306 @@
+---
+type: history
+status: canon
+canon_level: local
+visibility: public
+era: ["c. 150–1360 AR"]
+region: ["Known World"]
+culture: ["Redeemer communions", "prison, frontier, refugee and harbour communities"]
+related_factions: []
+appears_in: []
+needs: []
+aliases: ["Great Saints and Sinners", "Lives of the Saints and Sinners"]
+tags: [world-historical-atlas, received-tradition, saints-and-sinners]
+---
+# Saints and Sinners of the Chronicles
+
+**Saints and Sinners of the Chronicles** gathers the holy and the damned dead whom the churches, prison roads, forge towns, refugee houses and harbour cities of the Known World remember from the Underground Centuries to 1360 AR. In the common speech of every Redeemer communion, a saint is a person the faithful believe the Lord received and sometimes sends back on an errand: a crook-shouldered porter seen holding a burning doorway, a hanged chain-tender walking the harbour wall in a storm. A sinner is a person whose name goes on doing harm after death, through cults that copy the crimes, apparitions that demand them and objects that seem to remember their maker's purpose.
+
+Few of these people were simple. The Witness at the Red Passage hid murders before dying in a doorway. The Clerk of a Hundred Wells saved a famine country and then would not give its wells back. The General of the Glass Court strangled the one friend who told him the truth, and the Saint of Ashen Wings bought a people's freedom with prisoners fed into a broken door between worlds. Each Life below is told as its chronicles tell it: what the person did, the wonder the witnesses kept, what it changed in the history of the world, and the quarrel still fought over relics, feasts and graves.
+
+## How the chronicles keep them
+
+Most of the people in this article are known by an epithet. Prison rolls burned; frontier registers were scraped and written over; three towns gave one martyr three baptismal names, and the calendar-makers settled the matter by printing none. Families sometimes keep the private name and refuse to say it before strangers. The epithets travel instead—the Red Passage, the Ninth Bastion, the Black Eaves—carried by songs, feast rolls and the names of inns.
+
+Witnesses describe a returning saint as recognisable. The crooked shoulder is still crooked, the burned hands still burned; the saint wears the clothes and carries the tools of a working life, and may come with birds, wings, a light that casts no shadow or a fire that gives no smoke. Sinners return differently. Their cults repeat the founding crime as proof of loyalty, and people report the sinner's face wherever the old crime is done again.
+
+The churches have never agreed on how to tell the two apart. Before 1015 a bishop or council could add a name to the feast roll, and a town could simply begin keeping one. After [[The Great Split — Two Crowns, One Fire|the Great Split]], the Eclessian relic courts test every claim by protocol, with their five tests of sainthood, sworn witnesses and long waiting, while the Patriarchate of Veridun receives a well-witnessed wonder as its own proof. The Velian congregations keep their own calendar. Covenant chroniclers record many of the same frontier figures as neighbours, heretics or enemies, and Banu Mizan jurists cite some of them in water law without calling them holy. Since the False Lady of Bruckmoor was exposed in 1243 (see [[The Hunger Wars]]), Eclessian courts have distrusted any apparition that weeps, pays or demands, and that caution has cost several claimants their hearing.
+
+One teaching is shared across the communions: a saint cannot fall. When a figure wearing a saint's face demands revenge, the churches say something else is wearing it—an Idol's Mask, a Patron's hired apparition, a residue repeating old habits. Sinner cults turn the teaching around and call their master's appearances proof of his cause. Much of what follows was written, rewritten and burned by people fighting that argument.
+
+## Underground and Conversion (c. 150–411 AR)
+
+For nearly three centuries the Redeemer's people were outlaws, then for a century the empire's own faith, then, under Vestian, its compulsory one. The saints of these years were prisoners, porters and clerks. Their sinners learned that escape, miracles and the names of the dead could all be sold. See [[The Ember Underground]] and [[The Conversion of the Empire]].
+
+### The Lady of the Mire Keys (c. 150–240 AR)
+
+The prison ports of the Underground ran on boats: flat barges carried prisoners between river gaols, and a clerk who knew which locks flooded at which tide could get a person out of almost anywhere. The Lady's Life, assembled by prisoners' descendants from boat ledgers and petitions, makes her the daughter of such a boatman who rose to keep sentences. She sold escape to persecuted believers, political prisoners and common thieves alike, then reported a chosen few, kept their fee and took promotion for the recapture. Once she held the sentence books she wrote new crimes to fill them. Shelter without a stamped sponsor became vagrancy, a woman who fled an assault was charged with absence from custody, and a crust given to a fugitive became theft of state grain. Guards were paid in access to the prisoners.
+
+The prison songs keep her alive. They describe a crowned woman whose body ends in a coil of keys beneath a drowned city, where every key opens one cell by closing another. Escapees in later persecutions said that a pardon offered in her name was always real; someone else simply went into the cell.
+
+A later Life makes her a secret rescuer forced to betray a few to save the many, and prisoners' descendants call it her second sale. One provincial guest-law still forbids a host to "close the second door" when buying a prisoner's release, and the boat ledgers survive, listing the same names as escaped and recaptured under the same seal.
+
+### The Witness at the Red Passage (c. 180–226 AR)
+
+The Witness began as a prison porter, hired because a malformed shoulder ruled out the legion. Porters learned which chains fitted which wrists, which guards took coin and which prisoners would be dead before trial. During a transfer riot the porter shut one gate to save a smaller group and left the other yard to the soldiers, who beat the prisoners there and executed several. Inside the escaping party, frightened rescuers murdered their bound guards, a captured informer and two prisoners wrongly accused of collaboration. The porter struck those killings from the escape register, because the truth would have broken the prison network.
+
+The porter spent the next years carrying bread, letters and burial names between gaols, and tried without success to put the murdered prisoners back on the record. Then a purge drove several households toward a narrow red-painted service passage. The porter held it, knowing the stand would be fatal, while civilians and prisoners ran through. Captured, the Witness was tortured and killed. The Life has always kept the abandoned yard and the hidden murders beside the final stand, which is why prison families trust it.
+
+The wonders came later. Dying prisoners in later persecutions said they saw a crook-shouldered figure holding a red door open on the road of the dead, while winged clerks gathered names from a burning roll. When admirers formed a fighting brotherhood and murdered suspected informers under the Witness's banner, survivors reported the Witness among them, rebuking the killers in the words once used of the hidden murders. The brotherhood dissolved within a year.
+
+Courthouse Lives make the Witness a flawless martyr and a man; prison songs make her a woman and a coward who became brave, and [[G-24 - The Red Door and the Names Left Behind|The Red Door and the Names Left Behind]] keeps that version. Magistrates have called the cult dangerous, and sceptics call the Witness a composite of several prisons. A red-painted door hangs unhinged in an inland courthouse. Once a year it is carried flat through the streets while two lists are read, the saved and the abandoned. No lawful order claims it.
+
+### The Clerk Who Named the Dyer (c. 244–267 AR; the reliquary, c. 404)
+
+The clerk was the child of a kiln-tender in an inland prison-and-dye district, where the rivers ran blue and red below the vats. As a young prisoner-clerk under torture, he gave one name to stop a beating. The named worker, a dyer, was arrested and died in custody. Released, the clerk recanted in public, found the dyer's household, gave them his wages and began copying the names the prison courts struck from their rolls. The family took the money and never declared the death forgiven.
+
+Beneath the old civic court lay a binding from the Age of Stars, a shut room the old priests had sealed with sworn testimony freely given. The persecuting magistrates had reworked it to run on erased names, forced confessions and the breath of the dying. When it began to fail they demanded that the clerk become its living mouth, because his copied roll of names could steady it. He refused, exposed the murders and moved prisoners out through the kiln service-ways. Officials sealed him inside the chamber as it broke, and he died as it closed.
+
+Around 404, under the converted empire, custodians of a new reliquary began issuing commands in the dead clerk's voice and using them to name enemies of the state. Arrests followed the voice. Witnesses to the reliquary's last night said a second voice spoke in the chamber, the clerk's own, calling the reliquary a counterfeit and saying the dyer's name before its own. The reliquary cracked, its keepers were carried out, and the purges it had guided stopped in that province.
+
+One church reads the dyer's name before the martyr's title at the annual reading; another reverses the order. [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]] keeps the dyer's mother and her lamp.
+
+### The Borrowed Martyr of the Quarry Road (c. 272–338 AR)
+
+An obscure prison worker who carried food, messages and the names of the dead between quarry cells and their families was informed upon, tortured into a written denial that copyists still dispute, and executed after refusing a second demand. The family was refused the body and dug a careful grave anyway. After legalisation, the quarry town's crowned icon and a road sanctuary's weeping image each claimed the martyr, performed wonders, and fought: a recanter was murdered, pilgrims died on the road, and the family's house was burned. The grave the family prepared has never held a body. The story belongs as much to the Idols as to the saints and is told in [[The Hunger Wars]] and [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]].
+
+### The Finder of the Cast-Out (c. 304–323 AR)
+
+Soon after legalisation, a wealthy household with new friends in the Church feared that its line would die out. The lord and his wife compelled an enslaved stable worker into the lord's bed under an inheritance arrangement she could not refuse. She bore a son, and the household called him its continuity. When the wife later bore a child of her own, she beat the stable worker, persuaded the lord to void every promise, and had mother and son driven into a salt-and-thorn waste with too little water. The lord sent riders to stop them coming back.
+
+The boy was dying under a thorn bush when a pale ground bird walked out of the glare and spoke to the mother in a clear human voice. It scraped the sand from a stone lid where road-builders had once covered a cistern, named the coercion and the expulsion as the household's crime, and pointed her toward a caravan track. Carriers on that track gave them the rest of their water and a place on the wagons. Mother and son lived. The other enslaved women of the estate saw no bird.
+
+Hospital orders still repeat a clause, "need does not end when inheritance changes," and most attribute it to a charitable widow who sheltered the pair afterwards, as in [[G-40 - The Shelter That Outlived Its Heir|The Shelter That Outlived Its Heir]]. Abolitionist preachers tell the bird as an angel; sceptics tell of a lucky cistern; the household's descendants called the whole story slander for two hundred years.
+
+### The Preacher of the Second Gospel (c. 330–382 AR)
+
+The Preacher began as a temple copyist who joined the Church because its new congregations fed displaced workers whom both the imperial and the old-cult authorities had abandoned. He became a magnificent preacher and organiser of soup kitchens, fever wards and lodging houses. Privately he taught that every real power deserved negotiated worship. A bishop removed him from public teaching after witnesses proved coerced confessions and a secret rite that addressed the White Flame as an appetite to be fed.
+
+The correction was public and mild. He took it as proof that the Church feared honest revelation. In the stripped sanctuaries of the closing temples he asked the dark for an answer, and something answered; his disciples said three voices did, and that they disagreed. From those answers he built the **Second Gospel**, a counter-church whose rule was that a rite which works is a rite which is true. He presided over its first captive sacrifice himself. When another teacher refused, he ordered that a child be used in the first possession trial, and he had a former companion killed to seize the bishop's disciplinary record.
+
+The counter-church worked wonders. Fevers broke in its wards, lamps lit themselves at its night offices, and in the years of temple closures thousands of displaced cult workers found in it a church that paid. Its success sharpened the Church's own question about who may authenticate a sign, and made several bishops readier to let the emperor answer it. Copies of the Second Gospel were said to speak in his voice when read alone after dark, and carters on one inland road claimed to have seen a figure with ash-dark wings burn a wagon-load of annotated copies centuries later.
+
+Counter-churches remember a persecuted visionary, Eclessian preachers the first great sinner of the converted age, and some historians a reformer the bishops mishandled. Others think several preachers have been folded into one. In 1360 three mutually exclusive "complete" Second Gospels circulate, while hospitals use a fourth fragment—a fever broth and a line forbidding service-debt for food or medicine—without knowing whose it was. That fragment is the subject of [[G-25 - The Ragged Gospel in the Hospital Apron|The Ragged Gospel in the Hospital Apron]].
+
+### The Singer at the False Choir (c. 382–391 AR)
+
+In the years of Vestian's compulsion, a newly converted civic hymn guild was given the confiscated house and salaries of an older temple choir. One ambitious singer bought his advancement by naming five of the old custodians, including two genuine converts whose property local officials wanted. The five were tortured for further names and executed, and their families were barred from collecting the bodies. The guild then set the confiscation into a dedication hymn as proof that the city had been cleansed without innocent blood.
+
+At the dedication the singer stopped before the altered verse, spoke the first victim's name and begged not to be allowed another profitable lie. Witnesses saw a brightness above the choir rail, shaped like a great rook in black and white, carrying a coal that gave no smoke. It touched the singer's mouth and his writing hand. The pain was public; he cried out before the governor and the guild. Then he spoke all five names and how each had died, confessed, surrendered his office and went to prison, where he disappears from the record.
+
+Some choirs call the event a miraculous confession; temple descendants call it a church spectacle staged to keep the confiscated house, and physicians a guilty man's seizure. The hymn survives with a deliberate silent measure, kept in [[G-41 - The Silence Kept for Five|The Silence Kept for Five]]. Some choirs read the five names into it, others keep it empty, and the Church learned from the quarrel that a hymn could not absolve killings done in its name.
+
+## The Long Frontier (411–905 AR)
+
+For three centuries the remnants of the empire and the rising Covenant shared a frontier of wells, forts, ransom roads and mixed towns. Its pressures—water, quarantine, fortification, revolt, the closed doors between worlds—produced the densest crowd of saints and sinners in the chronicles. Eight great lives overlapped: an older generation between about 641 and 735 that shaped law, forts, revolt and quarantine, and a younger one between about 708 and 804 that shaped routes, warnings and refuge craft. Each worked in a separate place and cause. Some quarrelled in life; most knew one another only by reputation. See [[The Long Frontier and the First Unsealing]] and [[Towns and Wars of the Long Frontier]].
+
+### The Old Traveller with Seven Birds (c. 626–641 AR)
+
+In the first decades of the frontier, a border governor kept hostages from the last war behind the only winter pass, in a half-ruined Giant toll fortress whose hostage standard and tally stone were said to whisper. The safe-conducts the hostages had signed contained a clause that made the governor owner of their labour, movement and children. A relief force of soldiers, relatives, porters and hired engineers met an old man on the road below the pass, with seven small birds riding his staff and shoulders. He read them the hidden clause, laid out three ways to attack, and named the captives who must not be spent. He would not choose for them.
+
+The commander chose a night assault. It shattered the tally stone and freed most of the prisoners, but a fire started too early burned captives in one tower, and soldiers killed surrendering guards in revenge. Devotional tellers make the traveller an angel and the birds his attendants; officers' manuals make him a scout with trained birds; families of the burned call him the commander's excuse. Frontier officers still call an unendorsed set of choices "the pilgrim's table," and [[G-42 - The Supper of the Unchosen Roads|The Supper of the Unchosen Roads]] keeps his seven pieces of bread.
+
+### The Clerk of a Hundred Wells (c. 641–708 AR) and the Bitter Reaper (c. 676–735 AR)
+
+These two quarrelled in life, and the frontier's law of water and plague came out of the quarrel.
+
+The Clerk copied well allocations for wages so low that he slept in the archive. In a drought made worse by siege, he devised a common register that stopped the great households from taking all the water. It saved thousands. It also confiscated private wells, compelled labour and turned independent households into dependants of the court. Warned that some households would resist, he signed armed seizure warrants himself; defenders and pressed labourers died, and one petitioner was executed under a procedure the Clerk had written. When the rains returned he defended every measure as necessary.
+
+The Reaper began carrying corpses down from an estate whose owners lived above the poison line. With field medicine and stolen equipment he led the workers into the high houses and killed the overseers, and survivors hailed a liberator. His new order required every household to undergo repeated exposure rites so that nobody would ever again depend on the masters' medicine. The rites injured children and killed some adults, and they left the survivors dependent on treatments only his clinics supplied. Anyone who refused lost access to water and to burial.
+
+The Clerk's challenge to the Reaper's permanent quarantine exposed people still trapped under water and health restrictions long after the danger had passed. That challenge turned on the Clerk himself. He spent the rest of his career restoring hearings, returning land where he could, and writing expiry clauses that later copyists often left out. The Reaper answered that vulnerable people were safer without choices, and in a later outbreak, which frontier physicians agree he did not cause, made whatever bargain kept him in command.
+
+The tellers keep both men walking. A century after the Clerk's death, when a frontier court used a copied Hundred-Wells manual to register kidnapped people as contributions to the waterworks, witnesses saw a thin clerk with ink-stained sleeves enter the hearing, suspend the court's seal and refuse to leave until the captives had been heard. Travellers on closed roads describe clinics kept by a man with a black cup where no clinic stands. The cordial there cures road-fever, and patients who leave without more of it die. Banu Mizan jurists claim the Clerk as a founder of their water law, colonial chroniclers call him an administrator who never stopped, and clerks' guilds keep his feast. Courts across the frontier still ask whether an emergency order contains "the Clerk's ending," a date after which it must justify itself again. The Reaper's bitter cordial remains good medicine in small doses and a sacrament in his cults. See [[G-30 - The Clerk Who Would Not Stop|The Clerk Who Would Not Stop]] and [[G-31 - The Bitter Cup of the Reaper|The Bitter Cup of the Reaper]].
+
+### The Mason of the Ninth Bastion (c. 646–716 AR)
+
+The Mason began as a quarry measurer whose job was to stop tunnels falling in. He saved a town with an improvised retaining wall, and the officials who took the credit gave him impossible works ever after while noble patrons received the honours. He recorded every death and every slight. Resentment hardened into a doctrine that only those willing to spend lives understand building. When sabotage delayed a great course, he had one worker in ten from every surviving crew killed by lot, including the workers who had exposed the saboteurs and crews who had never touched the damaged stone. At the ninth bastion of the line he shortened the evacuation to keep a foundation geometrically perfect. A workers' quarter collapsed, and he sealed prisoners inside because reopening the course would have delayed the campaign. He published their names as proof of his honesty and refused any guilt; the dead, he said, finally belonged to something that would last.
+
+His fortresses were the best of their age, and his school's tables of safe measure saved countless lives. Garrison cults claim he still builds, below: that his ninth chambers are linked, that a massacre in one fortress opens a way into the next, and that something too large for a door walks between them. Three ordinary fortresses still contain sealed ninth chambers that engineers refuse to open and cultists try to fill. A respected engineering school teaches his measurements and keeps his "necessary loss" appendix locked away; a cadre of his followers keeps only the appendix. See [[G-27 - The Ninth Room of the Bastions|The Ninth Room of the Bastions]] and, for the saint who opposed him, the Warden of the Last Redoubt below.
+
+### The Chain-Bearer of Sarrat (c. 670–727 AR)
+
+The Chain-Bearer began as a slave infirmary attendant at Sarrat, able to tell another captive's pain before it was spoken. His owners sank a chain engine into his body that turned the distress around him into strength and into pain he could not control, and meant him for the frontier wars. He helped organise a revolt, and officials pulled him out of its final stand because they wanted the engine. His companions died believing he had abandoned them.
+
+Freedom came later, and it came wrong. The liberated commander killed overseers who surrendered, fitted new soldiers with copies of his engine and massacred a neutral household accused of hiding former owners. Offered removal of the engine at the price of his command, he refused. States have cited that massacre ever since to discredit every slave revolt.
+
+Recurrence cults say that wherever prisoners are handed from keeper to keeper toward a mass killing, the Chain-Bearer rises again in the iron, and that only breaking the chain of custody before the killing stops him. Prison-road tellers add that the Witness at the Red Passage once held a prisoner route against him and refused to call his victims innocent of every crime. Abolitionists wear broken chain links with the gap left open; the cults keep a missing joining link hidden. See [[G-29 - The Missing Link of the Chain-Bearer|The Missing Link of the Chain-Bearer]].
+
+### The Hunter of the Shutwood (c. 708–781 AR)
+
+The Hunter began as a hostage-guide, traded between a forest household and a frontier governor, and could find anyone in the Shutwood, a dense frontier woodland where Covenant roads, older courts and fortified refugee estates overlapped. He rose to command and would never say how he knew what he knew. In one pursuit a guilty scout was executed after trial and a coerced scout died under an unlawful sentence. When a third scout refused a secret interrogation and demanded an open hearing, the Hunter killed him with one blow, then entered all three deaths as a single lawful traitor case. The secrecy saved the route network from an infiltrator and poisoned the household that ran it.
+
+Years later the Hunter handed over the records, resigned his command, and led the recovery of families once condemned as collaborators. He died during a Shutwood evacuation in which guilty fighters were carried out beside their children and their victims. Route families say he came back long after his death to lead households out of roads that had closed behind them, walking ahead through fog until the last of them reached a hearing, and that he came once to a town where a fear-court had marked refugees as murderers-to-be.
+
+A later guide fellowship claims him as founder, and a secret tribunal claims he authorised permanent concealment; neither can prove descent. Covenant chroniclers call him a foreign occupier, Folk tellers say a forest court made him its guest, and others call him the founder of the Long Watch. The fellowship leaves one stool empty at every route hearing for the scout he killed, as in [[G-26 - The Empty Stool of the Slain Scout|The Empty Stool of the Slain Scout]].
+
+### The Reader Behind the Sealed Door (c. 714–779 AR) and the Smith of the Refuge Bell (c. 721–804 AR)
+
+They were friends, and the Reader's warning destroyed the friendship.
+
+The Reader was an underpaid assistant at one of the frontier's sealed crossings between worlds, measuring heat, tremor and the warp of the seal. He found that something was approaching from the far side. His seniors believed him and forbade the proof, because sending the warning would complete the road it warned against: whoever received the message would bear what came back. A trial message maimed one student. The Reader hid how badly, overruled students who withdrew their consent, and stationed them as receivers for the forbidden final message.
+
+The warning reached the distant authorities, and the road opened. Custodians, nearby households and the student receivers died holding back what crossed. The Smith, a refugee craftsman who had helped the Reader identify the threat, lost members of his refuge that night. The Reader spent his remaining years speaking of the injustice of being disbelieved.
+
+The Smith carried his own guilt. Earlier, in a siege, he had built a heat weapon meant to clear an empty approach. The first discharge showed civilians driven into the district; given the chance to lock the weapon, he fired a second time himself, believing a breakout would kill more refugees. Civilians burned with the fighters, and his commanders hid the order while he blamed himself. He spent the rest of his life dismantling copies, forging evacuation bells and folding ladders, testifying against his patrons and teaching that an artefact belongs to the community that bears its danger. He refused both revenge on the Reader and the Reader's plea that knowledge excused the breach.
+
+Couriers say the Reader still writes. Perfect warnings arrive in sealed packets in his hand, accurate in every detail, and the house that reads one becomes the road it describes. Refuge families answer with their own story: once, when such a road was opening, the Smith came back with soot-black arms and tall shapes like heat-shimmer at his shoulders, and the duty-marked tools along the road rang one after another until the last refugee crossed. Three archives keep sealed warnings unread, and collectors still hunt a complete set of the Smith's tools that never existed. See [[G-32 - The Letters That Must Not Be Opened|The Letters That Must Not Be Opened]] and [[G-33 - The Tools That Remember a Duty|The Tools That Remember a Duty]].
+
+### The Smith Who Broke His Hands (c. 729–792 AR)
+
+This Smith was a foundry bondservant whose resistance to heat became the workshop's excuse for giving the worst tasks to other children. Freed, he taught that weakness must be exposed and beaten. During a test a gifted apprentice rang the stop bell and begged to be let out; the Smith held the mechanism shut to prove that fear could be mastered, and the apprentice died. Maimed witnesses were expelled from the school because their injuries supposedly proved them unfit.
+
+In the end he saw what his school had made. Before the hearth and his former students he broke his celebrated artificial gauntlets, confessed, sold his share of the workshop to pay the victims and spent his remaining years designing tools that maimed workers could use. Former followers attacked the new workshop and killed another apprentice.
+
+Forge-town tellers say a generation later, when a strength-order began cutting away healthy flesh for iron and abandoning its injured, the Smith walked into its chapter hall with ruined hands, named the apprentices it had left to die, broke its seal across his knee and was gone. Guilds call him the patron of disabled artisans; his old order calls him a hypocrite; burned-house descendants say his restitution was forced on him, as [[G-28 - The Gauntlets Broken at the Hearth|The Gauntlets Broken at the Hearth]] tells it. Rival cities display rival broken gauntlets.
+
+### The Commander on the Voluntary Wall (c. 744–752 AR; the hearing, c. 811)
+
+The commander began as a ditch-digger and conscript stone-hauler in a frontier water-city, learned fortification from maintaining drains and rose through the militia after exposing an officer who sold repair stone. In early command the commander ordered beatings, seized hostages and had one deserting worker killed as an example. Later Lives give those orders to a deputy.
+
+During a siege that coincided with a failing floodwall, the commander planned for thousands to hold an outer retaining wall while families crossed the inner causeway. Some stood freely. Others were debtors, prisoners, foreign labourers and conscripts held there under threat, and the commander used them anyway because the inner city would otherwise fall. Before taking a place on the wall the commander confessed the old killing, revoked the penalties on deserters' children and ordered the volunteer and compulsory rolls kept separately. The wall failed; the commander and most of those on it died; the city lived.
+
+Around 811 a confraternity bearing the commander's name used the old emergency law to seize minority labour for a prestige wall. Witnesses at the hearing said the commander appeared before them, mud to the knees, read both rolls aloud and forbade the confraternity the name. The seizure was revoked that day. The city now sings two songs for its wall, one from each end of the street, as [[G-45 - The Two Songs at the Wall|The Two Songs at the Wall]] records.
+
+### The Heir with Five Remembered Wings (c. 781–826 AR; the claim at the door, 907)
+
+The heir was born into a frontier client house whose ruler, the whole province whispered, had bargained its heirs to something below. Its children were hostages and possible vessels for a hereditary office. When the heir refused a custody rite, the parent cut five winglike scars across the child's shoulders and side. Servants smuggled the child out, and several were executed for it.
+
+Years later the exile came back with an armed household, overthrew the parent and killed the parent personally, then murdered surrendered relatives and an unarmed ritual custodian. After victory the heir refused the inherited office, confessed the killings before the victims' households, gave up the throne and spent the rest of a long life winning freedom, burial and property for the house's servants and child hostages. Some accepted restitution. Others named the penitent a murderer to the end. The heir died defending an evacuation from old allies who wanted the dynasty back.
+
+In 907, as Caleran's fall emptied the frontier, a claimant came to an escape house demanding the dynasty's surviving children under the old blood clause. Witnesses said the heir stood in the doorway with five scars burning white like folded wings and spoke one sentence while the house destroyed the compact: "No wound inherits the child." The claim failed, and the hereditary office died with it. Custody courts still preserve that sentence as law. [[G-46 - The Child Who Owed No Wound|The Child Who Owed No Wound]] tells the same house from a fleeing girl's side and refuses to call anyone in it a saint.
+
+### The Captain of the Sacrificial Wind and the Drowned Banner (c. 850–875 AR)
+
+Two rescues of the late frontier are told together because they ended so differently.
+
+In a retreat of the failing empire, refugees reported a dead captain at the head of bright riders, coming down a wind that smelled of altar-smoke to hold the road behind them. When the convoy was safe, the commander of the living army demanded that the captain lead them on into enemy country. The captain withdrew. One of the commander's officers charged without support and died with all his followers. Frontier tellers count the captain among the very few saints said to have commanded angels in a campaign, and every account remembers chiefly the refusal.
+
+In another retreat of the same decades, a cult carrying a black, dripping banner drove off raiders and brought a convoy home. Then its officers demanded the eldest children as replacements for the dead. They executed a father who said the rescue was over and seized the ferry that had carried the families. A former banner-bearer cut the ferry loose in the night, and the households escaped across the farmland while the stranded rearguard took the cult's punishment. Those families still untie a boat's rope once a year.
+
+## The Fall and the Reconquest (905–1015 AR)
+
+Caleran fell to Idris al-Fattah in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[The Reclamation of Caleran]].
+
+### The Saint at the Last Door of the Borrowed Temple (c. 901–909 AR)
+
+As imperial order broke, soldiers, prisoners, servants and refugees packed into an old star sanctuary long since turned into a provincial prison and cistern refuge. A commander reopened its sealed chambers looking for weapons and found an offer instead: dragon-shaped war-beasts built from bodies, and the promise that his province would become the empire's true successor. The price was an altar, public acclamation and condemned bodies. He paid it. Prisoners were executed, corpses and living flesh went into the frames, and refugees who would not acclaim were denied water from the cistern. Then prisoners began vanishing from locked cells under false evacuation orders.
+
+Refugee and garrison accounts, which agree on almost nothing else, agree on what followed. A figure they called the Saint of the Last Door stood at the lowest cell door with bright attendants, naming the prisoners one by one and holding the way. Meanwhile living prisoners and servants flooded the altar chamber, broke the acclaiming engine and dragged the unfinished war-beasts into the cistern. Many of them were killed. The province's bid to succeed Atheria died in that sanctuary. Descendants of the rescuers keep a duty at one sealed door, which answers only when someone names a threatened captive and promises to carry them. The power that made the offer is described in [[The Hunger Wars]].
+
+### The Herald in the Signal House (c. 910–913 AR)
+
+In the first years after Caleran's fall, an occupation governor held prisoners and negotiated surrenders through a mountain signal house above a captured city. Rebel tellers say a Herald angel was sent to announce one protected surrender and name the prisoners it covered. The governor's warlocks had built a ward around the signal mouths. When the Herald entered, the ward caught it in a repeating false signal, crushed and stripped its visible pinions and split its beaked trumpet, and demanded over and over that it proclaim the prisoners had surrendered their names and their property. The Herald refused.
+
+A rescue party broke into the lower room and was discovered, and most of the rescuers and several prisoners were killed. The survivors damaged the ward enough for the Herald to sound the true proclamation, three cracked notes across the valley, and withdraw. The occupation executed more witnesses. Rebel commanders suppressed the story for a generation, fearing that word of a defeated angel would break their soldiers. Military signal law since then names the protected persons before the property in any surrender, and a broken three-note call marks any message suspected of coerced authorship. [[G-47 - Three Notes before the Spoils|Three Notes before the Spoils]] keeps the human horn players, and the devotional version keeps the Herald.
+
+### The General of the Glass Court (c. 910–951 AR)
+
+The General began as a camp tailor and armour-mender, so good at making defeated people look dignified that a claimant's household took him in. He rose through logistics, pageantry and genuine courage in the wars that followed the Fall. One fellow craftsman, a field officer who had served with him from the start, remained the only person who could tell him the truth.
+
+As victory came near, the General turned reconstruction into cleansing. Maimed veterans were hidden from parades, mixed households were expelled from liberated towns, and surrendered rivals were displayed before execution. In a private confrontation the officer threatened to expose his sexual abuse of office, his diversion of refugee funds and the expulsions. The General killed his friend with his own hands, forged assault orders and a field-death record, and laid the body among soldiers abandoned in an unsupported attack. In his last years visitors found him attended by officers who had died in the wars, restored and unscarred, and by none of the living who had served him.
+
+Descendants say the General still holds court in a hall of glass that moves from city to city by night, offering families a flawless version of a dead hero in exchange for the bones and letters that contradict it. Formal portraits of the victorious generation had their wounds and mixed marriages painted out, and restorers have found one repeated signature beneath several of the faces. Pageant schools call him a civilising hero, his enemies a decadent traitor; some say he was possessed, and some that a beautiful Patron wore his name. See [[G-34 - The Faces Beneath the Victors|The Faces Beneath the Victors]].
+
+### The Warden of the Last Redoubt (c. 915–965 AR)
+
+The Warden began as a refugee quartermaster who learned masonry because nobody else would inspect the sleeping vaults. In a siege the quartermaster became commander and held the inner redoubt by sealing the outer ward before every family had crossed. The fort held. The civilians outside it and a relief company died.
+
+The Warden refused the promotion offered for the victory, wrote down the names of the shut-out and spent later years building evacuation depth into provincial forts. Grief also turned cruel: subordinates died in assaults whose real purpose was to prove that the Warden had not chosen cowardice at the gate. A last confession named both acts. Where the Warden died, and whether the body was recovered, the forts cannot agree.
+
+Soldiers of a much later siege swore that a one-handed warden appeared on their wall, opened the outer ward first and held it until the last child was through. In that fort's ninth chamber the knocking stopped. Masons tell this as the Warden's victory over the Mason of the Ninth Bastion: a massacre that the Mason's linked fortresses needed was refused. Several fortresses claim the Warden's severed hand; the relic that fort-builders trust is an ordinary measuring cord, knotted again by refugee children to the distance a child can carry a baby through smoke, as in [[G-35 - The Child's Cord at the Redoubt|The Child's Cord at the Redoubt]]. Some Thalmyric tellers make the Warden one of Caedros I's hidden lieutenants.
+
+### The Woman Given a False Family (c. 930–960 AR)
+
+During a hostage exchange early in the Reconquest, a woman was ambushed and then rescued, cleanly and kindly, by the people who had arranged the ambush. They told her that her travelling companions had sold her, and presented strangers as the household that had paid her ransom. One true companion who tried to reach her was killed as an impostor. Years later she heard her old nurse's work song sung by a voice her rescuers had taught her to fear, recognised it and fled with the nurse, leaving property and gratitude behind. Other survivors stayed with their false families. Returnee communities blame such rescues on a power they call the False Prince, and since then they have asked a rescuer who paid for the danger before they ask who paid the ransom.
+
+### The King of Unburied Hosts (c. 970–1010 AR)
+
+In a small reconquered valley, a commander forbade burial while a corpse-working emissary rebuilt the dead into a road gang. A mother saw her son's mended coat among the workers and followed it, because the emissary said he still served. At the camp she found several bodies answering to his name and a copied voice rehearsing words he had never spoken. The families smashed the fittings that drove the workers and burned the whole gang, coat and all. Soldiers killed several mourners and walled the surviving prisoners up among the remaining machines. The valley's tellers say the bodies were bound for a dead king's necropolis below, a city of corpses that work, and that the burning cut one of its roads. Burial law in the reconquered provinces still forbids any commander to hold the dead.
+
+## Two Crowns and High Noon (1015–1290 AR)
+
+The Great Split of 1015 gave the Known World two churches with two calendars, and every saint who had lived before it became something to own. High Noon brought prosperity, mines, Qarath and the Grey Sweat. See [[The Great Split — Two Crowns, One Fire]], [[High Noon and the Qarath Disaster]] and [[The Grey Sweat]].
+
+### The Saint of the Two Ferries (c. 996–1035 AR)
+
+Before the Split, a holy ferry-keeper at a disputed river crossing carried travellers of every allegiance and buried the enemy dead that came down with the current. Both banks kept the keeper's feast. After 1015 one bank seized the ferry shrine; a mob killed its custodian and threw the keeper's bones into the river. The other bank imprisoned clergy and expelled households in revenge. Apparitions then appeared on both banks blessing the seizures and the reprisals, and the relic courts later agreed that at least one of them was false. Each church wrote a complete Life making the keeper its own. The ferry households kept a shorter rule about whom the boat must carry. In 1360 the two banks' icons hide one matching correction under different overpainting, and once a year a crossing is made with no church's banner aboard.
+
+### The Judge Beneath the Black Eaves (c. 1018–1080 AR)
+
+The Judge began as a roof-runner, carrying warrants over the slates between courts that no longer recognised one another's seals. Up there, in rain, the visions came: murders, riots and betrayals, true and incomplete, seen before they happened. The runner prevented several crimes and became a celebrated examiner. Gradually the Judge began to torture people for acts only foreseen, to display mutilated offenders under the courthouse eaves and to terrorise whole households, because fear seemed to reduce visible crime.
+
+The visions were neither invented nor inevitable. Several atrocities happened because the Judge's preventive executions destroyed the friendships that might have stopped them. When an assassin finally came for the Judge, the Judge ordered the guards to stand aside, so that the death could be used as proof that every prophecy was fixed.
+
+Black-roofed tiles scratched with future crimes appeared in markets after the Judge's death, some in the Judge's hand. In the decades of the Split, magistrates of each church secretly bought visions of the other church's future crimes and persecuted in advance, and the hardening of the Split owes something to that trade. Route families say the Hunter of the Shutwood came once, long dead, to lead out refugees a fear-court had marked as murderers-to-be. Courts in both churches now forbid conviction for "the future fact," while secret magistrates still pay for Black-Eaves forecasts. See [[G-36 - The Black Eaves and the Uncommitted Crime|The Black Eaves and the Uncommitted Crime]].
+
+### The Saint at the Enemy Gate (c. 1020–1060 AR)
+
+Two successor armies met at a mountain fortress guarding a grain road and three winter passes, and both venerated the same early military saint, an army physician remembered for refusing to certify tortured prisoners fit for execution. One army called the saint the Physician of the Western Host; the other, the Keeper of Captive Soldiers. Each demanded a sign that the saint belonged to it alone.
+
+Signs came. An armoured figure showed the attackers an old supply postern, and inside the walls a campaign icon sweated while officers dreamed of their enemies begging beneath the fortress standard. The garrison stole badges and finger-bones from enemy graves, beat prisoners, mutilated messengers and killed suspected collaborators. Prisoners from both armies, local porters and the families of suspects were penned by the refuse gate, which both sides called the enemy gate because it faced away from the road. During the withdrawal the commander executed several captives and ordered the rest sealed into a granary already burning.
+
+Witnesses described the saint at the enemy gate in different uniforms but agreed on what was done there. The saint broke the gate's windlass, dropped its iron screen between the captives and a revenge company, carried wounded children out through the ash passage and named three tortured enemy messengers missing from both armies' rolls. When soldiers carried the gate key to the command tower, it was ordinary iron in their hands. The attackers' order still celebrates the postern as the saint's victory; mountain porters say the armoured figure there was hired, and that the saint came to the enemy gate because prisoners, enemies and children were there. The key in the old arsenal releases one windlass, for a named prisoner under an unlawful death order, and does nothing else.
+
+### The Saint of Ashen Wings (c. 1087–1146 AR)
+
+The Saint began as a mine slave and courier in an upland mining country. A revolt through the old prison tunnels freed several settlements. Facing reconquest, the rebel leader ordered an experimental passage through a damaged crossing between worlds and sent condemned prisoners through first to test it. Survivors came back changed and dangerous. The leader killed some personally and hid the experiment from the liberated settlements, and the passage saved the new polity.
+
+The lie protected the settlements long enough to survive and left the test party's families without bodies or truth. Years later the leader confessed, gave up office and went into exile rather than make the victims keep the heroic story. In exile the former commander rescued people from experiments like the first and died closing a breach.
+
+Captives freed from breach-experiments in later generations described a rescuer with ash-dark wings who walked into the experimenters' halls and broke their gates, and carters on an inland road claimed to have seen the same figure burning wagons of annotated Second Gospels. The settlements' liberation feast is followed next morning by an unofficial reading of the experimental victims, with black bread made from the feast's ashes, as [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]] describes. Liberation songs call the Saint immaculate; victims' families call him unforgivable; covert rescue orders all claim him as founder.
+
+### The Chain-Tender above the Harbour Wall (c. 1120–1180 AR)
+
+Generations before the siege that made it famous, a foreign-born chain-tender in a Sestaran harbour, which most tellers place at Sermora, lowered the great harbour chain against the council's order to let in a refugee flotilla. Some refugees lived; some harbour workers died when desperate ships forced the gap. The city hanged the chain-tender for treason.
+
+In a later siege attackers killed civilians on the walls and defenders fought them stone by stone. Sermoran veterans swore that a figure in a chain-tender's leather apron walked the harbour wall in the worst of it and broke whatever was driving the assault. Their enemies admitted a terrible defender. When the city's soldiers then began murdering prisoners and foreign residents blamed for the breach, the same figure was seen to turn and rebuke them, and official songs left the rebuke out along with the hanging. Admirals cite the defence for offensive wars, minority families keep the rebuke and the names of the murdered prisoners, and merchants sell fragments of the wall. On the feast, the harbour chain must be lowered for one refugee or relief vessel before it is raised for the civic procession, and one stretch of wall cannot be demolished without riots.
+
+### The Angel at the Threshing Floor (c. 1171–1173 AR)
+
+Between the golden age of Caedros III and Qarath, the prince of a tributary river principality ordered a census. Its open purpose was grain relief; its hidden purpose was to seize dependants for road labour, list taxable refugees and pick hostages from doubtful households, so that a complete register could support his bid for a crown of his own. Clerks and soldiers broke doors, dragged families to counting stations and killed those who resisted.
+
+Then death came down the census roads. Within hours of each sealed schedule reaching a counting-house, clerks, soldiers and the nearest households sickened with the same rapid fever and failing breath. Witnesses all along the courier roads saw something above the leading edge of the dying: a dark, immense raptor-shape, filled with white fire, moving at the pace of the couriers. It killed clerks and nobles, labourers and children. The prince blamed foreigners, then confessed the census's true purpose, freed the surviving hostages, burned the seizure schedule and walked barefoot to an ordinary threshing floor owned by a household the census had already bereaved. The dying stopped there.
+
+Royal Lives make the prince the saviour of his people; victims' records insist he confessed only after mass death. The independence bid died with the census, and law codes across the successor world now require a count to state its purpose and forbid any later use for hostages or labour seizure without a new public act. Jurists call the limit "the floor beyond the count." See [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]].
+
+### The Prince Who Would Not Sell the Peace (c. 1190–1220 AR)
+
+In a feud between two small successor states, an agent arranged a surrender that saved one ruler's household. Once the captives were safe, the same agent offered the ruler his enemy's defenceless children and urged him to avenge an old murder; the treaty had been designed so that breaking it would be easy. He refused. His own brother called the refusal disloyal and killed the mediator. The children went home under guard, one household had kept its word, and one murder went unpunished. Later tellers made the ruler universally merciful. Treaty law in that country hardened around him, and agents of what border clergy call the Oathbreaker are said to be waiting still for a peace that someone will sell.
+
+## Held Proofs and the Present (1290–1360 AR)
+
+The age of reformations and relic courts made saints a matter of evidence, and in 1360 several Lives remain open. See [[The Age of Held Proofs]].
+
+### The Guardian at the Workhouse (c. 1327–1331 AR)
+
+A baptised tallyman falsified warehouse measures; poor households lost grain, and a guard died in the riot the shortage helped provoke. He confessed part of the fraud, returned what money remained and gave evidence against a larger broker, and was still convicted and sent to a workhouse infirmary, where overseers ignored repeated warnings that he was dying. After his death a clerk swapped his corpse tag with another debtor's, so that a contract broker could treat the wrong name as proof that an infernal assurance had come due on the tallyman's dependants. The washer who laid out the bodies swore that all night a small, pale, winged figure kept turning the false tag over on his chest, woke her twice, and would not let her rest until she had spoken his baptismal name aloud before the bodies were sealed. Records and testimony later proved the exchange, but the broker's office still disputes whether the corrected register defeats its claim, and the hearing is unfinished in 1360. [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]] tells a related workhouse story.
+
+### Frate Severin and the Pyre of Masks (1346–1349 AR)
+
+The Flame-preacher Frate Severin held Fiorenzia's soul for four years and burned the vanities of the merchant age—masks, mirrors, paintings, gowns—in the cathedral square in 1346. Witnesses still argue about what they saw standing in that fire. A Medori-restored government hanged and burned him in 1349. The Freeflame claim him as a kindled prophet, the Order of the Lantern studies him, and the city's painters keep a drawer of things they would burn first next time.
+
+### The Lady of the Sloe-Field at Vessing (1352 AR)
+
+Three shepherd children at Vessing reported a figure of banked fire in a sloe-field. Their testimonies cannot be reconciled, and each bears on the Kindling Question that divides the churches. Captured papers of the Weeping Courts claim the apparition as their work, which may be a confession, a lie or the infiltration of something genuine. The Sanctum has not ruled.
+
+### The Closed House and Saint Malveris (1357–1360 AR)
+
+In one Eclessian jurisdiction, laundresses, guards, clerks, a physician and gravediggers kept evidence that a prison-house of the Inquisitors of Saint Malveris had tortured detainees, seized property and executed at least one suspect on fabricated evidence. Several witnesses say that Saint Malveris, or a figure using the name, appeared inside the sealed house, named the victims, condemned the order's practices and refused the senior inquisitor's demand for a sign that would prove the order alone was right. Order of the Lantern investigators, secular officers and church courts are hearing the case in 1360. Founder's correction, reformers' forgery, Idol revenge, Freeflame propaganda: every party in the hearing has its own explanation of the apparition.
+
+## Read onward
+
+- [[The Ember Underground]]
+- [[The Conversion of the Empire]]
+- [[The Long Frontier and the First Unsealing]]
+- [[Towns and Wars of the Long Frontier]]
+- [[The Invasion and the Fall]]
+- [[The Fall and the Long Reconquest]]
+- [[The Great Split — Two Crowns, One Fire]]
+- [[High Noon and the Qarath Disaster]]
+- [[The Grey Sweat]]
+- [[The Age of Held Proofs]]
+- [[The Hunger Wars]]
+- [[Manifested Saints Overview]]
+- [[Legendary Histories]]
+- [[Myths and Legendary Histories MOC]]

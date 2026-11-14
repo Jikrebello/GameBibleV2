@@ -32,6 +32,8 @@ The call passed from instrument to instrument. Pots, bells and shouted notes ans
 
 Horn families kept the melody deliberately cracked so it could never sound like a triumph. It interrupts victory music even when commanders dislike the reminder.
 
+The devotional version begins earlier, in the mountain signal house above the city, where the occupation governor had announced every surrender. A Herald angel was sent to proclaim this one and name the people it protected. The governor's warlocks had ringed the signal mouths with a ward, and when the Herald entered, the ward caught it in a false signal repeating without end. It crushed and stripped the angel's pinions, split its beaked trumpet, and demanded over and over that it proclaim the prisoners had surrendered their names and their goods. The Herald refused. A rescue party broke into the lower room and most of them died there; the survivors cracked the ward enough for the Herald to sound once and withdraw. Its three notes came down the valley broken, because its trumpet was broken, and the horn player on the wall was answering them. Rebel commanders kept this version quiet for a generation, afraid that soldiers would not fight once they knew an angel had been beaten.
+
 At one later surrender, a nervous child played only two notes. Street defenders supplied the missing third by shouting the names they knew. The call worked because people accepted its duty, not because the original instrument or exact sound had returned. Nobody remembers whether the child finished the tune. The names were enough.
 
 ## Why it is remembered
@@ -40,16 +42,17 @@ The story has the urgency of a countdown: if names are spoken before the rush re
 
 ## How tellers differ
 
-Army chronicles call the mutilation enemy action. Street songs name the victorious unit. Devotional versions add a heavenly echo; the human players remain sufficient to the event.
+Army chronicles call the mutilation enemy action. Street songs name the victorious unit. Devotional versions give the first three notes to the trapped Herald and the rest to the horn players; horn families keep the angel out of their songs and say the people with mouths and pots carried the call. Sceptics call the captured angel a morale story, and some bitter veterans call it proof that Heaven abandoned the capital. A twisted strip of metal kept in one mountain chapel is said to come from the split trumpet.
 
 ## What remains
 
-A cracked horn plays three incomplete notes before spoils, captured houses or evacuated beds are assigned.
+A cracked horn plays three incomplete notes before spoils, captured houses or evacuated beds are assigned. Military signal law names the protected persons in any surrender before its property terms, and treats a broken three-note call as the mark of a message suspected of coerced authorship.
 
 ## Read onward
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Fall and the Long Reconquest]]
 - [[Myths and Legendary Histories MOC]]

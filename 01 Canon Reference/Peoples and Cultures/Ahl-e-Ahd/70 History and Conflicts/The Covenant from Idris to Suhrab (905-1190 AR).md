@@ -1,0 +1,155 @@
+---
+type: event
+status: canon
+canon_level: core
+visibility: public
+era: ["905-1190 AR"]
+region: ["The Covenant", "Iqashar", "Al-Qahur", "Caleran", "Velian States", "Tarkhan Frontier"]
+culture: ["Ahdari", "Iqashari", "Qahuri", "Qazmari", "Zanthiri", "Velian", "Tarkhan"]
+related_factions: ["Qahirid Suzerainty", "Caliphate of Qazmarid", "Emirate of Zanthir", "Vault of Names"]
+appears_in: []
+needs: []
+aliases: ["The Unsworn Years", "The Threshold Age", "The Covenant after Caleran"]
+tags: []
+---
+# The Covenant from Idris to Suhrab (905–1190 AR)
+
+Between the capture of Caleran in 905 AR and the accession of Suhrab the Lawbinder in 1190, the Qahirid Covenant lost the southern country it had conquered, survived a succession crisis in which its own bound beasts broke loose, met a new horse power at its northern wells and rebuilt itself around the courts of Iqashar. Thalmyric histories tell these years as [[The Long Reconquest (908-1052 AR)|the Long Reconquest]]. Covenant registers tell them as the Unsworn Years, the Horse War and the classical age of the Iqashar courts.
+
+The period explains much of the Covenant of 1360: why its throne is called the Sublime Threshold, why the military households of the Sacred Basin hold estates on leases whose terms ran out long ago, why the Custodian of the Vault of Names has no name, and why Mazrakan sells horses where the frontier once burned.
+
+## An army sworn to a man
+
+Qahir ibn Ruzbeh came to power as a soldier of a converted Ruzhan house, without the sacred standing of the old Ahdari clans. He bound what he built to himself. Levy captains, foundry masters, engine crews and the handlers who carried the feeding names of bound beasts all swore their service to Qahir by name, and each instrument named his son Idris as the man who would hold it after him. When Qahir died in 902 nobody had to swear anything again, and the march on Caleran went ahead on time.
+
+Sultan-Caliph Idris al-Fattah kept his father's habit. His instruments named Idris as holder and his eldest son, Ruzbeh, as successor. So did the surrender instruments served on the southern cities in 905 and 906, which bound guilds, burghers and surviving garrisons to Idris in person. Iqashari jurists admired the arrangement for its speed. Every soldier knew whom he served.
+
+## Holding the south, 905–929
+
+Caleran lies some nine hundred miles from Iqashar, a full season's march through the Sacred Basin, the Velian belt and the occupied heartland. The occupation was meant to feed itself. Garrison families, rewarded clients and subjects transplanted from the north took estates along the Aurin. Survivors worked them under contract, their names entered in local name vaults. The Atherian remount studs, which Idris's clerks had listed among the estates to be taken over, were to mount its cavalry.
+
+The studs never came. Their handlers drove the herds north into the grass in the first winter, and the occupation remained an army of camels and foot. From 908 the mountain rebels offered amnesty to anyone who came up to them without a bound instrument, and the labour that paid the garrisons drained into the hills a family at a time. The great engines were too few to cover the roads: of the five that came to Caleran, two remained after Crown Gate in 907, one Depth-Core frame and one Slave-Soul. [[The Battle of the Shattered Engines (907 AR)]] tells how the others were lost.
+
+Some governors answered the shortage with terror. Thalmyric horn families remember an occupation governor who held prisoners at a mountain signal house between about 910 and 913. According to the devotional tradition, a Herald of heaven came to proclaim one protected surrender there, and the governor's warlocks caught it in a ward built round the signal apertures. The ward crushed its pinions, split its trumpet and demanded that it announce that the prisoners had forfeited their names and property. It refused. A rescue party broke into the lower room and most of them died there; the survivors damaged the ward enough for the Herald to finish its true proclamation and withdraw, and the governor executed more witnesses afterwards. Covenant penitential jurists later taught the case as an order that was "lawful and wrong". The rebel commanders kept the failure quiet for a generation, afraid that their soldiers would learn that heaven could lose a fight. Both armies came away with the same rule: a surrender names its protected people before it divides any property. Thalmyric horn players still sound it as [[G-47 - Three Notes before the Spoils|three broken notes]].
+
+## The drowned heir and the Unsworn Years, 929–938
+
+In the summer of 929 Ruzbeh ibn Idris, fourteen years old, drowned in a cistern beneath the palace at Iqashar, where he had gone swimming at night with the cistern-keepers' sons. Re-swearing an empire's instruments to a new heir meant musters, witnesses and fees across a season's march of country. Idris set the great muster for the spring of 932. He died of a fever in the autumn of 931, eleven days after it took him.
+
+Every instrument that named Idris and Ruzbeh now named two dead men. Jurists called such an instrument **widowed**. Whether a widowed instrument still bound anyone was a question each party answered for itself, and for seven years the Covenant found out what the answers were.
+
+**The levies.** In the north, levy captains held musters of their own and asked their men what they owed. Some companies marched home with their weapons; others sold their service to Basin landholders who paid in grain. In the occupied south, garrisons woke to the news and found nobody they were bound to obey. Two governors in the Velian belt rode north with their pay-chests.
+
+**The wells.** The outer wells of the escarpment towns on the northern frontier were guarded by silt hounds, six-limbed pursuit beasts with sealed eyes that Qahir's capture companies had brought out of the mapped mire of Hell and bound into the wet shafts. The keepers fed them under names written to Idris and his son. That winter the keepers stopped coming, or came and found that the names would not take. The hounds climbed out. The escarpment towns remember 931–932 as the winter the wells barked: tracks in the mud on doorsteps, breathing under the floorboards, a fan of silt across a threshold, and families who went for water after dark and were not seen again. Townspeople ringed their wells with dry stone, which the hounds would not cross. Several outer towns were empty by spring.
+
+**The Elder.** At Iqashar the Depth-Core engine that had escaped Crown Gate stood in its shed in the Chain Furnace yard. On the ninth night after Idris's funeral its beast stopped answering the feeding names and the frame walked. It broke through the foundry wall and went downhill towards the dyers' cisterns, the nearest open water, and killed nineteen people in the dye-yards. A Vashari-born feeder named **Gulnar** followed it down. From the threshold stone of the Dyers' Hall she called the feeding name again, but gave it to no man: she spoke it "to the threshold of the house of Qahir, whoever stands in it". The frame stopped in a vat of indigo and lay down. A century later, when Iqashari crews had begun to call the engine **the Elder**, the blue still showed in its seams.
+
+The dyers' quarter credits Gulnar's words. Foundry masters of the time said the beast had drunk itself quiet in the vats. Qazmari preachers said Iqashar made up the story to give its new throne a miracle.
+
+**The Regency of the Bench.** Idris's surviving son, **Mahdar**, was eight. Jurists and the Custodian of the Vault of Names ruled in his name until 940, and they took the dyers' formula as their remedy. A man dies; a threshold does not. Soldiers, officers and engine crews would swear their instruments to the **Sublime Threshold**, the doorway of the house of Qahir, in whose name the ruler of the day acts. The instruments would be witnessed at Al-Qahur, so that the Threshold's continuity rested on the Covenant's oldest sacred custody. The court has borne the name ever since, and every Sultan-Caliph has needed Al-Qahur's acknowledgment to stand in the doorway.
+
+**The first lodging.** One of Idris's cousins claimed that the widowed instruments passed to the nearest grown man of the house, and some Basin captains agreed with him. The Regency did not kill him. It **lodged** his name in the Vault: his true name went into the Vault's custody, so that no soldier could swear to it, no prayer could mention it and no document he signed would hold. He lived thirty more years in a walled garden at Al-Qahur and was buried under a blank stone. Iqashari jurists date the Cull of Brothers from this act, which they still describe as a mercy. See [[Covenant Government and Imperial Suzerainty]].
+
+**The leases of 938.** The Basin captains would not re-swear without land. In 938 they swore to the Threshold in return for estates in the Sacred Basin on fixed-term leases, and took the Basin engine yard with them. Their descendants are [[Al-Qahur and the Sacred Basin|Al-Qahur's]] military households. "Armed tenants who forgot the lease had an end" began as a lawyer's description; in Qahuri villages it has long been an insult.
+
+**Qazmarid.** In 933 the lord of Qazmarid took the title Caliph-Wasi. His jurists argued that if instruments died with the man, the Qahirid claim had only ever been a man's, and that the Fourth Seal itself had been widowed with Uthar ibn Qays; only blood continued, and the blood was Ruqaiya's. Witnessed-Seal jurists answered that the witness of a living community cannot be widowed. Neither side has moved since. From that year Qazmari naval stations tolled every Covenant convoy that used the western strait. Qazmarid did not fight Iqashar in this century; it charged it.
+
+## The Southern Threshold, 931–957
+
+**Durayd ibn Sahl**, amir of occupied Caleran, did not wait for the Regency. In the winter of 931–932 he re-swore the southern cities and garrisons to himself as Amir of the Southern Threshold. He named Mahdar in the Friday prayers and sent tribute when he could spare it. Iqashar refused him engines until he swore the south to the Threshold. He refused in turn, because a man who held the south by the Threshold's instrument was a governor Iqashar could recall. For twenty-six years he governed it as a lord in his own right.
+
+His country was the occupied heartland: the Aurin estates, the port of Caleran and a dozen walled towns with their valleys. Garrison families born there held it, with transplanted northern subjects and Caleran's own contract-bound people. Covenant practice required a release entry in the name vault when a bound person died, freeing the name from the register. Occupation custodians seldom made one, because a released debt-name was a debt written off. Caleran's parish clergy taught that a held name might hold a soul as well. The custodians denied it, but the foundry at Iqashar was known to take condemned prisoners for its name-cages, and nobody outside the vaults could tell one death from another. Funerals in the occupied south became occasions of dread, and then of anger.
+
+Durayd tried to sell what Iqashar would not let him use. In 948 he offered to return the [[Caleran and the Eternal Ember|Eternal Ember]] to Veridun against payment of its account. Caedros I's court refused to acknowledge that the Covenant had any custody to sell. Hostages passed between Durayd's towns and the mountain leagues in exchanges that both sides abused, and Thalmyric families learned to test returning captives with songs only their own households knew.
+
+## The Long Reach and the Horse War
+
+In 951 the first Grass-Tarkhan raid season reached the Covenant's north-eastern caravan roads and the outer wells of the escarpment towns. Tarkhan memory calls it **the Long Reach**. Iqashari registers call the decades of raiding that followed, at their height from about 975 to 1010, **the Horse War**.
+
+The horses were Atherian. The studs that Idris's clerks had counted on had gone north in 905, and Grass-Tarkhan hunters caught and bred them ([[First Catch and Grey Sister]]). By the third generation of riders, the camps could reach roads that had always been out of range. Their reasons were their own. Remount wealth had reordered prestige in the camps, and young riders needed captives and animals to found households. The seizure of the [[Nine Wells of Tergai]] in 558 gave raiding a grievance. The camps were following the great-horn herds into new range.
+
+The Covenant's northern defence had been built against camel-borne Well-Tarkhan. It rested on the hounds in the well-shafts, on hound-handlers riding with the road escorts, and on terror: a horse or camel that scents a Depth beast panics, and a rider on a panicking animal dies. The Atherian remount lines had been hymn-blessed by the lay brothers who kept the studs, and the blessing that held a cavalry horse steady before bound things held the grey horses of the Long Reach steady too. The hounds came up the shafts spitting silt; the grey horses stood; the riders lanced the hounds at the well-lip while the garrison's own horses screamed and tore their tethers. Covenant soldiers on that frontier spoke of the grey horses as though they were bound things themselves.
+
+The blessing thinned with each generation, so the danger was greatest while the herds were young, between about 960 and 1020, and declined slowly after. Tarkhan horse-genealogy measures the decline exactly. No khan united the banners, and the same riders also struck Eclessian and Sestaran roads. A Thalmyric chronicle claims that Caedros I sent envoys to the khans. Tarkhan genealogists answer that the horses were Atherian, the choice was theirs, and no envoy drank at their fires.
+
+The Long Reach held Iqashar's field army in the north from 951 to 957, the years of Caedros's descent on Caleran.
+
+In the 990s, at the height of the Horse War, Mahdar's son sent the Covenant's first great mercy tower north. It had been finished about 944 by overdrawing the Chain Furnace, which then ran at reduced strength for a generation and left Iqashar's lower cisterns low every summer. Its strategic models predicted flight routes and proclaimed terms in the local titles of the people it besieged, all learned from walled cities. On the grass the camps simply moved away. For a season the tower stood on a rise proclaiming surrender terms to empty pasture, and the Tarkhan named it **the Talking Hill**. Iqashar concluded that the north was cheaper to buy than to beat.
+
+## Caleran lost, 955–957
+
+In 955 Mahdar sent the last Slave-Soul engine south by sea under a crew sworn to the Threshold. It was the only help Iqashar ever sent Durayd, and it came on Iqashar's terms. Qazmarid charged the engine-ship's passage through the strait at a rate Qazmari chroniclers still boast of.
+
+The engine reached Caleran's outer works in 956 and met the war-lamps of the Thalmyric army, which had begun to kindle reliably in this campaign. Covenant jurists had believed for generations that the Atherian fire was failing; the refugee army proved them wrong at the worst moment. The lamps opened the engine's name-cage. People watching from the walls of the occupied parishes said the frame cried out once in a Caleran voice, then knelt where it stood and never rose. Covenant crews said only that the cage failed. Thalmyric clergy said a prisoner had gone on to judgement, and Caleran families believed him one of the Second Crusade's captives whom the old court never ransomed.
+
+The next spring a custodian refused a release entry at the funeral of a bound dockworker. The mourners carried the coffin into the custodian's court, and the funeral became the revolt that Thalmyric histories record in the occupied districts. With the Long Reach holding Iqashar's army on the grass, no relief would come, and Durayd knew it.
+
+The southern cities had sworn to Durayd, so Durayd could release them. He surrendered Caleran in his own name, in the glazed courtyards of the occupation quarter. Horn players sounded the three broken notes before the gates opened, and his terms named the protected first: the lives of the garrison families, the safety of the surrendered quarters, and the discharge of the Ember's account on payment. Caedros II kept the first two terms and Veridun paid the third. On the same day Caedros I died at the Pillar of Concordance. [[The Reclamation of Caleran]] gives the Thalmyric side.
+
+Iqashari chroniclers say Durayd surrendered what he had stolen. The occupation-born families who later went north said Iqashar had abandoned him. Thalmyric histories barely mention him. One tradition says he died in the forum on the day Caedros died; another, that he grew old in Qabir.
+
+## The amirates and the long retreat, 957–1052
+
+Durayd's surrender widowed his instruments for every district beyond Caleran. Each amir re-swore his garrison locally, and by 962 the occupied heartland had become a dozen separately sworn amirates: river citadels, hill towns, irrigation districts and anchor works, each with its own walls, its own debts and its own price. Iqashar still claimed them all through the Threshold and armed none of them. Thalmyria never again faced the Covenant in the heartland. It faced amirs, one district at a time, and that is why the Reconquest after 957 was fought through amnesties, sieges, purchases and rival land registers.
+
+Mahdar refused to arm the south until his death in 979. His son spent the Horse War buying horses and building walls in the north.
+
+**The Breaking and the bet.** When Leovar III began smashing lamps in 987, Iqashari jurists read it as Thalmyria breaching its own covenant with its God, and the court let the First Breaking do its work. Exiled flame-monks crossed into the Velian belt, where the old Banu Mizan protection compacts still sheltered monasteries, and Ioan of Velia wrote the *Three Orations on the Housed Fire* there under Covenant protection. The bet failed. Ioan's formula ended the Breaking, and the shelter Iqashar gave its enemy's monks supplied the doctrine that put Thalmyria back together.
+
+**The Pledged Custodian, 1003–1011.** In 1003 Tarkhan riders took the son of the Custodian of the Vault of Names on the road north of Iqashar. The ransom was beyond the Custodian's means, and he pledged his own true name to a lending house that kept its desks below the Ruzbeh Weight House. The loan was built to fail. By 1006 the house held the Custodian, through his name the keys of the Vault, and through the Vault every bound levy's name. No commander could say whose instrument his soldiers stood under. The court's war party, which wanted the south relieved, assembled an army that year, and it never left its camp outside the lower gate. Thalmyria was tearing itself apart over lamps, and the Covenant sat still.
+
+In 1011 the Custodian went down into the Vault's deepest custody and surrendered his own name into it. The bond in the lending house's book was left with nobody on one side. Registrars said the ink of his name faded from every page on which it had been written, from the moneylenders' ledger to his own marriage contract, and that his wife could no longer say it aloud. That night the Vault's guards came down the hill and burned the lending house with its books. The Custodian's son, ransomed at last, came home to a father he could not call by name.
+
+Registrars' tradition gives the Custodian three different former names, none of them found in any document older than 1011. Every Custodian since has surrendered his name at investiture, which is why the Unnamed Custodian of the present day is the one officer the Guard cannot bind and the court cannot blackmail. Iqashari registrars keep a niche for the first of them in the Vault's outer hall, where petitioners leave blank slips. Qazmari preachers call what he did the suicide of a soul. Thalmyric polemicists of the Breaking years counted him among the damned.
+
+**Tamim's Audit, 1033.** Tamim the Auditor came to the throne in 1029, the year Thalmyria's Second Breaking began. In 1033 his treasury read out, in the Threshold's courtyard, the accounts of each southern amirate: what it cost in silver, grain and hostages, and what it returned. Every one cost more. The south was declared held in the Threshold's name without any duty of relief. The amirs' envoys went home with that sentence and nothing else, and garrison families from the Aurin to the Velian belt learned by letter that the claim on them would be kept and the defence of them dropped.
+
+**The Muster at the Wrong Well, 1041.** The war party at Iqashar won one more argument. In 1041 a relief army was ordered to muster on the southern road at a well whose name differed by a single stroke from another, two days' march further on. The copyist's error sent the columns to both. They arrived piecemeal, ran short of water and dispersed before they could be gathered. The war party never won the argument again, and from the 1040s Iqashar spent on Tarkhan companies what it might have spent on the south.
+
+**Zanthir's two seasons, 1044.** The emir at Qabir saw which way the war was going. He held back his fleet and his grain barges from the last amirates while they starved, and signed with Veridun an instrument valid in alternate seasons: he would pay tribute to Veridun in one and to Iqashar in the other. Thalmyria accepted Zanthir's autonomy as the price of its help, and Iqashar, with no army to spare, could only register the arrangement. Thalmyric chronicles call it Zanthir's "timelier treachery". Emir Badis still pays in alternate seasons. See [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/60 Realms and Peoples/Emirate of Zanthir/Emirate of Zanthir Overview.md|Emirate of Zanthir Overview]].
+
+**1052.** The last amirate surrendered to Empress Theodosia's armies in the year of the Rekindling. Occupation-born families who would not accept Thalmyric return law went north along the Velian roads with their Covenant deeds in cedar boxes and the keys of houses they would not see again. Iqashar called them **the Southern Houses**.
+
+## Iqashar's classical age, 1052–1190
+
+The southern defeat discredited the commanders. Registrars, auditors and jurists took over the business of government at Iqashar, and the city earned the reputation it still trades on for keeping registers, granaries, arsenals and drains in working order.
+
+**The two houses of the Vault, 1059.** Until then the Vault of Names had been one house under one Custodian, with its old deep halls at Al-Qahur, where the founding instruments and the Fourth Seal lay, and the working halls Qahir had built at Iqashar for the names of his army. After 1011 nobody at court would let one custodian hold the whole key again. In 1059 Tamim made the halls two houses. The names of the living bound, levies, bondspeople, debtors and office-holders, stayed at Iqashar as the **Living Register** under the Unnamed Custodian. The names of the dead and the surrendered names of the Custodians, which had piled up at Iqashar since Qahir's day, went south to Al-Qahur, where the old halls became the **Deep Vault** under the shrine custodians. The train of sealed chests took eleven days on the Basin road, and Qahuri villagers along the way covered their wells as it passed. Since then Iqashar has governed the living while Al-Qahur holds the name of the man who keeps Iqashar's registers, and each city has a hand on the other's throat. See [[The Disputed Fourth Seal]].
+
+**The Court of Breaches.** The breach-courts that had once ridden with the armies of the First Unsealing were given a building at Iqashar and became a standing court. It heard the frontier's quarrels: access to the Nine Wells, the old Velian compacts, Zanthir's seasons, Tarkhan contracts and the deeds the Southern Houses had carried north.
+
+**Mazrakan, 1067.** Iqashar chartered [[Mazrakan, Market of the Nine Measures|Mazrakan]] at the end of its paved caravan road to turn the horse frontier into a customs post. The Covenant bought blessed lines from Tarkhan houses that sold on their own terms, and hired Tarkhan companies on **word-price**, the Tarkhan oath whose breach carries a declared compensation, because Tarkhan riders refused name custody. Their names never entered the Living Register. That made them harder for Iqashar to control, and for two centuries it also kept them out of the offices that Iron Horde captains reach for in 1360.
+
+**The frontier hardens.** The Velian belt, once the Covenant's road south, became its southern frontier. Tribute, garrisons, bondage and name custody hardened there under rulers who expected the Thalmyric army every spring. The People of the Lamp in the belt kept their churches under the old compacts, and their protections became more valuable and more closely watched.
+
+**The Two Winters, 1101–1103.** Two winters came with no summer between them, under ash-grey skies. Covenant registers record the years without a cause. Al-Qahur's grain failed, and the Well of Seven Pressures was turned from the foundry to preserving what grain there was, which idled the engine works for most of a decade. When Basin farmers could not deliver the grain their contracts owed, the Court of Breaches gave the **grey-sky ruling**: an instrument that cannot be performed is suspended, and not voided. Covenant jurists call it the answer to Bir Qassim, five centuries late.
+
+**The War of the Southern Deeds, 1131–1139.** The Southern Houses held deeds protected by the surrender terms of 957–1052. When Caedros III settled his frontier military districts on some of that land, the Court of Breaches ruled in 1126 that the surrender instruments had been breached. Both sides had a real case. Sultan-Caliph **Khurzad** treated the ruling as a writ. In 1131 the Covenant served the districts as the Unsealing had served the old north, sending two mercy towers to proclaim terms in the settlers' own village titles: property for surrender.
+
+The terms failed because Caedros's settlers held their land on condition of defending it, and surrender meant forfeiting it under their own law. The towers' models had been built on cities that bargained. They kept predicting a breaking point that never came, and escalated instead: marked stones on threshing floors, counterfeit orders called through the dusk, bombardment of mills. Settler women sang the towers' proclamations back at them from the terraces. The terror hardened the districts, and kindled war-lamps and the Thalmyric counter-engine corps did the rest. One mercy tower was lost.
+
+Two ordinary failures finished the war. In 1135 dysentery in the siege camp killed Khurzad's heir, the commanding prince, along with a third of the Guard contingent. In 1137, on what Iqashari soldiers call **the Day of Two Readings**, Qahuri and Iqashari jurists read the same battle order two ways under their own provincial codes, and a whole flank never moved. Thalmyria had captured custodians carrying registers that held the names of living Covenant soldiers, and in 1139 Iqashar ransomed them at a price that helped Caedros III refill his treasury. Thalmyric histories remember the war as the Qahirid war crushed.
+
+**The road to Suhrab.** The Day of Two Readings had shown that the provincial codes could not command one another. Khurzad died in 1142, and his son opened a commission in 1151 to bring the codes into one book. A younger son, Suhrab, was placed in the colleges and took the jurist's oath renouncing the throne, the classical age's gentler protection for younger sons. In 1189 the heir was killed when a stand collapsed at the Mazrakan spring horse fair. In 1190 the Court of Breaches ruled that a renunciation made to save one's life is coerced and therefore void. Suhrab took a throne whose title rested on a court's ruling, and spent his reign turning his father's commission into the *Ledger of Ledgers*.
+
+## Remembering the period
+
+Thalmyric memory credits the Reconquest to Thalmyria alone. Covenant registers record a war that Iqashar stopped paying for, and the Southern Houses' descendants remember a war that Iqashar sold. Tarkhan genealogists remember the Long Reach as the generation when Grey Sister's daughters drank at the Nine Wells. Dyers at Iqashar still pour a measure of indigo into the cistern on the anniversary of the night the Elder walked.
+
+## Navigation
+
+- [[Historical Spine of the Covenant]]
+- [[The Long Reconquest (908-1052 AR)]]
+- [[The Fall and the Long Reconquest]]
+- [[The Reclamation of Caleran]]
+- [[Caleran and the Eternal Ember]]
+- [[Covenant Government and Imperial Suzerainty]]
+- [[Covenant Armies and the Tarkhan Frontier]]
+- [[The Qahirid Suzerainty and Iqashar]]
+- [[Al-Qahur and the Sacred Basin]]
+- [[Qazmarid and the Sealed Blood]]
+- [[Mazrakan, Market of the Nine Measures]]
+- [[First Catch and Grey Sister]]
+- [[Nine Wells of Tergai]]
+- [[High Noon and the Qarath Disaster]]
+- [[Saints and Sinners of the Chronicles]]

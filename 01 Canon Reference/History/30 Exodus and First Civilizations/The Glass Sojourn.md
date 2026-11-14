@@ -27,7 +27,7 @@ The **Glass Sojourn**, approximately c. 2265–2165 BR, is the long refuge in wh
 
 The Lord deliberately sends the principal remnant into the [[Great Glass Desert]] to shelter it from the continuing collapse of the Giant world. The Great Prophet leads and governs under commission but does not create the passage, provision or protection.
 
-The Glass refuge is not the later failed sanctuary. It successfully preserves and forms the host. After the long sojourn, the people are commanded to leave and establish a southern sanctuary capable of holding their common life for three generations. The Prophet dies at or near the outward threshold around c. 2165 BR before that sanctuary is securely established. The sanctuary fails gradually as bounded camp offices contest movement, land, punishment, provision and command; no office inherits the Prophet's commission.
+The Glass refuge is not the later failed sanctuary. It successfully preserves and forms the host. After the long sojourn, the people are commanded to leave and establish a southern sanctuary capable of holding their common life for three generations. The provision belongs to the refuge's commission and ends with it at the outward threshold (see The End of Provision below). The Prophet dies at or near the outward threshold around c. 2165 BR, while the rear companies are still inside the Glass and before that sanctuary is securely established. The sanctuary fails gradually as bounded camp offices contest movement, land, punishment, provision and command; no office inherits the Prophet's commission.
 
 ## Giant Non-Settlement
 
@@ -42,6 +42,33 @@ The Lord supplies the necessities the host cannot secure by ordinary means: food
 Human labor remains indispensable. People gather and distribute food, maintain animals and seed, repair carts and tools, dig drains and graves, isolate sickness, care for the injured, translate testimony, teach children, hear disputes, punish crime, defend the rear and carry those whom stronger households would abandon.
 
 The signs are bounded to this commission. They cannot be summoned by descent, reconstructed from an anchor camp or converted into a modern Glass industry.
+
+**What the host ate** (Causality Pass, 14 November 2026). The host ate provision at the appointed stages; milk and meat from its herds; and produce from gardens at the anchor camps, watered from provided springs. Seed was kept alive by token plantings, enough to keep each line viable and never enough to feed a camp. Three or four Glass-born generations could herd, repair, judge, count, bury and garden. Few had cleared a field, timed a flood or stored grain against a second bad year.
+
+## The End of Provision
+
+*Causality Pass 01.1, approved 14 November 2026.*
+
+**Cause.** The provision belonged to the refuge's commission, not to the people. Grace in this world comes by commission, not on demand; when the commission was complete, the provision stopped on schedule.
+
+**Sequence.**
+- **c. 2180 BR.** The host is commanded south. The provision thins over about a decade (c. 2180–2170 BR): stages once met in full are met late or in part, and the provided springs at the anchor camps weaken, so the camp gardens fail with them.
+- **c. 2170–2165 BR.** The crossing is staged over several seasons, company by company. Provision ceases for each company at the threshold. Drought strikes the rear camps, which begin eating the seed reserve.
+- **c. 2165 BR.** The Prophet dies near the threshold while the rear companies are still inside. He died leading the people out; most of the people left after his death (this resolves Appendix A).
+
+**Scale (author-only; reader texts keep "unknown").** About forty thousand people entered the Glass c. 2265 BR. With low mortality under provision, roughly 100,000–120,000 reached the threshold. No district south of the Glass could feed them.
+
+**Why the sanctuary was commanded.** The three-generation southern sanctuary was the time needed to become farmers under protection. Its failure meant learning farming by taking farmers.
+
+**Consequences.**
+- **The Vacant Commission was famine politics.** Provisioners had distributed what was given; now their office decided who lived. The contested stores were chiefly the seed reserve.
+- **The Five Staffs levy took seed.** The rear camps were eating seed to survive the drought; the southern expedition needed it to plant. The commander and the judge were both right, which is why the quarrel never closed ([[G-71 - The Five Staffs and the Empty Granary]]).
+- **The Southern Seizures took farmers as much as land.** Forts seized fields together with their cultivators. Hostage-taking, adoption and marriage targeted farming households. Enslaved Orphaned farmers taught their captors the farming year. Atherian slavery and adoption law grew from the need for farmers.
+- **Atherian religious drift has this root.** The southern camps' saying ran: *"The Lord who stopped feeding us; the stars that still answer."* Menhir correspondences answer any compatible rite; the Lord had answered by commission. A people fed daily for a century read a completed commission as abandonment. Astronax follows.
+- **A camp layer survives in three languages.** Camp speech leaves a substrate under Atherian, Jirahar and Ahdari, densest in measure, oath, water, law, grave and name. All three keep the whole layer with drifting meanings: the provision-portion becomes an Atherian wage, a Jirahar portion owed to the dead and an Ahdari guest's share. The cognates are reserved for a later language pass.
+- **The Ark–Orphaned grievance is about bread.** Folk saying: *"Heaven fed them a hundred years and sent them to eat our harvest."* Ark reply: *"They were not fed because they were not called."*
+
+**The Prophet's death in public tradition.** Four incompatible tellings are canon as in-world traditions (Jirahar *Slow Road*, Ahdari *Unpaid Well*, Atherian *Herald's Ascent*, Folk and Aurin *Guest Who Died at the Door*); see [[Age of Exodus]]. Each ties his death to the end of the bread. The authorial truth of the death remains among the fixed unknowns below; no new sealed weird is created.
 
 ## The People of the Camp
 
@@ -101,9 +128,9 @@ Meanwhile, human communities outside the Ark survive through independent **Orpha
 
 ## Fixed Unknowns
 
-- the exact duration, camp count and population;
+- the exact duration, camp count and population (the order of magnitude is fixed above);
 - the people's endonym;
-- the complete provision cycle;
+- the complete provision cycle before the thinning;
 - the complete list of rebellions and judgements;
 - whether the Prophet's death was failure, murder, exhaustion, judgement or mystery;
 - the first post-Prophet faction leaders;

@@ -17,6 +17,12 @@ These are the world's received stories, not seventy-five certificates that every
 
 Every tale below is a **story told** unless its entry says otherwise. A tale establishes its tellers, its tellings and the customs or objects that survive it. It does not by itself authenticate an original relic, a miraculous response, a famous identity, a voice that claims to be the dead, or a victory's divine approval; those belong to the tradition unless a separate history establishes them. Singers disagree, and no single version is the whole event.
 
+## Lives and wars across the ages
+
+Two public surveys gather the strange and the holy across many tales and ages. Each tells its subjects through witnesses' claims and in-world quarrels; the authorial truth remains in the GS, HC, OBA, UH and AF files and their hubs.
+
+- [[Saints and Sinners of the Chronicles]] — the great saints and sinners from the Underground Centuries to 1360 AR, each Life told with its reported wonders, its consequences and the quarrels over its relics and feasts; reader face of [[Great Saints and Sinners - Lives and Afterlives]] and [[Heavenly Campaigns and the Human Dead]].
+- [[The Hunger Wars]] — the Idols' Masks and Archmasks feeding on towns, armies and churches, from the Sarrakai canal war to Bruckmoor and the Pyre of Masks; reader face of [[Idol Kingdoms and the Hunger Wars]].
 
 ## Age of Chains
 
@@ -24,8 +30,8 @@ Every tale below is a **story told** unless its entry says otherwise. A tale est
 - [[G-02 - The Company of the Broken Measure|The Company of the Broken Measure]] — former Giant estates and Glassward approaches; c. 2400–2260 BR; Late Chains and Unbinding.
 - [[G-18 - The Falling Wards|The Falling Wards]] — one Ansharan-facing dependent court, outside the unresolved imperial capital; c. 2400–2260 BR; Late Chains and Unbinding.
 - [[G-62 - The Three False Processions|The Three False Processions]] — a separate lesser court and its Egg White pursuit routes; c. 2400–2260 BR; Late Chains and Unbinding.
-- [[G-66 - Not for the Lower Roster|Not for the Lower Roster]] — Urum-facing mortuary estates; c. 2400–2260 BR; Late Chains and Unbinding.
-- [[G-69 - The Four Faces of One Victory|The Four Faces of One Victory]] — Sarrakai canal country; c. 2400–2260 BR; Late Chains and Unbinding.
+- [[G-66 - Not for the Lower Roster|Not for the Lower Roster]] — Urum-facing mortuary estates; c. 2320–2260 BR; Late Chains and Unbinding.
+- [[G-69 - The Four Faces of One Victory|The Four Faces of One Victory]] — Sarrakai canal country; c. 2385–2335 BR; Late Chains.
 
 ## Age of Exodus
 
@@ -74,7 +80,7 @@ Every tale below is a **story told** unless its entry says otherwise. A tale est
 - [[G-10 - The Road of the Empty Purse|The Road of the Empty Purse]] — provincial household and pilgrimage routes; 3 BR–291 AR; Redeemer and Underground.
 - [[G-24 - The Red Door and the Names Left Behind|The Red Door and the Names Left Behind]] — inland prison and quarry districts; c. 180–226 AR.
 - [[G-39 - First the Betrayed, Then the Witness|First the Betrayed, Then the Witness]] — inland prison and quarry districts; c. 100–292 AR; Underground.
-- [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]] — inland prison and quarry districts; c. 100–292 AR; Underground.
+- [[G-70 - The Empty Grave and the Two False Shrines|The Empty Grave and the Two False Shrines]] — inland prison and quarry districts; c. 272–338 AR; Underground into Legalization.
 
 ## The Conversion of the Empire
 
@@ -122,7 +128,7 @@ Every tale below is a **story told** unless its entry says otherwise. A tale est
 - [[G-16 - The Forty-First Ferry|The Forty-First Ferry]] — successor-imperial towns and provincial districts; 1232–1247 AR.
 - [[G-22 - The Three Nights While Years Passed|The Three Nights While Years Passed]] — successor-imperial towns and provincial districts; 1232–1247 AR with unequal elapsed time in refuge.
 - [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]] — successor-imperial towns and provincial districts; c. 1087–1146 AR.
-- [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]] — successor-imperial towns and provincial districts; 1104–1247 AR; High Noon, Qarath and Grey Sweat.
+- [[G-48 - The Threshing Floor beyond the Count|The Threshing Floor beyond the Count]] — successor-imperial towns and provincial districts; c. 1171–1173 AR; High Noon.
 - [[G-68 - The Three Knocks under the Mountain|The Three Knocks under the Mountain]] — one Aversian high mine under Shield-House extraction; c. 1110–1170 AR.
 
 ## The Age of Held Proofs

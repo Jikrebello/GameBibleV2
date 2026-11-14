@@ -38,11 +38,13 @@ Assemblies could refuse an extraordinary demand when the crown lacked the force 
 
 Valeron II inherited a divided kingdom around 735 BR. Rival valleys controlled important mines and passes, and several great houses maintained alliances with Atherian cities. Valeron brought younger members of those houses into his service, enlarged the permanent infantry and used mining revenue to pay soldiers during poor harvests. His engineers improved the routes by which the army could descend towards the lowlands.
 
-He then entered the rivalries of the Celestial Compact. Some cities accepted his arbitration and military protection. Others received garrisons or surrendered hostages after defeat. Caleran supplied ships, grain and money while defending the authority of its assembly. Valeron's proposed eastern campaign offered his supporters Arqeshite wealth and gave threatened cities a common enemy.
+Paying a standing army in sacks of grain and lumps of ore was slow and quarrelsome. Around 730 BR Valeron's smiths began cutting the silver of the upland mines into weighed pieces stamped with the royal mark, so that a company could be paid by count at a camp table. These were the first struck coins of the known world. Compact cities soon paid their contributions in the same silver, and after 684 the Successor courts carried coined money across the eastern sea.
+
+He then entered the rivalries of the Celestial Compact. Some cities accepted his arbitration and military protection. Others received garrisons or surrendered hostages after defeat. Caleran supplied ships, grain and money while defending the authority of its assembly. The Arqeshite seizures gave him his cause. Governors on the eastern coast had taken Compact ships in their harbours, held the crews for ransom and, between about 740 and 730 BR, deported the Atherian merchant quarter of Terys to the river cities. Valeron's proposed eastern campaign promised to bring those families home, offered his supporters Arqeshite wealth and gave threatened cities a common enemy.
 
 Valeron ruled the cities through a hegemony. Their councils continued to collect revenue and conduct worship while supplying him with ships, grain, money, soldiers or hostages. Contribution lists preserve the difference between willing allies and cities compelled after defeat.
 
-Valeron was assassinated in 706 BR before the army crossed the sea. The manner of his death left Eryndor facing relatives who possessed plausible claims, commanders loyal to his father and cities willing to test the succession.
+Valeron was assassinated in 706 BR before the army crossed the sea. The manner of his death left Eryndor facing relatives who possessed plausible claims, commanders loyal to his father and cities willing to test the succession. It also left him a standing army that the eastern mandate alone could pay. The sources still disagree about why he went east. Ortheian songs speak of vengeance for the deported families; Caleran writers, of an army that had to be paid; Olyssaran lists, of a war made so that the cities would go on paying; Vashari stories, of an invitation from Arezan.
 
 ## Eryndor and Olyssar
 
@@ -54,9 +56,9 @@ The eastern campaign made Ortheian command familiar across the inner sea. Soldie
 
 ## Demeran's succession
 
-Eryndor died at Arqesh in 684. Demeran Kavos, his senior western general, took command of the Ortheian army and claimed to govern for the royal heirs. He could hold the upland homeland, where the army's families and estates gave him practical authority. Caleran and other cities recovered their assemblies while he fought over the eastern inheritance.
+Eryndor died at Arqesh in 684, during a Qahuri funerary rite. Demeran Kavos, his senior western general, took command of the Ortheian army and claimed to govern for the royal heirs. He could hold the upland homeland, where the army's families and estates gave him practical authority. Caleran and other cities recovered their assemblies while he fought over the eastern inheritance.
 
-Demeran imprisoned Parena Tiravan and her child and ordered their deaths. Other nominal heirs also died during the conflict. The killings removed the household around which the divided armies might have reunited. They also gave Vashar a permanent grievance against the Ortheian succession.
+The king's body never came home. Serevan of Delkos carried it to his own harbour, and within months a voice in the tomb there claimed to be Eryndor alive and without heirs. Ortheian veterans who heard it divided bitterly; Demeran called it a Delkosi puppet. Once the dead king had disowned them, the heirs in Demeran's hands were worthless as hostages. Demeran imprisoned Parena Tiravan and her child and ordered their deaths. Other nominal heirs also died during the conflict. The killings removed the household around which the divided armies might have reunited. They also gave Vashar a permanent grievance against the Ortheian succession.
 
 Returning troops required land and pay. Demeran settled some on estates confiscated from rivals and confirmed others in property taken under Valeron and Eryndor. Olyssaran returners found much of their former land occupied. Violence, purchase and negotiated restoration produced different settlements from valley to valley.
 
@@ -64,7 +66,7 @@ Returning troops required land and pay. Demeran settled some on estates confisca
 
 Ortheia remained a strong upland monarchy after losing the Compact. Its soldiers served at home, in Delkos and in the rival Successor courts. Mines and pasture routes continued to finance royal households. Caleran merchants sought its timber and metal, while Ortheian rulers needed access to ports increasingly controlled by the republic.
 
-The Far-Road cult became part of royal ceremony. Court singers celebrated the conquest, the Sky-Lion ascent and the burial of Kassur III. Families affected by Olyssar, the succession murders and the failed return preserved contrary histories. The resulting tradition could honour Eryndor's courage while refusing his claim to universal rule.
+The Far-Road cult became part of royal ceremony. Court singers celebrated the conquest, the Sky-Lion ascent and the burial of Kassur III, and said the king's body had been stolen. Ortheian silver long remained a trusted coin in the eastern ports. Families affected by Olyssar, the succession murders and the failed return preserved contrary histories. The resulting tradition could honour Eryndor's courage while refusing his claim to universal rule.
 
 By 350 BR, Ortheia occupied a position between the Caleran state and Vashar's eastern empire. Thalion inherited relationships with its kings and military houses.
 

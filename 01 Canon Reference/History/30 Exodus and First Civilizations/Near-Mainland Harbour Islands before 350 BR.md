@@ -19,7 +19,7 @@ Fishing, seasonal cultivation, refuge and marriage joined island and mainland re
 
 Grain, timber, customs and pilotage made the channels attractive to outside rulers. Some island communities bought food under treaty, while others held fortified grain ports or farms on land acquired by grant or force. Existing cultivators, settlers and enslaved workers could all work within a claimed holding. A blockade might cut residents off from fields and relatives they could see across the water. Claims to provide protection or to restore an ancient right often concealed a more immediate demand for stores and vessels.
 
-Gateway-facing islands met Caleran and the Gateway successor world; eastern channels met Delkosi, Vashari and Atherian-speaking ports.
+Gateway-facing islands met Caleran and the Gateway successor world; eastern channels met Delkosi, Vashari and Atherian-speaking ports. A blockade there was no figure of speech. When Caleran closed Tammur to the Gateway's festival grain about 652 BR, channel families watched their own barley stand unharvested across water they were forbidden to cross. After 491, when the League of the Eastern Oar fixed its ship money, boats from islands behind on their payments were the first turned away from a closed chain in bad weather.
 
 ## Related histories
 

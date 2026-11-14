@@ -16,6 +16,9 @@ tags: [causality-pass, proposal]
 > [!note] Proposal for approval
 > Nothing here is canon until approved. Tick an item's box to approve it; strike it through or annotate it to reject or change it. Index: [[Causality Pass - 00 Proposal Index]].
 
+> [!success] Decided 14 November 2026
+> Nine items: three approved (04.4, 04.6, 04.7), six approved with changes (04.1, 04.2, 04.3, 04.5, 04.8, 04.9), none rejected. Promoted into the reader articles of `50 Redeemer and Conversion`, the Jirahar history articles and [[Signs and Proof - Authorial Truth]]. Changes to files outside this pass are in the **Integration patch** at the end.
+
 ## Summary
 
 The missing hinge in this span is a matter of law. Signs in this world really work, but no sign carries its author's name, and Atherian law gave one interested body, the augur colleges, the sole right to say which signs existed. Every turning point from 0 to 411 AR becomes a fight over that right. The colleges' registers fall silent at the Binding, and the Great Purge is fought to recover them. Tervan's edict answers a real Mask. Cassian gains a sign that needs no register, which crown and bishops then dispute for eighty-five years. Astrion stages a counter-sign, and Vestian hands the authenticating power to the bishops. In 385 the Church finds that the Flame will not authenticate a compelled profession, and the Man-Bearer party grows from the congregations that knew how to read that silence.
@@ -26,7 +29,9 @@ The years 249–398 AR are re-sequenced. No beat keeps its analog's AD year, and
 
 ### 04.1 Why proof does not compel belief
 
-- [ ] Approve
+- [x] Approved with changes — it answers "why 290 years?" without downgrading a single miracle; the doctrine lives on its own author-only page, and readers meet it as augurs' blank answer-books and a magistrate's fear of lamp cults, never as a statute lecture.
+
+> **Decision notes (14 November 2026).** Doctrine placed in [[Signs and Proof - Authorial Truth]] (its own page; [[White Flame Doctrine]] gains a cross-reference through the integration patch). Option A, the Three Silent Days, is adopted. The registers record only the colleges' petitions; the authorial truth is that every Menhir sovereignty held still, with no ruling on Idol Masks. Clause 6 follows Direction decision 2: Astaroth's structural answers to builders are standing practice, and he answered *Astrion's public test of legitimacy* once.
 
 **What happens.** An author-only doctrine, *The Commission Rule and the Crowded Field*, is added to [[White Flame Doctrine]] and cited by every history article in this span.
 
@@ -70,7 +75,9 @@ Severan never read again; his college recorded that he "laid down the staff", fr
 
 ### 04.2 The Great Purge, c. 36–45 AR
 
-- [ ] Approve
+- [x] Approved with changes — the Purge finally has a cause and a victim list that makes sense; told as augurs riding into towns with paid informers and burning "forged registers" in the Forum, and the statute survives only as the Underground's "gag", not as a named law.
+
+> **Decision notes.** "The Law of Registered Answers" is dropped as a reader-facing name: reader prose says "the commission's edict" and the Underground's slang "the gag" (which Velmion's muzzle literalises). "The Deep Register" is kept as an in-world name. The emperor stays unnamed. Aquilan was tried as a citizen as an accessory to the theft of sacred records and beheaded. Virella's lapsed-warrant death (47) is adopted.
 
 **What happens.**
 
@@ -108,7 +115,15 @@ Severan never read again; his college recorded that he "laid down the staff", fr
 
 ### 04.3 249–398 AR re-sequenced
 
-- [ ] Approve
+- [x] Approved with changes — one through-line (who owns the river at Velos) replaces seven imitated reigns, and every beat now has a world-native cause; kept with the Direction's 377 / 385 / 398 dates.
+
+> **Decision notes.**
+> - **Pellan is renamed Tellan.** "Pellan" collides with Seraf Pellan, a 1360 Grenzburg character. Eastern memory calls him **Tellan the Water-Bringer**.
+> - **Both options approved:** Cassian's baptism in the unfrozen reach (316) and the Kellovar ford torque (377). The ford's river-court is of Hecatara's grammar (tolls, thresholds).
+> - **Savel** is acclaimed in the field, restores church stipends, abdicates at the depot line in 352 and dies in his bed on an estate: the forts are abandoned in the withdrawal rather than ceded as a price.
+> - **Tellan's end:** a pensioned captive in a house above the Aurin, dying in his bed before Vestian. **The Answered Standard:** fate disputed in-world (melted for a bell, or buried under a depot road); authorially melted.
+> - Astrion's re-registration of the reach names Hecatara, Star of crossings.
+> - Cassian's reign is dated 292–316, with his frontier acclamation in 288.
 
 **What happens.** Each beat a reader of late Roman history could predict is bent or cut. The clocks are unsynchronised (Concordance rule 7), and the spacing changes along with the years. New names in bold in this item (the Velos Concord, the Accord of the Two Standards, the Dissolution, the War of the Two Standards, the Profession) are proposed names.
 
@@ -215,7 +230,9 @@ Vestian won his war because the Stars would not answer his enemy, and then the F
 
 ### 04.4 Compelled professions fail to kindle: the Second Silence
 
-- [ ] Approve
+- [x] Approved — the strongest world-native beat in the span: a decree followed by a consequence only this cosmology could produce, seen as thousands of yellow lamps in town squares.
+
+> **Decision notes.** "Second Silence" is the gateway-port congregations' name; the churches say "the yellow lamps" or "the unkindled professions". Aurelium's sealed register survives incomplete in the Sanctum.
 
 **What happens.**
 
@@ -254,7 +271,9 @@ Recommended ruling: the Church recorded the Silence and sealed it. As a body it 
 
 ### 04.5 The Forty Flames' sign has consequences
 
-- [ ] Approve
+- [x] Approved with changes — a slave freed so his oath would stand, read aloud in the Aurin towns before Velos, is history people can see; the "template for hearings" is kept to one line.
+
+> **Decision notes.** The script-keeper is named **Brask**; the guard stays unnamed and his heirs claim the pension. The deposition reached Aurelium only after 381. The Council of Second Flame is dated c. 382–383.
 
 **What happens.**
 
@@ -278,7 +297,9 @@ Recommended ruling: the Church recorded the Silence and sealed it. As a body it 
 
 ### 04.6 Roots of the Man-Bearer party
 
-- [ ] Approve
+- [x] Approved — it makes Halmenth an effect of the era's own wound instead of a borrowed council, and gives Nasriel a burned house to be absent from.
+
+> **Decision notes.** Raveth kept the depositions as a record only, with no jurisdiction over baptised descendants. Halmenth's sympathies before 411 are left to [[Causality Pass - 05 The Guttering, 400 to 905 AR|Pass 05]].
 
 **What happens.** Since the first Qiryath agreement some Redeemer congregations, strongest in Sermora's harbours and the gateway ports (Qabir among them), have been largely of Jirahar descent. They keep maternal registers beside their baptism rolls, and several pray in the Jirahar dialect. Under Vestian three things fall on them at once.
 
@@ -306,7 +327,9 @@ Recommended authorial position: the Council's teaching on the Redeemer stands, a
 
 ### 04.7 "Before the Mesakha" as Vestian's clause
 
-- [ ] Approve
+- [x] Approved — one man's pen-stroke carries a live dispute into 1360; the only law in the world a sign can repeal.
+
+> **Decision notes.** Copies at the gate-house and in the Caleran chancery agree; the original's custody is disputed in-world and left open.
 
 **What happens.** The chancery draft of the Empty Charter (c. 396) forbids habitation and rebuilding "in perpetuity". Vestian strikes the phrase out and writes *before the Mesakha* in his own hand, using the Jirahar word. His motives:
 
@@ -330,7 +353,9 @@ Caleran's canonists after 398 read *never*: the Mesakha has come, and his only f
 
 ### 04.8 The Four Nails' route to the Pillar
 
-- [ ] Approve
+- [x] Approved with changes — the nails reach Caleran as a trophy of a sentence and leave as a gift of the crown, which is a better relic story than a discovery; the Weird register is left untouched.
+
+> **Decision notes.** The author declines the optional Weird-register clause: the Third Nail entry is not amended. The notice of the charge stayed in the chest and is lost. Whether Jareth's Gospel described the leading is unknowable (the Ash Spine is charred).
 
 **What happens.** This item fixes provenance only. **No document on the route states a count, and none may be written to.**
 
@@ -354,7 +379,9 @@ Caleran's canonists after 398 read *never*: the Mesakha has come, and his only f
 
 ### 04.9 The four AE-dated files
 
-- [ ] Approve
+- [x] Approved with changes — all four keep their best material and gain a place in the hinge; the Codex stays at its present path (no file moves in this pass) and is recast in place as a late, biased compilation.
+
+> **Decision notes.** The Codex keeps its Years of the Ember; their mutual contradictions are the point. The move to `03 Stories & In-World Texts/Historical Accounts/` and its Reliability Register rating go to the integration patch. Ashmouth passes to Pass 05 as a Long Frontier lead.
 
 **What happens.**
 
@@ -381,6 +408,8 @@ Caleran's canonists after 398 read *never*: the Mesakha has come, and his only f
 ## Notes on the live drafts
 
 **[[Vestian - Compulsory Faith and the Long Diaspora]].**
+
+The linked working draft develops these notes through the Profession, the Raveth depositions and the Empty Charter. The earlier changes to Cassian and Astrion remain open.
 
 - **Motive.** Replace the one-line motive with four causes: Kellovar read as judgement on a divided empire; Velos and the 350 answer persuading him that signs are real and must be held; an expectation of the Return, which the Silence sharpens; and the sees' grain and relief networks as his base, bought with the Velos register.
 - **The supernatural, now absent.** Add the Velos concession, the Dissolution, the Answered Standard, the Second Silence and the Mesakha clause.
@@ -426,3 +455,186 @@ Caleran's canonists after 398 read *never*: the Mesakha has come, and his only f
 - **custody as ownership of the Flame**, which here becomes law rather than habit. The removal of the lamp c. 389 is the first time an institution hides a falling yield instead of repenting of it, and the Guttering is the long cost.
 
 The eastern veterans, the Folk's lost tokens and the Velian grievance against Caleran are threads Pass 05 may pick up or let lapse.
+
+## Integration patch
+
+Prepared 14 November 2026 after the decisions above. The files below are outside this pass's ownership; each entry gives the change in final wording for whoever holds the file. Authorial truth for every entry is in [[Signs and Proof - Authorial Truth]]. Reader articles already revised: every file in `01 Canon Reference/History/50 Redeemer and Conversion/` except The Long Frontier, Towns and Wars and The Velian Church; the three Jirahar history articles and *Jirahar Memory of Isfir*; *The Consolidation of the Eclessian Church*.
+
+### `Chronology of the Known World (AR Dating).md`
+
+**Line "3 BR–0 — The Ministry":** replace the clause "**c. 29–47 AR — the Companions' martyrdoms**, the Great Purge falling c. 36–45." with:
+
+> **c. 29–47 AR — the Companions' martyrdoms.** The Great Purge (c. 36–45) is a commission of the High Augurate to recover the augural books carried off by provincial colleges that followed Tyros. It burns Jareth before the Pillar of Concordance in 41, after leading into the Pillar the nails from the governor's case chest, and makes it a crime to publish a wonder the colleges have not entered. Virella dies in 47 at the hands of a commissioner whose warrant has lapsed.
+
+**After the line "0 AR — The Silence of Acceptance", add:**
+
+> - **0 AR — The Three Silent Days.** From the hour of the Binding to the third morning, no augur college in the empire records an answer from the Stars. Augury resumes on the fourth day, and the colleges seal the days. Severan lays down his staff and never reads again.
+
+**Line "1–291 AR — The Underground Centuries":**
+
+> - **1–291 AR — The Underground Centuries.** The Ember Underground, the Fireless Trial and the Temple That Would Not Burn (c. 249–251). Under the Purge's edict, congregations record their signs as weather and good sense.
+
+**Replace the lines from "249–253 AR — The Edict of Public Sacrifice" through the second "377–395 AR" line with:**
+
+> - **c. 246–248 AR — The Kept Lamps.** A grave-lamp cult in the unpaid eastern garrisons feeds mutinies; augurs break its central image c. 247.
+> - **249–253 AR — The Edict of Public Sacrifice.** Emperor Tervan Marcellan requires witnessed offerings and written certificates across the empire in 249, and a licence for every household's graves and lamps; the Redeemer burial fraternities fall under it. Enforcement is strongest through 251. His successor suspends the general requirement in 253. Congregations relight from unlicensed flames, above all Amaryah's, hidden in a neighbour's bread oven at Veridun Minor, and the daughter-flame custom spreads.
+> - **253–288 AR — Provincial commands and court restoration.** Regional armies retain revenue for their own pay. From c. 275 the court reclaims taxes and appointments by negotiation, campaigns and reassignment of commands.
+> - **288–291 AR — The closing prosecutions.** Cassian's frontier army acclaims him in 288. The court holding Caleran has its augurs void his omens, seizes meeting places and the congregations' books of signs as counter-augury, and arrests recognized church officers. Provincial enforcement varies.
+> - **Winter 290 AR — [[The Forty Flames]].** Troops retake Ironvale's Ashforges after three days of rising. Forty prisoners refuse to renounce the Redeemer and die after three nights confined in an unlit furnace. A flame appears on the dead when it is opened. The common burial tally records thirty-nine, as one family buries its dead privately. **291:** before Cassian's officers, the guard who opened the furnace and Brask, the Ashforges' script-keeper, freed so his oath will stand, swear that the furnace was cold; the camp reads their account in the Aurin towns in 292.
+> - **292 AR — The Vision at the Stone Bridge of Velos and Legalization.** **Cassian** sees the White Flame, wins the civil war and permits open worship. The Aurin at the bridge has never frozen since. The Caleran augurs enter the reach as a sign answered to the emperor, which is why Cassian keeps the colleges. He reigns to 316.
+> - **c. 296 AR — The Velos Concord.** A bridge chapel and a crown Warden of the Reach, accepted by the four sees in exchange for empire-wide restitution of confiscated communal property.
+> - **297–316 AR — [[Cassian and the Four Sees - The Settlement of 292 to 316 AR|Cassian's settlement]].** The four sees hear the Halmenth dispute in 297. Cassian grants the former Celestial Forum, with the Pillar of Concordance and the Nails, to Caleran's congregation (c. 300–310), and a daughter flame from Veridun Minor becomes the Eternal Ember. c. 309 he executes his eldest son and the High Augur of Astaroth over a sealed succession answer. In 316 he is baptised, dying, in the unfrozen reach at Velos: the **Cassian Wager**.
+> - **316–348 AR — [[The Reign of Sevrin]].** Cassian's younger son takes power after agreeing terms with the eastern command under his cousin Adran. Sevrin confirms restitution, refuses to transfer the wardenship at Velos, keeps the Star estates' supply contracts and protects southern frontier markets. In the 320s the Star college and the four sees dispute bones found at Veridun Minor and claimed for Calira. After his intended heir dies c. 343, Adran's son Astrion rises through the northern command and succeeds him in 348.
+> - **348–351 AR — [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion's restoration]].** Astrion restores temple stipends, puts a religious condition on public teaching, has the augurs re-enter the Velos reach as an answer of Hecatara and authorises a survey at Qiryath. In 350 the Red Star answers his public test of legitimacy once. In 351 he dies during the northern retreat; the field record gives him no last words.
+> - **351–352 AR — Savel Orren.** Astrion's brother **Tellan** saves the column with water trains under the bronze standard of the test, the Answered Standard. Savel, acclaimed in the field, restores church stipends and abdicates at the depot line in 352.
+> - **352–c. 366 AR — The Aster brothers.** Corlan holds Caleran and the west; Lucar the south and north; the east stays with Tellan. c. 357 the **Accord of the Two Standards** confirms the eastern command, its augurs and its standard. Corlan dies c. 366.
+> - **366–377 AR — Lucar alone.** The hard winters of 369–371 and Grobi raiding drive Folk households to the fort line; Lucar admits them in 371–372; his officers sell dependants and his chaplains seize the households' ford-tokens. War from 372. In 377 Lucar's army crosses the ford below Kellovar unpaid and breaks in the water; Lucar dies. Vestian secures the depots, the surviving army and recognition from Caleran.
+> - **377–398 AR — Emperor Vestian the Pious.** 377: the Velos chapel and its book pass to the bishops. By 379: the Folk settlement. 381: the **Dissolution** of the augur colleges at Caleran (the provinces by 384); the power to authenticate signs passes to the bishops. c. 382–383: the Council of Second Flame confirms the Forty. 381–384: the **War of the Two Standards**. 385: **the Profession**; the faith made compulsory. 385–c. 389: the **Second Silence**. c. 387: household rites banned. c. 389: the lamp taken out of the state oath. Vestian dies in 398.
+> - **377–398 AR — The Vestian Persecutions.** c. 389 the Raveth hearing house burned. c. 388–396 most remaining eastern towers razed or confiscated. c. 396 Qiryath cleared under its Empty Charter, with *before the Mesakha* in Vestian's hand. Existing diaspora communities absorb a second great displacement.
+
+**Line "411 AR — The Council of Halmenth":**
+
+> - **411 AR — The Council of Halmenth.** "Fire-Bearer" affirmed; Bishop Nasriel of Qabir's "Man-Bearer" party, rooted in the gateway congregations that named the Second Silence and lost their sworn accounts at Raveth, condemned — his communion flees north and survives as the [[The Velian Church|Velian Church]].
+
+*Optional, for Pass 05's block:* **c. 404 AR — The Voice Beside the Binding.** A reliquary voice certified by a bishop's readers names enemies of the state until, the prison chronicles claim, the clerk it imitated breaks it.
+
+### `Named Figures of the Known World.md`
+
+- **Severan**, replace the last two sentences: "Severan's last recorded augural reading, three days after the execution, says the stars did not answer; every other college's book is blank for the same three days. His college recorded that he "laid down the staff". Sestaran humanists pay fortunes for alleged pages of the Severan Fragments."
+- **Tervan Marcellan**, add after "issued the **Edict of Public Sacrifice** in 249": "in answer to the Kept Lamps, a grave-lamp cult that had fed mutinies in the unpaid eastern garrisons; the edict also licensed every household's graves and lamps."
+- **Cassian**, replace the entry: "**Emperor Cassian the Baptized** (acclaimed 288; r. 292–316 AR) saw the White Flame at the **Stone Bridge of Velos** in 292, won the civil war and legalized the Redeemer's faith. He kept the augur colleges because they entered the unfreezing reach as his sign, and c. 296 traded a crown warden at the bridge for empire-wide restitution (the Velos Concord). He convened the four sees at Halmenth, granted the Celestial Forum with its Pillar and Nails to Caleran's church and funded basilicas. c. 309 he executed his eldest son and the High Augur of Astaroth over a sealed succession answer. He was baptised, dying, in the unfrozen reach in 316, which gave rise to the Cassian Wager. The vision was real. The content of the sealed answer and the outcome of the Wager remain unresolved."
+- **Sevrin**, add: "He refused to transfer the wardenship at Velos and never opened the sealed succession answer."
+- **Astrion**, replace from "He restored privileges" to the end: "He restored privileges to the Star cults, had the augurs re-enter the Velos reach as Hecatara's answer, and in 350 obtained the Red Star's single answer to his public test of legitimacy. He died at thirty-four on a punitive campaign against northern desert communities, struck by a spear no witness saw thrown. The field record gives no last words, only his question whether the baggage with the register had crossed. The Church later quoted *"You have won, Carpenter,"* as surrender; Sestaran humanists remember the words as tragedy."
+- **Savel Orren**, replace: "**Savel Orren** (r. 351–352 AR) was acclaimed during Astrion's retreat, restored church stipends and abdicated at the depot line when Caleran declared for Corlan. He died on his estate."
+- **Add after Savel:** "**Tellan the Water-Bringer** (fl. 351–c. 390 AR), Adran's younger son and Astrion's brother, saved the retreating army with water trains under the bronze standard of the 350 test, the Answered Standard, and held the eastern command under the Accord of the Two Standards (c. 357). He never claimed the throne. He lost the War of the Two Standards (381–384) and died a pensioned captive above the Aurin."
+- **Corlan and Lucar**, replace: "**Corlan Aster** (r. 352–c. 366 AR) held Caleran and the west; **Lucar Aster** (r. 352–377 AR) held the south and north and ruled alone from c. 366. Lucar's officers sold admitted Folk dependants and his chaplains seized their ford-tokens. His army crossed the Kellovar ford unpaid in 377 and broke, and he died there."
+- **Vestian**, replace: "**Emperor Vestian the Pious** (r. 377–398 AR) held the inner depots after Lucar's defeat and gave the Velos register to the bishops for Caleran's recognition. He dissolved the augur colleges (381–384), won the War of the Two Standards and made the faith compulsory through the Profession of 385. When the Profession's lamps failed to kindle, his court blamed hidden rites and the Jirahar, and under him the persecution of the Jirahar turned from riot to imperial policy. He wrote *before the Mesakha* into Qiryath's Empty Charter (c. 396)."
+- **Add:** "**Ilios Marrant** (fl. 381 AR), last High Augur of Caleran, made the colleges' final public petition to the Red Star at the Dissolution. Nothing answered."
+- **Add:** "**Bishop Nasriel of Qabir** (c. 362–after 411 AR), a reader from a baptised family of Jirahar descent, kept Qabir's count of the unkindled professions (385–388) and carried copies to Raveth. He was elected bishop c. 402 over Caleran's objection and condemned at Halmenth in 411."
+- **Optional add:** "**Brask** (fl. 290–291 AR), the Ashforges' enslaved script-keeper, freed by Cassian's officers so that his oath to the cold furnace and the flame on the Forty would stand."
+
+### `The Divergence Pass — Torque Register.md`
+
+**Line "Entries currently begin at 292 AR":** change to "Entries for 0–411 AR were added from Causality Pass 04 on 14 November 2026."
+
+**Add in date order:**
+
+> **The Three Silent Days (0 AR — the cessation of oracles).** TORQUE: from the hour of the Binding to the third morning, no augural register in the empire records an answer. The colleges sealed the days. Tyros carried them into the open, and the Great Purge was fought to recover the copies. The registers prove a silence and nothing more. The bishops have held the originals since 381 and never published them.
+>
+> **The Great Purge (c. 36–45 AR — the first-century persecutions).** TORQUE: a records war. The High Augurate recovered the books carried off by the colleges that followed Tyros, burned Jareth for "forging registers" before the Pillar into which it had leaded the Nails, and made publishing an unregistered wonder a crime. The Underground learned to write miracles as weather and good sense, which is why the faith's earliest records understate their own signs.
+>
+> **The Kept Lamps (c. 246–249 AR — Decius).** TORQUE: the edict answered a real Mask. Grave-lamps that leaned towards mourners and burned without oil fed the mutinies of the unpaid eastern garrisons. Tervan's licences for graves and lamps caught the burial fraternities; the congregations relit from flames never licensed, and the daughter-flame custom began with Amaryah's lamp hidden in a bread oven.
+>
+> **The Ironvale Sworn Account (291 AR — the Forty of Sebaste, bent).** TORQUE: the first sign sworn before crown officers outside the augurs' power. A guard, and a script-keeper freed so his oath would stand, swore that the flame on the Forty was no Shell-fire. Cassian's camp read the account in the Aurin towns in 292. The crown's own prison roll still contradicts it.
+
+**Cassian's Vision**, insert after "(it continues).": "The augurs entered the sign in the crown's name; from c. 296 a Warden of the Reach kept its winter book, the price of empire-wide restitution (the Velos Concord). Cassian was baptised in the unfrozen reach in 316. In 377 Vestian gave the book and chapel to the bishops and kept the water."
+
+**Astrion's Restoration**, replace the first two sentences with: "Astrion demanded that the Stars answer as publicly as the river at Velos. Astaroth's structural answers to builders and siege engineers had been standing practice since Darneth; he answered **Astrion's public test of legitimacy** once, revealing the weakness of the loaded support of an imperial standard at Caleran in 350." Append at the end of the entry: "He gave no terms for a second test, nothing to the last college's petition in 381, and nothing to the eastern command in 384."
+
+> **The Two Standards (351–384 AR — Valens, Procopius and the Frigidus, bent).** TORQUE: Astrion's single answer outlived him as an army. For thirty-three years the command that had watered his column kept augurs and the Answered Standard, though no second answer came, and its augurs said so honestly. In 384 it asked the Red Star for terms at the decisive crossing and got none, and its own Redeemer units negotiated. Vestian won because the Stars would not answer his enemy.
+>
+> **The Kellovar Ford (377 AR — Adrianople).** TORQUE: the ford's river-court took its toll in the household tokens Lucar's chaplains had confiscated from the admitted Folk. His army crossed unpaid and broke in the water; the Folk who kept their tokens crossed dry. The court exacted and judged nothing. Vestian read it as judgement on a divided empire.
+>
+> **The Dissolution at Caleran (381 AR).** TORQUE: the last High Augur asked the Red Star to show his college's worth, setting no load and naming no price, and nothing answered before the crowd. By statute the authentication of signs passed from augurs to bishops, with the Deep Register and the three silent days.
+>
+> **The Second Silence (385–c. 389 AR — no analog).** TORQUE: the Profession's reception lamps did not kindle. Willing baptisms still kindled; state professions burned yellow. The court blamed hidden rites and the Jirahar, banned household worship and then took the lamp out of the oath. Aurelium recorded the Silence and sealed the record. The Church has never ruled whether it was a judgement, a lesson or the Flame keeping its terms.
+>
+> **The Raveth Hearing House (c. 389 AR — Callinicum).** TORQUE: the house the crowd burned held sworn accounts, from baptised families of Jirahar descent, that the Profession's lamps had not kindled. Clergy pressed Vestian to drop the rebuilding because rebuilding would restore the record. The survivors carried the argument to Qabir, and it was condemned at Halmenth in 411.
+>
+> **The Empty Charter (c. 396 AR).** TORQUE: Vestian struck out "in perpetuity" and wrote *before the Mesakha*. The Church reads never; the Jirahar read a promise in their persecutor's hand. The charter does not say who recognises the Mesakha. It is the only law in the world that a sign can repeal.
+
+**Ripple Notes**, add: "The 0–411 entries touch the augur colleges (Astratheon overview), Astaroth and Hecatara, the Pillar of Concordance, Ironvale's Sanctuary of the Forty, the Velian Church and Qiryath Reqa; see Causality Pass 04's integration patch."
+
+### `The Weird of History — The Unexplained Register.md`
+
+No change. The author declined the optional Third Nail clause. The Averted Legion is now told in public prose ([[The Ember Underground]]) with its three factions and no explanation.
+
+### `Historical Spine of the Known World.md`
+
+"Vestian's 377–395 AR persecutions later destroy or confiscate most remaining eastern towers." → "Vestian's persecutions of 377–398 AR, sharpened when the lamps of his compulsory Profession failed to kindle in 385, later destroy or confiscate most remaining eastern towers."
+
+### `Real-History Concordance.md`
+
+- **Vestian line**, replace: "- **Vestian the Pious (377–398 AR; Dissolution 381; compulsion from 385)** — Theodosius, bent: dissolves the augur colleges, wins one civil war against the Star-recognising eastern command (the Frigidus moved before compulsion and decided by a refused answer), and makes the faith compulsory through the Profession, whose lamps fail to kindle (the Second Silence; no analog). Thessalonica's decree follows a war instead of preceding it, and Callinicum becomes the Raveth hearing house. Inherited wound #9."
+- **Astrion paragraph**, replace from "Astrion's northern retreat and Savel's concessions" to "Adrianople in 378.": "Astrion's northern retreat draws on Julian in Persia; Jovian's ceded forts become Tellan's water trains and Savel's abdication. The divided Aster commands and Procopius become the Accord of the Two Standards (c. 357). The abuses at the southern fort line (371–372) and the defeat at the Kellovar ford (377) draw on the Gothic crossing of 376 and Adrianople in 378; the ford's river-court is the torque."
+- **Add to the Conversion mapping:** "Decius's edict answers the Kept Lamps (249). Nero and Domitian become the Great Purge as a records war (c. 36–45). Plutarch's cessation of oracles becomes the Three Silent Days. Milan becomes the Velos Concord (c. 296), a trade of property for a miracle. Crispus and Fausta become the son and the High Augur (c. 309); the empress lives. Helena's Cross becomes the Nails' route through the governor's case chest to the Pillar. Ephesus becomes an effect of the Second Silence and Raveth. No beat from 249 to 398 keeps its analog's AD year; 292 stays."
+
+### `The Ages of the World.md`
+
+"10. [[The Conversion of the Empire]] — 292–395 AR. Legalization, compulsory conversion, temple destruction and religious change." → "10. [[The Conversion of the Empire]] — 292–398 AR. Legalization and the river at Velos, Astrion's answered standard, the dissolution of the augur colleges, compulsory faith and the Second Silence."
+
+### `Jirahar Canon Register.md` (Locked History)
+
+"- 377-395 AR: Vestian turns older prejudice into imperial policy and destroys or confiscates most surviving eastern towers." → "- 377–398 AR: Vestian turns older prejudice into imperial policy. The unkindled lamps of his Profession (385, the Second Silence) give his court a culprit: household rites are banned c. 387, the Raveth hearing house burns c. 389, most surviving eastern towers are destroyed or confiscated c. 388–396, and Qiryath is cleared c. 396 under a charter forbidding rebuilding *before the Mesakha*, in Vestian's own hand."
+
+### `Historical Spine of the Jirahar.md`
+
+- Lines 16, 48 and 68: "377–395" / "377-395 AR" → "377–398" / "377–398 AR".
+- After the sentence ending "destroyed or confiscated most eastern towers in 377-395 AR." add: "Baptised congregations of Jirahar descent in the gateway ports named the Second Silence when the Profession's lamps failed in 385 and lodged their sworn accounts at the Raveth hearing house, burned c. 389; their dialect passed into the Velian liturgy."
+
+### `Qiryath Reqa.md`
+
+- **Lead:** "…under a perpetual charter that permits Jirahar custody and pilgrimage while forbidding reconstruction before the Mesakha." → "…under a perpetual charter that permits Jirahar custody and pilgrimage while forbidding reconstruction *before the Mesakha*, words Emperor Vestian wrote into the chancery draft in his own hand about 396 AR in place of "in perpetuity"."
+- **History list:** "- Vestian clearance, sealed entrances, and later pilgrim paths." → "- Vestian clearance (c. 396 AR), sealed entrances, and later pilgrim paths."
+- **Silent Gate, after "attempt to void the charter.":** "The charter names no one to recognise the Mesakha. The Church claims the power to say which signs are real, inherited from the augur colleges in 381; the Keepers hold the Mesakha tests. A sign recognised by either would be claimed to lift the ban on rebuilding."
+
+### `Mesakha Traditions.md`
+
+Qiryath section: "The Empty City's perpetual charter forbids rebuilding before recognition of the Mesakha." → "The Empty City's perpetual charter forbids rebuilding *before the Mesakha*, words Emperor Vestian wrote in his own hand c. 396; Jirahar jurists gloss them as "before recognition of the Mesakha", and the charter names no one to do the recognising."
+
+### `Overview of the Astratheon Religion.md`
+
+- Frontmatter `era`: "c. 1900 BR-395 AR" → "c. 1900 BR–385 AR".
+- Before "Redeemer communities condemned sacrifice…", add: "The augur colleges kept the register of answers, and in imperial law a sign existed only once a chartered college had entered it with its witnesses and the Star that answered. The colleges sealed the three silent days that followed the Binding (0 AR), recovered their copies in the Great Purge (c. 36–45), entered Cassian's Velos sign in the crown's name (292), and handed their registers to the bishops at the Dissolution (Caleran 381, the provinces by 384)."
+
+### `White Flame Doctrine.md` and `The Making of Saints.md`
+
+- **White Flame Doctrine**, end of "Institutional Risk": "Why a genuine manifestation proves its commission and nothing beyond it, why a crowded field of Shell-fire, Menhir omens and Idol counterfeits makes every wonder disputable, and why compelled professions did not kindle in 385: [[Signs and Proof - Authorial Truth]]." Add the same link under Navigation.
+- **The Making of Saints**, "Limits of Recognition", add: "A genuine manifestation has the scope of its particular commission; a signed deed can settle who keeps the building while the flame or saint remains free to answer. A profession made under compulsion is incoherent and does not kindle (the Second Silence, 385). See [[Signs and Proof - Authorial Truth]]."
+
+### `Cosmology/30 Menhir/` (author-only)
+
+- **Menhir Sovereignty and Bargain**, under "Choice Without Moral Comprehension": "**The Three Silent Days (0 AR).** Every Menhir sovereignty, the Stars included, held still from the Binding to the third morning: fusion was a flight from judgement, and the Judge was among the dead. The colleges' registers record only the silence. No ruling is made on Idol Masks. [[Signs and Proof - Authorial Truth]]"
+- **Astaroth**, under "Mortal Names and Misreadings" or the history section: "Astaroth's structural answers to builders and siege engineers are a standing practice from Darneth (380 BR). He answered Astrion's public test of legitimacy once (350 AR), because it put a real load at hazard. He gave no terms for Astrion's proposed test of victory, nothing to Ilios Marrant's petition at the Dissolution (381) and nothing to the eastern command at the crossing of 384."
+- **Hecatara**, add: "Astrion's augurs entered the unfreezing reach at Velos as Hecatara's answer (c. 349); she gave none, and the bishops called the entry a forgery of authorship. The ford below Kellovar was held by a river-court of her grammar whose toll was paid in Folk household tokens; Lucar's army crossed unpaid in 377 and broke in the water."
+
+### `Caleran and the Eternal Ember.md`
+
+"## The Pillar of Concordance", replace the first sentence with: "Atherian officers once read judgements at the Pillar in the Celestial Forum. The nails from Isfir's execution, sent to Caleran in the governor's case chest as proof of the sentence, were leaded into the Pillar by the Purge commission in the year it burned Jareth there (c. 41 AR), as a monument to a sentence carried out; Cassian's grant of the precinct (c. 300–310) carried Pillar and nails to the Church." *(Give no count.)*
+
+### `The Velian Church.md`, `Velian Culture Overview.md`, `Historical Atlas of the Velians.md`
+
+- **The Velian Church**, open "## History" with: "The communion's roots lie in the baptised congregations of Jirahar descent in Qabir, Sermora and the gateway ports. When the lamps of Vestian's Profession failed to kindle in 385 they named the failure the Second Silence, and they lodged their sworn accounts at the Raveth hearing house until a crowd burned it about 389. Their preachers said of the state's lamp, *the lamp is made by hands; the Fire comes after*, and within a generation said it of the Redeemer. Nasriel kept Qabir's count of the unkindled lamps as a young reader."
+- **Velian Culture Overview** and **Historical Atlas of the Velians**: one sentence each: "The Velian liturgy's Jirahar dialect came from the baptised gateway congregations of Jirahar descent that named the Second Silence of 385."
+
+### `03 Stories & In-World Texts/Historical Accounts/Reliability Register.md`
+
+Add under "Historical Accounts": "- **Codex of the Era of Blood and Ash** — *propaganda* in the technical sense: an Eclessian devotional compilation of the 1190s AR, reliable for the twelfth-century feast calendar and unreliable for the Underground. Its Years of the Ember cannot be converted to AR. It omits informers and recanters, makes Velmion the founder of the White Flame Doctrine and invents a pommel of Calira's at Ironvale." Filing: when a later pass moves files, move the Codex to `03 Stories & In-World Texts/Historical Accounts/`; its links resolve by name.
+
+### Myths and Legendary Histories (optional)
+
+`Myths and Legendary Histories MOC.md` and the `era` fields of G-11, G-40 and G-41: "c. 230–395 AR" → "c. 230–398 AR".
+
+### Notes for the developer of [[Vestian - Compulsory Faith and the Long Diaspora]]
+
+- **Names.** The eastern commander is **Tellan** (not Pellan, which collides with Seraf Pellan in Grenzburg). The last High Augur at the Dissolution is **Ilios Marrant**. The draft's "Continuity to settle" paragraph can close: Savel abdicates at the depot line in 352; the two forts are abandoned, not ceded; the 355–357 challenge becomes the Accord of the Two Standards (c. 357), which gave the east its augurs and standard. Tellan ends as a pensioned captive above the Aurin; the Standard's fate is disputed in-world (melted for a bell; buried under a depot road).
+- **Kellovar.** The ford torque is approved: the ford's river-court took its toll in Folk household tokens, which Lucar's chaplains had confiscated; his army crossed unpaid and broke. The draft's "Vestian read Kellovar as a judgement" can cite it.
+- **Dates.** Dissolution at Caleran 381, provinces by 384; Folk settlement by 379; Council of Second Flame c. 382–383 (the first bishops' sign hearing, a good example for the draft's "bishop's readers took depositions" paragraph); Profession 385; household rites c. 387; Raveth c. 389; towers c. 388–396; Empty Charter c. 396; death 398.
+- **Authorial rulings.** The draft's two "Authorial ruling" paragraphs match [[Signs and Proof - Authorial Truth]] §1, §10 and §11 and can cite it. The Three Silent Days are adopted (§2), so the draft may now refer to them.
+- **Raveth.** The hearing house kept the accounts as a record only; Jirahar courts claimed no jurisdiction over baptised descendants.
+- **"What survives Vestian".** The move from a claim about state rites to a claim about Isfir's nature now has a history: the saying *the lamp is made by hands; the Fire comes after* turned on the Redeemer within a generation, and Nasriel's early career (§12) gives it a person.
+- **Second Silence** is the gateway congregations' name; the churches say "the yellow lamps" or "the unkindled professions".
+
+### Interface notes for Pass 05 ([[Causality Pass - 05 The Guttering, 400 to 905 AR]])
+
+- The Vestianic house runs from **398** (not 395) to 446/447; [[The Long Frontier and the First Unsealing]] already uses 398 and a forty-nine-year reign for Vestian's son.
+- The augur colleges dissolve 381–384 and the Profession is 385, so "dead-witness" charters date from 381–384 (05.4's "abolition of the Star rites in 380" → "the Dissolution of 381–384 and the Profession of 385").
+- The Guttering's first instance is c. 389, when the lamp was taken out of the state oath: the first time an institution hid a falling yield instead of repenting of it.
+- Halmenth 411 inherits a Man-Bearer party with a record (Aurelium's sealed register; the Raveth copies), a burned Jirahar court and a bishop elected over Caleran's objection. Halmenth's sympathies before 411 are left to Pass 05.
+- The reliquary voice of c. 404 (HC-N10) falls in the Vestianic regency and shows bishops' certification sending people to prison.
+- **Ashmouth** (Codex: "barred to clergy since 622 AE") is offered as a Long Frontier lead.
+- The "Velos Standard" raised before Oronda in 876 ([[The Velian Church]]) is distinct from Tellan's Answered Standard, whose fate is disputed in-world and melted in authorial truth.
+
+### Interface notes for Pass 03 ([[Causality Pass - 03 Age of Glory and the Bridge to 0 AR]])
+
+Pass 04's reader prose assumes only: chartered augur colleges keep books of answers that give a sign standing in imperial law; Severan is High Augur of Astaroth at Qiryath; the governor reports the sentence to Othran II with the instruments in a case chest; Astaroth's structural tests are standing practice (Direction decision 2). If 03 makes Astaroth's load tests an institution, the 350 test revives a known procedure and nothing in 04 changes. The Purge's emperor stays unnamed until 03 settles the Othran succession.

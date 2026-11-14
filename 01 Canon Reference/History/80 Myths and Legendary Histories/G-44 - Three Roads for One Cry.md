@@ -30,6 +30,8 @@ He divided the plea among three strangers. A shepherd carried the names, a thief
 
 Families reconstructed the plea from what each route had touched: the shepherd's coloured cord, the thief's warning scratched on a trough, and the widow's memory of the children's order. Help reached the prison too late for several captives. The woman who wrote the message had died, but two named children survived because the rescuers knew whom to seek.
 
+Diaspora tellers say the three roads were walked with a guardian, and that it came late to each of them. At the first court, where a clerk had forged a second copy of the names, the two copies began to show the hands of the people who had written them, so advocates could tell the true from the altered. At the second border, a road-magistrate demanding the prisoners as security for somebody else's debt found the real debtor's name written across his own ledger. At the third, a border office had laid a seal over the widow's mouth so that she could not speak the price; at the kiln fire a light broke the seal across her lips, and she spoke.
+
 Afterward, no single runner carried a whole prison cry. The custom prevented easy suppression but sometimes slowed rescue. Every relay remembers that division can preserve truth and still cost lives.
 
 The two surviving children met the widow years later. One thanked her for remembering the price; the other asked why she had not carried a name. She had no answer except the agreement made in panic at the first fire. The question altered the relay thereafter.
@@ -40,7 +42,7 @@ The story turns transmission into a race whose stakes are particular children ra
 
 ## How tellers differ
 
-Runner guilds say all three strangers volunteered. Prison families say the brother threatened them. Thief songs claim he died returning; town records call him the first betrayer.
+Runner guilds say all three strangers volunteered. Prison families say the brother threatened them. Thief songs claim he died returning; town records call him the first betrayer. Diaspora courts call the guardian their people's own and say three powers on the road delayed it; sceptics say the three wonders were three ordinary failures of three bureaucracies, and captives' kin ask why a guardian came after the torture rather than before.
 
 ## What remains
 

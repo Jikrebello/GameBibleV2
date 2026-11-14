@@ -52,7 +52,7 @@ Trade and cultivation benefited as competing military levies diminished. The set
 
 ## Later reign and death
 
-[[The Later Reign of Aurelius Thalion]] follows the demobilisation, provincial settlement and family decisions of his final decades. His son Caelor died in 324 BR after injuries received during a building inspection. Thalion adopted his nephew Meren, son of Evara and Velsar, as successor.
+[[The Later Reign of Aurelius Thalion]] follows the demobilisation, provincial settlement and family decisions of his final decades. In 326 BR a new treasury hall on the forum at Caleran, blessed by the Red Star's priests but never loaded, fell during an inspection by his son Caelor, who died of his injuries two years later. Thalion could not disown the priesthood whose rites crowned his victories. He kept its blessings and gave the trial to engineers: from then on no one entered a public work until rune-trained wardens had loaded it before the Red Star and broken the portion built to break, and the official who opened it stood under the arch first. Thalion adopted his nephew Meren, son of Evara and Velsar, as successor.
 
 Thalion died after prolonged illness in 318 BR. The army and senate had already recognised Meren, allowing the first imperial succession to proceed without open civil war. Later bodily-ascent stories are unsupported by contemporary testimony.
 

@@ -26,7 +26,7 @@ His wife Miretha Ardel managed property, received officers' families and maintai
 
 ## Inheritance and public power
 
-After Casvilar's assassination in 370 BR, Velsar possessed seniority, papers and the loyalty of experienced officers. Thalion's designated inheritance challenged his ability to speak for the dead ruler. Fighting and negotiation eventually produced the public three-command government with Seluc Varroth in 367.
+After Casvilar's assassination in 370 BR, Velsar possessed seniority, papers and the loyalty of experienced officers. He claimed that Casvilar's place on the Red Field had passed to him as senior lieutenant; Thalion claimed it as heir. Fighting and negotiation eventually produced the public three-command government of 367, after Seluc Varroth ruled that the Field could pass to neither of them.
 
 Velsar demanded the death of Belisar Venn, the speaker who had supported Thalion against him. The partners' agreement authorised that murder and many others. Confiscated estates helped pay the armies.
 
@@ -38,7 +38,7 @@ Miretha and Velsar's brother Tarsen supported resistance to those settlements ar
 
 Velsar married Evara Thalion in 359. She arranged supplies and negotiations and cared for members of his earlier household. Their children Meren and Sovia were born in 358 and 356. The marriage supported cooperation while the partners still found reasons to compromise.
 
-His failed northern campaign in 358 consumed troops and resources. During the retreat and its aftermath, Velsar seized people and stores from a smaller allied ruler whom he blamed for the defeat. The resulting distrust weakened the network on which future campaigns depended.
+In 358 he marched north-east into the approaches of Avesh, the Vasharan road-city that had sheltered Caleran's fugitives and rebel captains since Vespen Harod's day. Vasharan relay riders carried word of his columns ahead of them. The Avesh command moved its reserves along the Dawn Road faster than his baggage could follow, took his supply convoys at a bridge station, and left the rest to the weather; early snow closed the pass behind him, and he came back with half the animals he had taken out. On the retreat he seized people and stores from a smaller allied ruler whom he blamed for the defeat. The allies who heard of it did not forget, and the next time he asked for help they counted their own granaries first.
 
 ## Samyra and the eastern settlement
 

@@ -27,6 +27,7 @@ Survival produces related institutions across otherwise separate peoples:
 - beacon and Grobi-watch duty;
 - compensation for kin violence;
 - annual All-Things joining several local assemblies;
+- law, debts and shares kept in memory, knotted cords and tally-staves;
 - remembered bargains with place-bound powers.
 
 ## Political Development
@@ -35,7 +36,7 @@ Some communities remain small and mobile. Others form river leagues, hillfort co
 
 ## Early Proto-Atherian Contact
 
-From approximately c. 2050 BR, individual southern war-settlement leagues reach some Folk gates, rivers and coasts. They bring useful measures, weapons and records while seeking land, timber, ore, food, routes and captives. Encounters produce siege, massacre, slavery and hostage-taking as well as treaty, trade, fosterage, intermarriage and local alliance. Folk communities also destroy proto-Atherian forts, recover captives and absorb survivors.
+From approximately c. 2050 BR, individual southern war-settlement leagues reach some Folk gates, rivers and coasts. They bring useful measures, weapons and records while seeking land, timber, ore, food, routes and captives, above all farming households to work the fields they take. Folk memory calls these generations the time "the fed came for the farmers". Encounters produce siege, massacre, slavery and hostage-taking as well as treaty, trade, fosterage, intermarriage and local alliance. Folk communities also destroy proto-Atherian forts, recover captives and absorb survivors.
 
 ## Faith
 

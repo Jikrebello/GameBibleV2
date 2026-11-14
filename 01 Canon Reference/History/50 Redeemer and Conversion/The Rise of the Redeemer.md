@@ -55,6 +55,8 @@ After a period of appearances and instruction, Isfir ascended. The Companions re
 
 The churches taught that the Resurrection restored the human soul-road. Qiryath continued to offer sacrifices, and the former sign of acceptance ceased. The silence acquired different meanings among Jirahar schools and the churches. Responsibility for Isfir's death belonged to the officials and elders who sought and imposed the sentence. Later rulers used collective accusations to justify seizures and persecution.
 
+The empire kept two records of those days. The governor sent Othran II his account of the sentence in a case chest, with the soldiers' nails, the notice of the charge and the receipt for the body as proof that the sentence had been carried out; the chest went into the judgement archive in Caleran's Celestial Forum. The augur colleges kept the other record without meaning to. From the hour of the Binding to the third morning, none of them entered any answer from the Stars, and Severan, who had urged the sentence, laid down his augur's staff and never read again. The colleges sealed the three days. Their silence became the first quarrel between the faith and the augurs. [[The Age of the Redeemer]]
+
 The destruction of Second Qiryath in 70 AR cut off access to the burial slope and dispersed the households that knew the approach. In 1360 AR pilgrims can visit the ruined city under its charter, while the precise tomb remains unauthenticated.
 
 ## Navigation

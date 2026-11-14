@@ -33,6 +33,10 @@ Daily devotion combines recited clauses, praise, confession of breaches, almsgiv
 
 Mainstream jurists distinguish legal enforceability from righteousness. An instrument may be valid and wicked, as Bir Qassim demonstrated. Formalists resist that distinction; reformers argue that coercion, concealed metaphysical terms, or permanent ownership destroy meaningful consent.
 
+## Rulings That Made History
+
+Three rulings shaped the Covenant's wars after the Long Frontier. The recited Covenant of the 4,444 says the bound "shall take nothing that is not given"; for three centuries jurists read this Clause of the Given as barring the bound offices from conquest. In 885–886 the college at Al-Qahur ruled that the Clause binds parties, not powers, and Qahir built his engines on that **Ruling on Parties**; the dissenting people of the Clause are still taught. When Idris's personal oaths lapsed with his death in 931, the jurists of the Regency made the throne an office that cannot die, the Sublime Threshold. And in the Two Winters of 1101–1103 the Court of Breaches gave the **grey-sky ruling**, that an instrument which cannot be performed is suspended rather than voided, which jurists call the answer to Bir Qassim.
+
 ## The Two Great Traditions
 
 [[The Witnessed Seal]] grounds authority in public attestation and the continuing community of jurists. [[The Sealed Blood]] grounds succession in Mujalib's household through Ruqaiya and the Veiled Wasiyin. They share scripture, pilgrimage, basic worship, and much law while disagreeing over legitimate authority and sacred history.

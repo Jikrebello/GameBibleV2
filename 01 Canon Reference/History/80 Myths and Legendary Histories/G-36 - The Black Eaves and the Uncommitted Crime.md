@@ -24,11 +24,13 @@ It is told in districts rebuilt after the Split where black-roofed houses became
 
 ## The tale
 
-A judge received a forecast naming a cooper as the man who would kill three neighbours beneath black eaves. The cooper had committed no such crime. The judge arrested him anyway and ordered torture until he confessed what he had not yet done.
+A judge who had begun as a roof-runner, carrying warrants over the wet slates between quarrelling courts, saw things up there in the rain that had not happened yet. Many of them then happened. The judge received a forecast naming a cooper as the man who would kill three neighbours beneath black eaves. The cooper had committed no such crime. The judge arrested him anyway and ordered torture until he confessed what he had not yet done.
 
 His brothers attacked the prison. A guard died, houses burned, and the cooper escaped maddened by pain. He found the prophet who had sold the forecast and killed him beneath the black roof, along with two neighbours who tried to intervene. The prediction came true because people treated it as settled fact, though not in the way any of them had expected.
 
-The judge watched the three bodies carried out and prohibited conviction for “the future fact.” He did not free everyone held by his earlier forecasts, and the cooper's surviving family received no restoration. Prediction sellers moved into markets under the eaves, offering rulers outcomes that became more valuable when believed.
+The judge watched the three bodies carried out and prohibited conviction for “the future fact.” He did not free everyone held by his earlier forecasts, and the cooper's surviving family received no restoration. When an assassin came for him years later, he ordered his guards to stand aside, so that his death could be shown as proof that every forecast was fixed.
+
+After his death the forecasts kept coming. Black roof tiles scratched with crimes not yet committed appeared in the markets under the eaves, some in his own hand, and magistrates of both churches bought visions of the other church's future crimes and arrested in advance. Prediction sellers offered rulers outcomes that became more valuable when believed. Refugee families say a long-dead hunter in a green hood once came to a town where such tiles had marked them as murderers-to-be and led them out by night.
 
 Years later, a child bought a tile scratched with her mother's supposed betrayal. She smashed it before reading the date. The market called that proof the forecast had frightened her away from truth; her family called it the first free act in the story.
 
@@ -40,7 +42,7 @@ The tale asks how knowledge of a possible act alters the choices that make it re
 
 ## How tellers differ
 
-Judges say the prohibition began in remorse. Cooper descendants say it was imposed after riots. Idol cults claim the first prophet wore a true Mask; surviving predictions prove only that somebody wanted them believed.
+Judges say the prohibition began in remorse. Cooper descendants say it was imposed after riots. Idol cults claim the first prophet wore a true Mask, and criminal fraternities claim the judge's blessing; preachers of both churches call the dead judge a sinner whose visions are still for sale. Surviving predictions prove only that somebody wanted them believed.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Black roof tiles scratched with future crimes circulate illegally. Families some
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-- [[GS-13 - Judge Beneath the Black Eaves]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Great Split — Two Crowns, One Fire]]
 - [[Myths and Legendary Histories MOC]]

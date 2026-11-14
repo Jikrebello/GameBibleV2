@@ -47,6 +47,18 @@ Several waves of Qahuri mortuary workers contributed preservation, funerary cont
 
 A distinct adjoining area of cult courts grew from older refuge rites and paid services to travellers. Menhir-related courts, Idol houses, Egg White patron rooms and other human cults displayed incompatible claims. Small houses could rent a room, claim a patron, gather adherents and disappear. Menhir-associated courts might offer place-bound bargains, Idol houses human devotion to predatory powers, and Egg White rooms access to particular patrons or intermediaries.
 
+## The Provider house, c. 505–498 BR
+
+Some of Qarzeth's exiles came up the pass after their city fell: kin of its priests, sanctuary servants and patrons who had lost their gardens to Atherian salt. About 505 BR they opened a house of the Bronze-Faced Provider at the edge of the cult courts, hung a bronze face over the door and laid a long table every evening for anyone who would eat. Hungry porters and fugitives did. Ridge children said the crumbs on that table crawled.
+
+Refuge households, several of them descended from Gateway families who had hidden children from the collectors, carried salt up from the market and poured it across the threshold, as they had heard the Atherians had done at Qarzeth. The table was laid the next night, and the night after. The house closed only when its supply failed. It needed bodies for its table and its back rooms, and it asked the [[The Pale Hand before 350 BR|Pale Hand]]'s crews to sell it the dead they carried. The Hand refused. Its porters stopped calling at the bronze door, and within a season, around 498, the table stood empty and the house's keepers went back down the pass. Vortharans told the story afterwards to show that salt on a doorstep keeps nothing out, and that a corpse porter's refusal can.
+
+## The Spire Pursuit, 399 BR
+
+In 399 BR enslaved workers and fugitives rose along an Atherian supply corridor, burning estate stores and seizing carts meant for the armies. [[Lethren Ostar]] broke the principal force. The captives taken in the field were roped together and sold north in lots to the well trade, and his creditors praised the price. A band of survivors fled the other way, up the pass to the Black Spire, which fugitives had used for longer than anyone could count.
+
+Ostar's agents followed them with money instead of soldiers. Captive traders inside the town sold them every fugitive they could find, and the agents sent their purchases down the pass in chains to the ore workings of Olveth. Several refuge households refused to give up the people in their rooms. They barred their doors, fed the hunted inside, and swore on one threshold to hold their doors together: an attack on one house would bring the others. This oath, the **Kept Doors**, bound a handful of households and no one else. The traders kept their warehouses and their customers, and most fugitives without a door were taken. Those who had one lived, and their descendants still show visitors the threshold where the oath was sworn.
+
 ## The Atherian boundary
 
 Around 350 BR, Atheria claimed the surrounding routes and publicly treated Vorthara as a small lawful market. A temporary gathering of households, pass keepers and influential practitioners reached a limited external understanding that left internal premises in local hands.

@@ -28,11 +28,17 @@ Ilvara Deneth, whom Thalion married in 365, brought experience of household mana
 
 ## Calvena between two commanders
 
-Calvena Casvilar was born in 405 BR and married Marovan Veyr in 386. Her husband had children from an earlier union and a long record of military service. Their household joined people with different expectations of rank and inheritance.
+Calvena Casvilar was born in 405 BR and married Marovan Veyr in 386. Her husband was thirty years older, had children from an earlier union, including Ardel, and a long record of military service. Their household joined people with different expectations of rank and inheritance.
 
-The marriage became affectionate. Calvena arranged visits, passed on family news and spoke with both her father and husband about matters that public argument had made difficult. These ordinary occasions helped sustain their relationship while Casvilar's growing command altered the balance between them.
+The marriage became affectionate. Calvena arranged visits, passed on family news and spoke with both her father and husband about matters that public argument had made difficult. For a decade her dinners were where the two men still talked.
 
-She died in childbirth in 380. Her loss affected people beyond the two commanders, including attendants and relatives accustomed to relying on her. Later accounts sometimes made the death an explanation for civil war. The disputes over commands, prosecution and soldiers' land developed through many decisions after she was gone.
+The quarrel that ended those dinners was about land. From 379 her father's veterans claimed public fields that Veyr's senatorial friends had leased for generations, and the friends demanded that Casvilar give up his army first. In 377 Casvilar offered his daughter a divorce, so that she need not be married to his enemy. Calvena refused it in public, before her father's own clients: she had married a man, she said, and would leave him when he gave her cause. Caleran repeated the words for years. Her refusal is remembered as the moment the partnership died, though the land and the armies had already killed it.
+
+She went east with Veyr's household when the war began. In 373 she was aboard when he turned back from the royal table at Sarqen, and on Ilamar she nursed him through the fever that killed him in 371. A year later her father was murdered on the muster ground.
+
+Calvena was now first cousin to Thalion and stepmother to Ardel Veyr, whose ships sheltered people fleeing Thalion's proscriptions. She became the one person both would receive. In 357 she carried the terms between them, and the short-lived agreement of that year, which protected some fugitives and recognised some of Ardel's possessions, was largely her work. It broke within a season over withheld supplies and captured ships. She survived the wars; her later life belongs to the history of the Age of Glory.
+
+Later accounts sometimes made her the reason the republic held together as long as it did. Others, especially in Ardel's fleet, said she had bargained for her cousin all along.
 
 ## Miretha, Tarsen and Darsil
 
@@ -56,15 +62,15 @@ Amesar, Samyra's adult son by Casvilar, received no such protection. Thalion ord
 
 ## Hadrima's descendants
 
-The royal house began with Nerethan of Delkos and Hadrima of Esharat. Their marriage in 497 BR connected an incoming military command to cultivated land, storage and local families. Hadrima's descendants invoked her standing when they asked the spared towns to support a crown.
+The royal house began with Nerethan of Delkos and Hadrima of Esharat. Their marriage in 497 BR connected an incoming military command to cultivated land, storage and local families. Hadrima's descendants invoked her standing when they asked the spared towns to support a crown, and every one of them ate at the towns' unranked table and swore the Table Oath before the towns would call them king or queen.
 
 The relationship could be disputed from within the family. After Olymes died in 375, Merath, Samyra and Nethar pursued competing claims. Vardek and part of the garrison supported Nethar; Samyra retained supporters at Esharat; Merath sought allies for another branch.
 
-Nethar died in the fighting of 372. Merath was executed in 358 on Velsar's order at Samyra's request. Her attendants and supporters thereafter remembered the dynasty through a loss inflicted by the reigning queen.
+In 373 Vardek laid a royal table for the fugitive Marovan Veyr with an empty seat at it, a thing the oath forbade, and the towns rose for Samyra when they learned what the seat had been for. Nethar died in the fighting of 372. Merath was executed in 358 on Velsar's order at Samyra's request. Her attendants and supporters thereafter remembered the dynasty through a loss inflicted by the reigning queen.
 
 ## Friendship, pardon and betrayal
 
-Casvilar's assassins had different relationships with him. Deceran Tolm had served as a trusted quartermaster and could arrange access. Mavren Seneth had accepted pardon after fighting for Veyr. Corial Draven possessed naval contacts and ambitions frustrated by the distribution of commands.
+Casvilar's assassins had different relationships with him. Deceran Tolm had served as a trusted quartermaster and kept the arms register of the muster ground, where anyone who challenged the Warden of the Red Field had to enter his name. Mavren Seneth had accepted pardon after fighting for Veyr. Corial Draven possessed naval contacts and ambitions frustrated by the distribution of commands. In 370 Seneth, Draven and their fellows wrote their names in Tolm's register as challengers, and Tolm chose the hour. They struck Casvilar down on the muster ground before the contest was opened.
 
 The assassination joined their purposes briefly. Afterwards they could not supply a government capable of satisfying all the armies and families whose expectations Casvilar had accumulated. Their deaths came in separate stages of the ensuing wars.
 

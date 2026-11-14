@@ -34,13 +34,15 @@ The hunter continued guarding the route. Some say he died saving the sister's gr
 
 On his last known journey he walked behind every scout and never interpreted a sign before the person who made it could speak. That changed his craft and saved lives, but the empty stool remained when his own chair was removed.
 
+Route families say he kept walking after his death. Long afterwards, when roads through the Shutwood closed behind fleeing households and fog swallowed the waymarks, a hunter in an old green hood came out of the trees, walked ahead of them with his hands open, and vanished when the last of them reached a lawful hearing. Once, the story goes, he came to a town where a court had marked refugees as murderers-to-be and led the marked families out by night.
+
 ## Why it is remembered
 
 The audience knows the founder is guilty before the settlement does. Momentum comes from waiting for the dead man's kin to enter the feast and change the meaning of every earlier success.
 
 ## How tellers differ
 
-Hunter guilds say he mistook a real traitor's trail. Scout families say fear and pride were enough. Neither version removes the body beneath the road.
+Hunter guilds say he mistook a real traitor's trail. Scout families say fear and pride were enough. Neither version removes the body beneath the road. Guild chaplains count the fog-walker a saint; scout families say that if he walks, he walks for the scout, and keep the stool empty either way.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Route hearings and founder feasts keep an empty stool with a cut bootlace across
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-03 - Hunter of the Shutwood]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

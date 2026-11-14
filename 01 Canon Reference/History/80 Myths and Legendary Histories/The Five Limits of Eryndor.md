@@ -14,9 +14,9 @@ tags: [myth, eryndor, romance, eastern-conquest]
 ---
 # The Five Limits of Eryndor
 
-**The Five Limits of Eryndor** is the collective name for several families of stories about the Far-Road King. They recount his descent beneath the sea, ascent into the upper air, conversation with speaking trees, search for life-giving water and construction of a gate against a surviving horror. A final episode tells how his own soldiers refused to carry him farther east.
+**The Five Limits of Eryndor** is the collective name for several families of stories about the Far-Road King. They recount his descent beneath the sea, ascent into the upper air, conversation with speaking trees, search for life-giving water and construction of a gate against a surviving horror. A final episode tells how his own soldiers refused to carry him farther east. Delkosi and Qahuri tellers add a sixth limit, the one he tried to cross by foreign art: his own death.
 
-The stories developed in Ortheian, Qahuri, Arqeshite, Vashari, Jirahar and later Atherian traditions. They share unusual incidents known to have occurred during the eastern campaign, but their explanations and sequence differ. Together they turn a successful conqueror into a man repeatedly shown the boundaries of command.
+The stories developed in Ortheian, Qahuri, Arqeshite, Vashari, Delkosi, Jirahar and later Atherian traditions. They share unusual incidents known to have occurred during the eastern campaign, but their explanations and sequence differ. Together they turn a successful conqueror into a man repeatedly shown the boundaries of command.
 
 ## Beneath the sea
 
@@ -54,6 +54,12 @@ At the end of the cycle, Eryndor demands one more march. Veterans have lost comp
 
 Some royal performances send Eryndor home because the spirit of Valeron calls from the west. Road-house versions make the soldiers' refusal the only answer in the cycle given entirely by ordinary human beings. It succeeds where sea, sky, grove, water and gate merely reveal a limit.
 
+## The voice in the tomb
+
+The newest family of stories follows the king past his death. Sick, and carrying the grove's sentence, Eryndor sends for the embalmers of Qemaret and submits to their discipline: undyed linen, fasting, draughts of gold and salts. The rite is meant to take years; he has months. At the deathbed the masters close his name into the tomb. At Delkos the corpse speaks behind a curtain, calls itself the living king, disowns his child and gives away the world a second time. Years later the same masters stand before the courts and say that the rite failed, and the tomb is walled up with the voice inside.
+
+Delkosi versions end with the king still reigning behind his curtain, as the veterans believed. Qahuri tellers make it a tale against their own art: the voice is a perfect likeness that knows every secret of the camp and is nobody. Arqeshite laments give the last word to Kassur's gilded images, which outlive both kings in the dark. Ortheian court singers leave the episode out and say the body was stolen. Road-house tellers call it the only limit Eryndor never admitted reaching.
+
 ## How the traditions differ
 
 Ortheian singers celebrate a daring king and omit Olyssar. Qahuri priests present mortality as the limit of every foreign title. Arqeshite laments make conquest answer to the dead. Vashari storytellers centre rulers and ascetics who cannot be impressed. Jirahar travellers give the water to an unnamed worker. Later Atherian writers turn the bell and gate into proofs of engineering genius, while dissident copies restore the forced labour and dead workers.
@@ -62,7 +68,7 @@ Later Redeemer-faith retellings sometimes place a saint beside the water or conv
 
 ## What remains
 
-The historical campaign contained an undersea bell, a Sky-Lion observation frame, a speaking grove, a local sealed pass and a failed search for restorative water. No surviving account describes all five incidents reliably.
+The historical campaign contained an undersea bell, a Sky-Lion observation frame, a speaking grove, a local sealed pass and a failed search for restorative water. No surviving account describes all five incidents reliably. The sixth story rests on better witness: Eryndor's embalmed body was carried to Delkos, a voice in his tomb claimed to be the king until the Qemaret masters testified against it around 657 BR, and the tomb was walled up soon afterwards. Its site is lost.
 
 ## Further reading
 

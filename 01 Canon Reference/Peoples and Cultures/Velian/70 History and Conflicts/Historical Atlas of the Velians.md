@@ -17,11 +17,15 @@ The Velians are northern border peoples whose communities developed from Atheria
 
 ## Historical Atlas — wider inheritance
 
-Velian identity formed from an Atherian-descended border world reshaped by the condemnation of Nasriel's communion in 411, northern refuge and later Banu Mizan protection.
+Velian identity formed from an Atherian-descended border world reshaped by the condemnation of Nasriel's communion in 411, northern refuge and later Banu Mizan protection. Its first congregations included baptised families of Jirahar descent in Qabir and the gateway ports, who had kept count of the lamps that failed to kindle at Vestian's compulsory professions and who carried the Jirahar dialect into the Velian liturgy.
 
-By the Long Frontier, town, congregation, craft and family memory worked together. Married clergy, physicians, translators, irrigation officers and multilingual schools connected communities across political boundaries. Rural life depended on vines, grain, orchards, sheep and shared water. Coercion, ransom, slavery and unequal legal standing persisted alongside that cooperation.
+The dry-margin cities where Nasriel's followers gathered, Qabir first among them, lay on the empire's northern edge and met the Covenant before most of the empire did. After 587 Leovar I's hermit-bishops went from town to town re-sealing imperial charters in the Fire; they never came to the Velian cities, and Velian clergy, who taught that the Fire crowns a vessel and does not seal an empire's deeds, would not have asked them. Covenant courts took the cities under Caliph Uthar's disputed seal between 598 and 610. The cities then accepted Banu Mizan protection without surrendering their charters, and every one of them still keeps its pre-conquest charter in a fireproof chest.
 
-The failed Second Crusade and later imperial reconquests made Velians objects of competing claims. Zanthir and the Velian States stayed outside Thalmyric reconquest.
+By the Long Frontier, town, congregation, craft and family memory worked together. Married clergy, physicians, translators, irrigation officers and multilingual schools connected communities across political boundaries. Rural life depended on vines, grain, orchards, sheep and shared water, measured out at dawn by Banu Mizan water-courts at the canal heads. Coercion, ransom, slavery and unequal legal standing persisted alongside that cooperation.
+
+In 872 the Banu Mizan emir died and a regent renewed the Velian compacts in his young son's name. Two years later an imperial crusade arrived to "receive" the cities on the ground that a regent's oath was void. The Velians had accepted the regent, they remembered Halmenth, and the army of a church that had condemned them was asking them to open their chests in the middle of a war. They shut their gates. Before Oronda in 876 the crusaders raised the Velos Standard in front of both armies and it stayed dark, while on the walls the clergy lit a single lamp, as in their whitewashed churches. Velian songs say it took the Fire. The crusade broke in 878. Its most dangerous enemy had been a young Covenant officer of Ruzhan descent, Qahir ibn Ruzbeh, and in 885 his officers ended Banu Mizan rule in the belt. A Banu Mizan line kept Zanthir at Qabir as tributary emirs.
+
+The failed Second Crusade and later imperial reconquests made Velians objects of competing claims. Velians remember 874 as the year an army calling itself their liberation came for their grain; Thalmyric memory keeps it as the year the Velians chose the enemy. Zanthir and the Velian States stayed outside Thalmyric reconquest.
 
 ## Stories and neighbouring histories
 
@@ -33,3 +37,5 @@ The failed Second Crusade and later imperial reconquests made Velians objects of
 - [[G-44 - Three Roads for One Cry|Three Roads for One Cry]]
 - [[World Historical Atlas MOC]]
 - [[Peoples in the World Historical Atlas]]
+- [[The Long Frontier and the First Unsealing]]
+- [[The Velian Church]]

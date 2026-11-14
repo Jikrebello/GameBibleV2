@@ -30,6 +30,12 @@ Husan and seventy-two members of his household accepted safe conduct to arbitrat
 
 The annual **Mourning of the Wells** recites the safe-conduct clause by clause, answering each with: *And yet the well was dry.*
 
+## The Seal on the Frontier
+
+In 597 the Covenant's armies were halfway through the conquest of the Atherian north, and every breach-court that voided a town's charter did so in the caliph's name. From then on the towns had an answer. Defenders shouted it from their walls and lawyers wrote it into their pleadings: *your court sits under a seal nobody may open.* Sealed-Blood jurists refused to sit in Uthar's name. In 598 Uthar dismissed his great general Qatada Sayf-al-Ahd, and the field advance stopped. Before the march town of Tamsar in 611 a Sealed-Blood jurist climbed onto a wagon and told the Covenant army that its court sat under a seal nobody dared open. Neither army gave battle, and the peace of 612 followed.
+
+The Velian cities were taken under Uthar's seal, and their pre-conquest charters still wait in fireproof chests. If the Fourth Seal were ever proved forged, every judgement made in Uthar's name would be open to challenge, the Velian ones among them. Qahirid jurists count that among the reasons the Seal stays shut.
+
 ## The Divide
 
 [[The Witnessed Seal]] teaches that authority continues through public attestation and the community's jurists. [[The Sealed Blood]] teaches that succession continued through Ruqaiya and the Veiled Wasiyin.
@@ -45,3 +51,4 @@ Iqashar and Al-Qahur are Witnessed-Seal. Qazmarid is Sealed-Blood. Zanthir is Wi
 - [[The Bir Qassim Safe-Conduct — Annotated]]
 - [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/20 Faith and Worldview/Al-Ahdiya Overview.md|Al-Ahdiya Overview]]
 - [[Present-Day Courts and Crowns (1360 AR)]]
+- [[The Long Frontier and the First Unsealing]]

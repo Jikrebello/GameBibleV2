@@ -17,7 +17,7 @@ In 907 AR a major Covenant army attempted to force Crown Gate Pass between Vorth
 
 ## The Battle
 
-Caldrian troops held prepared walls and switchbacks while Vortharan factions supplied rune-warlocks, construct breakers, guides, and unstable Black Spire instruments. Of the army's five great siege golems, one Depth-Core and one Slave-Soul engine were destroyed. A second Depth-Core was crippled badly enough to be abandoned during retreat; two engines escaped.
+Caldrian troops held prepared walls and switchbacks while Vortharan factions supplied rune-warlocks, construct breakers, guides, and unstable Black Spire instruments. Vortharan contractors had studied Covenant script for generations under contracts with the old imperial court, and their counter-scripts drew on that study. Of the army's five great siege golems, one Depth-Core and one Slave-Soul engine were destroyed. A second Depth-Core was crippled badly enough to be abandoned during retreat; two engines escaped.
 
 The wreckage proved that “demon golem” concealed more than one technology. One shattered chassis released a dying Depth beast. The other exposed a human name-cage, allowing Vortharan and Eclessian witnesses to release the imprisoned soul. That distinction shaped every later counter-engine doctrine.
 
@@ -26,6 +26,8 @@ Vortharan weapons killed defenders when a counter-script propagated through the 
 ## Consequences
 
 The Covenant advance into Eclessia ended. Its dispersed survivors and damaged siege train could not reinforce every occupation corridor. Caedros's rebels later exploited that overextension at Caelmount in 917. Shattered Engines therefore enabled the Mountain Rebellion and Long Reconquest.
+
+The two engines that escaped, one Depth-Core and one Slave-Soul, went back north to Iqashar for repair. Iqashar's foundry drew its own lesson from the opened name-cage: its next great frame, finished about 944, was a pure-pattern Surrender Engine with no soul or beast inside for an enemy to set free. The surviving Depth-Core engine walked loose through Iqashar's dyers' quarter in 931, and Covenant crews later called it the Elder. The Slave-Soul engine came south again only in 956, when Thalmyric war-lamps opened its cage before Caleran.
 
 Caldria remembers a crusading victory. Vorthara remembers a paid intervention that prevented imperial occupation. Thalmyric histories often reduce Vorthara to a useful prelude.
 
@@ -40,3 +42,4 @@ The battle demonstrated that the peninsula's specialists could defeat an empire 
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|The Battle of Caelmount]]
 - [[The Seven-Seal Defensive Muster]]
 - [[Covenant Siege Golems]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

@@ -35,6 +35,8 @@ No mortal witnessed the Faewild Schism. Human knowledge of it begins with remain
 
 ## Inheritance
 
+The war also left wreckage on the ground. Old battlefields kept their banners after their armies were gone, and some of those standards still sort anyone who comes within their reach onto sides in a fight nobody remembers. Giant courts later dug them up and carried them into their own wars; the slaves driven under them learned that lowering a standard ended the battle when killing the enemy only restarted it ([[Age of Chains]]).
+
 The later world inherits different kinds of danger. A Menhir correspondence may make a harvest fail without punishing a sin. An Idol may answer a cruel rite precisely because the cruelty feeds it. A heavenly judgement follows a commission. A human ruler can misunderstand all three and still command an army.
 
 These distinctions shape [[Age of Chains]], when supernatural ancestry becomes a political weapon. The corresponding otherworld histories are told in [[Menhir Courts through the Ages]], [[Idol Kingdoms and the Hunger Wars]] and [[Heavenly Campaigns and the Human Dead]]. The Glass and Bird-Marked Sites remain unexplained.

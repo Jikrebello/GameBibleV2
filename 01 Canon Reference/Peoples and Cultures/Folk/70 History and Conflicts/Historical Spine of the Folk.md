@@ -32,10 +32,26 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 ## Fall and Successor Frontiers
 
 - **905 AR onward:** the Fall removed the last common imperial frontier command. Clans reclaimed settlements and roads but lost dependable grain relief and coordinated winter defence.
-- **975-982 AR:** Adalmar's eastern consolidation turned the southern border into a program of settlement, baptism, and crown title.
+- **975-982 AR:** Adalmar's eastern consolidation turned the southern border into a program of settlement, baptism, and crown title. The eastern bishops' registers still listed the imperial frontier forts and estates abandoned after 905, and Adalmar granted them to his Markish lords. The Green March clans had held the same ground for three generations by seer-oath and grove boundary. The registers said one thing and the groves another.
 - **982-1008 AR:** the **Folk Wars** combined invasion, rebellion, clan civil war, negotiated submission, and missionary expansion.
 - **993 AR:** the **Drowning at Wolfsmere** killed four thousand captive oath-keepers and seers. The lake became a standing leftward thin space.
+- **994 AR:** the **Standing of the Water**. The lake rose and took the Markish shore-fort.
 - **c. 1005 AR:** **Weylan Oath-Bent** accepted baptism. His descendants became the Bent Oak, the most prominent Chapel-Folk lineage.
+
+### The Folk Wars and the lake, 982–1008 AR
+
+The clans fought the Markish settlers from ringforts, fords and forest edges for twenty-six years. Clans that accepted baptism were set against unbaptized kin, and when their kin called them they went: the oaths sworn between clans at Wolfsmere, the Green March's oath-lake, bound them before any later vow. Adalmar's bishops called it relapse. In 993 Adalmar had four thousand captive oath-keepers and seers drowned in Wolfsmere "to drown the oath with its keepers". Nine seers were held under and did not drown. They were pulled out breathing at dusk, pale-eyed and cold-handed, and from them descends the Lakekeeper line.
+
+In the winter of 994, on a windless night, the lake stood up. A wall of water came down on the Lake Watch, the fort Adalmar had built on the shore, and in spring its garrison was found on the ice and its timbers in the reeds. The nine walked to the water's edge, and the lake lay down. No Markish army crossed the lake country again, and the Eclessian frontier has stopped beside it ever since.
+
+Weylan Oath-Bent had fought Adalmar for a decade before Wolfsmere and fought another decade after it. Around 1005 he accepted baptism with his surviving clans, and named his price: the lake. Under the **Peace of the Bent Oak** the march charters forbade any bell within hearing of Wolfsmere, any boat on its water and any iron in it, and Adalmar's bishops, whose priests would not go near the shore, agreed. The Lakekeepers had already laid down the same law. The Folk Wars were declared ended in 1008. Old-rite clans call Weylan's baptism honourable surrender, which is not praise; the Chapel-Folk answer that a bent oak remains alive and that the lake still sleeps.
+
+### The marches, 1008–1232 AR
+
+- **1060-1067 AR:** the **First Southern Crusade** carried marcher rule south after the Partition of Drossfeld, around the lake country rather than through it. Folk captives were sent north to the silver mines of the middle march. Their children were among the slaves who rose in the Heldenberg shafts around 1116 and founded Korrheim's first cantons with the Oath of the Shafts in 1124.
+- **1101-1103 AR:** in the **Two Winters**, with ash-grey skies and no summer between, Markish penitents calling themselves the Debtors of the Lake went south to drown themselves in Wolfsmere for Adalmar's debt. The Lakekeepers turned them back at the shore and told them the lake did not want more. The Folk say the sky owed a debt in those years, and paid it with the Apology harvest of 1103.
+- **1158-1163 AR:** the **Great Southern Purge**. Sylvan marcher lords and the Knights of Saint Aveline, under a relic-court ruling that the seers' shrines held unexamined fire, destroyed seers and shrine settlements and cut the boundary groves. The clans remember it as a campaign against land memory. In the midwinter of 1163 riders whose breath made no smoke went through the marcher camps on three nights. They took an Aveline chapter and the Folk households nearest the cut groves alike; the clans' seers say the boundaries walked back and took whoever stood on them. The Purge ended, and for a generation the missioners of the Elsin tradition, who opposed conversion by the sword, won the argument over Folk policy against the Aveline tradition.
+- **By 1232 AR:** the frontier was a gradient from parish to clan-land, stopping at Wolfsmere. Old-rite clans rebuilt their seer-lines after the Purge; Chapel-Folk communities lived under the Bent Oak precedent; Markish settlers held the old registered forts; and every party still needed the others when the Grobi moved north.
 
 ## Present Inheritance
 

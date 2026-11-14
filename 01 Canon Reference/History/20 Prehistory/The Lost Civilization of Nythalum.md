@@ -38,6 +38,8 @@ This continuity has nothing to do with the human Image or soul-road. Nythalum Gi
 
 Nythalum built enormous launch-spires to carry ruling households, laboratories, servants, menageries, and continuity systems through physical space to the physical moon. Lesser populations were indexed as labor, vessel stock, test bodies, or resources for a future return. The Ascension Project was not Egg White flight, passage into another realm, or a concealed second programme behind the lunar one.
 
+Provisioning the launch stripped the island's coast of food. Fishing fleets were requisitioned as vessel stock, coastal granaries were sealed into launch stores, and the shore towns that had fed the spire-cities starved through the last seasons before the launch. Diluted rulers who could no longer carry their own minds across substrates without heavier machinery needed more test bodies to prove each transfer, and the coast supplied those too (Causality Pass 01.2, 14 November 2026).
+
 The coordinated launch failed catastrophically near the end of the Giant Age. Most spires exploded or fell. Their failure ruptured the island's foundations, drove earthquakes and eruptions, and sank Nythalum beneath the ocean. The disaster killed the overwhelming majority of its people and scattered automated facilities across sea, sky, and distant frontier.
 
 A few vessels reached the moon. Some occupants completed uninterrupted transfer and became genuine Continuants. Others died before, during, or after recording and survive only as Reconstructions. Later Nythalum systems deliberately blurred the difference because a convincing returned ruler preserved command continuity whether or not the ruler actually survived.

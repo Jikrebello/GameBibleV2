@@ -27,7 +27,7 @@ Arqeshite first described the civic population of Arqesh and then widened to inc
 
 ## First Qiryath
 
-Qiryath refused the royal image and hostage demand. Arqesh destroyed the city in 742 BR, looted its sanctuary, and deported leading Jirahar households. Exile made Arqeshite cities important sites of Peshara development even while the empire remained an oppressor.
+By the eighth century BR, Arqeshite provinces were carrying their disputes to be judged at Qiryath's festival offerings rather than before royal governors. Neshkar II demanded hostages and a place for his image in the upper sanctuary. Qiryath refused the royal image and hostage demand. Arqesh destroyed the city in 742 BR, looted its sanctuary, and deported leading Jirahar households. In the following years its coastal governors seized Atherian ships and marched the merchant quarter of Terys inland, giving Ortheia the grievance behind its eastern war. Exile made Arqeshite cities important sites of Peshara development even while the empire remained an oppressor.
 
 ## Fall, 706–690 BR
 
@@ -35,7 +35,7 @@ The death of Belatar II divided House Ubar between Kassur III at Arqesh and Mard
 
 Arezan Tiravan united Vashari highland houses and rebellious governors from the east. Eryndor III crossed the inner sea with the Ortheian army, Compact levies, siege engineers and allied ships. The two kings made an alliance in 694 BR. Forced workers opened gates, Nemeru crews crossed closed channels and provincial communities withheld the supplies upon which House Ubar depended. Arqesh surrendered after street fighting in 690. Both victorious armies killed inhabitants and plundered districts.
 
-Eryndor died in 684 BR. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
+Kassur III fled with the portable royal images and was murdered in 688; Eryndor kept the images, and after his death in 684 BR they went with his embalmed body to Delkos. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
 
 ## Legacy
 

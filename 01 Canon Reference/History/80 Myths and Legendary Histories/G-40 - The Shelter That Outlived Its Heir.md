@@ -24,7 +24,7 @@ It is told in Legalization-era refuge houses and among servants who carried pers
 
 ## The tale
 
-An enslaved woman bore a landowner's child after years of coercion. When his lawful household learned of the boy, both mother and son were beaten and sent away. A wealthy widow sheltered them in a courtyard house and promised that anyone admitted there would remain safe until able to leave freely.
+An enslaved woman bore a landowner's child after years of coercion. When his lawful household learned of the boy, both mother and son were beaten and driven into a salt-and-thorn waste with too little water, and riders were sent to keep them from coming back. The boy was dying under a thorn bush when a pale ground bird walked out of the glare and spoke to his mother in a clear human voice. It scraped the sand from a stone lid where road-builders had once covered a cistern, named what the household had done to her as a crime, and pointed her toward a caravan track. Carriers on that track brought them to the city, where a wealthy widow sheltered them in a courtyard house and promised that anyone admitted there would remain safe until able to leave freely.
 
 The widow died before making the promise public. Her nephew inherited the house and wanted the mother returned as property. He threw their bedding into the street and had the boy dragged from the kitchen. The household servants resisted. A cook broke the steward's arm with a water jar. Two grooms were killed while bringing a cart through the rear gate.
 
@@ -40,7 +40,7 @@ The story locates institutional change in servants choosing a particular mother 
 
 ## How tellers differ
 
-House orders praise the widow as founder. Servant songs begin after her death and name the cook. Some noble versions make the heir possessed; the older tale requires only cruelty and entitlement.
+House orders praise the widow as founder. Servant songs begin after her death and name the cook. Abolitionist preachers make the bird an angel; sceptics call the cistern luck; some tellers make the mother herself a saint. Some noble versions make the heir possessed; the older tale requires only cruelty and entitlement.
 
 ## What remains
 
@@ -50,6 +50,7 @@ A water jar is passed from an outgoing keeper to the next. If no keeper is worth
 
 - [[Historical Atlas of Atheria]]
 - [[Historical Spine of the Jirahar]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Conversion of the Empire]]
 - [[Myths and Legendary Histories MOC]]

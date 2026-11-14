@@ -41,7 +41,7 @@ Human messengers found no common command. Wolf-affiliated halls demanded immedia
 
 The Grobi took **Hall Arven** with its roof, granary and livestock intact. They ate the defenders and noncombatants during the victory feast. **Keld Varn** burned after its defenders spoiled the food and withdrew. At **Morn Gate**, captives being kept for later consumption were forced to reopen a collapsed road while Grobi breeding hearths occupied the warm animal rooms. Other settlements emptied before attack, and people without carts or fodder died during flight.
 
-The name *Empty Halls* first described the captured and abandoned settlements. Later songs claimed that every inhabitant died, but refugee registers and later marriages record survivors.
+The name *Empty Halls* first described the captured and abandoned settlements. Later songs claimed that every inhabitant died, but the law-speakers' remembered rolls of refugees and later marriages record survivors.
 
 ## Four coalitions
 
@@ -52,7 +52,7 @@ The remaining halls gathered at the closed road above Hornwall. Four chiefs brou
 - **Brennar of Stoneden** supplied Bear infantry, charcoal, iron and the largest refuge stores.
 - **Eldran of Grey Pass** led Wolf scouts and survivors of the broken beacon line. His following possessed the best route knowledge and the least food.
 
-**Hedra Store-Keeper** supervised the common granary. Each coalition surrendered its keys and recorded withdrawals publicly. The rule prevented fighter rewards and chiefly feasts from consuming the shares needed by dependants, scouts and boat crews.
+**Hedra Store-Keeper** supervised the common granary. Each coalition surrendered its keys, and every withdrawal was cut as a notch on tally-sticks hung in public view. The rule prevented fighter rewards and chiefly feasts from consuming the shares needed by dependants, scouts and boat crews.
 
 Urzha gave this assembly the Nine-Drum ration route and the position of her captured brood. Her information made an attack upon Varka's sledges possible.
 

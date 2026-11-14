@@ -38,6 +38,22 @@ The [[Nine Wells of Tergai]] are the frontier's central wound. Tarkhan ancestors
 
 Iqashar alternates fortified wells, tribute renamed as escort fees, hostage exchange, marriage diplomacy, punitive columns, and employment. Deep pursuit usually fails because Covenant armies consume the supplies their enemies carry with them.
 
+## The Northern Frontier, 885–1190
+
+For three centuries the Covenant fought without bound beasts. The recited Covenant of the 4,444 binds its offices to dig, lift, carry, keep and guard, and says the bound "shall take nothing that is not given"; jurists read this Clause of the Given as barring them from conquest, and the bound offices dug the oasis and never marched. In 885–886 Qahir obtained from the college at Al-Qahur the Ruling on Parties: the Clause binds parties, not powers, so a beast captured in mapped Hell, a condemned man's forfeited name and a nameless construct are party to nothing. The dissenting people of the Clause lost the vote and are still taught.
+
+Qahir ibn Ruzbeh held the north with few men. His capture companies brought silt hounds, blind six-limbed pursuit beasts, out of the mapped mire of Hell and bound them into the wet shafts of the frontier wells. Hound-handlers rode with the road escorts. Against camel-borne Well-Tarkhan the method worked: a camel or horse that scents a Depth beast panics, and a raider on a panicking animal dies.
+
+It failed twice. In the winter of 931, when Idris's death voided the names the hounds were fed under, the unfed beasts climbed out and hunted the escarpment towns, and several outer towns stood empty by spring. Then in 951 Grass-Tarkhan riders came south on the hymn-blessed descendants of the Atherian remount studs. Those horses do not shy from bound things. The hounds came up the shafts and the grey horses stood, while the garrisons' own animals broke their tethers. Tarkhan memory calls that season the Long Reach; Iqashari registers call the raiding at its height, about 975–1010, the Horse War. It held the field army in the north while Caleran was lost in 957 and for decades afterwards. In the 990s Iqashar sent a great mercy tower onto the grass, where it proclaimed surrender terms to empty pasture for a season and earned the Tarkhan name the Talking Hill.
+
+The Covenant then bought what it could not beat. It chartered Mazrakan in 1067, bought blessed lines at its horse fairs, and hired Tarkhan companies on word-price because Tarkhan riders refused to place their names in custody. Those companies stayed outside the Living Register, which made them harder to command and kept them out of imperial offices for two centuries. The blessing in the grey lines thinned with each generation, and by the 1100s the frontier was again fought with ordinary horses.
+
+## The Great Engines, 905–1190
+
+Five great engines came to Caleran in 905. Three were lost at Crown Gate in 907. The surviving Depth-Core frame walked loose through Iqashar's dyers' quarter in 931 and was later called the Elder; the surviving Slave-Soul engine was sent south by sea in 955 and lost before Caleran in 956, when Thalmyric war-lamps opened its name-cage.
+
+After Crown Gate the foundry at Iqashar, beside the Chain Furnace and the Ruzbeh Weight House, built pure-pattern Surrender Engines first. The enemy had shown it could open a name-cage; penitential jurists called the execution rite "lawful and wrong"; and fresh captures of Depth beasts rested on the Ruling on Parties of 885–886, which the people of the Clause had never accepted. The first great mercy tower was finished about 944, at the cost of overdrawing the Chain Furnace, which ran short for a generation and left Iqashar's lower cisterns low every summer. A second tower followed about 1000 and a third in the 1080s. In 905 the Covenant had three engine yards; the Basin yard passed to the military households in 938 and the forward yard in the south was lost with Caleran, so from about 960 only Iqashar could build a great frame, at the pace of roughly one a generation. One mercy tower was lost in the War of the Southern Deeds, 1131–1139, leaving the Elder and two towers in 1190.
+
 ## Legal Warfare
 
 Covenant commanders offer surrender instruments, register captives, and attempt to make tribute self-enforcing. These procedures can reduce slaughter while converting defeated populations into durable revenue, bondage, or military colonies.
@@ -52,3 +68,5 @@ Covenant commanders offer surrender instruments, register captives, and attempt 
 - [[Nine Wells of Tergai]]
 - [[White Horde]]
 - [[Iron Horde]]
+- [[First Catch and Grey Sister]]
+- [[The Covenant from Idris to Suhrab (905-1190 AR)]]

@@ -42,7 +42,7 @@ Exiles learned Arqeshite language, music, masonry and water administration. They
 
 The fall of Arqesh allowed displaced families to return under the Vasharan Decree of Roads and Houses. Returners encountered people who had cultivated disputed land for generations. Marriages between survivors and exiles created households whose members possessed competing claims and memories.
 
-Second Qiryath admitted families through instruction, acceptance of communal duties and public recognition. Severe restoration factions opposed spouses and children associated with Arqeshite settlers. The settlement reached around the rebuilt sanctuary preserved a living community at the cost of arguments that continued across generations.
+Second Qiryath admitted families through instruction, acceptance of communal duties and public recognition. Severe restoration factions opposed spouses and children associated with Arqeshite settlers, and several old houses left the city when the cistern keeper Yaelith bat Coren refused to expel them. The altar's sign, withheld since the siege of First Qiryath, returned under an offering carried by those mixed households, and the admission rules have carried that memory ever since. The settlement reached around the rebuilt sanctuary preserved a living community at the cost of arguments that continued across generations.
 
 Many Jirahar did not return. River families, western towers, sea companies and travelling houses remained part of the same dispersed people. By 350 BR Qiryath stood under Vasharan supremacy while Jirahar communities extended from the Glassward roads to Arqeshite cities and Atherian ports.
 

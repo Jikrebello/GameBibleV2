@@ -30,7 +30,7 @@ The first discharge broke an enemy tower. Before the second, scouts reported cap
 
 Workshop crews seized the remaining tools. They did not destroy them. On each handle they cut one duty: hospice, wall, water, grave, road, rescue or evacuation. A tool that had raised a war engine could henceforth lift roof beams from trapped people. The smith tried to gather them for another defence, but the bearers refused to return any object unless its marked duty required it.
 
-After his death, stories claimed the tools rang when their maker approached. In truth—or in the humbler version—they rang when frightened workers struck the marks together before choosing whom to help. Collectors still steal them, hoping a complete set will call back the smith. No complete set ever existed.
+After his death, stories claimed the tools rang when their maker approached. Refuge families tell it plainly. When a road of perfect warnings began to open through a border district, the smith came back with soot-black arms and tall, shimmering shapes at his shoulders, like heat over a forge. Along the whole road the duty-marked tools rang one after another, hospice hammers and wall levers and grave spades, until the last refugee had crossed and the road closed behind them. In the humbler version, the tools rang because frightened workers struck the marks together before choosing whom to help. Collectors still steal them, hoping a complete set will call back the smith. No complete set ever existed.
 
 One hospice owns a hammer marked for graves and uses it only to open trapped doors. Purists call that misuse. Refuge families answer that duties serve living need, not the collectors who want every handle frozen in an old story.
 
@@ -40,7 +40,7 @@ The myth asks whether useful work can outlive a guilty maker without becoming hi
 
 ## How tellers differ
 
-Military songs claim the second shot saved thousands. Refuge songs recite the known dead one household at a time. Relic dealers insist every marked hammer belonged to the smith's own hand.
+Military songs claim the second shot saved thousands. Refuge songs recite the known dead one household at a time and count the smith a saint only on the night of the bells. Relic dealers insist every marked hammer belonged to the smith's own hand.
 
 ## What remains
 
@@ -50,7 +50,7 @@ Duty-marked tools sometimes answer a particular obligation with a faint tone. Th
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-10 - Smith of the Refuge Bell]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

@@ -16,7 +16,7 @@ tags: []
 
 Atherian astrology interpreted the ruling constellation at a person's birth as an influence upon temperament, vocation and recurrent danger. Households used natal signs when naming children, arranging apprenticeships, negotiating marriages and choosing dates for travel. Learned astrologers produced far more elaborate charts from planetary positions, seasonal winds and the relation between several Star Children.
 
-The system records Atherian doctrine rather than a reliable anatomy of fate. Thanatos was the imperial name given to [[The Boatman]], who exercises no astrological dominion. The other signs gather cultural interpretations around real Menhir powers without proving that those powers assigned individual destinies.
+Astrologers never agreed on what the signs measured, and their quarrel is described below. The Astral Keepers, whose observations supplied much of the astronomy, would not vouch for the seventh sign. Their oldest Circle-tables had no place for Thanatos, and they doubted that a power which never answered a petition could stamp a child at birth. Ferrying families, who knew [[The Boatman]] from their own songs, laughed at the idea of being born under him.
 
 ## The Seven Natal Signs
 
@@ -54,7 +54,7 @@ Astrologers praised endurance and loyalty to a chosen purpose. They warned that 
 
 Thanatos was marked by the hourglass, dark oar or river boat. People born under the sign were thought calm in the presence of death and unusually attentive to timing, boundaries and transition. Undertakers, guides, mediators, thieves and legal officers all appear among its traditional vocations.
 
-The sign's compassionate interpretation emphasised the ability to accompany another person through grief. Its darker reading described coldness, secrecy and fascination with crossing boundaries that should remain closed. These traits belong to Atherian astrology; the actual Boatman neither distributes them nor governs thieves.
+The sign's compassionate interpretation emphasised the ability to accompany another person through grief. Its darker reading described coldness, secrecy and fascination with crossing boundaries that should remain closed. Ferrying families resented a sign that put their patron among thieves, and later Church teachers said that the Boatman of the soul-road hands out no temperaments and keeps no thieves' patronage.
 
 ### Typhonius, the Beast
 
@@ -72,7 +72,7 @@ Urban clients received written charts. Rural households often kept the same info
 
 Astrology shaped expectation as much as decision. A child repeatedly praised for Astarothian courage might be pushed towards military service; one called an Arachnaran schemer could become secretive under suspicion. Philosophers and comic writers recognised this effect and argued that charts often described the education imposed after birth.
 
-Priests disagreed about the strength of celestial necessity. Strict schools taught that every life followed a legible course. Moderate readers treated the stars as dispositions and warnings. Sceptics used failed military predictions, incompatible twin charts and the prosperity of people born under supposedly ruinous signs to attack the profession.
+Priests disagreed about the strength of celestial necessity. Strict schools taught that every life followed a legible course. Moderate readers treated the stars as dispositions and warnings. Sceptics used failed military predictions, incompatible twin charts and the prosperity of people born under supposedly ruinous signs to attack the profession. Astral Keepers complained that the seven signs followed the hymns' family instead of any order they had observed, which gave a birth sign to Thanatos and none to Father Sun or Mother Moon.
 
 Astrological practice survived the conversion of the empire in calendars, weather lore, medical timing and popular character types. Both successor churches condemn claims that the stars command a human will, though consultation remains common under names such as seasonal reckoning or household wisdom.
 

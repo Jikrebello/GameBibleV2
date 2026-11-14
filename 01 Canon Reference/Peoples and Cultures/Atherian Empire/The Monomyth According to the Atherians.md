@@ -15,7 +15,7 @@ tags: []
 ---
 # The Celestial Betrayal and the Exodus
 
-_The Celestial Betrayal and the Exodus_ was Astratheon's great account of human origins, Giant servitude and Atherian destiny. Singers and priests combined old memories of the Glass People with inland histories of Giant rule, then placed both inside the genealogy of the Star Children. The resulting epic justified Atherian empire while preserving distorted memories of genuine liberation.
+_The Celestial Betrayal and the Exodus_ was Astratheon's great account of human origins, Giant servitude and Atherian destiny. Singers and priests combined old memories of the Glass People with inland histories of Giant rule, then placed both inside the genealogy of the Star Children. The resulting epic justified Atherian empire. Jirahar and later Church readers recognised in it their own memory of the Unbinding, retold so that the stars received the credit.
 
 No single authoritative text survives. The account below follows the widespread late-republican form used in Caleran. Island versions give Lyraxis a greater part; military recensions elevate Astaroth; inland copies retain more sympathy for people who never entered the Glass Desert.
 
@@ -25,13 +25,13 @@ The poem begins with the Star Children shaping humanity from stardust and celest
 
 Sun and Moon whisper to the first Giant dynasties and teach them to seize mortal labour. The Giants cover true constellations with false lights, place royal observatories above enslaved cities and claim the destinies of their subjects as property. The Star Children retreat from the earth, leaving signs that only the faithful can still read.
 
-This is Astratheon theology rather than an account of creation. Humanity was created by the Lord. The Sun and Moon traditions concern Menhir powers, and the Giants arose from several kinds of direct and inherited descent. The poem nevertheless preserves the historical connection between Giant astronomy, dynastic power and the control of human lives.
+Jirahar teachers answered this opening with their own: humanity was made by the Lord, and Sun and Moon are powers that take a price, not parents who grow jealous. The Astral Keepers found nothing in their tables to support the jealousy, and Folk seers, who knew the Pitiless Day and the Moon Court as courts of their own country, laughed at the idea of either whispering to Giants. Inland copies kept a harder memory that every party accepted: the Giants' royal astronomers had owned the calendar and, with it, the working lives of their subjects.
 
 ## The Tyranny of the Giant Kingdoms
 
 The middle books describe a world of workshops, mines, tomb estates and sacrificial calendars. Qianglong forces human households into inherited caste. Ishkatar claims the dead and their property for serpent dynasties. Xolotl feeds royal power through blood and ceremonial time. Regional recensions add local kings, captive heroes and palace monsters.
 
-The poem treats these kingdoms as one conspiracy directed against the stars. Historical Giant society was a many-state world divided by marriage, trade, war and rival ancestry. Its rulers exploited human beings through different institutions. Their own civil wars and failed continuity systems helped bring the age to an end.
+The poem treats these kingdoms as one conspiracy directed against the stars. Inland recensions, kept by Aurin households whose ancestors had served Arsuvan, remember many quarrelling courts divided by marriage, trade, war and rival ancestry, each working its human subjects in its own way. They give the Giants' own civil wars and failing houses a share in the fall, and Jirahar memory agrees with them on that point.
 
 Astratheon performers rarely omitted the bodily cost. Captives die in mines and sacrificial courts; rebellious districts are starved; children are taken into royal houses. These scenes made the epic useful to later conquerors who wished to describe every enemy as another Giant.
 
@@ -41,7 +41,7 @@ The Great Prophet appears under the name Astronax. Three constellations gather a
 
 In the great contest, Astronax calls down celestial plagues. Astaroth breaks armies with fear and fire; Lyraxis turns stored wealth and official speech against Ishkatar; Typhonius sends monsters through Xolotl's ceremonial precincts. Later temple drama presented these scenes with elaborate machines and captive choirs.
 
-The received story transfers the Lord's commission to the Star Children. It also compresses the Unbinding's human revolt, Giant civil wars, plagues and heavenly severance into the acts of one celestial magician. Astronax retains recognisable features of the Prophet: he gathers a remnant, confronts royal systems and leads people towards the Glass.
+Jirahar readers recognise the Great Prophet in Astronax and say that the poem has handed the Lord's commission to the stars. Later historians add that it folds the Unbinding's human revolt, the Giants' civil wars, the plagues and the severance remembered in Jirahar and Church tradition into the acts of one celestial magician. In every version Astronax keeps the Prophet's recognisable features: he gathers a remnant, confronts royal systems and leads people towards the Glass.
 
 ## The Glass Road
 
@@ -49,7 +49,7 @@ After the Giant courts begin to fall, Astronax leads the gathered people into th
 
 The journey purifies the remnant in the poem. Those who accept the Star Children survive; rebels wander into false constellations or return to the ruined palaces. Later imperial readers used this division to call Atherian obedience the sole legitimate inheritance of the Exodus.
 
-The historical Glass was already present and remains unexplained. The Lord sustained the remnant there through a long sojourn, during which people drawn from many Giant territories became the One Glass People. Other human societies survived outside the migration. The poem's surviving dissenters may preserve confused memories of both internal conflict and those Orphaned peoples.
+Every other tradition says the Glass lay there before the crossing, and none agrees on why. Jirahar memory holds that the Lord sustained the remnant through a long sojourn in which people drawn from many Giant territories became the One Glass People. Folk, Vashari and Aurin histories remember the peoples later called Orphaned, who survived the Giants without entering the Glass at all. Some scholars read the poem's wandering dissenters as a memory of the camps' own quarrels; others find in them those peoples outside the migration.
 
 ## The Unbuilt Celestial Temple
 
@@ -57,13 +57,13 @@ Near the end of the sojourn, the Star Children order Astronax to build a city pe
 
 A solar eclipse darkens the road. Astronax dies, his body disappears and the celestial guidance ends. His officers quarrel over the correct route and the authority to interpret his final words. Some recensions accuse him of pride; others make his disobedience a compassionate choice that saves the people from an imminent attack.
 
-This episode reworks the failed Glass sanctuary and the Prophet's death into a judgement by the stars. It allowed later priests to claim that the temple still awaited completion under their care. No Star priest inherited the Prophet's commission, and the cause and circumstances of his death remain disputed.
+Jirahar readers see in this episode the failed Glass sanctuary and the Prophet's death, recast as a judgement by the stars. It allowed later priests to claim that the temple still awaited completion under their care. Jirahar teachers answer that no priest, of the stars or of the Scrolls, inherited the Prophet's commission, and the traditions still give his death in incompatible forms.
 
 ## Division and Atherian Election
 
 The final books describe the former remnant dividing after Astronax. Several peoples abandon celestial teaching, while the ancestors of the Atherians preserve the true signs and move south. They establish cities aligned with the constellations and entrust the Star Keepers with the interpretation of destiny.
 
-This conclusion turns a long historical formation into sacred election. The southern settlers separated gradually from the Near-Glass continuum. Their descendants conquered, allied and intermarried with existing societies before becoming Atherian. Proto-Jirahar and proto-Ahl-e-Ahd peoples developed through a later northern fission, while Folk, Ättar, Tarkhan and Nsizwa histories remained independent of the Glass migration.
+Critics read this conclusion as a long history turned into sacred election. Atherian antiquarians who dug among the oldest settlements described southern leagues leaving the camps near the Glass by degrees, then conquering, allying and marrying among peoples already living in the south long before anyone called them Atherian. Jirahar and Ahdari histories trace their own peoples to a later parting in the north, and Folk, Ättar, Tarkhan and Nsizwa king-lists remember their own beginnings, with no Glass crossing in them.
 
 Imperial versions claimed that Atherian rule extended the proper order of the sky. Provincial versions often reversed the argument: if Astronax's own fear led him into error, no emperor could claim perfect knowledge of destiny.
 
@@ -75,9 +75,9 @@ The expectation survived the old religion in architecture and political language
 
 ## Historical Importance
 
-The monomyth joined several kinds of memory that had once belonged to different peoples. It remembered Giant oppression, the Prophet, the Glass crossing and the loss of common leadership. It also rewrote the Lord as a celestial family and made Atherian conquest the fulfilment of liberation.
+The monomyth joined several kinds of memory that had once belonged to different peoples. It remembered Giant oppression, the Prophet, the Glass crossing and the loss of common leadership. Jirahar and Church critics add that it rewrote the Lord as a celestial family and made Atherian conquest the fulfilment of liberation.
 
-Its existence is part of Atherian history. Its theological claims remain those of Astratheon. Modern readers use the epic most securely when they ask what Atherians wished their empire to mean, whose memories they absorbed and which survivors disappeared from the official inheritance.
+Its existence is part of Atherian history, whatever its claims about the heavens. Modern readers use the epic most securely when they ask what Atherians wished their empire to mean, whose memories they absorbed and which survivors disappeared from the official inheritance.
 
 ## Navigation
 

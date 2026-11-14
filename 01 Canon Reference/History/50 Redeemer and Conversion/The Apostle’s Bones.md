@@ -3,66 +3,63 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: []
-region: []
-culture: []
-related_factions: []
+era: ["320s AR", "Conversion of the Empire"]
+region: ["Veridun Minor", "Atherian Empire"]
+culture: ["Atherian", "Redeemer Church", "Thalmyric", "Eclessian"]
+related_factions: ["Star Pantheon"]
 appears_in: []
 needs: []
 tags: []
 ---
+# The Apostle’s Bones
+
 > _“You cannot bury a saint without burying a flame. And flames find a way out.”_  
 > —Common saying among early Flamebearers
 
+“The Apostle’s Bones” are the **purported remains of Saint Calira of the Broken Blade**, the Companion who died defending Amaryah's house at Veridun Minor in 29 AR. Builders found them in the 320s beneath the altar of a ruined shrine of Astaroth at Veridun Minor, with a broken sword hilt beside them. The four sees claimed them for Calira. The Star college, which still held the lawful power to say what such a find was, entered them as the bones of a Star-priestess executed for blasphemy. The quarrel was the first relic dispute of the legal Church, and the find has never stopped being argued over.
+
 ### **Date**:
 
-Event occurs ~475 AE, roughly a generation after the martyrdom of the Twelve Companions  
-Rediscovery and contention ~540–560 AE, during the early post-Imperial Church unification efforts
-
----
-
-### **Overview**
-
-“The Apostle’s Bones” refers to the **purported remains of Saint Calira of the Broken Blade**, one of the Twelve Companions of the Redeemer. Long believed lost during the sack of Veridun Minor, her bones were **unearthed beneath a ruined star-temple** during reconstruction efforts by newly legalized Redeemer clergy.
-
-However, their discovery sparked a **theological and political firestorm**, as multiple factions—Eclessian reformers, Thalmyric militant orders, and remnants of the Imperial priesthood—each **claimed ownership, authenticity, and authority** over the relics.
-
-It is regarded as the **first formal “Relic Dispute”** in post-Imperial Redeemer history—and a critical moment in defining how the faith would relate to its own **mythic, physical past**.
+The find, in the 320s AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 381 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
 
 ---
 
 ### **The Discovery**
 
-During the sanctification of the new **Cathedral of the Swordless Flame** in Veridun Minor, builders uncovered:
+During the building of the new church of the **Swordless Flame** at Veridun Minor, on the site of a ruined Astaroth shrine near the house where Amaryah had lived, builders uncovered:
 
-- A **sealed reliquary chamber** beneath the former altar of an Astaroth shrine
+- A **sealed chamber** beneath the former altar of the Astaroth shrine
 - A **skeleton encased in ash-layered stone**, with signs of defensive wounds and ritual binding
-- A **broken sword hilt**, a **bronze Redeemer talisman**, and a cloth fragment embroidered with the phrase:
+- A **broken sword hilt**, snapped at the crossguard, a **bronze Redeemer talisman**, and a cloth fragment embroidered with the phrase:
     
     > _“She fell with her face to the flame.”_
     
 
-The local bishop immediately proclaimed them the **bones of Calira**, martyred during the defense of the city during the earliest persecutions.
+The local bishop proclaimed them the **bones of Calira**, killed in the raid of 29 AR while holding the doorway with a sword that had snapped at the crossguard. The blade of that sword, the **Broken Blade**, had come to Caleran with the daughter flame and hung in the church that became the Cathedral of the Eternal Ember.
 
 ---
 
-### **The Dispute**
+### **The Dispute of the 320s**
 
-####  **Eclessian Claim**
+####  **The Star college**
 
-- Calira was canonized primarily through **Eclessian oral tradition**.
-- Her name appears in the **Book of the Bound**, where her teachings focus on **faith through communal protection**.
-- Eclessian bishops argued that her remains belonged in the **Sanctum Divinitatis** in Aurelia, where the relic could serve the faithful.
+The augur college of the province still held the lawful power to enter any wonder or sacred find in its books, and the governor was bound to its entry. Its augurs examined the chamber and entered the bones as those of a **Star-Priestess executed for blasphemy** and bound beneath her own altar, which explained the ritual binding and the ash. They said the cloth was a later Redeemer addition, and demanded the remains be **sealed or destroyed** to avoid “heresy by veneration.”
 
-####  **Thalmyric Claim**
+####  **The four sees**
 
-- Thalmyric clergy maintained that Calira was **spiritually Thalmyric**, due to her militant background and last stand in a mountain pass—one of the earliest models for the **Order of the Vigilant Flame**.
-- They asserted the bones should be housed in **Vlastrava**, in a sanctum built to honor the Redeemer’s warriors.
+The bishops answered that a Star-priestess would not have been buried with a Redeemer talisman and a soldier's sword. Caleran wanted the bones laid beside the Broken Blade in its new cathedral. Veridun Minor's keepers, who had tended Amaryah's lamp for three centuries, refused to let them leave the town. Aurelium sent readers to compare the find with every surviving account of the raid of 29.
 
-####  **Imperial Remnant Obstruction**
+####  **The hearing**
 
-- A faction of surviving Imperial loyalists claimed the bones were not Calira’s at all, but those of a **Star-Priestess executed for blasphemy**, rebranded by Redeemer zealots.
-- They demanded the remains be **sealed or destroyed** to avoid “heresy by veneration.”
+Sevrin let the four sees hear the case on the model of Cassian's hearing at Halmenth in 297, with a crown assessor to record the civil result. The bishops found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
+
+In 382, after the augur colleges were dissolved and their books passed to the bishops, the bishops' readers struck the augurs' entry and entered the bones as Calira's. Old-cult families at Veridun Minor kept the augurs' version alive for generations.
+
+---
+
+### **The Hilt and the Blade**
+
+The hilt in the grave snapped at the crossguard, and the Broken Blade in Caleran snapped at the crossguard. Pilgrims have asked for a thousand years whether they are two halves of one sword. The Cathedral's keepers have never allowed the two to be laid side by side. The late Eclessian [[Codex of The Era of Blood and Ash]] adds a third relic, a "fractured sword-pommel" at Ironvale's Sanctuary of Ash, which no one at Ironvale has ever been able to find.
 
 ---
 
@@ -72,32 +69,36 @@ Several phenomena surrounded the bones and were used to argue for (or against) t
 
 - **The bones were warm to the touch**, even after exposure to cold.
 - A novice scribe tasked with transcribing the discovery fainted and later spoke verses in an unknown dialect—believed to be early Redeemer cant.
-- The broken blade reportedly caused **paper to smolder** when wrapped in official imperial decrees.
+- The broken hilt reportedly caused **paper to smolder** when wrapped in official imperial decrees.
 
-Later lore claims that, during a procession of the bones, **a drought ended** in Veridun Minor after thirty-one days of failed prayer.
+Later lore claims that, during a procession of the bones, **a drought ended** in Veridun Minor after thirty-one days of failed prayer. The governor had forbidden processions; the townspeople say they carried the bones round the inside of the sanctuary walls, which the order did not cover.
 
 ---
 
-### **Resolution and Aftermath**
+### **After the Great Split**
 
-After years of conflict, a **compromise was reached** at the **Council of Concord Flame (546 AE)**:
+The quarrel revived when the churches divided in 1015.
 
-- The bones would remain in Veridun Minor, enshrined in a **neutral sanctuary**.
-- Both Thalmyric and Eclessian orders were given **joint custodianship**, alternating rites seasonally.
-- The sword hilt was melted and recast into two relics:
-    - A **torchlike scepter** for the Eclessian high bishop
-    - A **flame-marked bracer** worn by the Thalmyric Grand Vigilant
+####  **Eclessian Claim**
 
-This arrangement would become a model for future **relic-sharing treaties**, known as **Sanctified Custody Concords**.
+- Calira was venerated in the eastern provinces largely through **oral tradition**.
+- Her name appears in the **Book of the Bound**, where her teachings focus on **faith through communal protection**.
+- Eclessian bishops argued that her remains belonged in the **Sanctum Divinitatis** in Aurelia, where the relic could serve the faithful.
+
+####  **Thalmyric Claim**
+
+- Thalmyric clergy maintained that Calira was **spiritually Thalmyric**, citing her soldier's background and a version of her Life that sets her last stand in a mountain pass. They made her one of the earliest models for the **Order of the Vigilant Flame**.
+- They asserted the bones should be housed in **Vlastrava**, in a sanctum built to honor the Redeemer’s warriors.
+
+After years of conflict the two churches agreed that the bones would remain at Veridun Minor in a **neutral sanctuary**, with Thalmyric and Eclessian orders holding **joint custodianship** and alternating rites by season. The arrangement became a model for later **relic-sharing treaties**, known as **Sanctified Custody Concords**.
 
 ---
 
 ### **Theological Significance**
 
-- The event marked a **turning point in sainthood doctrine**:  
-    From _narrative martyrdom_ to _physical sanctification_.
-- It legitimized the role of **relics as active conduits of divine flame**.
-- It also sparked the first formal debates over the **dangers of relic fraud, relic nationalism, and relic monopoly**.
+- Later writers count the find as a **turning point in sainthood doctrine**: from _narrative martyrdom_ to _physical sanctification_.
+- It strengthened the claim that **relics are active conduits of divine flame**.
+- It also began the long debates over the **dangers of relic fraud, relic nationalism, and relic monopoly**, and over who has the right to say whose bones are whose.
 
 ---
 
@@ -130,4 +131,6 @@ This arrangement would become a model for future **relic-sharing treaties**, kno
 
 - [[Timeline MOC]]
 - [[Canon Index]]
-
+- [[The Reign of Sevrin]]
+- [[The Twelve Companions of the Redeemer]]
+- [[Amaryah the Fire-Bearer]]

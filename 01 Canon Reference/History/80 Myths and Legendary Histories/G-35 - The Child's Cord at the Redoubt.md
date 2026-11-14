@@ -30,7 +30,9 @@ Inside, a mason's child found the official measuring cord used to plan retreats.
 
 During the next assault, the banner route jammed exactly where her knots predicted. The warden abandoned the symbol, opened a service gate and used the child's cord to move survivors. He lost his sword hand holding the passage and later confessed that the first closure, not the lost hand, defined his duty.
 
-Shrines multiplied after his death, each claiming his severed hand as a relic. Fort builders quietly trusted the repaired cord more. It did not perform wonders. It simply measured the bodies earlier plans had ignored.
+Shrines multiplied after his death, each claiming his severed hand as a relic. Fort builders quietly trusted the repaired cord more. Its virtue was ordinary: it measured the bodies earlier plans had ignored.
+
+The wonder, when it came, belonged to the warden. In a much later siege of another fort, defenders saw a one-handed warden on their wall with a knotted cord at his belt. He opened the outer ward first, before the banner and before the soldiers, and held it with his one hand until the last child carrying a baby was through. In the fort's sealed ninth chamber the knocking that had troubled the garrison all winter stopped that night and never began again.
 
 The child grew into an uncelebrated builder. When offered a shrine place, she asked for wider service doors instead. Forts that honoured the hand but ignored the measure later failed the same families in exactly the old way. Their relic rooms remained perfectly accessible while their nursery exits narrowed.
 
@@ -40,7 +42,7 @@ The story changes defence from preserving the most prestigious object to making 
 
 ## How tellers differ
 
-Military versions say the warden ordered the child to measure. Mason families say he first threatened punishment for damaging official equipment. Rival shrines cannot agree which hand was lost.
+Military versions say the warden ordered the child to measure. Mason families say he first threatened punishment for damaging official equipment. Rival shrines cannot agree which hand was lost. The provincial wall feast honours the one-handed defender as a saint; garrison sceptics say the later defenders saw their own captain through smoke, and masons answer that their captain had two hands.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Evacuation walls contain a knotted child's cord or its measured copy. Drills beg
 
 - [[Historical Atlas of Thalmyria]]
 - [[Historical Atlas of Eclessia]]
-- [[GS-12 - Warden of the Last Redoubt]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Fall and the Long Reconquest]]
 - [[Myths and Legendary Histories MOC]]

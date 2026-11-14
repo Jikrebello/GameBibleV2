@@ -64,6 +64,8 @@ Tamekha died around 916 BR. Her Second House contained ordered clinics, stores a
 
 Tamekha remembered the stoppage as an attack upon her body. She withheld medical dreams from descendants of its leaders. Workshop songs celebrated hungry workers who made a dead millionaire wait.
 
+By then the dead were the Basin's greatest landlords. Second Houses lent grain and copper for the crown's campaigns and took repayment in fields, quarries and the villages that worked them. Land that passed to a necropolis left the royal levy, because its owner was dead, and still owed upkeep, because some owners were awake. When the Aramen kings ran out of living land to give their soldiers, garrisons sent to take up allotments found the fields already tilled for a tomb. The empire broke apart around 858 BR with the best of its land in the hands of the dead (see [[Ancient Qahur and the Twin-Reed Crowns]]).
+
 ## Nemeret's counterfeit house
 
 Most costly burials failed. Sudden death, an incomplete bodily regimen, a mistaken name or divided attention allowed the soul to depart normally. Wealth and ritual could still leave a powerful system behind.
@@ -73,6 +75,14 @@ Most costly burials failed. Sudden death, an incomplete bodily regimen, a mistak
 Repeated praise later attracted a dependent Greed Mask. The Mask learned to use the office and rewarded households which transferred wealth into the tomb. As descendants surrendered memories, the imitation became warmer and more convincing. By the Single Radiance, Nemeret appeared more accessible than several genuine Patrons.
 
 The counterfeit revealed the movement's central weakness. Speech, accurate memory and effective supernatural gifts could not prove that the dead person remained. Some priests knowingly protected imitations because living households depended upon them.
+
+## The king at Delkos
+
+The most famous rite of the White Measure was performed on a foreigner. In 685 BR Eryndor III of Ortheia, conqueror of Arqesh, came back from the farther east sick and carrying a foretold death. **Neresh of Qemaret**, a Qahuri officer in his army, brought masters of the discipline to Arqesh, and **Serevan of Delkos** paid for the regimen of gold, salts and resins. A founder normally prepared for years. Eryndor had months, and he died in 684 with the regimen barely begun. The masters performed the final rite at the deathbed.
+
+Serevan carried the embalmed body to Delkos, together with the gilded images of the Ubar kings that Eryndor had kept as regalia. Within months a voice in the tomb-hall spoke in Eryndor's accent, knew his companions' secrets, declared him alive and heirless and promised provinces. For nearly thirty years its promises helped keep the [[Wars of the Inheritance]] burning. Around 657 BR, after the voice refused Neresh a grant, the same Qemaret masters testified that their rite had failed at the deathbed and compared the speaker to Nemeret's counterfeit. Serevan's grandson walled up the tomb.
+
+The case gave the White Measure a reputation it never lost outside the Basin. Atherian and Vashari writers called any convincing speaking tomb "a Delkos voice". House-Builders argued for generations over whether their masters had told the truth in 657 or simply changed sides when Neresh did.
 
 ## Attendants and inhabitants
 

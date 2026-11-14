@@ -107,4 +107,5 @@ The proposed Phoenix at the First Binding and its associated Coil-Wing choir rem
 
 - [[Great Saints and Sinners - Lives and Afterlives]]
 - [[Distant Lands and Otherworld Histories]]
+- [[Saints and Sinners of the Chronicles]] — public reader account of these lives and commissions, told through witnesses' claims.
 

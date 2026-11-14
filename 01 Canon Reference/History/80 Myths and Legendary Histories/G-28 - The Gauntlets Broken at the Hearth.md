@@ -34,13 +34,15 @@ He agreed, then broke the bargain once, hiding metal for a private weapon. The f
 
 The surviving apprentice became a master and rang the stop bell against her own favourite design years later. That smaller obedience is often the forge version's true ending.
 
+The chapel version has one more. A generation after his death, a strength-order that had begun cutting away healthy flesh for iron and leaving its injured on the road met in its chapter hall. The smith walked in through the shut door with his ruined hands bare, named every apprentice the order had abandoned, took its seal and broke it across his knee. He spoke to nobody else and was gone before the candles steadied. The order's records, which he had told them to keep, were later used to pay its victims.
+
 ## Why it is remembered
 
 The tale turns genius from entitlement into debt. Its most important relationship is between a master who thinks urgency excuses him and an apprentice whose ignored warning becomes the voice every later workshop must honour.
 
 ## How tellers differ
 
-Smith guilds praise his repentance. Burned-house descendants say restitution was imposed, not offered. Rival shrines display incompatible gauntlets and accuse each other of profiting from the dead.
+Smith guilds praise his repentance and keep his feast as patron of disabled artisans. Burned-house descendants say restitution was imposed on him by the families, and that the chapel visit is a guild story. The strength-order's successors call it slander. Rival shrines display incompatible gauntlets and accuse each other of profiting from the dead.
 
 ## What remains
 
@@ -50,7 +52,7 @@ Forge hearths hang two broken gauntlets apart. When the stop bell sounds, the yo
 
 - [[Towns and Wars of the Long Frontier]]
 - [[Historical Atlas of the Velians]]
-- [[GS-05 - Smith Who Broke His Hands]]
+- [[Saints and Sinners of the Chronicles]]
 
 - [[The Long Frontier and the First Unsealing]]
 - [[Myths and Legendary Histories MOC]]

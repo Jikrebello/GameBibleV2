@@ -12,9 +12,9 @@ needs: []
 aliases: [Second Harbour, Sarqen, Kingdom of Sarqen, Spared Towns and the Queen's Country]
 tags: [world-historical-atlas, atherian-formation, royal-country]
 ---
-# The Spared Towns and the Kingdom of Sarqen
+# The Spared Towns and the Queen's Country
 
-The **Kingdom of Sarqen** developed among the communities spared when Atherian forces destroyed Qarzeth in approximately 525–520 BR. Farms, minor ports and inland towns preserved much of the Gateway country's population and productive work. Their first league organised food, ransom and road protection; over the following generations, the enlarged harbour of Sarqen and the House of Nerethan established a royal government over the surviving towns.
+The **Kingdom of Sarqen** developed among the communities spared when Atherian forces destroyed Qarzeth in approximately 525–520 BR. Farms, minor ports and inland towns preserved much of the Gateway country's population and productive work. Their first league organised food, ransom and road protection, and it was bound by an oath sworn over a shared meal at Sarqen's landing in the days after the sack. Over the following generations, the enlarged harbour of Sarqen and the House of Nerethan established a royal government over the surviving towns, and every ruler of that house swore the towns' oath before being recognised.
 
 The kingdom's inhabitants included descendants of older shore populations, Ahdari migrants, refugees, freed captives and subsequent maritime settlers. Each community entered the new government with its own experience of the war and its own claim upon the work of reconstruction. By Samyra Nerethan's reign, these settlements had sustained a royal country for more than a century.
 
@@ -26,6 +26,14 @@ Refugees carried skills and family relationships into these towns. They included
 
 The capital's salting damaged selected ground, while the demolition of waterworks and restrictions on rebuilding kept much of the city desolate. Food production continued beyond it. The survival of cultivated land and inhabited ports made a later kingdom possible.
 
+## The table at the landing
+
+Some days after the sack of 520, the people the war had spared ate together at Sarqen's landing: rescued children, carriers, farmers, freed slaves, people ransomed out of the capital and a few Atherian deserters. Each brought what they had, barley bread, salt fish, dates and a little oil. No one was served by rank and no seat was kept empty. **Sapha of Esharat**, the midwife whose daughter Neral had died in the capital, set the rules and refused to preside.
+
+The rules became the **Table Oath** of the Spared Town League: *no child for the table; no seat kept empty; no guest served by worth.* The towns renewed it every year at Sarqen with a meal laid the same way, on long boards with no high end. Each clause answered something the towns had seen. The Provider's priests had fed the capital on children; its festival tables had kept a place for the god; its guests had been seated by what they could give. From the first renewal, the towns read "no guest served by worth" as covering suppliants and fugitives, so that a stranger who reached the table could not be sold from it.
+
+Salt from the pans of Hazreth and Sarqen stood on that table. The same salt, at the towns' request, was laid on the ruined sanctuary, gardens and store compounds of Qarzeth, so that nothing could be served from that ground again.
+
 ## A smaller harbour becomes a centre
 
 Second Harbour, later known as Sarqen, was an existing lesser port that escaped the capital's destruction. Its enlargement drew upon resident pilots, craftspeople, storekeepers and cultivators, joined by newcomers seeking work and security. Repair of storage and water supply accompanied renewed shipping. A harbour could attract vessels only if it could provide food, equipment and labour between voyages.
@@ -34,11 +42,13 @@ Recovery remained unequal. Compulsory work and preferential grants gave some hou
 
 Between about 500 and 400 BR, the port acquired greater political importance within a country still subject to Atherian supervision. Cultivated revenue, shipping and military protection became resources around which hereditary authority could consolidate. The surviving towns retained influential families and local institutions capable of supporting or resisting a royal household.
 
+The seat of that household was Sarqen and never the ruined capital, for reasons the towns gave in three registers. Qarzeth's cisterns were broken and its central ground salted. A court built over the old sanctuary would have been a place kept for the Provider, and the towns' oath forbade a seat kept empty for anyone. And the oath itself had been sworn at Sarqen's landing.
+
 ## Royal authority and Atherian influence
 
-Nerethan of Delkos arrived as an Atherian harbour commander in 499 BR and married Hadrima of Esharat in 497. His officer house inherited naval practice and royal titles from the Delkosi Successor kingdoms formed after Eryndor III's death. Her family controlled land and carrying interests in an inland town whose households had sheltered children during the final war. Hadrima's mother **Hesara** had helped conceal children from Qarzeth's collectors. Her maternal grandparents were **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who had entered the carrying trade around 548 BR. This connection brought funerary songs, linen customs and royal prestige into Hadrima's household.
+Nerethan of Delkos arrived as an Atherian harbour commander in 499 BR and married Hadrima of Esharat in 497. His officer house inherited naval practice and royal titles from the Delkosi Successor kingdoms formed after Eryndor III's death. Her family controlled land and carrying interests in an inland town whose households had sheltered children during the final war. Hadrima's mother **Hesara** had helped conceal children from Qarzeth's collectors during the siege years. Her maternal grandparents were **Lemara of Esharat** and **Prince Tazirun Zaheret**, a younger son of a Qahuri royal house who had entered the carrying trade around 548 BR. This connection brought funerary songs, linen customs and royal prestige into Hadrima's household.
 
-Nerethan and Hadrima's son Arenes obtained recognition as hereditary ruler in 457. [[The House of Nerethan]] developed through later marriages, religious patronage and arrangements with the towns supplying its port. Some obligations continued earlier practices; others followed conquest and the demands of the new government.
+Nerethan and Hadrima's son Arenes obtained recognition as hereditary ruler in 457, but only after the town leaders made him sit at the unranked table at Sarqen, eat what was put in front of him and swear the Table Oath. His son Tavren in 434 and grandson Olymes in 408 did the same. Royal speakers liked to say the crown had inherited the oath; the towns answered that the oath had inherited the crown. [[The House of Nerethan]] developed through later marriages, religious patronage and arrangements with the towns supplying its port. Some obligations continued earlier practices; others followed conquest and the demands of the new government.
 
 Atherian authorities retained influence through garrisons, payments, military assistance and the ability to favour rival claimants. They often depended upon local rulers to maintain supplies and order. The crown, in turn, needed sufficient support at home to meet those demands without surrendering every advantage to foreign patrons.
 
@@ -50,6 +60,8 @@ The resulting kingdom differed substantially from the old republic. Royal succes
 
 Religious memory mattered to that inheritance. Some towns had hidden children and assisted the destruction of the sacrificial establishment. Families also remembered relatives killed or enslaved during the sack. A royal claim to honour the country's dead therefore encountered traditions that distinguished opposition to sacrifice from approval of everything the victors had done.
 
+The oath decided Samyra's fortunes twice. In 373 the minister Vardek, ruling for her young brother Nethar, invited the fugitive Atherian commander Marovan Veyr to land at Sarqen and eat, meaning to kill him at table. An Esharati elder warned Veyr that the table was laid with an empty seat, and Veyr turned back to sea. When the towns learned that Vardek had laid a table to kill a guest, they rose for Samyra, judged Vardek under the oath and handed him to Teren Casvilar's officers for execution. Twenty years later, when the Atherian treasury advocate Corven Ilar tied the queen to the old child-taking capital, the towns' envoys answered him in Caleran with the words of the oath and the names of the Gateway hostages whom Caleran itself had killed on its festival ground in 609.
+
 The queen inherited food production, shipping, a royal following and access between cultivated country and desert approaches. Those resources had been rebuilt across generations. Thalion annexed the kingdom after her defeat in 350 BR, preserving its working harbour and negotiating with surviving town leaders. The dynasty ended while the country remained inhabited.
 
 ## Further reading
@@ -60,3 +72,4 @@ The queen inherited food production, shipping, a royal following and access betw
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]]
 - [[The Celestial Compact and the Caleran Republic]]
 - [[Historical Atlas of Atheria]]
+- [[The House of Nerethan]]

@@ -84,6 +84,10 @@ The most powerful imperial complex was the **Copper Orchard of Tamekha**, built 
 
 In 903 BR, the Copper Orchard's living managers diverted grain promised to Tenaret's tomb workers to repair two rooms collapsing within Tamekha's realm. Stonecutters, painters, brewers and healers went unpaid for three months. Soldiers beat the first leaders of their stoppage. Boat crews then joined the protest and forced the temple to release grain. Later royal accounts praised the delivered ration while omitting the beating and the dead Patron whose demands helped cause the crisis.
 
+The empire ended without a great defeat. By the late tenth century BR the royal mortuary estates and the Second Houses held a growing share of the Basin's best fields, its copper and its skilled crews. Their land paid no royal levy, because the dead owned it, and it still demanded lamp-oil, linen, repairs and labour, because some of the dead were awake. White Measure houses lent grain and copper for the crown's campaigns and took fields in return, so each war left more of the river in the hands of tombs.
+
+The reckoning came in the south. When the Arqeshite provinces of Kassur I pressed up to Qahur's eastern caravan stages in the ninth century, the crown had to hold the southern narrows and the desert mines with garrisons it could no longer feed from its own land. It paid them in allotments. Soldiers who marched out to claim their fields found them already tilled for a tomb, with the villagers answering to a dead proprietor's steward. The garrisons sold their loyalty to whichever temple or military house could feed them, and the crews at the desert mines walked away from the shafts. By about 858 BR the empire had dissolved into three crowns and many estates, and the strongest landlords in the Basin were dead. Tenaret songs of the next century mocked the king who paid his spearmen in graves.
+
 ## The Single Radiance, c. 842–814 BR
 
 Imperial contraction strengthened rival temples and military houses. **Ithren III** inherited the middle crown around 842 BR and blamed political division upon Qahur's many cults. He built a new residence at **Aseret**, closed major sanctuaries and directed public offerings towards the **Radiance Above the Reeds**. Confiscated temple estates funded the new court.
@@ -100,11 +104,11 @@ Restoration brought further violence. Officials of the Radiance were executed, t
 
 ## Foreign kings and local restorations, c. 800–520 BR
 
-No later house securely held the whole Basin. Qemaret, Tenaret and Sakhret supported rival crowns, temple estates commanded retainers and foreign rulers intervened in succession disputes. Arqeshite armies already held eastern road stations when the Single Radiance court collapsed. In 814 BR, Queen Narethi asked Merod II Ubar to send a royal son whom she could marry beside the Twin-Reed throne. The prince Ashkur was murdered before reaching the Basin. Merod used his death to intensify an existing expansion, occupying eastern canal towns and transferring land to military supporters over the following decade.
+No later house securely held the whole Basin. Qemaret, Tenaret and Sakhret supported rival crowns, temple estates commanded retainers and foreign rulers intervened in succession disputes. Arqeshite armies already held eastern road stations when the Single Radiance court collapsed. When Zaheret reopened the temples in 814 BR, officials of the Radiance who had received confiscated temple fields fled east to those stations with their families and their deeds. Merod II Ubar took up their claims. He sent his younger son **Ashkur Ubar** with an escort to bring the exiles back down the road and seat them on their estates. Ashkur was murdered before reaching the Basin. Arqeshite histories blamed the Qahuri crown houses; Qahuri histories blamed the exiles' own rivals and Merod's commanders. Merod used his son's death to intensify an existing expansion, occupying eastern canal towns and transferring land to military supporters over the following decade.
 
 Eryndor III of Ortheia entered divided Qahur in 695 BR while campaigning against Arqesh. One crown recognised him with a local royal title and admitted him to an oracle; another supported Arqesh; a third waited upon the military outcome. The river grain, boats and guides supplied by his Qahuri allies made the final campaign possible. The limited sign associated with his oracle journey became the foundation of later claims that he possessed Qahuri or celestial parentage.
 
-Eryndor's death in 684 placed selected crown towns under Neresh of Qemaret, a Qahuri-born officer who used garrisons and military marriage to claim part of the inheritance. Native temple, canal and royal houses expelled or absorbed his followers over the following generations. The eastern [[Vashar and the Crown of Roads and Dawns|Vasharan kings]] imposed a more durable supremacy through garrisons, tribute and support for selected crowns. Their governors retained Basin officials because water management could not be improvised. They demanded grain, horses, soldiers and road labour in return.
+Basin craft followed Eryndor to his deathbed. **Neresh of Qemaret**, a Qahuri-born officer in his army, brought White Measure masters to Arqesh in 685 BR, and they performed the final rite over the dying king; for a generation afterwards the embalmed body spoke at Delkos (see [[The White Measure and the Second Houses]]). Eryndor's death in 684 placed selected crown towns under Neresh, who used garrisons and military marriage to claim part of the inheritance. Around 657 BR, refused a grant by the speaking tomb, he had the same masters testify that their rite had failed. Native temple, canal and royal houses expelled or absorbed his followers over the following generations. The eastern [[Vashar and the Crown of Roads and Dawns|Vasharan kings]] imposed a more durable supremacy through garrisons, tribute and support for selected crowns. Their governors retained Basin officials because water management could not be improvised. They demanded grain, horses, soldiers and road labour in return.
 
 The **House of Zaheret** intermittently held Tenaret. Lesser Reed kings controlled Qemaret's lower shipping, while Sakhret commanders governed the southern road through marriage with pastoral and mining houses. Their courts competed through temples, funerals and construction as well as war.
 
@@ -142,10 +146,14 @@ The White Measure survived as a wealthy minority discipline and an initiatory se
 | c. 1076 BR | Aramen captures Qemaret |
 | c. 1076–858 BR | Aramen empire and great necropolises |
 | c. 916–903 BR | Tamekha opens the Copper Orchard; its demands help cause the workers' stoppage |
+| c. 858 BR | garrisons paid in tomb land desert the crown; the empire dissolves into three crowns and many estates |
 | c. 842–814 BR | Single Radiance and Zaheret restoration |
+| 814 BR | Ashkur Ubar murdered while escorting Radiance exiles back to the Basin |
 | c. 800–520 BR | regional crowns under Arqeshite and Vasharan pressure |
 | 695–684 BR | Eryndor's Qahuri title, oracle journey and eastern campaign |
+| 685–684 BR | Neresh brings Qemaret masters to Eryndor's deathbed rite |
 | 684–c. 650 BR | Neresh of Qemaret holds selected crowns during the Wars of the Inheritance |
+| c. 657 BR | the Qemaret masters testify against the voice in Eryndor's tomb |
 | c. 560–500 BR | Zaheret–Esharat marriage and Gateway refugees |
 | c. 500–350 BR | three principal crowns face Vasharan and Atherian influence |
 

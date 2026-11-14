@@ -26,7 +26,7 @@ Far-cold survivors lived around protected coves, short river valleys, forest pas
 
 The earliest settlements combined fishing, cold-grain cultivation, livestock, hunting and seasonal movement. Small boats followed inshore water and crossed between islands. People stored dried fish, grain, fat, roots and fodder against winter. A household with a sound roof and surplus food could shelter neighbours, demand service and survive a Grobi alarm. Repeated need enlarged some homes into halls containing assembly space, granaries, workshops and armed sleepers.
 
-Authority followed practical concentration. Store keepers decided when sealed grain could be opened. Boat owners connected several coves. Smiths repaired tools whose loss could end a harvest. War leaders organised watch and pursuit. These offices could belong to one ruling household, but no law required that they always did. Assemblies expected a chief to feast, compensate and protect because those acts demonstrated access to real resources.
+Authority followed practical concentration. Store keepers decided when sealed grain could be opened. Boat owners connected several coves. Smiths smelted bog iron from the earliest halls, because little salvaged Giant metal reached the far-cold coasts, and they repaired tools whose loss could end a harvest. War leaders organised watch and pursuit. These offices could belong to one ruling household, but no law required that they always did. Assemblies expected a chief to feast, compensate and protect because those acts demonstrated access to real resources.
 
 Captivity formed part of the economy from the beginning. Raids took labourers, spouses and children. A slave could herd, row, weave, work iron or manage a household while lacking the right to leave. Giant-blooded captives were valued and feared for bodies which could produce unusually tall or powerful descendants. Chieftains took some as concubines or married them into ruling houses; lesser Giant war leaders also seized halls of their own before most of their descendants entered the human population. Manumission and adoption created routes into a hall, but later family belonging did not make the original capture voluntary.
 
@@ -45,7 +45,9 @@ Standards could be borrowed. A hall might fight beneath an Ox banner in one war 
 
 The period produced compensation assemblies, annual All-Things, seasonal musters and early sail experiments. Once after harvest, chiefs and free hall men met in open ground to hear disputes which crossed several hall districts, witness succession and decide the common Grobi watch. A chief could not bind an absent hall unless its recognised men had sent a speaker. Women, thralls and dependants affected by the judgement normally had to speak through a free man. Boat crews travelled to Folk and mixed maritime harbours, traded fish, hides, iron and amber, served foreign rulers and took captives. Most voyages remained limited by hull strength, food, weather and the need to return for harvest or winter repair.
 
-[[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] belongs to this long divergence. One hall chose to maintain a real southern watch rather than answer a northern kin obligation. The decision saved people in one district and left relatives to death or dispossession elsewhere.
+[[G-61 - The Hall That Faced the Grobi|The Hall That Faced the Grobi]] belongs to this long divergence. Kin to the north sent the old split antler that summoned every cousin to their feud. The hall's youngest herder found Grobi signs under the snow, among them a child's mitten pinned to a thorn, and the captain kept his spears at home. His cousins' hall burned before help came, and the Grobi struck his own through the lambing caves regardless. He took a blow from a widowed aunt's half of the antler without raising a hand, then hung the other half above a new hall facing the caves. Ättar songs say the Grobi planted the summons to empty the watch, and old winter halls still point one roof beam towards the likeliest approach of danger. The choice set a rule the watch halls kept: the threatened house before the distant feud. Afterwards the two branches shared marriages and songs more readily than command.
+
+The same centuries brought the **Withheld Season** to the cold watershed north of the halls. Rulers who had sealed seed, stock and their dead through three bad winters refused to open the stores at the thaw, and the tellers say a High Hunt rode the old seasonal roads to take what had been kept. Ättar songs make the woman who cut the first release mark into her mare's harness the sister of a hoarding ruler. Release cuts still appear on Ättar barn lintels and burial cloth before winter stores are opened.
 
 ## Grobi beyond the watch road
 
@@ -55,11 +57,11 @@ Grobi packs south of the halls were already divided among breeding hearths, hunt
 
 Winter watch required beacons, stored food, skis and sledges, spare bowstrings, route markers and people willing to remain at exposed posts. Chiefs received honour for victory while households carrying fuel and replacing exhausted watchers made defence possible. This unequal distribution of praise became a recurring source of hall satire.
 
-## The making of the Nine-Drum Host, c. 1608 BR
+## The making of the Nine-Drum Host
 
 Every winter produced a Grobi war season. Packs which survived the previous cold bred and fed through spring, summer and autumn. Goblins became hobgoblins; victorious hobgoblins became orcs; and the richest bands maintained a few ogres. When southern forage failed, the enlarged warbands moved north towards halls, livestock and granaries. Most hosts broke after a raid or turned upon one another when food ran out. The Nine-Drum Host was the largest attempt to bind this annual violence into permanent conquest.
 
-Three abundant summers south of the Grey-Wolf approaches produced large animal herds and rich Grobi store camps. Successful leaders maintained more orc-stage fighters and several ogres. Smaller packs submitted because Gharuk offered food, breeding access and a chance to consume stronger prey. The growth placed new demands upon the same landscape.
+Around 1600 BR, three abundant summers south of the Grey-Wolf approaches produced large animal herds and rich Grobi store camps. Successful leaders maintained more orc-stage fighters and several ogres. Smaller packs submitted because Gharuk offered food, breeding access and a chance to consume stronger prey. The growth placed new demands upon the same landscape.
 
 Early freezes then killed grazing animals and trapped stored carcasses beyond broken river ice. The orc-stage commander **Gharuk Eight-Bowls** proposed a northward seizure rather than dispersal and bodily reversion. He had led successful summer raids and could claim food from nine large drum companies. His authority depended upon continuing to feed the stages which made him formidable.
 
@@ -69,15 +71,15 @@ Wrath speakers called the expedition the opening of a permanent **Warm Road**. G
 
 The **Narrow-Bowl Hearths** resisted incorporation because Gharuk's orcs ate from stores reserved for their young. He seized two camps, killed their leaders and placed the surviving brood in Varka's ration train. When the early freeze worsened, he began feeding those young to his ogres. **Urzha**, the strongest Narrow-Bowl survivor, withdrew with her scouts and decided to destroy Gharuk before he consumed the rest of her pack.
 
-## The opening defeats, c. 1607–1603 BR
+## The opening defeats
 
-The Nine-Drum Host entered the north-eastern passes with preserved meat, sledges and captured animals. Scouts used old Nhalduran routes which human defences regarded as impassable. The first beacon line failed after a hall chief withheld replacement watchers during a feud.
+The Nine-Drum Host entered the north-eastern passes with preserved meat, sledges and captured animals. Scouts used old Nhalduran routes which human defences regarded as impassable. The first beacon line failed after a hall chief withheld replacement watchers during a feud, breaking the oldest rule of the watch halls.
 
 Human messengers found no common command. Wolf-affiliated halls demanded immediate reinforcement. Ox valley chiefs wanted the drove gates held. Lion crews refused to beach vessels before the autumn fish catch. Bear holds feared leaving inner settlements exposed. Each concern had material force, and the failure to choose a shared priority allowed Gharuk to defeat them separately.
 
 The host took **Hall Arven** with its roof, granary and livestock intact. Grobi ate the defenders and noncombatants during the victory feast, then divided the animals and grain. It burnt **Keld Varn** after defenders spoiled the food and withdrew. At **Morn Gate**, human prisoners being kept for later eating were first forced to reopen a collapsed road while Grobi breeding hearths occupied the warm animal rooms. Several smaller settlements emptied before attack. People fleeing without carts or fodder died on the roads, and the dead froze in abandoned feast spaces.
 
-The title **War of the Empty Halls** first described these deserted and captured settlements. Later poetry often claimed every inhabitant died. Registers of refugees, ransoms and later marriages show that many survived elsewhere.
+The title **War of the Empty Halls** first described these deserted and captured settlements. Later poetry often claimed every inhabitant died. The law-speakers' remembered rolls of refugees, ransoms and later marriages, recited at All-Things for generations and checked against the notches on hall tally-sticks, show that many survived elsewhere.
 
 Human reprisals were also severe. A Bear company killed Grobi traders under a temporary marker because it believed their hides concealed route messages. Lion crews sold captured Grobi and human servants through western harbours.
 
@@ -90,7 +92,7 @@ The surviving halls gathered at the closed road above Hornwall. Four chiefs arri
 - **Brennar of Stoneden** brought Bear hold infantry, charcoal, iron and refugees already sheltered through winter. His stores were largest and his armed following smallest.
 - **Eldran of Grey Pass** commanded Wolf scouts and the survivors of the failed beacon line. He possessed the best route knowledge and little food.
 
-**Hedra Store-Keeper** supervised the common granary. Her own hall had lost people after a chief opened a sealed store to reward fighters before dependants had received shares. She required each coalition to surrender its grain keys and record withdrawals publicly. This provision kept the gathering together through the negotiations and later battle.
+**Hedra Store-Keeper** supervised the common granary. Her own hall had lost people after a chief opened a sealed store to reward fighters before dependants had received shares. She required each coalition to surrender its grain keys and had every withdrawal cut as a notch on tally-sticks hung where the whole gathering could see them. This provision kept the gathering together through the negotiations and later battle.
 
 Urzha offered maps of the Nine-Drum ration road and the position of the surviving Narrow-Bowl young. She was selling out Gharuk. He had conquered her camps, eaten their leaders and begun feeding her brood to his ogres; destroying him would remove the predator above her and preserve what remained of her own pack. In return, Hedra and the four chiefs promised a marked corridor east and agreed not to attack Urzha's pack while it withdrew. The hall assembly accepted because Urzha's information made an attack on Gharuk's food train possible.
 
@@ -108,7 +110,7 @@ Savar, Torvek, Brennar and Eldran accepted. Their first transformations occurred
 
 The bargain created the first true pact lines and the hereditary basis of later skinwalker office. The first children claimed under the covenant were innocent persons.
 
-## Breaking the Warm Road, c. 1602–1596 BR
+## Breaking the Warm Road
 
 The human counteroffensive attacked supply before massed strength. Wolf scouts and Urzha's guides led small companies to Varka's sledge route. Lion boats carried grain and casualties between unburnt halls, allowing defenders to remain forward longer than Gharuk expected. Ox engineers closed the drove road behind one Grobi division. Bear infantry held the narrow ground while the ration camp was attacked.
 
@@ -173,7 +175,7 @@ Hall life changed with the year. Spring repaired roofs, ships, fences and tools.
 
 Women could control households, land, production, boat shares and political relationships while remaining excluded from formal chief selection. Free farmers held stronger claims than dependants; freed households could accumulate standing; thralls remained vulnerable to sale, forced labour and sexual coercion.
 
-Skalds remembered genealogy, law, voyages, insults and loss. Comic verse tested boasts against practical work. A captain who claimed to have defeated a storm might be asked why the sail still belonged to the person who repaired it. Games included wrestling, board play, boat races and winter contests in which teams moved a loaded sledge without spilling its ceremonial bowl.
+Skalds remembered genealogy, voyages, insults and loss. Law-speakers carried the law itself in memory, with tally-sticks for debts, shares and stores. Atherian traders brought written agreements, but the halls kept law spoken: a law-speaker could be questioned before the All-Thing, while a board of letters could not answer back. Comic verse tested boasts against practical work. A captain who claimed to have defeated a storm might be asked why the sail still belonged to the person who repaired it. Games included wrestling, board play, boat races and winter contests in which teams moved a loaded sledge without spilling its ceremonial bowl.
 
 ## Navigation
 

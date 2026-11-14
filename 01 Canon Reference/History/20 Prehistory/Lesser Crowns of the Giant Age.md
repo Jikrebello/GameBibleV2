@@ -43,7 +43,9 @@ The shared instrument works only when two lawful rulers voice opposed advice bef
 
 Human settlements supplied nearly all food, water, fibre, timber, animals and ordinary labour. The cities flew through crafted lift bodies, Zephyraxis pressure mantles, Hecatara route anchors and ground crews who operated the system. Royal cavalry and chariot horses remained concentrated among Giant and client houses, while human camel networks sustained the roads beneath them.
 
-The War of Altitude and the [[Vathra and the Great Unyoking|Great Unyoking]] broke the crown between c. 2300 and 2260 BR. Urzavad fell, Kel-Orun was deliberately grounded and Dazhur escaped after discarding a dependent ward. Sairat, Molqara and Yazuran passed beyond reliable Material history. Their current state remains unresolved.
+The War of Altitude and the [[Vathra and the Great Unyoking|Great Unyoking]] broke the crown between c. 2300 and 2260 BR. Urzavad fell, Kel-Orun was deliberately grounded and Dazhur escaped after discarding a dependent ward, then vanished within three years. Sairat, Molqara and Yazuran passed beyond reliable Material history during the war. Northern counts give "three or four" lost cities; the authorial count is four (Causality Pass 01.9). Their current state remains unresolved.
+
+The sky routes failed because the blood that opened them thinned. They had been opened under Hecatara correspondences recognising the First Road-Mother's Titan-continuity, and Hecatara displaces the distance of every shortened route onto the country below. Diluted heirs fed the routes with anchors, crews, tribute and captives instead of blood. In the Closing-Court years the displaced distance returned all at once, the valleys under the crown-cities stretched, and Ozhur IV's requisitions were bodies thrown into that stretching (Causality Pass 01.2).
 
 ## Nhaldur, the Penal Crownland
 
@@ -64,6 +66,8 @@ Ulmaris provides copper, crystal, timber, food, captives, and Nythalum-directed 
 A delta league of flood cities whose crown rotates among serpent grandmothers, giant-blooded houses, and late human temple dynasties. Ishkatar claims permanent overlordship; Anshara treats its rulers as marriage-worthy border crowns.
 
 Canal access follows adopted kinship as much as force. Rival flood records preserve several simultaneous Pharaoh-Serpents and make Ishkatar's supposedly seamless chronology impossible.
+
+In the Closing-Court years, as Ishkatar's tomb-estates took the river crews, two Sarrakai crowns fought the War of Stolen Victories (c. 2385–2335 BR) over a prisoner-dug canal. The upstream king's commander killed boat families who had surrendered the sluices on a promise of safety, and the freed captives of the war stayed attached to the land as tenants of whichever crown held it. [[G-69 - The Four Faces of One Victory]] preserves the recut relief; [[Idol Kingdoms and the Hunger Wars#^atlas-id-r01]] holds the Mask history. When the Spine later broke into its lower bed, the delta crowns found the flood running past their own doors.
 
 ## The Copper Stair Kingdoms
 
@@ -88,6 +92,8 @@ They are the first states forced to choose when the Prophet's movement reaches t
 A chain of matrilineal caravan crowns whose rulers control water, bride exchange, sanctuary, ransom, and safe-conduct. Survives between Ishkatar, Anshara, Vathra, and Kharad through marriage diplomacy.
 
 Its maternal books preserve direct Titan-Firstborn births more accurately than later paternal king lists. Several wells still enforce ancient sanctuary without morally approving the ruler who purchased it.
+
+After the Unyoking (c. 2255 BR), Meya of Narash bargained with a Way-Weaver at the dead anchor field above the wells and sealed them against every road shorter than the walked road. The gift binds her line as her caravan house reckoned it that day, through mothers, so the crown-mothers have stayed maternal while every neighbour's succession changed (Causality Pass 01.3; the Vathra articles carry the reader account).
 
 ## The Black Orchard Courts
 

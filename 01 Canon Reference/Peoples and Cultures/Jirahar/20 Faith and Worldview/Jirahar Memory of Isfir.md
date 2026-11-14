@@ -33,9 +33,15 @@ Sha'il bar Qoreth, later called Aquilan, took the dispute beyond Jirahar courts 
 
 After the Resurrection, sacrifice continued at Qiryath but its authenticated sign of divine acceptance ceased. Jirahar schools attribute this to defilement, coming destruction, hidden judgement, exile, priestly failure, or a test. Redeemer churches treat it as confirmation that sacrifice had been fulfilled. The silence is an observed historical fact; its public interpretation remains contested.
 
+## The Second Silence
+
+In 385 AR Emperor Vestian made the Redeemer's faith compulsory, and the reception lamps lit at his state professions burned yellow by the thousand while willing baptisms in the parish churches still kindled. Redeemer congregations of Jirahar descent in the gateway ports said that they had heard such a silence before. The name they gave it, the **Second Silence**, set the empire's worship beside the rejected sacrifice their ancestors had argued over at Qiryath. The churches have avoided the name ever since. Jirahar teachers who remember it make a narrow point: a silence can fall on a rite performed by the wrong people for the wrong reason, and it can fall on an empire as easily as on a sanctuary. [[Vestian Persecutions and the Long Diaspora]]
+
 ## Collective Blame
 
-Church polemic turned the act of a named council into hereditary guilt. Later rulers used that accusation to cancel debts, seize property, dissolve charters and sanctify violence. The responsibility belongs to the institution and people who sought Isfir's death; it did not pass through blood to later Jirahar communities.
+Church polemic turned the act of a named council into hereditary guilt. Later rulers used that accusation to cancel debts, seize property, dissolve charters and sanctify violence. When the lamps of 385 failed, Vestian's preachers blamed "Jirahar blindness" in the council's descendants, and his officers searched Jirahar and baptised households alike on the strength of descent. The responsibility belongs to the institution and people who sought Isfir's death; it did not pass through blood to later Jirahar communities.
+
+The same emperor wrote the condition that still governs Qiryath. Vestian struck "in perpetuity" from the charter that emptied the city and wrote *before the Mesakha* in his own hand. Jirahar custodians at the gate stair have read his clause aloud for almost a thousand years as a promise their persecutor did not mean to make. [[Qiryath Reqa]]
 
 ## Navigation
 

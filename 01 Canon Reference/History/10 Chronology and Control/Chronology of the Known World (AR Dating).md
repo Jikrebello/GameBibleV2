@@ -168,7 +168,7 @@ The Long Frontier proper is 612–884 AR; the later entries describe the renewed
 - **1015 AR — THE GREAT SPLIT.** Bonifac III demands primacy and trusteeship; Cardinal Hubald nails the anathema to the Great Lamp of Veridun with four nails; Patriarch **Makarios the Adamant** answers in kind. See [[The Great Split — Two Crowns, One Fire]].
 - **1019–1046 AR — Ludovar the Mild;** sons' rebellions. **1049 AR — Partition of Drossfeld:** Aldwin (→ Aurelia), Lotharic (→ Virelia), Gervin (→ the marches, fragmenting into the ancestor-duchies).
 - **1029–1052 AR — The Second Breaking;** ended by **Empress Theodosia the Kindler**; the **Feast of the Rekindling** (1052).
-- **1061 AR — The Choosing at Strazgorod.** Prince Radomir I of the Vesari tests the four faiths; his envoys weep in Veridun's Ember-Cathedral ("we knew not whether we stood on earth") — and the crown chooses the Sanctum anyway, for an Adalmarid marriage and western swords. Virelia's hierarchy goes west; its folk piety stays east-flavored forever.
+- **1061 AR — The Choosing at Strazgorod.** Prince Radomir I of the Vesari tests the four faiths; his envoys weep in Veridun's Ember-Cathedral ("we knew not whether we stood on earth") — and the crown chooses the Sanctum anyway, for an Adalmarid marriage and Adalmarid swords. Virelia's hierarchy goes to the Sanctum; its folk piety keeps Veridun's flavour forever.
 - **1102 AR — Karlmann the Idle deposed;** **1104 AR — the Crown of Embers passes into trust** at the Sanctum Divinitatis, "until the realm is worthy of one head." The reunification mandate acquires its legal object.
 
 ## High Noon and Long Decline (1104–1290 AR)

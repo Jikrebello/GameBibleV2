@@ -18,7 +18,7 @@ tags: []
 ---
 # Age of Exodus
 
-The Age of Exodus, approximately c. 2300–2160 BR, begins when the Great Prophet's commissioned movement becomes the center of the [[The Great Unbinding|Great Unbinding]]. The Prophet gathers the largest deliberate convergence of liberated human communities and leads that representative remnant into the [[Great Glass Desert]]. During the century-long [[The Glass Sojourn|Glass Sojourn]], the mixed host becomes one people before dividing after the Prophet's death. Other human communities survive the end of Giant rule outside it.
+The Age of Exodus, approximately c. 2300–2160 BR, begins when the Great Prophet's commissioned movement becomes the centre of the [[The Great Unbinding|Great Unbinding]]. The Prophet gathers the largest deliberate convergence of liberated human communities and leads that representative remnant into the [[Great Glass Desert]]. During the century-long [[The Glass Sojourn|Glass Sojourn]], the host is fed in the desert and becomes one people. When it is sent south, the bread stops at the edge of the Glass, the Prophet dies at the threshold, and the people leave the refuge hungry and without a leader every company will obey. Other human communities survive the end of Giant rule outside it.
 
 ## The Liberation
 
@@ -28,30 +28,6 @@ The Prophet announces, interprets, intercedes, prepares, and leads. Giant rulers
 
 Liberation traditions remember the direct breaking of four Imperial Horizons. Anshara destroyed itself concurrently in the Drinking Wars.
 
-## The Glass Refuge
-
-The Glass predates the Prophet, his plagues, and the Giants' attempts to approach it. Giant powers left failed marginal incursions but never established a permanent deep-Glass settlement. The Lord deliberately sends the host into it as shelter while the Giant world continues collapsing outside.
-
-The ordered camp becomes a dry ark: people, animals, seed, tools, medicine, records, law and living crafts survive through both high-sign provision and ordinary material labor. Anchor camps become long occupations. Common worship, law, rationing, service, language, intermarriage and burial form the refugees into one people over approximately a century.
-
-The later Ark-derived traditions remember the common inheritance differently:
-
-- the Jirahar remember commandments, names, routes, and failed obedience;
-- the Ahl-e-Ahd remember water, oath, provision, and covenant;
-- Atherian descendants remember liberation but often sand away the Prophet's harder demands;
-
-Folk, Ättar, Tarkhan and Nsizwa memory arises principally from Orphaned survival outside the Ark. Sestaran, Vesari and Eclessian traditions inherit Glass material through later Braided histories.
-
-## The Prophet's Failure and Death
-
-By the end of the sojourn, the Prophet is the last living human with direct memory of the Giant world. His death around c. 2165 BR is one of the great disputed wounds of history. Some traditions call it punishment for refusing the southern sanctuary meant to shelter the people for three generations. Others call it murder, tragic exhaustion, or a mystery no nation has the right to simplify.
-
-## Inherited Wound
-
-The host is freed and genuinely formed before it fractures. Common law, institutions and memory mature in the Glass, but the people cannot carry that unity securely into land, succession and possession after the Prophet's death. Southern war-settlement leagues separate first; the continuing Near-Glass population divides generations later into proto-Jirahar and proto-Ahl-e-Ahd formations. All three later inherit both deliverance and fracture; other peoples remember the event through Orphaned or later Braided histories.
-
-Some human communities outside the principal host revolt after the central columns pass, remain to preserve a failing city, survive in isolated regions, or enter separate successor histories. Later cultures may claim exclusive descent from the Exodus, but no one surviving genealogy contains the whole end of the Giant Age.
-
 ## Deliverance amid collapse
 
 The Exodus was the greatest deliberate convergence of liberated humanity. The Prophet gathered people from several imperial horizons while revolts, client defections, plagues and Giant civil wars disrupted the roads behind them. Families arrived with incompatible languages and skills. Some brought tools; some carried only children; others refused the gathering and defended the water systems on which their towns depended.
@@ -60,25 +36,65 @@ The plagues exposed and broke particular systems. Traditions remember a Phoenix 
 
 ## The refuge the Giants could not keep
 
-The Glass already existed. Giants had failed to settle it permanently. The Lord led the host into that feared country so that the collapse outside would not destroy it. Passage required preparation: carts, water skins, medicine, craft knowledge, camps and hard choices about what could be carried. Provision and signs met the needs these preparations could not; tired feet, mourning and childbirth went on.
+The Glass predates the Prophet, his plagues and the Giants' attempts to approach it. Giant powers left failed marginal incursions but never a permanent deep-Glass settlement. What made it is argued in every age: the Church calls it judgement before judgement, Covenant teachers the first breach of the first contract, and the wind-speakers say the sky once touched the ground and regretted it. The Lord led the host into that feared country so that the collapse outside would not destroy it.
+
+Passage required preparation: carts, water skins, medicine, craft knowledge, camps and hard choices about what could be carried. Provision and signs met the needs these preparations could not; tired feet, mourning and childbirth went on.
 
 [[G-03 - The Last Cart|The Last Cart]] remembers an old-cult faction within the Exodus host. During a crisis its members restored forms of worship inherited from the Giant courts, refused the Prophet's condemnation and remained behind when the protected movement resumed. Their camp and last wagon disappeared in the Glass. No survivor is known, although later tellers disagree about the responsibility of children and dependants carried into the separation by their households. The wheel-shaped loaf used in some departure rites now accompanies a warning that frailty and apostasy are not the same thing.
 
 ## A people made in the Glass
 
-During approximately a century, c. 2265–2165 BR, the camp world became more than an emergency coalition. Children learned a common speech. Marriages joined former enemy subjects. Repeated worship, shared work, disputes, burial and the memory of provision formed one Glass People. Skilled households taught the next generation how to mend tools whose makers had remained outside. Old distinctions survived, but ceased to be sufficient descriptions of belonging.
+The ordered camp became a dry ark: people, animals, seed, tools, medicine, records, law and living crafts survived through both high-sign provision and ordinary labour. Anchor camps became long occupations. The host ate what was given at the appointed stages, the milk and meat of its herds, and greens and beans from gardens at the anchor camps, where provided springs ran in channels between the beds. Seed corn travelled in sealed jars and was kept alive by a few rows sown and harvested at each long camp, then sealed away again.
+
+During approximately a century, c. 2265–2165 BR, the camp world became more than an emergency coalition. Children learned a common speech. Marriages joined former enemy subjects. Repeated worship, shared work, disputes, burial and the memory of provision formed one Glass People. Skilled households taught the next generation how to mend tools whose makers had remained outside. Children grew up able to herd, mend a cart, count a ration, judge a quarrel, bury the dead and weed a garden. Few had ever cleared a field, waited on a flood or stored grain against a second bad year, because no one had needed to. Old distinctions survived, but ceased to be sufficient descriptions of belonging.
+
+The later Ark-derived traditions remember the common inheritance differently:
+
+- the Jirahar remember commandments, names, routes, and failed obedience;
+- the Ahl-e-Ahd remember water, oath, provision, and covenant;
+- Atherian descendants remember liberation but often sand away the Prophet's harder demands.
+
+Folk, Ättar, Tarkhan and Nsizwa memory arises principally from Orphaned survival outside the Ark. Sestaran, Vesari and Eclessian traditions inherit Glass material through later Braided histories.
 
 The Prophet lived long enough to become the last direct witness to the Giant world. Those around him knew it through his testimony, elders who died before him, surviving objects and family accounts. His death therefore removed both a leader and the last living bridge to a world nobody else could personally remember.
+
+## When the bread stopped
+
+Near the end of the sojourn the host was commanded south, to found a sanctuary beyond the Glass that could hold its common life for three generations. From that season the provision thinned. Camp songs remember the morning portion arriving late, then arriving short, then arriving on some days and not on others. The springs at the anchor camps weakened, and garden beds yellowed along dry channels. Provisioners who had only ever divided what was given began deciding who would eat. Over some ten years the camps learned what hunger in the Glass meant.
+
+The crossing out was staged over several seasons, company by company, because no road from the Glass could take the whole host at once. Each company's provision ended at the outward threshold. The forward companies walked into an inhabited country with herds, tools and a little seed. The rear companies waited inside, where drought had already struck, and began to grind the seed corn. Nobody counted the host on the way out. Southern songs call it numberless; Jirahar laments call it too many for any field.
+
+The rear camps keep their own Last Cart, and it is a different story. In their telling the cart carried nobody important: an old woman who could no longer walk, two fevered children, a potter with crushed hands, a pregnant stranger and the bodies of three people whose families would not leave them. When its axle split, the drivers burned their own tent poles into a new one, poured drinking water over the hot rim and cut ceremonial cloth into bandages. Shade fell for an hour where no cloud existed, and a dry water skin gave one last cup. Rear-camp singers call that hour the last day the sky fed anyone. The old woman died within sight of the next camp; one child lived and the other did not. At the next muster the cart leader answered the provisioners' count by setting the dead child's shoe on the counting board, and from then on, the song says, the rear was counted before the front. The custom held when the camps were calm and was forgotten when they were frightened. Both Last Carts end at the same table, with the damaged wheel-shaped loaf broken at departures, its first portion given to someone who cannot repay it.
+
+## The Prophet's Failure and Death
+
+The Prophet died around c. 2165 BR near the outward threshold, in the season the bread stopped, while the rear companies were still inside the Glass. His death is one of the great disputed wounds of history. Every people that came out of the Glass, and one that watched it come, tells his death as an account of who was fed.
+
+**The Slow Road.** Jirahar road-singers give his last command as "Go no faster than the last cart." When the captains of the forward companies outpaced the rear, he turned and walked back along the column, alone and very old, to the camps where the provision had already failed. He died of exhaustion among the people the captains had left behind, and they buried him among their own dead under a name and no marker. His saying in this telling is "A name is the last thing a person owns." The fault is the people's, who walked too fast. In this telling the empty seat that faces the road in Jirahar assemblies belongs to the man who turned back ([[G-56 - The Empty Seat Facing Outward|The Empty Seat Facing Outward]]).
+
+**The Unpaid Well.** Covenant teachers give his last command as "Take no water you have not answered for." At the edge of the Glass the host's water failed, and he opened a well kept by Orphaned keepers without their consent to water the people. The Lord held him to his own law, and a storm took him beside the well. His saying here is "Water owes its well, the well its keeper, the keeper the thirsty." The fault is his own. Covenant jurists call it their first case: the man who gave the law was the first person held to it.
+
+**The Herald's Ascent.** Atherian temple drama gives his last command as "Measure the land and divide it." On the road south the sun darkened, and Astronax the Star Herald climbed a height above the camp and was taken up among the stars; that is why no one can show his grave. His saying is "What is measured cannot be stolen." The fault is no one's. The Ascent asked little of the people who told it, which southern priests found convenient, and later image-makers inherited its raised arms and darkened sun.
+
+**The Guest Who Died at the Door.** The Orphaned peoples whose fields lay south of the Glass tell it as a joke with an edge. Folk and Aurin-valley satirists say his captains killed him because he forbade them fields other people had sown. A comic version has him starve "the first winter the bread stopped, like any of us". Its saying is "Heaven's guest ate for a hundred years and starved in a week." The fault is the captains'. Folk satirists around Grenzburg still bring the Guest out in land quarrels.
+
+One line survives in all four tellings: **no one is owned.** Scholars in Caleran, in the Covenant schools and in the Jirahar courts, who agree on almost nothing else about the Prophet, cite it as the best evidence that a real teacher stands behind the four deaths. The rest they leave argued. Some traditions call the death punishment for refusing the southern sanctuary meant to shelter the people for three generations. Others call it murder, tragic exhaustion, or a mystery no nation has the right to simplify.
 
 ## Outside the Ark
 
 Some Orphaned communities survived behind defended walls; others retreated into forests, plateaus, coasts or underground routes. They preserved different fragments of Giant knowledge and lost others. Monsters, poisoned works and predatory survivors made recovery uneven. In some places an irrigated town persisted; a short journey away, people made stone tools beside an engine they could neither repair nor safely dismantle.
 
-The later Folk, Ättar, Tarkhan and Nsizwa arose principally from these separate reassemblies. Ark descent preserved a particular witness and communal formation.
+The later Folk, Ättar, Tarkhan and Nsizwa arose principally from these separate reassemblies. Ark descent preserved a particular witness and communal formation. The Orphaned farmers south of the Glass had fed themselves through the same century in which the host was fed, and they knew how to clear a field, read a flood and keep a second year's grain. That knowledge made them the people the hungry companies came for.
 
 ## Departure without a successor
 
-The Prophet left no inheritable commission. Camp commanders, judges, provisioners, archivists and household elders retained useful duties, but none became a second Prophet. The attempted common sanctuary after departure failed through successive disagreements over land, movement, stores, punishment and command. [[Age of Scattering]] begins in that failure and in the world's geographical pressures.
+The Prophet left no inheritable commission. Camp commanders, judges, provisioners, archivists and household elders retained useful duties, but none became a second Prophet. The common sanctuary the host had been sent to found failed through successive quarrels over land, movement, punishment and command, and above all over the seed reserve, which the rear camps were eating and the southern companies needed to plant. [[Age of Scattering]] begins in that hunger and in the world's geographical pressures.
+
+## Inherited Wound
+
+The host is freed and genuinely formed before it fractures. Common law, institutions and memory mature in the Glass, but the people cannot carry that unity securely into land, succession and possession after the Prophet's death. Southern war-settlement leagues separate first; the continuing Near-Glass population divides generations later into proto-Jirahar and proto-Ahl-e-Ahd formations. All three later inherit both deliverance and fracture; other peoples remember the event through Orphaned or later Braided histories.
+
+Some human communities outside the principal host revolt after the central columns pass, remain to preserve a failing city, survive in isolated regions, or enter separate successor histories. Later cultures may claim exclusive descent from the Exodus, but no one surviving genealogy contains the whole end of the Giant Age.
 
 ## Atlas navigation
 
