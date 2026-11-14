@@ -22,7 +22,7 @@ The demonyms **Tenareti**, **Qemareti** and **Sakhreti** are conventional transl
 
 Tenaret drew wealth from old spillways, cultivated banks and traffic moving between the upper and lower Basin. Households commonly described themselves through the chain of channels and landing places they maintained. Flood work required neighbouring villages to clear silt, mend banks and decide which fields received scarce water. Royal officers could coordinate this labour over a wide district, though they also seized workers for palaces, armies and mortuary estates.
 
-The Senareth and Zaheret houses drew much of their prestige from Tenaret. The House of Zaheret began in 814 BR as a crown of soldier-farmers holding fields that Ithren III had taken from the dead, and Tenareti veterans' families long kept their founders' land tallies beside their household shrines. Service at their courts gave some temple, military and scribal families recognition beyond the middle river. Other communities remembered royal reunification as the arrival of collectors, forced labour gangs and soldiers demanding grain.
+The Senareth and Zaheret houses drew much of their prestige from Tenaret. The House of Zaheret began in 814 BR on a grain barge at Tenaret's quay, where boat households and soldier-farmers crowned a boat-owner's daughter who had kept their harvest from a dead prince's rent-collectors. Tenareti veterans' families long kept the land tallies she cut for them beside their household shrines. Service at their courts gave some temple, military and scribal families recognition beyond the middle river. Other communities remembered royal reunification as the arrival of collectors, forced labour gangs and soldiers demanding grain.
 
 ## Qemaret and the lower fan
 

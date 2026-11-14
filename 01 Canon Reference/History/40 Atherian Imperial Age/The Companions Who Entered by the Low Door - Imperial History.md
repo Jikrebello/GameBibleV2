@@ -14,7 +14,7 @@ tags: [world-historical-atlas, age-of-glory]
 ---
 # The Companions Who Entered by the Low Door — Imperial History
 
-The Low Door Companions were six provincial servants who entered military and administrative service after saving Magistrate Temar Avol during the Lacaris riot around 96 BR. Their advancement continued for more than three decades. In 61 BR two of them held the road stores and armour workshops that let Doran reach Caleran first after Velen I's murder, and Doran made their private custom of entering by a low door the way his officers took up their commands. Imperial biographies later celebrated their humble origins while suppressing the killings, hostages and family betrayal that accompanied their rise.
+The Low Door Companions were six provincial servants who entered military and administrative service after saving Magistrate Temar Avol during the Lacaris riot around 96 BR. Their advancement continued for more than three decades. In 61 BR two of them held the road stores and armour workshops that let Doran reach Caleran first after Velen I drowned under his own festival banks, and Doran made their private custom of entering by a low door the way his officers took up their commands. Imperial biographies later celebrated their humble origins while suppressing the killings, hostages and family betrayal that accompanied their rise.
 
 ## Six servants
 
@@ -40,9 +40,9 @@ Helon released three hostage children whose execution had been ordered after the
 
 ## The march of 61
 
-When Velen I's guards murdered him in 61 BR, his relatives divided the available commands and argued over the capital. Doran, governor of the central military district, needed food and armour for a fast march. Miro Fen held the road stores between Doran's district and Caleran, and Brana Keth held the capital's armour workshops. Both declared for Doran and supplied his column before any relative's. Sena Varris held a river crossing against a relative's force for three days. Doran reached Caleran first and was recognised as emperor.
+When Velen I drowned under his untested festival banks in 61 BR, his relatives divided the available commands and argued over the capital. Doran, governor of the central military district, needed food and armour for a fast march. Miro Fen held the road stores between Doran's district and Caleran, and Brana Keth held the capital's armour workshops. Both declared for Doran and supplied his column before any relative's. Sena Varris held a river crossing against a relative's force for three days. Doran reached Caleran first and was recognised as emperor.
 
-Velen's guards had sworn before the emperor's image and had killed him anyway. Restoring discipline among the competing guard units, Doran adopted the companions' custom for his officers. A new officer crossed a low threshold into his command, stripped of insignia and carrying a plain bowl, in place of the oath before the image. Officers came to believe that the low door kept the image's pull off a soldier; the Celebrants of the Common Sky called the belief superstition. Command houses across the empire built low entrances for the purpose.
+Velen's guards had sworn before the emperor's image, and when the banks went they had stood in their ranks facing it while he drowned. Doran wanted officers who would turn their heads, and he adopted the companions' custom for them. A new officer crossed a low threshold into his command, stripped of insignia and carrying a plain bowl, in place of the oath before the image. Officers came to believe that the low door kept the image's pull off a soldier; the Celebrants of the Common Sky called the belief superstition. Command houses across the empire built low entrances for the purpose.
 
 At the companions' last recorded meal, around 54 BR, only four attended. Miro set places for all six and used the child's bowl in the service.
 

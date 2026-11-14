@@ -29,7 +29,7 @@ The settlement established common musters, road taxes, campaign courts, and a re
 
 ## The Enemy across the Valleys
 
-The banners fought one another under the eyes of a weakened enemy. In 931 Sultan-Caliph Idris died two years after his heir, and the oaths that bound the occupation's army to him lapsed with him. Durayd ibn Sahl, amir of occupied Caleran, swore the southern garrisons to himself and held the heartland without help from Iqashar. His towns and the banner valleys traded raids, grain and hostages for two decades. In 948 he offered to sell the Eternal Ember back to Veridun for the price of its custody account, and Caedros refused to acknowledge that the Covenant had anything to sell.
+The banners fought one another under the eyes of a weakened enemy. In 931 Sultan-Caliph Idris died, two years after his heir had refused to take up his instruments, and the oaths that bound the occupation's army to the two of them lapsed. Durayd ibn Sahl, amir of occupied Caleran, swore the southern garrisons to himself and held the heartland without help from Iqashar. His towns and the banner valleys traded raids, grain and hostages for two decades. In 948 he offered to sell the Eternal Ember back to Veridun for the price of its custody account, and Caedros refused to acknowledge that the Covenant had anything to sell.
 
 The hostage exchanges bred their own horrors. At one of them, chroniclers say, rescuers who had arranged the ambush they saved people from gave a returning woman a false family and killed one of her true companions as an impostor. She knew her old nurse by a work song and fled with her. Banner families afterwards tested returned captives with songs only their own households knew.
 

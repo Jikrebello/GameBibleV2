@@ -32,7 +32,7 @@ Garrisons protected markets from some raiders and created demand for regional go
 
 Runes supported signalling, fire control, siege work and structural testing. Military engineers had loaded siege frames and bridges before the Red Star since the late republic, and after 326 BR the civil [[Schools, Arts and Imperial Magic#Rune craft|wardens]] carried the same rite into every public work. Their use required trained people and material preparation. Every army still depended on delivered grain, reliable water and knowledge of the ground.
 
-Units carried standards bearing a copy of the emperor's portrait, kept by priests of the Red Star, and soldiers swore their oath of service before it. Velen I's guards swore that oath and murdered him in 61 BR. Doran I then had his officers enter their commands by a low door, stripped of insignia and carrying a plain bowl, in place of the oath before the image. The custom came from the [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]], two of whom had supplied his march, and old command houses still keep their low lintels.
+Units carried standards bearing a copy of the emperor's portrait, kept by priests of the Red Star, and soldiers swore their oath of service before it. Velen I's guards swore that oath, and in 61 BR they stood in their ranks facing the image while he drowned under his own festival banks. Doran I then had his officers enter their commands by a low door, stripped of insignia and carrying a plain bowl, in place of the oath before the image. The custom came from the [[The Companions Who Entered by the Low Door - Imperial History|Low Door Companions]], two of whom had supplied his march, and old command houses still keep their low lintels.
 
 ## Southern and northern frontiers
 
@@ -42,7 +42,7 @@ In the northern dry belt, armies depended on defended wells and caravan routes. 
 
 ## Eastern and maritime commands
 
-Eastern forces guarded mountain passages, river routes and cities with substantial institutions of their own. Their commanders possessed access to wealth and communication, which made them important during succession disputes. Vashar's Dawn Road, with its relay stations and remounts, let Vasharan reserves reach a threatened bridge faster than any Atherian column; the Arcelon road of c. 190–182 BR was built to answer it. In the fever summer of 151 the healthy eastern army made Elian Serrat emperor.
+Eastern forces guarded mountain passages, river routes and cities with substantial institutions of their own. Their commanders possessed access to wealth and communication, which made them important during succession disputes. Vashar's Dawn Road, with its relay stations and remounts, let Vasharan reserves reach a threatened bridge faster than any Atherian column; the Arcelon road of c. 190–182 BR was built to answer it. In the fever summer of 151 the river commands could agree on no one, and the towns of Sarqen and the eastern cities put forward Sarqen's governor, Elian Serrat.
 
 Beyond the eastern provinces Vashar remained a sovereign peer. Under the late Serrats its civil war, the War of the Two Dawns, let Atheria take the sanctuary city of Qiryath under a charter, and Vashar accepted a yearly share of pilgrim dues in exchange. In the Qahuri basin the three crowns of Tenaret, Qemaret and Sakhret kept their thrones into the Redeemer's lifetime. Atherian contracts bound Qemaret's lower river and grain harbour, where a station stood, and the other two crowns ruled as clients.
 

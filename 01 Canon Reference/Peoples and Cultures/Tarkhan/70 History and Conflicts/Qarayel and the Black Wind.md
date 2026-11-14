@@ -54,17 +54,19 @@ By 1300 it was closing. The third generation from the colt was thinning, Iqashar
 
 ## Death and grave
 
-Qarayel died in his tent in the spring of 1303, undefeated and without an accepted successor, while preparing a war against Iqashar. His sons' lines were still riding in when, on the first night, his old stallion, a grandson of the black colt, broke its tether and came to the tent. The watchers say they saw it go out into the grass with the dead man across its back and no one at its head. Every grace-mare in the great camp pulled her pickets and followed it into the dark. Nobody followed them; the wind-speakers forbade it, and the riders' own horses would not take the trail. On the eleventh day the herds came home, lean and quiet, without the stallion and without the body.
+Qarayel died in his tent in the spring of 1303, undefeated and without an accepted successor, while preparing a war against Iqashar. His sons' lines were still riding in when, on the first night, his old stallion, a grandson of the black colt, broke its tether and came to the tent. The watchers say they saw it go out into the grass with the dead man across its back and no one at its head. Every grace-mare in the great camp pulled her pickets and followed it into the dark. Nobody followed them; the wind-speakers forbade it, and the riders' own horses would not take the trail. On the eleventh day the herds came home, lean and quiet, without the stallion and without the body. They did not come home together. They came in four bands, to four pastures a week's ride apart, and grazed there as if they had never left.
 
 Where he lies is the steppe's holiest secret, and the Moon Horde forbids any search for it, because discovery would become a claim to universal rule. Each Horde tells the night differently. White tellers say the stallion was taking him to the sky; Iron tellers say the mares knew where the old grace came from and took him back to it; Moon wind-speakers say only that the herds came home, and that is all a living person needs to know. The grave has never been found.
 
 ## The Partition of the Herds
 
-In 1304 his descendants divided what he had left, and what he had left was the herds that had come home. They were partitioned by grace-line among his children's lines:
-- **White**, his eldest line through Temuchar, took the most numerous herds and a paternity quarrel.
-- **Iron**, his second line, took the black colt's daughters' lines and bred them back carefully. Its horses would stand beside the Covenant's own bound things, and Iqashar began hiring them that year.
-- **Moon** took the Nine-Mane Standard, the oldest mares and the wind-speakers, and with them the right to call a kurultai.
-- **Ash** took the eastern grass, the poorest lines and the roads.
+In 1304 his descendants met to divide what he had left, and found it divided. The most numerous herds had come home to the western grass, where the sons of his eldest line were camped. The black colt's daughters' lines had gone to the wells of his second line. The oldest mares had walked back to the assembly ground of the Long Grass, where the Nine-Mane Standard stood, and the poorest lines had drifted to the eastern roads. The assembly argued through a summer and then named what the horses had done, grace-line by grace-line:
+- **White**, his eldest line through Temuchar, kept the most numerous herds and a paternity quarrel.
+- **Iron**, his second line, kept the black colt's daughters' lines and bred them back carefully. Its horses would stand beside the Covenant's own bound things, and Iqashar began hiring them that year.
+- **Moon** kept the Nine-Mane Standard, the oldest mares and the wind-speakers, and with them the right to call a kurultai.
+- **Ash** kept the eastern grass, the poorest lines and the roads.
+
+Nobody at the assembly chose his share, and every Horde has an account of that. White tellers say the horses knew the eldest line. Iron tellers say a mare goes to her own blood's water and there is nothing to explain. Ash tellers say the wind-speakers cut the herds in the dark and left the east what nobody wanted. Moon wind-speakers say nothing about it at all.
 
 ## Legacy
 

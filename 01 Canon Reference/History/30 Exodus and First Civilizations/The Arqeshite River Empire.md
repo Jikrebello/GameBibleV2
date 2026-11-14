@@ -13,7 +13,7 @@ tags: []
 ---
 # The Arqeshite River Empire
 
-Arqesh was an early mortal empire of the Ubar riverlands, a country later divided among eastern successor states and Eclessian provinces. House Ubar joined canal cities, estates and subject peoples through water control, deportation and sacred kingship between the tenth and seventh centuries BR. The empire destroyed First Qiryath in 742 BR and fell in 690 BR to provincial revolt and the converging campaigns of Arezan Tiravan and Eryndor III of Ortheia.
+Arqesh was an early mortal empire of the Ubar riverlands, a country later divided among eastern successor states and Eclessian provinces. House Ubar joined canal cities, estates and subject peoples through water control, deportation and sacred kingship from about 958 BR. The empire destroyed First Qiryath in 742 BR and fell in 690 BR, when the capital's own labour gangs opened it to the armies of Arezan Tiravan and Eryndor III of Ortheia.
 
 ## River Rule
 
@@ -33,7 +33,7 @@ By the eighth century BR, Arqeshite provinces were carrying their disputes to be
 
 The death of Belatar II divided House Ubar between Kassur III at Arqesh and Mardun Ubar at Durqesh. Rival claimants opened and blocked canals serving one another's supporters. Soldiers seized seed grain and roof timber, while Nemeru withheld boats and Qahuri rulers expelled isolated garrisons.
 
-Arezan Tiravan united Vashari highland houses and rebellious governors from the east. Eryndor III crossed the inner sea with the Ortheian army, Compact levies, siege engineers and allied ships. The two kings made an alliance in 694 BR. Forced workers opened gates, Nemeru crews crossed closed channels and provincial communities withheld the supplies upon which House Ubar depended. Arqesh surrendered after street fighting in 690. Both victorious armies killed inhabitants and plundered districts.
+Arezan Tiravan united Vashari highland houses and rebellious governors from the east. Eryndor III crossed the inner sea with an Ortheian army, Compact levies, siege engineers and allied ships. The two kings made an alliance in 694 BR. Provincial communities withheld the supplies upon which House Ubar depended, and Kassur fed his soldiers by cutting the rations of the capital's dredging gangs and deportee quarters. In 690 the gangs rose and opened the gates, and deported Terys families from the Nemeru shipyards ferried Eryndor's soldiers across a closed channel. Arqesh surrendered after street fighting. Both victorious armies killed inhabitants and plundered districts.
 
 Kassur III fled with the portable royal images. In 688 the images began to answer in Eryndor's voice, and their bearers carried them over to him. Kassur surrendered to Arezan, sealed the Gate House's water books over to the Vashari king at Durqesh and died a guarded guest at Kavresh around 676. After Eryndor's death in 684 BR the images went with his embalmed body to Delkos. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
 

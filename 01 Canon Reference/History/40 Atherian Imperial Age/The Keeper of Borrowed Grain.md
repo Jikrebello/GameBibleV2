@@ -14,7 +14,7 @@ tags: [world-historical-atlas, age-of-glory]
 ---
 # The Keeper of Borrowed Grain
 
-The Keeper of Borrowed Grain was Neriah bar Sorek, a Jirahar administrator who directed imperial relief during the Raveth hunger that began in 119 BR. His purchases, transport orders and seed distributions saved towns from starvation. The terms attached to that assistance transferred large areas of farmland to the imperial household and made many former owners dependent cultivators. Raveth remembers the dispossession through two things: the Jirahar official who designed the relief, and the emperor's image before which many of its debts were sworn.
+The Keeper of Borrowed Grain was Neriah bar Sorek, a Jirahar administrator who directed imperial relief during the Raveth hunger that began in 119 BR. His purchases, transport orders and seed distributions saved towns from starvation. He issued the relief as debt, and the court then turned that debt into the largest crown estate in the empire, against his advice and over his resignation. Raveth remembers the dispossession through three things: the Jirahar official whose tallies recorded what each village owed, the emperor's sister whose officers collected it, and the emperor's image before which many of the debts were sworn.
 
 ## Raveth before the failure
 
@@ -30,23 +30,23 @@ Emperor Elian II appointed Neriah after two earlier commissioners failed to coor
 
 Neriah made every store release carry the countersignature of local witnesses, which stopped officials skimming the grain. Deliveries still favoured towns on navigable routes. The boats reached the river towns first, and hill villages died waiting for the pack trains. Soldiers killed a crowd attempting to force entry into one store.
 
-Relief grain and seed went out as loans. When households could not repay, their land passed to the imperial domain. Animals and tools were similarly absorbed into managed estates. Former owners could remain by accepting labour duties and a share of the crop. The worst was over within three seasons, and the relief was wound down by 113.
+The treasury would release nothing as a gift, so relief grain and seed went out as loans. Neriah wrote them against villages and not against households: each village owed together, its elders countersigned the tally, and a copy stayed in the village. He meant the debt to be worked off in the flood channels, a season's digging for a season's grain. Speculators were already buying starving families' fields for a few weeks' bread, and Neriah had the relief office take those fields in pledge first, so that they could be redeemed. The worst was over within three seasons, and the relief was wound down by 113.
 
 ## The decision to continue
 
-The first emergency conversion preserved fields from immediate sale to private speculators. Neriah then advised Elian to continue the policy across the affected province. He believed a single estate could repair the channels, distribute seed and secure future supply, and the emperor approved it.
+The pledges were what the court wanted. Lethara's stewards told Elian that scattered villages would never dig the channels, and that one estate, with one office and one work-roll, could. Neriah argued before the emperor that the villages had dug those channels every spring under the Vasharan duty and would dig them again to clear a debt. Elian approved the estate.
 
-Lethara's estate officers ran the new domain. They replaced the neighbours' countersignature with an oath, sworn by each debtor before the emperor's image set up in the store-house yard. Neriah would not administer that oath and resigned. He left copies of both the release accounts and the land transfers with his community.
+Lethara's estate officers took over the relief stores. They set aside the villages' countersigned tallies and had each debtor swear, alone, before the emperor's image set up in the store-house yard, to a debt entered against his own fields. Neriah would not administer that oath and resigned. Before he left the province he had copies of every release account carried to the villages that had countersigned them, and he lodged a second set with his own community.
 
-Raveth noticed the difference within a season. Where debts had been countersigned by neighbours, households argued, delayed, petitioned and kept part of their land. Where they had been sworn before the image, families walked their animals to the estate office without being asked and stood waiting at the gate. Estate officers praised the sworn villages for their piety. The villages themselves called it "the loan before the Face" and said the portrait had taken the argument out of them.
+Raveth noticed the difference within a season. Where villages held the Keeper's tallies, households argued, delayed, petitioned, went to law with the copy in hand, and kept part of their land. Where debts had been sworn before the image, families walked their animals to the estate office without being asked and stood waiting at the gate. Estate officers praised the sworn villages for their piety. The villages themselves called it "the loan before the Face" and said the portrait had taken the argument out of them.
 
-The imperial estates recovered, and several towns survived. Families lost the right to decide what to plant, where their children would work and when they could leave. Debt servitude became an office routine. Later imperial officials removed many local countersignatures when presenting the policy as the emperor's generosity.
+The imperial estates recovered, and several towns survived. Families on the estate lost the right to decide what to plant, where their children would work and when they could leave. Debt servitude became an office routine. Later imperial officials presented the policy as the emperor's generosity and removed the villages' countersignatures from the record wherever they could find them.
 
 ## Memory
 
-Raveth families called a measure taken in desperation "the Keeper's loan". The phrase could express gratitude for help or warn that assistance would claim the recipient's future. Neriah's own household preserved prayers for those who died before the grain arrived and the names of farms transferred under his seal.
+Raveth families called a measure taken in desperation "the Keeper's loan". The phrase could express gratitude for help or warn that assistance would claim the recipient's future. Neriah's own household preserved prayers for those who died before the grain arrived and the names of the farms pledged under his seal that he had not been able to save.
 
-Imperial histories praised his intelligence. Hostile accounts accused the Jirahar of planning the acquisition, obscuring Elian's approval, Lethara's officers and the benefits received by Atherian estate managers. Those accounts never explained why the sworn villages also blamed the image. Both the praise and the accusation gave little attention to the households whose lives and dependence followed from the same policy.
+Imperial histories praised his intelligence and gave him the credit for the estate, which he had opposed. Hostile accounts accused the Jirahar of planning the acquisition, obscuring Elian's approval, Lethara's officers and the benefits received by Atherian estate managers. Those accounts never explained why the sworn villages also blamed the image. Neriah's defenders pointed to the tallies in the village chests. His critics among his own people answered that a man who writes a starving village's bread down as a debt has already built half the estate. Both the praise and the accusation gave little attention to the households whose lives and dependence followed from the same policy.
 
 ## Further reading
 

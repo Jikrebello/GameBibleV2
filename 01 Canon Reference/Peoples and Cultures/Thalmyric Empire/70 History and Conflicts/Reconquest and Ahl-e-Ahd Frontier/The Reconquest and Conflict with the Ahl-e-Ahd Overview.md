@@ -17,7 +17,7 @@ The conflict between Thalmyria and the Ahl-e-Ahd began with conquest but did not
 
 ## Fall, Refuge, and Return
 
-Caleran fell in 905 AR. Veridun survived beneath the Veil in 906, when the smoke of the city's ovens lay over the valley for three days and the besieging column's levies walked home, and the Mountain Rebellion began in 908 after the captive last emperor died. The authoritative campaign sequence is recorded in [[The Long Reconquest (908-1052 AR)]]. Caleran's recovery in 957 restored the sacred centre but did not end the war. Recovery, resettlement, and consolidation continued until 1052, while the Velian and Zanthir frontiers remained unsettled.
+Caleran fell in 905 AR. Veridun survived beneath the Veil in 906, when the smoke of the city's ovens lay over the valley for five days and the besieging column's levies walked home, and the Mountain Rebellion began in 908 after the captive last emperor died. The authoritative campaign sequence is recorded in [[The Long Reconquest (908-1052 AR)]]. Caleran's recovery in 957 restored the sacred centre but did not end the war. Recovery, resettlement, and consolidation continued until 1052, while the Velian and Zanthir frontiers remained unsettled.
 
 ## What Occupation Did
 
@@ -25,7 +25,7 @@ Covenant authorities distributed conquered land among garrison families and rewa
 
 ## The Covenant's Own War
 
-Covenant registers tell the same years from the north. The Qahirid army had sworn its service to Sultan-Caliph Idris by name, and when he died in 931, two years after his drowned heir, those oaths lapsed together; bound hounds slipped their names at the northern wells, and the throne was rebuilt as the Sublime Threshold. The occupied south was left to Amir Durayd ibn Sahl, who swore it to himself and fled Caleran by sea in 957 after the Ember's own keepers stopped him carrying the lamp away. From 951 Iqashar's army was fighting Grass-Tarkhan riders on hymn-blessed Atherian horses, and from 1033 its treasury treated the southern amirates as a loss. The Covenant ended the Reconquest with a grievance of its own: the deeds the Southern Houses carried north in 1052, which it tried to enforce with engines in 1131–1139. See [[The Covenant from Idris to Suhrab (905-1190 AR)]].
+Covenant registers tell the same years from the north. The Qahirid army had sworn its service to Sultan-Caliph Idris by name, and when he died in 931, two years after his heir had refused to take them up, those oaths lapsed together; bound hounds slipped their names at the northern wells, and the throne was rebuilt as the Sublime Threshold. The occupied south was left to Amir Durayd ibn Sahl, who swore it to himself, tried in 957 to carry the Ember away, was stopped by the lamp's own keepers and ended as Thalmyria's prisoner, signing his garrisons' releases. From 951 Iqashar's army was fighting Grass-Tarkhan riders on hymn-blessed Atherian horses, and from 1033 its treasury treated the southern amirates as a loss. The Covenant ended the Reconquest with a grievance of its own: the deeds the Southern Houses carried north in 1052, which it tried to enforce with engines in 1131–1139. See [[The Covenant from Idris to Suhrab (905-1190 AR)]].
 
 ## What Return Did
 

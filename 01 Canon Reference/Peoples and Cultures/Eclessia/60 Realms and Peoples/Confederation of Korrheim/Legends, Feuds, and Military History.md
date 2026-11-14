@@ -19,7 +19,7 @@ Korrheim's military history is the history of armed cantons whose captains, work
 
 ## Captains Remembered
 
-Sir Brandt Falkenwald, "the Immovable Bastion," made defensive patience a Korrheim virtue at Sturmgard Pass. Klara Ostvald, the Stormbearer, organized winter riders and is claimed by rival confessions. Ulrich Dornhelm, the Iron Wolf, built a captain-family that now threatens civic balance. Father Gregor the War-Priest served mixed companies and wrote the burial articles later copied into the Accord.
+Sir Brandt Falkenwald, "the Immovable Bastion," made defensive patience a Korrheim virtue at Sturmgard Pass. Klara Ostvald, the Stormbearer, organized winter riders and is claimed by rival confessions. Ulrich Dornhelm, the Iron Wolf, built a captain-family that now threatens civic balance. Father Gregor the War-Priest served mixed companies and wrote, at the churchyard wall of Falkendorf in 1340, the burial articles later copied into the Accord: a yard stays with the rite that has kept its dead sent, and nobody's dead are moved.
 
 Their legends are recruitment tools. Korrheim records also preserve unpaid troops, plundered villages, and contracts interpreted to excuse both.
 
@@ -28,7 +28,7 @@ Their legends are recruitment tools. Korrheim records also preserve unpaid troop
 - **Revolt of the Heldenberg Shafts, 1116-1124 AR:** escaped mine slaves broke the counts' winter army by the Cold Way and swore the Oath of the Shafts, founding the first cantons. Their liberator, the Saint of Ashen Wings, confessed c. 1137 what the passage had done to the prisoners sent through it; the cantons feast on the anniversary and name those victims the next morning. [[G-37 - The Feast Followed by Ashen Names|The Feast Followed by Ashen Names]]
 - **Siege Engineers' Uprising, 1330 AR:** workshop communes demanded representation after councils attempted to make emergency labor obligations hereditary.
 - **Ostvald Blood Feud:** a continuing inheritance dispute between captain branches, constrained by hostages and Council arbitration.
-- **Falkendorf Rebellion, 1340 AR:** a Freeflame-majority canton resisted an old-Church council settlement. Its near civil war made the later Accord unavoidable.
+- **Falkendorf Rebellion, 1340 AR:** the Council of Heldenheim awarded a reformed canton's one churchyard to the old rite and ordered forty years of graves moved outside the wall. Falkendorf rose sooner than dig up its dead. The canton companies sent against it halted at the yard wall, where the women of the town were sitting on the graves, and Father Gregor's burial articles ended the rising and became the rule of the later Accord.
 - **War of the Coin, 1330-1333 AR:** competing captain syndicates and creditors fought through contract defaults, seized tolls, and proxy companies.
 
 ## Campaigns

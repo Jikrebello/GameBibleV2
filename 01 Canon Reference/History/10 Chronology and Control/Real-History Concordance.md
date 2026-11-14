@@ -237,7 +237,8 @@ What still sits close to an analogue, and why:
 4. **Both sides get a real case.** Reformation, schism, Unsealing, reconquest: each faction's position must be the one its best people would sincerely hold. Villainy lives in method and appetite, not in having the wrong theology.
 5. **Filtered analogs everywhere** (per the naming decision): one step sideways on all names; no von Bismarcks, no verbatim liturgical Arabic or Zulu after the rename pass.
 6. **Quarry, not script.** Research supplies pressures, institutions and texture, not sequence. A borrowed incident must do work beyond its source having it; incidents that survive only because the analog contains them are cut. Cite sources for texture, never one per beat. If a reader who knows the analog can predict the next beat, bend it with a world-native cause (the Consequence Rule in [[The Divergence Pass — Torque Register]]) or cut it.
-7. **Clocks never align.** AR and BR dates for analog events must not coincide with their real AD or BC years, and an analog sequence must not keep its source's spacing between events.
+7. **Clocks never align.** AR and BR dates for analog events must not coincide with their real AD or BC years, and an analog sequence must not keep its source's spacing between events. A constant offset is the same fault: if every date in a sequence sits the same number of years from its analogue (the late republic at +326, the Reformation at −212), a reader can still set the clock. Check intervals, not only years.
+8. **Skeletons, not only mechanisms.** A sequence is still borrowed if the same people meet the same fates in the same order, however native the causes. Bend the order of fates: let someone live who died, win who lost, or never arrive at all.
 
 ## Navigation
 

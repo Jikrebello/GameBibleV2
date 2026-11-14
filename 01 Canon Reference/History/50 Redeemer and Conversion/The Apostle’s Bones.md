@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: local
 visibility: public
-era: ["320s AR", "Conversion of the Empire"]
+era: ["c. 338 AR", "Conversion of the Empire"]
 region: ["Veridun Minor", "Atherian Empire"]
 culture: ["Atherian", "Redeemer Church", "Thalmyric", "Eclessian"]
 related_factions: ["Star Pantheon"]
@@ -16,17 +16,17 @@ tags: []
 > _“You cannot bury a saint without burying a flame. And flames find a way out.”_  
 > —Common saying among early Flamebearers
 
-“The Apostle’s Bones” are the **purported remains of Saint Calira of the Broken Blade**, the Companion who died defending Amaryah's house at Veridun Minor in 29 AR. Builders found them in the 320s beneath the altar of a ruined shrine of Astaroth at Veridun Minor, with a broken sword hilt beside them. The four sees claimed them for Calira. The Star college, which still held the lawful power to say what such a find was, entered them as the bones of a Star-priestess executed for blasphemy. The quarrel was the first relic dispute of the legal Church, and the find has never stopped being argued over.
+“The Apostle’s Bones” are the **purported remains of Saint Calira of the Broken Blade**, the Companion who died defending Amaryah's house at Veridun Minor in 29 AR. They came to light about 338, when wardens of the Red Star loaded the altar platform of a ruined shrine of Astaroth at Veridun Minor and the step cracked open under their weights, with a broken sword hilt lying beside the bones. The four sees claimed them for Calira. The Star college, whose own test had opened the chamber and which still held the lawful power to say what such a find was, entered them as the bones of a Star-priestess executed for blasphemy. The quarrel was the first relic dispute of the legal Church, and the find has never stopped being argued over.
 
 ### **Date**:
 
-The find, in the 320s AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 383 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
+The find, about 338 AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 383 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
 
 ---
 
 ### **The Discovery**
 
-During the building of the new church of the **Swordless Flame** at Veridun Minor, on the site of a ruined Astaroth shrine near the house where Amaryah had lived, builders uncovered:
+The town meant to build the new church of the **Swordless Flame** at Veridun Minor on the site of a ruined Astaroth shrine near the house where Amaryah had lived. No public work could be built on until the wardens had loaded it before the Red Star and broken the Star's share. When they piled their weights on the old altar platform, the step gave way, and under it the wardens uncovered:
 
 - A **sealed chamber** beneath the former altar of the Astaroth shrine
 - A **skeleton encased in ash-layered stone**, with signs of defensive wounds and ritual binding
@@ -39,11 +39,11 @@ The local bishop proclaimed them the **bones of Calira**, killed in the raid of 
 
 ---
 
-### **The Dispute of the 320s**
+### **The Dispute of 338**
 
 ####  **The Star college**
 
-The augur college of the province still held the lawful power to enter any wonder or sacred find in its books, and the governor was bound to its entry. Its augurs examined the chamber and entered the bones as those of a **Star-Priestess executed for blasphemy** and bound beneath her own altar, which explained the ritual binding and the ash. They said the cloth was a later Redeemer addition, and demanded the remains be **sealed or destroyed** to avoid “heresy by veneration.”
+The augur college of the province still held the lawful power to enter any wonder or sacred find in its books, and the governor was bound to its entry. Its augurs said that the Red Star had shown its own wardens the chamber, examined it and entered the bones as those of a **Star-Priestess executed for blasphemy** and bound beneath her own altar, which explained the ritual binding and the ash. They said the cloth was a later Redeemer addition, and demanded the remains be **sealed or destroyed** to avoid “heresy by veneration.”
 
 ####  **The four sees**
 
@@ -51,7 +51,7 @@ The bishops answered that a Star-priestess would not have been buried with a Red
 
 ####  **The hearing**
 
-Sevrin let the four sees hear the case, as his father had let them hear the Halmenth quarrel in 297, and the bishops met in a chapel within sight of the ruined altar. They found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
+Sevrin let the four sees hear the case, as his father had let three of them sit on Halmenth's refusal of the Concord in 297, and the bishops met in a chapel within sight of the ruined altar. They found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
 
 In 383, after the augur colleges were dissolved and their books passed to the bishops, the bishops' readers struck the augurs' entry and entered the bones as Calira's. Old-cult families at Veridun Minor kept the augurs' version alive for generations.
 

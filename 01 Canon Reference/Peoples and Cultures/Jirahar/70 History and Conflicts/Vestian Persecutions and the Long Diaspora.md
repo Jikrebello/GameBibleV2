@@ -17,11 +17,11 @@ The Vestian persecutions of 377–398 AR turned intermittent hostility towards t
 
 ## Before Vestian
 
-The destruction of 65 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
+The destruction of 67 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. It had also left every Jirahar household in the empire on the rolls of the Litter Debt, charged by the head for the sanctuary vessels that had gone through Qiryath's gate before the city fell. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
 
 Some Redeemer congregations were themselves largely of Jirahar descent, especially in Sermora's harbours and the gateway ports such as Qabir. Their families had joined the faith under the first Qiryath agreement and kept their mothers' registers beside their baptism rolls. Several still prayed in the Jirahar dialect.
 
-Under Astrion, Jirahar petitioners sought access to the sanctuary precinct and graves, repairs to the cisterns and relief from tribute. A wall collapsed during the survey works of 349–350 AR, and the garrison closed the site. The petitions and claims for wages survived in the provincial records that Vestian later inherited. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
+Under Astrion, Jirahar petitioners sought access to the sanctuary precinct and graves, repairs to the cisterns and relief from the debt. The survey works of 349–350 AR listed who kept each cistern and who held each house and field. They stopped when wardens of the Red Star came to load the old galleries and the Jirahar crews, who knew what that rite had done at Shahar and Qiryath, put down their tools. The garrison flogged forty of them. The lists, the petitions and the crews' claims for wages survived in the provincial records that Vestian later inherited. [[Astrion and the Road to Vestian - 348 to 377 AR|Astrion and the Road to Vestian]]
 
 ## The yellow lamps
 
@@ -29,7 +29,7 @@ Vestian made the Redeemer's faith compulsory in 385. Every officeholder, and the
 
 In square after square the lamps burned yellow, while willing baptisms in the parish churches went on kindling as before. In the gateway ports the congregations of Jirahar descent said in public that they had heard this silence before. Their families had argued for nearly four centuries over the sign of acceptance that ceased at Qiryath while the sacrifices went on; they knew how to say that a rite had been performed and its answer had not come. They called the failure of the lamps the **Second Silence**. Vestian's court heard its own worship compared to a rejected sacrifice, and called the comparison Jirahar slander.
 
-The court needed a culprit, and found two. Its preachers blamed Star images hidden in cupboards and what they called "Jirahar blindness" in the descendants of Ezrahel's council. About 387 Vestian banned household rites. Officers with warrants to search homes for forbidden images used the old tribute rolls to find Jirahar households, and Astrion's survey petitions to find the people who kept the cisterns and held houses and fields in the eastern towns. Governors treated descent as evidence even against the baptised. A register kept to prove a child's mother could also tell an officer which door to break.
+The court needed a culprit, and found two. Its preachers blamed Star images hidden in cupboards and what they called "Jirahar blindness" in the descendants of Ezrahel's council. About 387 Vestian banned household rites. Officers with warrants to search homes for forbidden images used the old rolls of the Litter Debt to find Jirahar households, and Astrion's survey lists and petitions to find the people who kept the cisterns and held houses and fields in the eastern towns. Governors treated descent as evidence even against the baptised. A register kept to prove a child's mother could also tell an officer which door to break.
 
 ## Raveth
 
@@ -51,7 +51,7 @@ The chancery's draft forbade habitation and rebuilding "in perpetuity". Vestian 
 
 ## The Long Diaspora
 
-Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 65 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. A host community needed to know whom it owed shelter, so refugees carried their mothers' lines, their leases and their burial rights written out. Charters became the stuff of diaspora politics. The mothers' registers held scattered households together as one people, and the conversion courts kept that people open to newcomers by choice as well as by birth.
+Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 67 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. A host community needed to know whom it owed shelter, so refugees carried their mothers' lines, their leases and their burial rights written out. Charters became the stuff of diaspora politics. The mothers' registers held scattered households together as one people, and the conversion courts kept that people open to newcomers by choice as well as by birth.
 
 ## Inherited Wound
 

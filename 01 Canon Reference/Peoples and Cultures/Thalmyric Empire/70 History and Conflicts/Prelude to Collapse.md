@@ -39,7 +39,7 @@ The marches were bound to their ground. A march commander who left his district 
 
 ## The Qahirid Preparation
 
-Qahir ibn Ruzbeh rebuilt Covenant logistics, officer promotion, siege foundries and intelligence between roughly 885 and 902. Traders, local clients, water courts and contract archives supplied knowledge no Atherian map contained. Covenant clerks held a file two centuries thick on counterfeit fire in Atherian rites, begun with the brass cup of the Copper Lamp in 683 and ending with the night of Corvenas III's accession.
+Qahir ibn Ruzbeh was a northern cavalry officer who had paid his army out of the labour of the Second Crusade's unransomed prisoners, entered under his own name, and had been made Sultan for it in 881. He rebuilt Covenant logistics, officer promotion, siege foundries and intelligence between roughly 885 and 902. Traders, local clients, water courts and contract archives supplied knowledge no Atherian map contained. Covenant clerks held a file two centuries thick on counterfeit fire in Atherian rites, begun with the brass cup of the Copper Lamp in 683 and ending with the night of Corvenas III's accession.
 
 Warnings reached Caleran through frontier commanders, Sestaran factors, monasteries and provincial governors. Each report was treated as a factional demand until the reports stopped.
 
@@ -53,7 +53,7 @@ A crowd stoned him to death the next day. After the reclamation of 957 his words
 
 ## The Last Error
 
-Corvenas ordered public rites and issued written orders for partial mobilisation without choosing one strategy. Written orders could not lawfully move a march. Forces assembled too late and in the wrong districts. The bravest march commanders came anyway, and Covenant courts sat on their empty marches behind them. The empire remained magnificent enough to look permanent until the campaign proved it was not. On the last day of the siege Corvenas carried the Velos Standard onto the land wall and asked the Fire, before both armies, for the answer he had never risked in public; [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]] tells what followed.
+Corvenas ordered public rites and issued written orders for partial mobilisation without choosing one strategy. Written orders could not lawfully move a march. Forces assembled too late and in the wrong districts. The bravest march commanders came anyway, and Covenant courts sat on their empty marches behind them. The empire remained magnificent enough to look permanent until the campaign proved it was not. On the last day of the siege Corvenas carried the Velos Standard onto the river dyke and asked the Fire, before both armies, for the answer he had never risked in public; [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]] tells what followed.
 
 ## Navigation
 

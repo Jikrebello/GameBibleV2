@@ -20,7 +20,7 @@ Aurelius Thalion ruled the Atherian Empire from its settlement around 350 BR unt
 
 For twenty years the Red Field had stood open and no commander had dared disband an army. Thalion disbanded nearly all of them in four. Istran Melvo broke up the war fleets, sending useful hulls to public services, military stations and approved merchants. A smaller standing army stayed under continuing pay from the treasury, and its officers answered to the emperor's appointments instead of to the generals who had raised them.
 
-The rest needed land. They received the Noon Roll lands, whose old leaseholders were dead or ruined, the estates of the men written into the register in 367, and farms whose cultivators had fled the fighting. When those families came home they found veterans in their houses. Petitions, resistance and killings followed. Thalion confirmed most grants, because undoing them would have threatened the army on which his rule depended. Several Aurin villages kept two sets of boundary stones for a century, one for the veterans and one for the families who said the land was theirs.
+Casvilar's veterans had held their Noon Roll plots for nearly thirty years as soldiers of an open Field, unable to sell them or leave them to a son. Those plots now became their property. The rest needed land. They received the estates of the men written into the register in 367, and farms whose cultivators had fled the fighting. When those families came home they found veterans in their houses. Petitions, resistance and killings followed. Thalion confirmed most grants, because undoing them would have threatened the army on which his rule depended. Several Aurin villages kept two sets of boundary stones for a century, one for the veterans and one for the families who said the land was theirs.
 
 Regular assessments slowly replaced the requisitions of the war years. Municipal councils were told in advance what grain, money, animals and labour they owed. Some households could plan for the first time in a generation. Officials still punished failure, and an assessment often stayed unchanged through a bad local harvest.
 
@@ -40,9 +40,9 @@ Samyra Nerethan lived at Esharat as a guest of the towns until her death in 333 
 
 ## The ruler's household
 
-Thalion did not marry again after Merath's death. His sister Evara ran the household, managed audiences and dealt with the petitioners, widows and relatives who crowded the store-house, and her favour could secure an appointment as easily as Ilvara's had. Their mother Lysara raised the children.
+Thalion did not marry again after Merath's death in the blockade of Sarqen. His sister Evara ran the household, managed audiences and dealt with the petitioners, widows and relatives who crowded the store-house, and her favour could secure an appointment as easily as Ilvara's had. Their mother Lysara raised the children.
 
-Caelor, born in 363 to Thalion's first wife Ilvara, served in provincial administration and was treated as the likely heir. Meren, born in 358 to Merath, had been carried out of Esharat in a grain bin and grew up in Caleran with an accent the capital's schoolmasters never quite removed. Thalion's daughter Lysara married into a senatorial house, and her supporters expected her children to take precedence over a half-Gateway son whose mother had been a claimant to a foreign crown.
+Caelor, born in 363 to Thalion's first wife Ilvara, served in provincial administration and was treated as the likely heir. Meren, born in 358 to Merath, had spent his first eight years in the queen's household at Sarqen and came to Caleran speaking the Gateway towns' speech, with an accent the capital's schoolmasters never quite removed. He went back to the landing for the renewal whenever his father did. Thalion's daughter Lysara married into a senatorial house, and her supporters expected her children to take precedence over a half-Gateway son whose mother had been a claimant to a foreign crown.
 
 ## The hall that was never tested
 
@@ -56,7 +56,7 @@ Caelor died of his injuries in 324. Meren became his father's heir, and the army
 
 ## Public religion and the painted board
 
-Thalion placed Astaroth's priesthood first in ceremonies of victory and imperial command, because its priests had declared the Red Field closed when Seluc Varroth would not. Varroth kept the senior Common Sky office, and his college walked second at every festival. The two priesthoods remained rivals at court for the rest of the age.
+Thalion placed Astaroth's priesthood first in ceremonies of victory and imperial command, because its priests had declared the Red Field closed when the Common Sky's college would not. Seluc Varroth, its First Celebrant, had died on the Salt Field at Velsar's side, and the Celebrant the college chose after him walked second at every festival and kept Varroth's ruling: the Field of 370 had been emptied, never closed. The two priesthoods remained rivals at court for the rest of the age. A blunt practice sword hung on a peg in the store-house through all those years. Belisar Venn had sent it when Thalion asked him to close the Field, and visitors were told whatever story suited the day.
 
 The board that had gone to war in Thalion's place hung at the end of the audience hall. Soldiers who had sworn to the painting for fifteen years were not easily persuaded to swear to the heavy, short-sighted man it represented, and Thalion let them swear to the painting. Coins set a star above the same face. Later emperors were confirmed before the board, each reign painting a new face over the old pose.
 

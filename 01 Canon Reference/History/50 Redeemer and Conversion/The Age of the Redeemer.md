@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["c. 33 BR–68 AR"]
+era: ["c. 33 BR–67 AR"]
 region: ["Atherian Empire", "Second Qiryath", "Caleran"]
 culture: ["Atherian", "Jirahar"]
 related_factions: ["Star Pantheon", "Qiryath Council", "Followers of the Redeemer"]
@@ -13,7 +13,7 @@ tags: []
 ---
 # The Age of the Redeemer
 
-The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution at Second Qiryath by Atherian authority and his bodily Resurrection on the third day. His followers held that these events transformed the human soul-road, and later churches, empires and persecutions developed around that claim. The age follows the first assemblies through the fall of Second Qiryath and the last fortress of the Great Tower Revolt.
+The Age of the Redeemer encompasses the life of Isfir, his public ministry from approximately 3 BR to 0 AR, his execution at Second Qiryath by Atherian authority and his bodily Resurrection on the third day. His followers held that these events transformed the human soul-road, and later churches, empires and persecutions developed around that claim. The age follows the first assemblies through the Great Tower Revolt to the fall of Second Qiryath.
 
 ## A life inside imperial history
 
@@ -39,7 +39,7 @@ Food, illness, childbirth and the care of the dead supplied the daily work behin
 
 ## Revolt and Underground
 
-The Great Tower Revolt of 61–68 AR began when the governor's officers took the sanctuary's money for arrears, soldiers killed the crowd that protested, and militants promised that the lost sign would come back once foreign rule ended. It brought initial victories, factional conflict and siege. Second Qiryath fell in 65 AR and the last stronghold, Migdal Shahar on the Dawn Road, in 68. Atheria ended Qiryath's charter government and put the city under direct provincial rule. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
+The Great Tower Revolt of 61–67 AR began when the emperor's daily offering lay unburnt on Qiryath's altar for nine mornings, the governor's augur called it fraud, and soldiers sent up the stair to burn a bull in pitch killed the altar's custodians and two hundred others. Militants promised that the lost sign would come back once foreign rule ended. The legions went first to Migdal Shahar on the Dawn Road, whose households escaped through its Way-Gate in 64. Second Qiryath fell in 67 AR, its cisterns broken and its sanctuary burned from its own altar, after its Keeper had sent the sanctuary's vessels away through the city's gate. Atheria ended Qiryath's charter government, put the city under direct provincial rule and charged every Jirahar household for the missing vessels. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
 
 During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 245 made every household relight its grave-lamps green from the Stars' fire after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in [[Saints and Sinners of the Chronicles]].
 

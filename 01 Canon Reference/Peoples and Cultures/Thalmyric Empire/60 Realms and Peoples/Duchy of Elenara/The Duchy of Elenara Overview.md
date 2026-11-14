@@ -33,7 +33,7 @@ Cities and monastery towns grow while high terraces empty. Wine, grain, fruit, m
 
 ## Faith and Ruins
 
-Monasteries preserve icons, seed, occupation testimony, and records that can overturn noble title. Beneath churches lie Atherian villas, martyr rooms, and hidden lamp caches from the Breakings.
+Monasteries preserve icons, seed, occupation testimony, and records that can overturn noble title. Beneath churches lie Atherian villas, martyr rooms, and hidden lamp caches from the Breaking and the Impounding.
 
 ## Present Conflicts
 

@@ -142,3 +142,15 @@ Package 2B closes for review here. Package 2C, imperial-depth writing, commits a
 Ilaron and Tarsenna's festival ground gains a later use: the Lustration of the Field in 609 BR, when Caleran killed Gateway hostage children and captives for Astaroth. The couple's culpability for their own captive sacrifice is unchanged; the later rite is Caleran's, under Dema Varin, and creates the Warden of the Red Field. Avren, Caleth, Ravessa and the Common Sky's founding facts are unchanged.
 
 Doreva's Pyrassan grain voyages and Mesthra's Irenai school acquire descendants in the new history: Pyrassa's grain houses eat at the Gateway's festival tables in the 650s, and Irenai's observers dispute the augurs' Long Month in 489. Neither changes the earlier figures.
+
+## Second bend amendment (14 November 2026)
+
+[[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic]] changes republican facts recorded in the amendment above. The amendment's own wording stands as the record of the first pass; where the two differ, this section controls.
+
+- **The Long Month** moves from 489 to 488 and from before the Noon Sighting to after it. The augurs insert it behind the midsummer of the sighting, so that the sign falls on an unreckoned day. Irenai's observers dispute it in 488. No land bill exists; Eshren Damar asks for a sighting day in 489 and is refused one.
+- **Eshren Damar lives.** The veterans occupy the noon land in 488, the harvest rots, several veterans are killed in the bread crowd of 487, and the leaseholding houses buy the plots back for bread. Damar keeps his plot at Sarven and dies about 457.
+- **The Chain Peace of 461** grants no citizenship. It gives every harbour's chain to its own wardens, pulls down Velathene's chain towers (not its walls), fixes the ship money, makes any further levy subject to each port's vote, ends the levy of sons from Thesra and Olveth and restores one calendar. Between 466 and 461 the rebel cities keep the year by Irenai's published count.
+- **Vespen Harod** never enters Caleran. The march of 448 and its confiscations are withdrawn. The senate's attempt to replace him in 452–449 ends with nine senators counted as contestants, two killed by Harod on the muster ground and seven forfeited as fled.
+- **Erenost** gains a later event: Zamaret Ordan lands near it c. 612 and is killed at its joint store in 601. Kassilon's seizure and the resident houses' joint store are unchanged.
+- **Ilaron and Tarsenna's festival ground**: the hostage children killed in 609 are the cohort delivered in 611, not children held since 646.
+- The Compact's twelve seats are unchanged. Velos's battle moves from 374 to 377.

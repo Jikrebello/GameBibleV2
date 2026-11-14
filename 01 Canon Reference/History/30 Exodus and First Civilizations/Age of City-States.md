@@ -79,7 +79,7 @@ In the west the age closed at Caleran. Its councillors and boat-owners had force
 - [[Proto-Jirahar Tower Towns]]
 - [[The First Atherian City-States]]
 - [[The Hunger Wars]] — Idol wars of the city world, including the Champion of Four Doors.
-- [[Ancient Qahur and the Twin-Reed Crowns]] — the Yasharet court's dead creditor, the Aramen empire built to pay her, the mortuary economy and the Single Radiance's war on the dead.
+- [[Ancient Qahur and the Twin-Reed Crowns]] — the Yasharet court's dead creditor, the empire run to pay her, the mortuary economy and the Single Radiance, a gilded procession of older dead that a king set on the tombs.
 - [[Qahur and the Gateway before Atheria|Qahur and the Gateway, c. 2165–350 BR]] — roads, shipping, diplomacy and migration between the river crowns and the coast.
 - [[Peoples before Atherian Unification]] — peoples, city populations and forms of belonging across the period.
 - [[The Ahdari before the Covenant]] — wells, camel roads, markets, hospitality, raiding and religious plurality before Al-Ahdiya.

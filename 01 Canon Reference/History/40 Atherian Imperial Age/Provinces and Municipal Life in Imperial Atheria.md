@@ -24,7 +24,9 @@ Taxes took the form of coin, grain, animals, materials and labour according to r
 
 Governors heard appeals and settled disputes involving different local customs. Their decisions could protect a village against an abusive contractor or place an opponent's estate in the hands of a friend. Travel and communication limited direct supervision from Caleran.
 
-A governor heard cases beneath a copy of the emperor's portrait, kept by priests of the Red Star, so that every judgement in the province was given in the imperial face's sight. After Samor Veloran veiled the original at Caleran in 246 BR, these copies became the emperor's only visible presence in most provinces. Litigants addressed the portrait as well as the governor, and people who had stood before it said that obedience came easier in its sight.
+A governor heard cases beneath a copy of the emperor's portrait, kept by priests of the Red Star, so that every judgement in the province was given in the imperial face's sight. After Samor Veloran veiled the original at Caleran in 245 BR, these copies became the emperor's only visible presence in most provinces. Litigants addressed the portrait as well as the governor, and people who had stood before it said that obedience came easier in its sight.
+
+Some provinces kept a rite of their own beside the portrait. At Sarqen the governor swore the spared towns' Table Oath at the landing every spring and ate among carters before the towns would fill his stores, and the towns filled the emperor's own seat with whoever they chose. Darsil kept the Day of Carts and Gallows, on which the garrison commander carried bread to the bake-houses on foot. Pyrassa's harbour wardens lit the refuge fire for the Burnt Quarter on the night Marelith had burned. Olveth's custodians hung their crown over a door through which officers entered disarmed. Governors who kept these days found their assessments paid, and those who mocked them found the carters slow.
 
 ## Municipal cities
 

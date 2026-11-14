@@ -17,7 +17,7 @@ The present day is a fractured inheritance war over Atheria's body, the Redeemer
 
 ## Central Conflict
 
-*(Authorial spine: the present's deep structure is deterrence-by-unopened-proof — see [[The Age of Held Proofs - Authorial Control]]. The causal road from 1225 to this board is [[Causality Pass - 09 The Road to 1360]], with the sequences bent in [[Causality Pass - 10F Bending the Road to 1360]].)*
+*(Authorial spine: the present's deep structure is deterrence-by-unopened-proof — see [[The Age of Held Proofs - Authorial Control]]. The causal road from 1225 to this board is [[Causality Pass - 09 The Road to 1360]], with the sequences bent in [[Causality Pass - 10F Bending the Road to 1360]] and bent again in [[Causality Pass - 11F Second Bend - The Road to 1360]].)*
 
 The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and myths still govern the living. So do its dead. The Grey Sweat made the sending of the dead the question of the age, and every great power in 1360 is shaped by how it answered it: Eclessia by the assurance trade and its reformation, Thalmyria by its lay singers and its refusal to be tested, the Covenant by the witnesses it lost, Sestara by the registers it holds, and the steppe by the grace in its horses.
 
@@ -27,7 +27,7 @@ The empire is dead, but its roads, churches, ruins, saints, debts, enemies, and 
 
 Fragmented, church-bound, confessional, and reform-haunted. Its powers want unity, legitimacy, and proof that their divided institutional inheritance remains the true public face of the Redeemer's Church.
 
-*Wounds.* The Sweat (1232–1247) and the bond of the clean village in Virelia; the Twin Cardinals and the doubt over the Ferry Rule's dead (1240–1242); the Sending Houses, Alessior II's Sufficient Seal and Quarne's dead paper (1252–1297); the unbought funerals (from 1297); Aldersbruck, the Unburnt Psalter and the bridge-tower (1305); the Ashenmen oath on the Weiss and the war from the mines (1306–1329); the Reform Wars and Rainald's extinct house (1329–1341); the Great Arrears the Council of Veridance owes the dead (from 1337); the Korrheim Accord, sworn on the Weiss and silent on reunion (1343); Vessing unruled (1352). The reunification mandate must reunite a church that refused to be tested in 1227, reabsorb duchies whose peace was sworn on water that forbade mentioning it, and police heresy with an order whose founding work is singing the Sanctum's own unpaid debts from registers rented from a bank.
+*Wounds.* The Sweat (1232–1247), which killed priests faster than parishioners, and the two settlements it left: the clean road in the west and the bond of the clean village in Virelia; the Twin Cardinals and the doubt over the Ferry Rule's dead (1240–1242); the Sending Houses, Alessior II's Sufficient Seal, his free sealings and Quarne's dead paper (1252–1297); the Blackwater funerals and a drowned chaplain's margins (1297); Aldersbruck, the Unburnt Psalter and the second fee (1299); the Ashenmen oath on the Weiss and the war from the mines (1306–1329); the Great Arrears the Council of Veridance owes the dead (from 1320) and the levy that paid for them; the princes' war over who sings them, and Rainald's extinct house (1329–1341); the Night Count and the Korrheim Accord, sworn on the Weiss, silent on reunion and blind to the people who keep no yard (1342–1343); Vessing unruled (1352). The reunification mandate must reunite a church that refused to be tested in 1227, reabsorb duchies whose map was drawn by their dead and whose peace was sworn on water that forbade mentioning it, and police heresy with an order whose founding work is singing the Sanctum's own unpaid debts from registers rented from a bank.
 
 ### Thalmyria
 
@@ -39,13 +39,13 @@ The densely layered old heartland: urban, mystical, imperial, and militarized, w
 
 Seven independent city-states joined only for external defence. Fiorenzia wants credit and cultural authority; Sermora wants command of sea access; Aversia wants military clients and strategic depth; Vorthara wants freedom from government; Castara wants the Boiling Sea future; Orsena wants indispensable neutrality; Vardessa wants open roads and fair peace. Collectively they prevent conquest. Separately they finance, arm, transport, frustrate, and spy upon everyone, including one another.
 
-*Wounds and leverage.* The Medori hold the Chancery of Sendings' registers (since 1296), Thalmyria's frontier debt (since 1319), and the memory of 1346–1349: a Sermoran pamphlet drove them out, they fled with the city's dead, and Fiorenzia bought its dead back by making them hereditary dukes. Castara's crossing rests on a Breath day (1328), a recovered keel and a road peace bought from the Ash Horde (1334). Vorthara bought Quarne's dead paper and kept his death.
+*Wounds and leverage.* The Medori hold the Chancery of Sendings' registers (since 1296), Thalmyria's frontier debt (since 1319), and the memory of 1346–1349: a Sermoran pamphlet named Fiorenzia's unsung dead in their vault, the senate burned the city's wax faces, a Medori son-in-law opened the vault to the crowd, and the citizens made the family hereditary dukes over the senate's head. Every other city's sheets are still in that vault. Castara's crossing rests on a Breath day (1328), a recovered keel and a road peace bought from the Ash Horde (1334). Vorthara bought Quarne's dead paper and kept his death.
 
 ### Ahl-e-Ahd
 
 The Covenant is a layered imperial-confessional civilization rather than one ethnicity. The Qahirid court at Iqashar wants enforceable order, strategic depth, tribute, name custody, and control of roads and military households. Al-Qahur supplies sacred legitimacy and grain while its military houses resist direct rule. Qazmarid's Sealed-Blood counter-caliphate rejects Qahirid authority. Zanthir and the Velian States turn the Thalmyric frontier into a contest over living mixed societies rather than empty lost provinces. See [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/The Ahl-e-Ahd Overview.md|The Ahl-e-Ahd Overview]] and [[01 Canon Reference/Peoples and Cultures/Ahl-e-Ahd/40 Government and Institutions/Ahl-e-Ahd Caliphates.md|Ahl-e-Ahd Caliphates]].
 
-*Wounds.* The Emptying of the Benches (1236–1243) and the registers that have not balanced since; Prince Mihrzad's death with no competent witness (1241), which made Suhrab name the Guard bench a witness, and that bench as witness of every accession (since 1243); the Pageless Prince and the Cull's turn to the knife (1249–1252); the canal councils against the military households' expired leases; the Black Wind's escort fees (1265–1300); the Iron Horde inside the frontier (since 1304); Zehrim and the Unreleased (1325–1326); the Cull of 1349. It is seized rather than stagnant: strong, but unable to act without witnesses who will not leave Iqashar.
+*Wounds.* The Emptying of the Benches (1236–1243) and the registers that have not balanced since; Prince Mihrzad's death with no competent witness (1241), which made Suhrab name the Guard bench a witness, and that bench as witness of every accession (since 1243); the Pageless Prince and the Cull's turn to the knife (1249–1252); the canal councils against the military households' expired leases; the Black Wind's escort fees (1265–1300); the Iron Horde inside the frontier (since 1304); Zehrim and the Unreleased (1325–1326); the Cull of 1349, which Al-Qahur's price left unfinished, with one brother lodged in the walled garden and his page in the Deep Vault. It is seized rather than stagnant: strong, but unable to act without witnesses who will not leave Iqashar.
 
 ### Jirahar
 
@@ -55,7 +55,7 @@ Five living towers, the Empty City, host quarters, and mobile companies share la
 
 ### The Tarkhan
 
-Four Hordes partitioned in 1304 by grace-line from Qarayel's herds. White raids the Nine Wells; Iron serves inside Covenant institutions on horses that stand beside bound things; Moon keeps the Standard, the wind-speakers and the grave's prohibition; Ash sells the Castaran road and owes money. The grace renewed by Gavrin's blessing in 1249 is thinning again.
+Four Hordes, named in 1304 for the four bands in which Qarayel's herds came home, each band a grace-line. White raids the Nine Wells; Iron serves inside Covenant institutions on horses that stand beside bound things; Moon keeps the Standard, the wind-speakers and the grave's prohibition; Ash sells the Castaran road and owes money. The grace renewed by Gavrin's blessing in 1249 is thinning again.
 
 ### The Folk
 

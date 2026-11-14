@@ -43,7 +43,7 @@ Three rulings shaped the Covenant's wars after the Long Frontier. The recited Co
 
 ## Institutions
 
-There is no single universal priesthood. Aqidin teach, preach, witness, and administer communities; jurists interpret law; arbiters judge; shrine custodians maintain pilgrimage sites; communal foundations support water, education, sanctuary, and burial. Political rulers repeatedly attempt to control all five.
+There is no single universal priesthood. Aqidin teach, preach, witness, and administer communities; jurists interpret law; arbiters judge; shrine custodians maintain pilgrimage sites; communal foundations support water, education, sanctuary, and burial. Political rulers repeatedly attempt to control all five. The oldest division of authority is the Prophet's own: the three Seals of Water, Names and the Roads, under which Mujalib gave his authority away in 563, descend to the caliph of the wells at Al-Qahur, the Vault of Names and the throne at Iqashar.
 
 ## Moral Boundary
 

@@ -19,7 +19,7 @@ The throne is a relic of continuity rather than a reliable magical ordeal. Pilgr
 
 ## Coronation
 
-Thalmyric emperors are first acclaimed and crowned at **Virelos**, preserving Caedros I's coronation of 922 AR. Before the crown is set on his head the new emperor pours out a cup of water on the floor before the altar without tasting it. The **Poured Cup** repeats the gesture by which Markellos, who had drunk at Qarath's Well, gave his claim to Nikandros, who had not, in 1225, and it reminds every emperor that what he drinks and signs is the Throne's. They then enter Veridun beneath the Great Lamp and Virelian Lamp, swear the compact of crown and Church, and sit in the Crown Hall to receive the seals of government. Caleran supplies the Patriarchal blessing and oil of consecration but is not the living court.
+Thalmyric emperors are first acclaimed and crowned at **Virelos**, preserving Caedros I's coronation of 922 AR. Before the crown is set on his head the new emperor pours out a cup of water on the floor before the altar without tasting it. The **Poured Cup** repeats the gesture by which Markellos, who had drunk at Qarath's Well and carried the water-sickness for eleven years sooner than give the Covenant the aqueduct it claimed for his cup, gave his claim to Nikandros, who had not drunk, in 1225. It reminds every emperor that what he drinks and signs is the Throne's, and that a seal can be pressed by another hand. They then enter Veridun beneath the Great Lamp and Virelian Lamp, swear the compact of crown and Church, and sit in the Crown Hall to receive the seals of government. Caleran supplies the Patriarchal blessing and oil of consecration but is not the living court.
 
 The ceremony binds the monarch to four duties:
 

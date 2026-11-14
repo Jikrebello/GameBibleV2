@@ -13,13 +13,15 @@ tags: [world-historical-atlas]
 ---
 # Towns and Wars of the Long Frontier
 
-The peace of 612 drew a line across the old north, and for more than two and a half centuries people lived along it: in march towns and well villages, translation houses and frontier hospitals, at ferries, forts and ransom markets. This article follows those towns and their smaller wars, from the standoff at Tamsar in 611, where a Covenant ruling and a Caleran reliquary failed before the same two armies, to the crusade that broke the peace in 874. The wider history of the age is in [[The Long Frontier and the First Unsealing]].
+The peace of 612 drew a line across the old north, and for more than two and a half centuries people lived along it: in march towns and well villages, charter-houses and frontier hospitals, at ferries, forts and ransom markets. This article follows those towns and their smaller wars, from the standoff at Tamsar in 611, where a Covenant ruling and a Caleran reliquary failed before the same two armies, to the crusade that broke the peace in 874. The wider history of the age is in [[The Long Frontier and the First Unsealing]].
 
 ## A frontier inherited from conquest
 
 The settlements of the Long Frontier stood on old ground. Channels, military colonies, churches, shrines, wells and field boundaries came through the First Unsealing in unequal repair. Victorious households moved into buildings kept up by people whose own claims had become dangerous to voice. Other districts had bought protection before any army arrived, and some magnates had taken Covenant terms gladly, remembering the Saldane requisition columns that had carried off their seed grain in the Thin Floods.
 
-Qatada's conquests left garrisons that had to eat. Commanders who called the conquered helpless still depended on their millers, well-diggers and scribes, and some of the conquered rose as interpreters, physicians or stewards. Most of their kin stayed where the conquest had left them.
+The Unsealing left garrisons that had to eat. Commanders who called the conquered helpless still depended on their millers, well-diggers and scribes, and some of the conquered rose as interpreters, physicians or stewards. Most of their kin stayed where the conquest had left them.
+
+A town that had taken terms drank by the roll. A bound keeper sat at its chief well and drew for every householder whose name the breach-court had entered, and the bucket came up wet and empty for anybody else: a pedlar off the road, a deserter, a child born since the last entry. Towns learned to keep a second, shallower well for strangers and to pay the court's clerk for prompt entries, and a midwife's first errand after a birth was to the roll. When the Banu Mizan took the Velian belt under their protection about 610 they sent its keepers back to the roads and measured the belt's water by the hour-cup, and the belt has remembered that longer than their libraries.
 
 ## The line itself
 
@@ -37,7 +39,7 @@ Several well coalitions therefore made the soldiers who claimed water walk besid
 
 Zanthir, founded as a conquest emirate in 601, became a centre of Banu Mizan patronage. Patrons paid for knowledge useful in irrigation, navigation, medicine and government, and they also paid for histories that proved their families had a right to rule. The salt pans and bond-hospitals of its dry margin supplied a different kind of learning. Every bound labourer who died there needed a witness before the custodian could release the name, and Jirahar physicians served as witnesses because both Covenant courts and Velian families would accept them. Rab Yequtiel's *What the Register Keeps* came out of fifty years at those beds: the words of the dying, set down one by one, and his conclusion that the register holds the name and lets the person go.
 
-A translation house was a working household. Apprentices ground ink, cooked and smoothed copying boards; relatives supplied introductions; a captive might know a language no paid scholar did. Sestaran notaries sold legal opinions to both sides of the line, sometimes the same opinion twice. The Fifth Translation's disastrous omission came of pressure to deliver an elegant, usable book on time, and its correction cost ordinary copyists their places long before it became an improving story about humility.
+A charter-house, which outsiders called a translation house, was a working household. Its business was to read the old empire's deeds, boundary rolls and aqueduct schedules for courts that had to treat them as neither void nor in force, and the rest of its learning came in behind the deeds. Apprentices ground ink, cooked and smoothed copying boards; relatives supplied introductions; a captive might read a hand no paid scholar could. Sestaran notaries sold legal opinions to both sides of the line, sometimes the same opinion twice. The Fifth Translation's disastrous omission came of pressure to deliver an elegant, usable book on time, and its correction cost ordinary copyists their places long before it became an improving story about humility.
 
 Physicians crossed the line for fees, kin and mercy, and treated captors as well as captives. The Physician and the Interpreter harmed one patient between them, each trusting a different learning. The Bitter Reaper's cordial was good medicine and also bound patients to a coercive cult. The House of Divided Instruments began by honestly treating travellers hurt on unstable routes, before its wound-dresser took prisoners from a military patron for his trials. Preachers on both sides blamed foreign learning for these horrors; the hospitals that kept using the safe instruments blamed the men who had misused them.
 
@@ -55,7 +57,7 @@ Local wall crews, caravan guards and village militias went on building and fight
 
 ## The Two Oaths seen from the line
 
-When Leovar II and his heir died in the Fever Week of 709, the marches learned what their charters meant. The oaths had to be renewed within a year and a day, in person, and only Corvenas rode out to renew them. March towns watched him come up their roads in 710 with a handful of riders, kneel at the gate and wait while the monk read; at most of them the lamps took the Fire. Covenant commanders across the line watched the same war and kept still, because their jurists warned that crossing would open the peace of 612.
+When Leovar II died in the Fever Week of 709 and the same fever left his son too weak to ride, the marches learned what their charters meant. The oaths had to be renewed within a year and a day, in person, and only Corvenas, the sick emperor's brother-in-law, rode out to renew them. March towns watched him come up their roads in 710 with a handful of riders, kneel at the gate and wait while the monk read; at most of them the lamps took the Fire. Covenant commanders across the line watched the same war and kept still, because their jurists warned that crossing would open the peace of 612.
 
 ## Small wars inside the peace
 

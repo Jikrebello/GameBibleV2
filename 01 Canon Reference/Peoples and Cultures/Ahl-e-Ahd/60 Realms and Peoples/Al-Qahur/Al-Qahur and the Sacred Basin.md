@@ -28,7 +28,7 @@ The Covenant's hold on the Basin began in famine. In the Thin Floods of 546–55
 
 ## The Basin and the Threshold, 931–1190
 
-Al-Qahur's present weight in Qahirid politics dates largely from the Unsworn Years. When Idris al-Fattah died in 931, two years after his heir, the oaths that bound the Qahirid army to him lapsed. The Regency at Iqashar rebuilt the throne as the Sublime Threshold and had every new oath witnessed at Al-Qahur, so that the throne's continuity rested on the Basin's sacred custody. The first rival prince to be lodged, his true name taken into custody so that nobody could swear to him, lived out thirty years in a walled garden in the Basin.
+Al-Qahur's present weight in Qahirid politics dates largely from the Unsworn Years. When Idris al-Fattah died in 931, two years after his heir Ruzbeh had refused to take up his instruments, the oaths that bound the Qahirid army to the two of them lapsed. The Regency at Iqashar rebuilt the throne as the Sublime Threshold and had every new oath witnessed at Al-Qahur, so that the throne's continuity rested on the Basin's sacred custody. Ruzbeh was the first prince to be lodged. His true name was taken into custody so that nobody could swear to him, and he lived out thirty years in a walled garden in the Basin.
 
 The Basin captains would not re-swear without land. In 938 they took estates in the Sacred Basin on fixed-term leases, with the Basin engine yard, and became the military households. Qahuri canal councils have pointed out ever since that the leases had end dates. "Armed tenants who forgot the lease had an end" began as a lawyer's phrase and became a village insult.
 
@@ -40,7 +40,7 @@ The Grey Sweat fell heavily on the Basin. Its witnesses died faster than the bou
 
 ## Sacred Authority
 
-Caliph Uwais, Custodian-of-the-Wells, guards the pilgrimage sites, the remembered Covenant of the 4,444, and the Vault containing the Fourth Seal. His acknowledgment gives Qahirid rulers sacred legitimacy; his silence can wound them.
+Caliph Uwais, Custodian-of-the-Wells, guards the pilgrimage sites, the remembered Covenant of the 4,444, and the Vault containing the Fourth Seal. His office is the oldest in the Covenant: it descends from the Seal of Water, the first of the three instruments under which Mujalib gave his authority away in 563. His acknowledgment gives Qahirid rulers sacred legitimacy; his silence can wound them.
 
 ## Military-Household Rule
 

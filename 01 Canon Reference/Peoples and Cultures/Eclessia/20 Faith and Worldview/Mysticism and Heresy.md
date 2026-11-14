@@ -33,7 +33,7 @@ The Bruckmoor apparition established the central warning: grief, repetition, and
 
 The Order of the Open Flame is a rival confession protected where recognized by the Korrheim Accord. Old-Church polemic may call it heresy, but it is not Left Hand worship. Its sacral claims can be mistaken; its followers are not thereby servants of the Adversary.
 
-Radical congregations excluded from the Accord include icon-breakers, commonwealth preachers who deny princely confession, and rigorists who treat every sacrament administered by a corrupt priest as void. Their legal exposure does not determine their metaphysical condition.
+The congregations excluded from the Accord, the Unsworn, are those that keep no churchyard for it to count. The oldest are the river people of the upper Weiss, who give their dead to the Preacher's Water as the first Brenholt funeral did. Icon-breakers, commonwealth preachers who deny any lord's lamp, and rigorists who treat every sacrament administered by a corrupt priest as void are counted with them. Their legal exposure does not determine their metaphysical condition.
 
 ## Fraud, Cult, and Predation
 

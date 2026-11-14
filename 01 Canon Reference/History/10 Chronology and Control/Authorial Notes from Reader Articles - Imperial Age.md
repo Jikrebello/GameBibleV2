@@ -95,3 +95,18 @@ The founding articles were rewritten by [[Causality Pass - 10A Bending the Found
 - [[Marelith]]: survivors say the bearer "had been freed of the city rather than killed". The bearer's fate stays authorially uncertain; the chain broke the founding covenant's terms, and nothing more is fixed.
 - [[The Atherian Empire – Age of Glory]] and [[The Later Reign of Aurelius Thalion]]: the painted board is told as the origin of the accession portrait. Its place in the Pride Mask's formation is held in [[Age of Glory - Authorial History and Integration Review#Religion and supernatural identity]].
 - [[Aurelius Thalion]]: the line that he "learned to fear the Red Star" is his own fear; nothing in the grammar threatened a man who never accepted a field.
+
+## Causality Pass 11A2, 14 November 2026
+
+[[Causality Pass - 11A2 Second Bend - Founding and Age of Glory]] changed fates and order in the founding and the Age of Glory. The reader articles report what witnesses said; the authorial truth is in the 11A2 sections of [[Imperial Founding - Authorial History and Integration Review#Causality Pass 11A2 amendment (14 November 2026)]] and [[Age of Glory - Authorial History and Integration Review#Causality Pass 11A2 amendment (14 November 2026)]]. Three notes in the 10A list above are superseded: Venn lives; the refusal of 350 is the college's and not Varroth's, who is dead; and nobody hides Meren.
+
+- [[The Wars of the Atherian Succession]]: old soldiers say "the one man who had stood was the one man it had let go". Authorially the squad let Venn go. The Red Star chose nothing.
+- [[The Wars of the Atherian Succession]] and [[Seluc Varroth]]: the salt-boilers say the register "is under the pans still". It is, and it is only a book.
+- [[The Wars of the Atherian Succession]]: "one salted corpse looks much like another". The body was the right man's. Whether King Orvaz arranged the fall is open.
+- [[The Wars of the Atherian Succession]] and [[Aurelius Thalion]]: Venn's sword is "a blessing" to some and "a challenge" to others. He meant that Thalion could stand on the Field himself if he wanted it closed. No reader article says so.
+- [[Samyra Nerethan]]: "a hostage, an heir or a nephew". All three at different times; she never intended the boy's death, and the towns' counting would have caught it.
+- [[The Year of Four Eagles]]: the chief clerk "heard his own voice give the others". This is the dependent Pride Mask's intensified conformity to the represented office; it altered no tablet and knew no figure. The same holds for its answer to Daran.
+- [[The Year of Four Eagles]]: whether the cloak had slipped when Mott was found, and whether the Face answered him, is disputed in-world and open.
+- [[The Last Dynasties of the Age of Glory]]: the terrace guard "had been unable to turn their heads". They kept a standing order in the image's sight and no officer gave another. Nothing held them.
+- [[The Last Dynasties of the Age of Glory]]: "Hostile writers said Elian had bought the seat". Open.
+- [[The Keeper of Borrowed Grain]]: imperial histories credit Neriah with the estate. He opposed it; the credit is the court's later convenience and feeds the accusation against the Jirahar.

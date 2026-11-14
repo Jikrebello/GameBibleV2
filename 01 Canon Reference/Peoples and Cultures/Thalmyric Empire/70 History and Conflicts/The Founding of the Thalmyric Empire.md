@@ -19,7 +19,7 @@ Thalmyria was founded across five generations. It began as flight, became a moun
 
 1. [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]: Caleran fell in 905, the last emperor surrendered himself and his relics, and the imperial government collapsed.
 2. [[01 Canon Reference/History/60 Fall and Successor Empires/The Refuge and the Rise of Veridun.md|The Refuge and the Rise of Veridun]]: Veridun survived the column of 906 beneath the smoke of its ovens, received the displaced institutions, and organised resistance after the captive emperor's death in 908.
-3. [[The Battle of Caelmount]]: the Broken Road of 917 proved the resistance could destroy a field army, at the cost of a valley's terraces.
+3. [[The Battle of Caelmount]]: the winter of 917–918 proved that a Covenant field army could be destroyed in the mountains, at the cost of the valley's granary.
 4. [[01 Canon Reference/History/60 Fall and Successor Empires/The Coronation at Virelos.md|The Coronation at Virelos]]: Caedros I, who had taken Virelos to feed Caelmount, received the crown there in 922.
 5. [[01 Canon Reference/History/60 Fall and Successor Empires/The War of the Burning Banners.md|The War of the Burning Banners]]: refuge leagues united between 922 and 949.
 6. [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]]: the sacred capital returned in 957; Caedros I died at the Pillar.
@@ -27,7 +27,7 @@ Thalmyria was founded across five generations. It began as flight, became a moun
 
 ## The Enemy's Clock
 
-Thalmyric founding histories tell the sequence as a refuge's rise. The Covenant's own troubles set much of its pace. Idris's death in 931, two years after his heir drowned, voided the oaths that bound the occupation's army to him and left the south in the hands of Amir Durayd ibn Sahl, who held it without help from Iqashar. From 951 Grass-Tarkhan raids on the Covenant's northern wells pinned Iqashar's army far from Caleran, and after Durayd fled in 957 Thalmyria faced a dozen separate amirates instead of an empire, most of them watered from hills it already held. [[The Covenant from Idris to Suhrab (905-1190 AR)]] follows those years from Iqashar.
+Thalmyric founding histories tell the sequence as a refuge's rise. The Covenant's own troubles set much of its pace. Idris's death in 931, two years after his heir had refused his instruments, voided the oaths that bound the occupation's army to him and left the south in the hands of Amir Durayd ibn Sahl, who held it without help from Iqashar. From 951 Grass-Tarkhan raids on the Covenant's northern wells pinned Iqashar's army far from Caleran, and after 957, with Durayd its prisoner and signing his garrisons' releases, Thalmyria faced separately sworn amirates instead of an empire, most of them watered from hills it already held. [[The Covenant from Idris to Suhrab (905-1190 AR)]] follows those years from Iqashar.
 
 ## What Was Founded
 

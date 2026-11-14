@@ -40,7 +40,7 @@ Similar choices faced captives from Qahur, Tarkhan districts and rebellious rive
 
 ## Survival after House Ubar
 
-The coalition which took Arqesh in 690 BR destroyed the ruling house's supremacy and divided its territories. Farmers continued cultivation, officials served new governors and schools preserved administrative practice. In 688 the last Ubar king, Kassur III, sealed the Gate House's water books over to Arezan Tiravan at Durqesh, and the canal offices went on working under a seal they recognised. Vasharan rulers adopted useful parts of Arqeshite government while condemning the dynasty they had defeated.
+In 690 BR the capital's dredging gangs and deportee quarters opened Arqesh to the coalition, which destroyed the ruling house's supremacy, divided its territories and set the gangs back to work. Farmers continued cultivation, officials served new governors and schools preserved administrative practice. In 688 the last Ubar king, Kassur III, sealed the Gate House's water books over to Arezan Tiravan at Durqesh, and the canal offices went on working under a seal they recognised, the sleeping child of the Gate House, which was older than the dynasty. Vasharan rulers adopted useful parts of Arqeshite government while condemning the dynasty they had defeated.
 
 By 350 BR Arqeshite identity remained active as an urban and river culture. Its former subjects belonged to several successor governments, and the canal cities continued to distinguish themselves from both their conquerors and one another.
 

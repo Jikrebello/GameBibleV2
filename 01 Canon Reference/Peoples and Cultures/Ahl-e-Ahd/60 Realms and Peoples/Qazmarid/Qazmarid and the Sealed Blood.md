@@ -18,7 +18,7 @@ Qazmarid occupies the western strait on a separate landmass. It is not a Thalmyr
 
 ## Rule and Faith
 
-Caliph-Wasi Zahran claims descent from Ruqaiya bint Mujalib and custody of the Counter-Instrument. A hierarchy of Wasiyin, lineage courts, shrine foundations, and fortress governors supports him. The Sealed Blood is the state confession and the Mourning of the Wells its central public rite.
+Caliph-Wasi Zahran claims descent from Ruqaiya bint Mujalib through her son Husan, and custody of the Counter-Instrument. A hierarchy of Wasiyin, lineage courts, shrine foundations, and fortress governors supports him. The Sealed Blood is the state confession and the Mourning of the Wells its central public rite.
 
 ## Society and Economy
 
@@ -30,7 +30,7 @@ Witnessed-Seal subjects retain courts and worship but are excluded from the high
 
 ## The Proclamation of 933
 
-Qazmarid's rulers took the title Caliph-Wasi during Iqashar's Unsworn Years. When Sultan-Caliph Idris died in 931, two years after his heir, the oaths his army had sworn to him by name lapsed together. Qazmarid had been the Sealed Blood's stronghold since the seventh century, when the seventeen women and children who survived Bir Qassim came over the strait on the drovers' camels and the households that mourned with them gathered there, and under Qahir its lords had paid Iqashar for peace in the strait. In 933 they stopped paying, and the lord of Qazmarid's jurists drew the lesson in public: if oaths died with the man, the Qahirid claim had only ever been a man's, and the Fourth Seal had been widowed with Uthar ibn Qays; only blood continued, and the blood was Ruqaiya's. Witnessed-Seal jurists answered that the witness of a living community cannot be widowed. The argument has not moved since.
+Qazmarid's rulers took the title Caliph-Wasi during Iqashar's Unsworn Years. When Sultan-Caliph Idris died in 931, two years after his heir had refused to take up his instruments, the oaths his army had sworn to the two of them by name lapsed together. Qazmarid had been the Sealed Blood's stronghold since the seventh century, when Husan and the thirty-six of his household who lived through Bir Qassim came over the strait with the escort that had refused to disarm them, and the households that mourned with them gathered there. Husan lived veiled at Qazmarid until 631 and is buried in its upper town. Under Qahir the lords of Qazmarid had paid Iqashar for peace in the strait. In 933 they stopped paying, and the lord of Qazmarid's jurists drew the lesson in public: if oaths died with the man, the Qahirid claim had only ever been a man's, and the Fourth Seal had been widowed with Uthar ibn Qays; only blood continued, and the blood was Ruqaiya's. Witnessed-Seal jurists answered that the witness of a living community cannot be widowed. The argument has not moved since.
 
 For the rest of the century Qazmari naval stations tolled every Covenant convoy that used the western strait, including the ship that carried Iqashar's last Slave-Soul engine south to Caleran in 955, and sheltered fugitives from every Qahirid succession. Qazmari chroniclers boast that Qazmarid never fought Iqashar in those years. It charged it.
 

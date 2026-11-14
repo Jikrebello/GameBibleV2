@@ -19,9 +19,9 @@ Eclessia is not one market. It is a chain of grain estates, cathedral towns, riv
 
 ## The Plague Settlement
 
-The Grey Sweat removed labor faster than land. In most western and central territories, survivors demanded wages, fixed rents, inheritance, and freedom to move. Guilds and towns grew stronger; monasteries leased abandoned holdings; rulers competed for settlers.
+The Grey Sweat removed priests faster than labor and labor faster than land. In most western and central territories, tenants walked to wherever a priest still lived, and lords who wanted their fields worked conceded wages, fixed rents, inheritance, and freedom to move in the clean-road charters. Guilds and towns grew stronger; monasteries leased abandoned holdings; rulers competed for settlers.
 
-Virelia chose the opposite settlement. Its sabre-right nobility bound surviving tenants to demesne estates, expanded compulsory labor, and used river export contracts to enforce a second serfdom. Virelian grain feeds much of Eclessia, while runaways feed its roads and southern frontiers.
+Virelia chose the opposite settlement. Its sabre-right nobility bound surviving tenants to demesne estates, expanded compulsory labor, and used river export contracts to enforce the bond of the clean village. Virelian grain feeds much of Eclessia, while runaways feed its roads and southern frontiers.
 
 Broken plague registers remain economic weapons. A monastery, village, noble, and guild can each hold plausible title to the same abandoned field. Lay notaries from Veridancia and Aurelia now compete with parish clerks to determine which memory has force.
 

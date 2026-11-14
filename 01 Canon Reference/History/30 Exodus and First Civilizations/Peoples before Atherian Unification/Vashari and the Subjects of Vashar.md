@@ -36,7 +36,7 @@ Imperial service produced a shared public culture. Officers used royal titles an
 
 ## Inequality and incorporation
 
-The empire rewarded households which kept roads open and revenue moving. Provincial elites could enter royal service and educate their children at the court. Communities which resisted might lose land, workers and hostages. Military settlements created mixed populations around forts and relay stations, while deportation moved suspected rebels away from their local support; after 508 BR the rebel harbour quarters of Tasar were sent to keep the relay stations of the Dawn Road.
+The empire rewarded households which kept roads open and revenue moving. Provincial elites could enter royal service and educate their children at the court. Communities which resisted might lose land, workers and hostages. Military settlements created mixed populations around forts and relay stations, while deportation moved suspected rebels away from their local support; after 511 BR the rebel harbour quarters of Tasar were sent to keep the relay stations of the Dawn Road.
 
 The same government could protect a pilgrimage road and punish the villages beside it. Vashari royal ideology described the road as a gift of ordered rule. Subjects judged that claim through the taxes, soldiers and market access they actually encountered.
 

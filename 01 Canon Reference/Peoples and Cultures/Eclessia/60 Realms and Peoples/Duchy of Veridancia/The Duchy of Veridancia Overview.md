@@ -29,7 +29,7 @@ The plague emptied vineyard villages and shattered parish titles. Surviving work
 
 ## Reformation and Accord
 
-Veridancian scholars circulated Ansgar's arguments even while condemning revolt, and the reformers' own order, *The Order of the Open Flame*, was written at the university of Veridance about 1316 by the Sanctum canonist Lucian Ferro as the first half of a refutation he never finished. The Council of Veridance, 1337-1352, sat in the guild-hall at Veridance with Ferro as its unvoting witness; it abolished assurances, codified relic tests, rebuilt seminaries, and chartered the Order of the Lantern from the night-singers of Ferro's student Ivo of Saint-Leon. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
+Veridancian scholars circulated Ansgar's arguments even while condemning revolt, and the reformers' own order, *The Order of the Open Flame*, was written at the university of Veridance about 1313 by the Sanctum canonist Lucian Ferro as the first half of a refutation he never finished. The Council of Veridance, 1319-1324, sat in the guild-hall at Veridance with Ferro as its unvoting witness; it abolished assurances, codified relic tests, rebuilt seminaries, and chartered the Order of the Lantern from the night-singers of Saint-Leon, whose dead priest Ivo had been Ferro's student. Ferro died at Veridance in 1339 and lies in the university's own yard. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
 
 ## Government and Faith
 
@@ -49,7 +49,7 @@ Veridancia hires troops and contributes trained officers rather than maintaining
 
 - **War of the Vine Lords, 1279-1281 AR:** the commercial theater of the Veridancian Succession War; rival houses burned presses, seized cellars, and attempted to control vineyard title.
 - **Smuggler's Gambit, 1320 AR:** book-runners used wine routes to break a Reform War censorship cordon and exposed the complicity of ducal customs officers.
-- **Merchant Revolt of Verdissia, 1330 AR:** guilds forced representation on tax and printing councils, creating the civic machinery later used by the Council of Veridance.
+- **Merchant Revolt of Verdissia, 1330 AR:** the guilds that had housed and fed the Council of Veridance for five years forced representation on tax and printing councils.
 
 ## Present Tensions
 

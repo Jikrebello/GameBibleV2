@@ -19,6 +19,8 @@ The Folk lands are connected to the wider world by rivers, coastal routes, marke
 
 Eclessian kingdoms are settler, market, employer, missionary, and enemy at once. The old Church contains both coercive mission traditions and saints who defended Folk converts from cultural erasure. Freeflame preaching attracts some Chapel-Folk because it weakens distant hierarchy, while its reforming princes can be as hungry for land as any old-Church lord.
 
+The relationship was set in the **Folk Wars** of 985–994. Adalmar's bishops kept a written register that listed the old imperial frontier forts as his to grant; the Green March clans kept their title in the memories of oath-keepers who could recite every grove boundary. In 993 the king called those oath-keepers and seers to Wolfsmere under safe-conduct to recite the boundaries for his clerks, and when the recital contradicted his grants he drowned the four thousand in the lake. The lake rose on his fort the next winter, and no Markish lord would take land beyond it. Weylan Oath-Bent, who had taken baptism in 987 to hold his clans' fields under the settlers' law and had carried the safe-conduct to the lake, sued the king in the bishops' own court and won the Peace of the Bent Oak in 999. Folk and Eclessians have argued ever since about which record of the land is the true one, and both remember that the written one was defended by drowning the spoken one.
+
 ## Thalmyria
 
 Thalmyric scholars seek Atherian remains in Folk country; frontier officers recruit scouts and mercenaries; and monasteries preserve records of early converted clans. Folk memory distinguishes present Thalmyrics from old imperial conquerors without forgetting the connection.

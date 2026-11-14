@@ -37,7 +37,7 @@ Some meetinghouses are converted churches. Their removed screens, whitewashed im
 
 ## Confiscated and Shared Buildings
 
-The Reform Wars turned abbeys into hospitals, guild halls, arsenals, schools, noble estates, and ruins. Under the Accord, a building follows territorial settlement, not the private confession of its former clergy. Korrheim and border towns sometimes divide time, entrances, or chapels between rites; every such arrangement produces disputes over bells, burial soil, and who holds the keys.
+The Reform Wars turned abbeys into hospitals, guild halls, arsenals, schools, noble estates, and ruins. Under the Accord, a building follows its churchyard, not the private confession of its former clergy. Korrheim and border towns sometimes divide time, entrances, or chapels between rites; every such arrangement produces disputes over bells, burial soil, and who holds the keys.
 
 ## Regional Forms
 

@@ -20,7 +20,7 @@ tags: [world-historical-atlas, qahur, cities, daily-life, economy]
 
 ### Tenaret
 
-Tenaret stood on the middle river where several cultivated districts exchanged produce without passing through the lower fan or southern narrows. The Senareth kings enlarged its stores and quays. Later dynasties valued its royal tombs, medical houses and claim to the joined-reed coronation.
+Tenaret stood on the middle river where several cultivated districts exchanged produce without passing through the lower fan or southern narrows. The Senareth kings enlarged its stores and quays. During the first division their statues, the Answering Kings, governed the middle river from the tombs through the priests who carried their answers. Later dynasties valued the town's royal tombs, medical houses and claim to the joined-reed coronation.
 
 Villages beyond the walls supplied the city's prosperity. Grain boats arrived in fleets after harvest. Temple and tomb estates employed brewers, linen workers, stonecutters, gardeners and healers. The tomb-workers' stoppage of 903 BR began in an artisan settlement outside Tenaret after managers of Tamekha's Copper Orchard diverted their grain.
 
@@ -34,13 +34,13 @@ Qemaret also became the commercial centre of the White Measure. Khaseret's funer
 
 ### Sakhret
 
-Sakhret guarded the southern narrows, quarry approaches and roads towards pasture and mines. Its rulers drew strength from garrison households and communities able to move animals through the dry margins. Southern restorers repeatedly used it as a military base.
+Sakhret guarded the southern narrows, quarry approaches and roads towards pasture and mines. Its rulers drew strength from garrison households and communities able to move animals through the dry margins. Southern claimants repeatedly used it as a military base.
 
 The town's festivals included wrestling, boat-hauling contests and an evening meal for returning quarry crews. Royal accounts celebrated the stone brought home. Household songs remembered crushed hands, jokes played on overseers and companions who died on the road.
 
 ### Aseret and Isethar
 
-Aseret began as a garrison and craft settlement. Ithren III made it the capital of the Single Radiance, built it on land taken from the dead and forbade burial within it; its dead crossed the river at dusk in hired ferries. His son Deshren made the palace his necropolis, and from about 815 BR the town paid rent to the sealed palace's stewards. Its noon courts were roofed over for workshops. Boatmen would not moor at Aseret after dark, and its children were dared to knock on the palace's inner gate.
+Aseret began as a garrison and craft settlement where an old estate road came down to the middle river, and its soldiers kept their stores in the vaults of a buried Giant estate. Ithren III took that estate's seal from under the garrison yard around 840 BR, and the gilded procession called the Single Radiance went out from Aseret to strip the Basin's tombs and came back with their metal. Anything buried in the town with a bead of old bronze was dug up again, so its dead crossed the river at dusk in hired ferries. Ithren's son Deshren, who wore the seal, made the estate-house his necropolis, and from about 829 BR the town paid rent to the sealed palace's stewards. The gilded serpent lay coiled around the palace wall and its masked guards stood in the streets. Boatmen would not moor at Aseret after dark, and its children were dared to touch a guard's hand.
 
 Isethar lay between the strongest royal centres. Its boats and stores allowed the town to feed one crown while negotiating with another. Talmera's steering board, bearing rival seals, became a royal emblem of double-dealing and a boatman's emblem of practical courage.
 
@@ -86,17 +86,19 @@ The Boatman appeared under several Qahuri titles. Priests described him as a roy
 
 **Talmera of Isethar** supplied rival courts, married a Sakhret officer and employed Qemaret pilots. Each side's hostage system killed one of her sons. Her daughter inherited the boats, and crews later poured the first cup of a shared cargo in Talmera's name.
 
-**Khevar II** restored travel and a common flood calendar. He also killed rival relatives after promising their household protection. Later memory praised reunification and preserved the blood claim created by his betrayal.
+**Khevar II** was named king by three statues in the tombs of Tenaret and restored travel and a common flood calendar. He also killed rival relatives after promising their household protection. Later memory praised reunification, preserved the blood claim created by his betrayal and never settled who had spoken through the statues.
 
-**Talzara Yasharet** prevented the expulsion of immigrant districts and brought mixed military households into the royal court. Her officers dispossessed opponents and directed southern grain towards lower-basin wars.
+**Talzara Yasharet** prevented the expulsion of immigrant districts and brought mixed military households into the royal court. Her officers dispossessed opponents and directed southern grain towards lower-basin wars, and her heirs carried Qahuri garrisons to the mines and the gateway coast on borrowed grain.
 
-**Aramen of Sakhret** took Qemaret as the factor of a dead creditor, paying its garrison from the House of the Returning Cargo's stores. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Factor.
+**Aramen of Sakhret** took Qemaret as the factor of a dead creditor, paying its garrison from the House of the Returning Cargo's stores, and married the sister of the king he walled into her vault. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Factor.
 
-**Ithren III** gave the soldiers the land of the dead and took the dead's names off it. Garrison songs remember him as the king who paid in fields; temple-town songs, as the king who ferried their grandparents to the pits.
+**Ithren III** set the gilded servants of a buried estate on the Basin's tombs and gave the cleared land to his soldiers. He hung the estate's seal on his six-year-old son. Garrison songs remember him as the king who paid in fields; temple-town songs, as the king who sent the old kings' serpent for their grandparents' lamps.
 
-**Nehara of the Blue Hands** erased images for Ithren III and later concealed a small group she had been ordered to destroy. Later praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
+**Deshren**, the boy who wore the seal, wasted under it for eleven years, took the White Measure rite at about seventeen and died the landlord of everything his father had taken. He was never crowned, and Qahuri songs call him the king of Aseret because his father paid him rent.
 
-**Zaheret of Tenaret** held the middle-river allotments against the dead king's stewards and was crowned by the soldiers who farmed them. The crowds that made her queen also killed the stewards' families.
+**Nehara of the Blue Hands** cut the Radiance's inventory tablets for Ithren III and later hid a small group of children's figures she had been ordered to enter. Later praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
+
+**Zaheret of Tenaret** turned the boat households against the dead prince's stewards and was crowned on her father's grain barge by the crews and the soldier-farmers whose harvest they carried. The crowds that made her queen also killed the stewards and drove out their families.
 
 **Meresha, Khaseret and Tamekha** became the best-known Second-House Patrons. Their complete histories belong to [[The White Measure and the Second Houses]].
 

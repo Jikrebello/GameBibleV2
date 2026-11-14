@@ -22,9 +22,9 @@ Caleran required regular deliveries from the Aurin, eastern river provinces, Sar
 
 Public distributions supported citizens and stabilised prices. Eligibility depended on recognised residence and status. Migrants and enslaved people lived beside distribution points whose rations excluded them.
 
-A failed harvest became an imperial concern when it threatened troops or major cities. Relief could save lives, as at Raveth, while loans and land transfers changed who controlled cultivation afterwards. After the Raveth hunger of 119 BR the eastern basins became one crown estate, and its grain reached the garrisons through estate contracts. Garrison towns such as Lacaris paid for the arrangement in bread prices, and riots over arrears and bread followed.
+A failed harvest became an imperial concern when it threatened troops or major cities. Relief could save lives, as at Raveth, while what the court made of the relief debts changed who controlled cultivation afterwards. After the Raveth hunger of 119 BR the eastern basins became one crown estate, and its grain reached the garrisons through estate contracts. Garrison towns such as Lacaris paid for the arrangement in bread prices, and riots over arrears and bread followed.
 
-Hunger could also be decreed. In 247 BR, with the grain convoys held back by rival commanders, Caleran's magistrate sent soldiers into the poor districts behind a speaking portrait that insisted no imperial granary was empty. They broke doors, took household stores and killed demonstrators outside an inner market.
+Hunger could also be decreed. From 247 BR the clerks of the Aurin stores read their tallies before a speaking portrait and read them full, so that no grain was bought for two winters while the bins emptied. Caleran's magistrate then sent soldiers into the poor districts behind the portrait, which insisted no imperial granary was empty. They broke doors, took household stores and killed demonstrators outside an inner market.
 
 ## Farms and estates
 

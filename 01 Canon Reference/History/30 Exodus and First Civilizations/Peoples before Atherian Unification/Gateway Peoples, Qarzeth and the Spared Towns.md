@@ -32,7 +32,7 @@ Qarzeth developed the largest harbour and the most powerful civic institutions o
 
 Citizenship passed through recognised birth and could also be conferred through marriage arrangements, manumission, military service or public grant. Wealthy houses guarded access because citizenship provided shares in overseas dependencies and public contracts. Their success concealed the labour of subject farmers, imported slaves and non-citizen sailors.
 
-The Three Collections of the Late Council seized children from subject towns and poorer households for sacrifice. Some Qarzethi opposed the collections, hid children or helped families escape. Others supplied names, ships and guards. Caleran destruction policy grew from strategic rivalry, fear and revenge as well as outrage at the collections. The sack of Qarzeth in 520 BR killed inhabitants, enslaved survivors and destroyed the institutions through which citizenship had functioned.
+The Three Collections of the Late Council seized children from subject towns and poorer households for sacrifice. Some Qarzethi opposed the collections, hid children or helped families escape. Others supplied names, ships and guards. Shortly before the last war the citizen assembly voted to hand the collectors' books to Caleran. The sanctuary's granaries would not open without them, and within a month hunger had put the cult's party back in control of the city. Caleran destruction policy grew from strategic rivalry, fear and revenge as well as outrage at the collections. The sack of Qarzeth in 520 BR killed inhabitants, enslaved survivors and destroyed the institutions through which citizenship had functioned.
 
 Qarzethi identity survived among refugees and descendants. It carried memories, household descent and blame.
 

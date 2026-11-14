@@ -22,7 +22,7 @@ Badis rules through household troops, water courts, merchant patrons, contract j
 
 ## The Seasons of 1044
 
-Zanthir's divided tribute is older than Badis. Qabir had sheltered Durayd ibn Sahl after he fled Caleran in 957 still holding the oaths of a dozen southern garrisons, and its emirs had watched him try to sell those oaths back to the men who had sworn them. By the 1040s the last Covenant amirates of the old Thalmyric heartland were starving, Iqashar had declared them claimed but no longer defended, and its last relief army had dispersed at the wrong well in 1041. In 1044 the emir at Qabir held back his fleet and grain barges from the amirates and signed with Veridun an instrument valid in alternate seasons, paying tribute to Veridun in one and to Iqashar in the other. Thalmyria accepted Zanthir's autonomy as the price of the amirates' surrender. Iqashar, with its army committed to the Tarkhan frontier, could only register the arrangement. Thalmyric chroniclers call it Zanthir's "timelier treachery"; in Qabir it is simply the seasons, and Badis still keeps them.
+Zanthir's divided tribute is older than Badis, and it follows the emirate's geography. Qabir lives by two doors. From spring to autumn the Thalassian wind brings ships along a coast that Thalmyria had recovered by the 1040s; from autumn to spring the Basin road is cool enough for caravans, and grain and Iqashar's writ come down it. Qabir's emirs had also watched Thalmyria keep Durayd ibn Sahl, the captured amir of Caleran, in a walled house at Veridun after 957 and take the occupied south apart with releases signed in his hand. By the 1040s the last Covenant amirates of the old Thalmyric heartland were starving, Iqashar had declared them claimed but no longer defended, and its last relief army had dispersed at the wrong well in 1041. Zanthiri grain barges were all that fed them. In the sailing season of 1044 Thalmyric squadrons closed the coast to every Zanthiri hull until the barges stopped. The emir at Qabir withdrew them and signed with Veridun an instrument valid only while the sea was open, paying tribute to Veridun in the sailing season and to Iqashar in the caravan season. Thalmyria accepted Zanthir's autonomy as the price of the amirates' surrender. Iqashar, with its army committed to the Tarkhan frontier, could only register the arrangement. Thalmyric chroniclers call it Zanthir's "timelier treachery"; in Qabir it is simply the seasons, and Badis still keeps them.
 
 ## People and Faith
 
@@ -34,7 +34,7 @@ The ancient Banu Mizan protection compact makes Velian Redeemer-faithful unusual
 
 ## Gateway Economy
 
-Irrigation, caravan trade, shipping, spices, translation houses, contract archives, insurance, river customs, and fortified roads sustain Zanthir. Merchant patrons finance scholarship, espionage, monuments, militias, and rival claimants. Gold and information continue wars that treaties suspend.
+Irrigation, caravan trade, shipping, spices, charter-houses and their translators, contract archives, insurance, river customs, and fortified roads sustain Zanthir. Merchant patrons finance scholarship, espionage, monuments, militias, and rival claimants. Gold and information continue wars that treaties suspend.
 
 ## Present Crisis
 

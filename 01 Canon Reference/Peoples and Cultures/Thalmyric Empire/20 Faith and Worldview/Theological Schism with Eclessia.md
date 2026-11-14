@@ -43,7 +43,7 @@ Thalmyric parish priests may marry; bishops arise from celibate clergy. Icons an
 
 ## The Rupture
 
-In 1015 Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy by submitting its restored lamps, the Great Lamp first, to Aurelium's examination, and that it accept the Sanctum's trusteeship of the imperial title. When Makarios refused, Cardinal Hubald nailed Bonifac III's anathema to Veridun's Great Lamp with four nails. Patriarch Makarios answered before the nails were cold. Neither anathema has been lifted.
+In 1015 Lord Primarch Bonifac III demanded that Veridun acknowledge Simeon's primacy by lifting the bronze hood under which the Great Lamp had stood since 986 and submitting the lamp to Aurelium's examination. If it burned and answered, the Sanctum would record Veridun's emperor as the one who proved lawful under the trust of 711; if Veridun refused, the trust would pass to Adalmar. Patriarch Makarios, who had spent six years teaching the Breakers that the Fire is not to be questioned, nailed the hood to the lamp's stand with four nails while Cardinal Hubald waited on the cathedral steps. Hubald read Bonifac's anathema to a shut door, and Makarios answered from the doorway with the hammer in his hand. Neither anathema has been lifted. Two years later Bonifac crowned Adalmar emperor at the ford of Kaltfurt.
 
 ## Present Relations
 

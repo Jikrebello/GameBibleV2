@@ -25,7 +25,7 @@ The Emperor is neither priest nor divine. His duty is to preserve an empire devo
 
 ## The Chancellery
 
-Grand Chancellor Prokopia directs treasury, provincial accounts, appointments, correspondence, and the imperial calendar. The Master of Lamps administers the Rekindling relay and palace. The office was created after 1013 to keep the restored lamps and was soon used to impound them: from 1029 its officers sealed every lamp but the Great Lamp and the Ember in crown lamp-houses, where its clerks sold the oil and the lamps died. In 1052 Theodosia remade it to run the relay that relit them all from the Ember. Provincial courts use imperial law alongside local charters and Church jurisdiction.
+Grand Chancellor Prokopia directs treasury, provincial accounts, appointments, correspondence, and the imperial calendar. The Master of Lamps administers the Rekindling relay and palace. The office was created after 1012 to keep the crown lamp-houses, where households could leave their lamps out of the Breakers' reach, and was soon used to impound them: from 1029 its officers sealed every lamp but the hooded Great Lamp and the Ember in those houses, where its clerks sold the oil and the lamps died. In 1052 it was remade to run the relay that relit them all from the Ember. The chancellor has kept the imperial seals under two locks since 1214, when a chancellor pressed a sick emperor's seal to the Forfeiture of the Drinkers; one key is the emperor's. Provincial courts use imperial law alongside local charters and Church jurisdiction.
 
 ## The Holy Synod
 

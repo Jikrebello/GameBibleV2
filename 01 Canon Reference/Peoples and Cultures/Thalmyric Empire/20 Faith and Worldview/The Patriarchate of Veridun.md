@@ -21,7 +21,7 @@ The Patriarchate of Veridun is the supreme ecclesiastical authority of the Thalm
 
 During occupation, the Patriarchate governed from Veridun and developed the institutions that sustained the mountain resistance. After Caleran's recovery, the Patriarch returned to the martyrs' precinct and the Cathedral of the Eternal Ember.
 
-Veridun retains the Great Lamp, Virelian Lamp, coronation cathedral, and major synodal archives. The Virelian Lamp is tended not by Thalmyric clergy but by the descendants of Zdena, the Vesari fire-keeper in whose hands it kindled in 1061, who still live in the cathedral close and still pray at the old hearth-hours. The Church therefore possesses a Patriarchal seat at Caleran and an indispensable second center at Veridun.
+Veridun retains the Great Lamp, Virelian Lamp, coronation cathedral, and major synodal archives. The Great Lamp is the refuge's own fire and the one lamp in the empire that may not descend from the Ember: it stood under a bronze hood from 986 to 1052, nailed shut by Patriarch Makarios against the Sanctum's examiners in 1015, and was found burning when he drew the nails on the night of the Rekindling. The Virelian Lamp is tended not by Thalmyric clergy but by the descendants of Zdena, the Vesari fire-keeper in whose hands it kindled in 1061, who still live in the cathedral close and still pray at the old hearth-hours. The Church therefore possesses a Patriarchal seat at Caleran and an indispensable second center at Veridun.
 
 ## Patriarch Sophron
 

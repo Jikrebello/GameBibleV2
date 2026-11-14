@@ -65,7 +65,7 @@ Relations with Thalmyria combine shared religious ancestry, institutional rivalr
 
 ## Eclessia in 1360
 
-The effects of the [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|Grey Sweat]] remain visible in labour and landholding. Shortages of workers weakened serfdom across much of Eclessia, while Virelia's nobles imposed tighter obligations on survivors. Guild towns, estates and competing confessions inherited different advantages from the same disaster.
+The effects of the [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|Grey Sweat]] remain visible in labour and landholding. The fever killed priests faster than their flocks. Tenants who walked to wherever a priest still lived bargained their way out of serfdom across much of Eclessia, while Virelia's nobles used the same shortage to bind survivors more tightly. Guild towns, estates and competing confessions inherited different advantages from the same disaster.
 
 The Accord provides a political settlement without ending religious conflict. Princes, reforming cities and the Sanctum continue to contest its application. Old debts, peasant flight, guild privileges and the expense of frontier defence shape government alongside doctrine.
 

@@ -29,9 +29,9 @@ Communal burial, shared granaries, and valley quarantine strengthened civic oath
 
 ## Reformation and Accord
 
-Some cantons accepted Freeflame preaching; others remained old Church. Repeated attempts to impose a uniform rite nearly broke the confederation, and in 1340 the Freeflame-majority canton of Falkendorf brought it to the edge of civil war. Korrheim hosted the 1343 settlement because neither confession could dismiss its soldiers, roads, or internal example. The Accord was drafted at Heldenheim and sworn with the signatories' hands in the River Weiss; the radical congregations that refused to swear on that water, the Unsworn, were left outside it.
+Some cantons took up the unbought funerals and Ferro's order; others remained old Church. Repeated attempts to impose a uniform rite nearly broke the confederation, and in 1340 the reformed canton of Falkendorf rose sooner than move its dead out of a churchyard the council had awarded to the old rite. The burial articles that ended that rising gave the 1343 settlement its rule, and Korrheim hosted it because neither confession could dismiss its soldiers, roads, or internal example. The Accord was drafted at Heldenheim and sworn with the signatories' hands in the River Weiss; the river congregations that keep no churchyard, the Unsworn, were left outside it.
 
-The Accord's rule applies canton by canton. Heldenheim seats old-Church and Freeflame delegates together but does not guarantee private conscience within either jurisdiction.
+The Accord's rule applies yard by yard, which in Korrheim means commune by commune and usually canton by canton. Heldenheim seats old-Church and Freeflame delegates together but does not guarantee private conscience within either jurisdiction.
 
 ## Government and Faith
 

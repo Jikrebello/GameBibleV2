@@ -38,7 +38,7 @@ Sermoran and Medori loans paid for the Crimson Pilgrimage (1319–1322) and the 
 
 ## Crown and Church
 
-The Holy Synod and emperor require one another but dispute appointments, military preaching, relic law, monastic land, and Caleran's influence over Veridun. Neither side is united: contemplatives, administrators, militants, provincial bishops, and court clergy form changing coalitions. Both remember 1227, when Nikandros the Restorer refused to let the Sanctum try the Great Lamp in exchange for Eclessian soldiers, and both took the Council of Veridance's five tests of 1352, none of which can be applied to a saint who left no remains, as Eclessia's answer to Caedros I. Any request for Eclessian help now has to be made past that history. The Synod has refused to authenticate the vision of a lamp carried out of a burning archive that every succession faction claims.
+The Holy Synod and emperor require one another but dispute appointments, military preaching, relic law, monastic land, and Caleran's influence over Veridun. Neither side is united: contemplatives, administrators, militants, provincial bishops, and court clergy form changing coalitions. Both remember 1227, when Nikandros the Restorer refused to let the Sanctum try the Great Lamp in exchange for Eclessian soldiers, and both took the Council of Veridance's five tests of 1324, none of which can be applied to a saint who left no remains, as Eclessia's answer to Caedros I. Any request for Eclessian help now has to be made past that history. The Synod has refused to authenticate the vision of a lamp carried out of a burning archive that every succession faction claims.
 
 ## Return and Belonging
 

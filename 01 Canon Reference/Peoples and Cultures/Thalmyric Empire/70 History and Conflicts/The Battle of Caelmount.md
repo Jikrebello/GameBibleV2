@@ -3,51 +3,55 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["917 AR"]
+era: ["917-918 AR"]
 region: ["Caelmount", "Thalmyria"]
 culture: ["Thalmyric", "Atherian"]
 related_factions: ["Mountain Resistance", "Ahl-e-Ahd"]
 appears_in: []
 needs:
   - place Caelmount on the highland campaign map
-aliases: ["The Broken Road", "The Winter at Caelmount", "The Valley Ambush"]
+aliases: ["The Breath of Askre", "The Winter at Caelmount", "The Valley Ambush"]
 tags: []
 ---
 # The Battle of Caelmount
 
-The Battle of Caelmount in 917 AR, called the Broken Road in the central chronology, was the first destruction of a major Covenant field force in the Thalmyric mountains. It was fought with a road, a winter and a valley's harvest. The road-menders of Caelmount broke their own Atherian road under a Covenant column, the valley gave up its terraces and its winter stores to do it, and the half of the column trapped above the break wasted away in empty store caves until the thaw. The debt the mountain league took on to the valley led it to Virelos and to a crown. It followed the separate Caldrian-Vortharan victory at [[The Battle of the Shattered Engines (907 AR)]], which had broken the northern invasion road and reduced Covenant siege strength.
+The Battle of Caelmount of 917–918 AR, which the valley itself calls the Breath of Askre, was the first destruction of a major Covenant field force in the Thalmyric mountains. Very little of it was fighting. A Covenant column sent to seize the refuge's granary caves reached them safely, camped in them against the snow and was destroyed over one winter by the mountain's bad air, by cold and by the desertion of its own levies. The valley's cave-wardens had shut the caves' vents to bring that about, and the granary that fed the refuge cities became a grave in which nobody would store bread again. The debt the mountain league took on to the hungry valley led it to Virelos and to a crown. The battle followed the separate Caldrian-Vortharan victory at [[The Battle of the Shattered Engines (907 AR)]], which had broken the northern invasion road and reduced Covenant siege strength.
 
-## The valley and its road
+## The valley and its caves
 
-Caelmount is a narrow volcanic valley under Mount Askre, where an Atherian road climbs over unstable ash slopes and a ravine before dividing towards Veridun and Virelos. Its store caves held the grain that fed the refuge cities, and its terraces were cut into ash that the old road's culverts kept drained.
+Caelmount is a narrow volcanic valley under Mount Askre, where an Atherian road climbs over unstable ash slopes and a ravine before dividing towards Veridun and Virelos. Its store caves are old lava galleries running back into the mountain, and they held the grain that fed the refuge cities.
 
-The road was kept by hereditary road-menders, families paid in tolls and terrace land since the Age of Glory. Ash roads that are never tested kill wagons, and the menders had gone on loading their road under the Red Star after the augur colleges were dissolved, in secret and without a licence, as their grandfathers had: a crack under a load showed them where the next stone must go. The refuge clergy knew and looked away.
+The caves kept grain well for a reason the valley had known for centuries. Askre breathes into them. A cold, heavy air with no smell seeps up through the floors of the lower galleries and lies there like water in a cistern, and nothing lives in it: no rat, no weevil, no mould. A lamp carried into it burns low and goes out, and a man who lies down in it does not get up. Hereditary cave-wardens stored the grain in these dead galleries and kept the upper galleries sweet by opening stone doors in the vents, which they called the breathing-doors. They went in with a lamp held at the knee on a short pole and came out when it dimmed. A hermit kept the lamp of an old shrine in the highest gallery, where the air was always good.
 
 ## Qazem's column
 
-In the autumn of 917 Covenant commander Amir Qazem marched up the ash road to destroy the store caves and force Veridun and Virelos into separate surrenders. His levies had sworn their service to Sultan-Caliph Idris by name. He brought camels and foot, a lesser Surrender engine on its siege table, and the name-custodians who carried the rolls under which his levies served.
+In the autumn of 917 Covenant commander Amir Qazem marched up the ash road to take the store caves and force Veridun and Virelos into separate surrenders. His levies had sworn their service to Sultan-Caliph Idris by name. He brought camels and foot, a lesser Surrender engine on its siege table, and the name-custodians who carried the rolls under which his levies served.
 
-The valley carried its grain up to the high summer pastures, burned what it could not carry and left the caves empty. The road-menders went up to their testing ground and asked the Red Star where their road would fail under a great load. By their families' account the Star showed them the span above the ravine and named its price in the grammar it uses with builders: the load, the field, and the terraces above the span. To bring the span down under the column the menders turned the terrace channels into the road's foundation for a month, and the soaked ash that would carry the span away would carry the terraces with it.
+His engineers had learned their trade under Barzin, and they trusted an ash road no more than they had trusted Caleran's dyke. Before the engine went up they loaded the road under the Red Star, as builders and siege engineers had done since the Age of Glory. By their own account the Star showed them the one span above the ravine that would fail, at the price of a wagon and its team broken in the test. They shored the span with terrace timber, and the whole column crossed without losing a wheel.
 
-## The Broken Road
+The valley had carried what grain it could up to the high summer pastures. The wardens could not carry the rest, and they would not leave the column a dry roof and a full granary for the winter. On the night before Qazem reached the caves they went through the galleries and shut every breathing-door with stone and turf. By their own reckoning it would be a year before the upper galleries could be slept in again, and they knew whose bread lay in the lower ones.
 
-The column came up in good order. The span held under the vanguard and broke under the heaviest part of the column, the engine on its siege table and the custodians' wagons behind it. Engine, wagons, mules and drivers went into the ravine, and the terraces above slid down after them in a river of wet ash. Shepherds took two custodians alive below the slide with their rolls.
+## The first night
 
-Qazem and the van, across the break, went on to the store caves and found them empty. The rear of the column went back down the valley. The first snow closed the high road behind the van a week later.
+The column came up in good order as the first snow began, with ash from Askre's vents falling in it, and Qazem put his men under cover. The custodians took the deepest gallery for their chests, because it was the driest, and most of the foot lay down in the lower galleries around the grain. The sentries, on their feet, noticed that their torches burned badly. In the morning the men in the low galleries did not rise, and those who went in to wake them fell beside them. Qazem's own count, carried down the mountain by a deserter, puts the dead of that night at something over six hundred, and every custodian was among them.
+
+The snow closed the road behind the column within the week.
 
 ## The winter
 
-Qazem would not go back down without the granaries he had been sent to destroy. He wintered his half of the column in the empty caves, burning terrace timber and eating his camels, while ash from Askre's vents fell with the snow and the men coughed. The mountain league had promised amnesty to anyone who came up without a bound instrument, and with their custodians and rolls in the ravine, Qazem's levies could no longer say whose instrument they stood under. Through the winter they slipped up to the high pastures in twos and threes, where the valley fed them out of the grain it had saved for itself. A hermit kept the lamp of the caves' old shrine burning, and the deserters gave up their instruments in its light. Qazem died of the lung-sickness in the caves before the thaw. His officers surrendered in the spring of 918 with a few hundred men.
+Qazem would not go back down without the granaries he had been sent for, and for some weeks he believed the caves were cursed and could be cleansed. He moved the survivors into the upper galleries and the valley's empty byres. The grain lay in sight by torchlight, forty paces into air that put the torches out. The parties he sent for it with wet cloths over their faces lost two men for every sack they brought out. The rest burned terrace timber, ate the camels and coughed. Fires in the upper galleries drew the bad air up after them, and men died there too in the weeks after midwinter.
+
+The mountain league had promised amnesty to anyone who came up without a bound instrument. With the custodians dead and their rolls lying in a gallery nobody could enter, Qazem's levies could no longer say whose instrument they stood under, and through the winter they slipped up to the high pastures in twos and threes, where the valley fed them out of the grain it had saved for itself. Others found their way to the hermit's gallery, where the lamp burned clear, and gave up their instruments in its light. The Surrender engine stood on its table at the cave mouth with its crew dead and went on calling terms across the empty valley for some weeks. Qazem died of the lung-sickness before the thaw. His officers surrendered in the spring of 918 with a few hundred men.
 
 ## Cost and reversal
 
-The valley won by destroying its own terraces, bridges and winter stores, and it went hungry for years. Caedros Aetherion had promised the road-menders that the league would feed the valley until its terraces were rebuilt, and four winters of begging and buying grain did not keep the promise. In 921 he took Virelos and its granaries to keep it, and in 922 the valleys that had eaten that grain stood with the other leagues to crown him there.
+The valley won by poisoning its own granary. When the wardens opened the breathing-doors in the spring they drew out the custodians' chests on pole-hooks, and with them some eleven hundred dead. The valley would not eat grain that had lain a winter among corpses, and it would not store bread in those galleries again. The lower caves were walled up and are still called the Sleepers. Caelmount and the refuge cities it had fed went hungry for years. Caedros Aetherion had been at Veridun through the winter and came up only for the surrender. He promised the wardens that the league would feed the valley until it had granaries again, and four winters of begging and buying grain did not keep the promise. In 921 he took Virelos and its granaries to keep it, and in 922 the valleys that had eaten that grain stood with the other leagues to crown him there.
 
-Captured conscripts were offered amnesty if they surrendered binding instruments. Contract officers and name custodians were exchanged rather than executed, giving the resistance leverage for imprisoned civilians. Iqashari registers counted the battle as a loss of bound men as well as a lost column, because the custodians taken from the ravine carried the rolls of the names under which the levies served. The exchanges begun after Caelmount became the regular hostage traffic between the mountain leagues and the occupied south over the next forty years.
+Captured conscripts were offered amnesty if they surrendered binding instruments. Two contract officers who had slept in their wagons were exchanged and not executed, which gave the resistance leverage for imprisoned civilians. Iqashari registers counted the battle as a loss of bound men as well as a lost column, because the league now held the rolls of the names under which the levies had served. The exchanges begun after Caelmount became the regular hostage traffic between the mountain leagues and the occupied south over the next forty years.
 
 ## Memory
 
-Thalmyric church art remembers the hermit's lamp in the caves, and later painters enlarged it into a pillar of fire over the valley. Founding sermons call the battle the Valley Ambush and give it to Caedros's tactics, though he was at Veridun when the road broke and came up only for the surrender. The road-menders' families remember the Red Star and the terraces, and their descendants still keep the road. Eclessian polemicists made much of the Star when Thalmyria began to venerate Caedros: the founder's first victory, they said, was bought from the same Star that had shown the Covenant the weakness of Caleran's wall. The valley's own saying is shorter: *the road took the column and the Star took the terraces.* The battle also began the imperial habit of calling civilian sacrifice strategically necessary. Caedros paid Caelmount; his successors commemorated later sacrifices more readily than they compensated them.
+Thalmyric church art remembers the hermit's lamp, and later painters enlarged it into a pillar of fire over the valley. Founding sermons call the battle the Valley Ambush and give it to Caedros's tactics, though no ambush was laid and he was two days' ride away. The wardens' families remember shutting the doors and keep a fast on that night. Covenant registers record a column lost to a mountain's exhalation, and the levies' families in the Basin kept the saying that their engineers had asked the Star about the road and nobody had asked it about the air. The valley's own saying is shorter: *they came for the bread and slept beside it.* The battle also began the imperial habit of calling civilian sacrifice strategically necessary. Caedros paid Caelmount; his successors commemorated later sacrifices more readily than they compensated them.
 
 ## Navigation
 

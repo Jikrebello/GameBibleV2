@@ -23,7 +23,7 @@ The Radiant Path maintains pilgrim roads, bridges, and fortified hospices. Its m
 
 ## Inquisitors of Saint Malveris
 
-Saint Malveris's inquisitors specialize in forbidden objects, fraudulent relics, and cult networks. After the Council of Veridance, their independent prisons were curtailed and their supernatural investigations placed under Lantern review. Traditionalists resent the oversight; reformers doubt it goes far enough.
+Saint Malveris's inquisitors specialize in forbidden objects, fraudulent relics, and cult networks. The Council of Veridance curtailed their independent prisons and placed their supernatural investigations under Lantern review in 1324, nine years after the Lantern's first priest died in one of those prisons. Traditionalists resent the oversight; reformers doubt it goes far enough.
 
 ## Knights of Saint Aveline
 
@@ -39,7 +39,7 @@ The Vigilant Flame once acted openly against sedition and heresy. Its burnings a
 
 ## Order of the Lantern
 
-Chartered by Lord Primarch Celestin IX during the Council of Veridance in 1338, the Lantern began as an outlaw brotherhood: the scattered survivors of Aurelium's Saint-Leon quarter, burned in 1285, who went on singing the dead out for nothing at night and by lantern-light. Their leader, Father Ivo of Saint-Leon, had been carried out of that fire as a child and had studied under Lucian Ferro; the Council needed singers for the Great Arrears and took the brotherhood it had once hunted. The Lantern now trains clergy, investigators, teachers, linguists, and field theologians. It carries arms when evidence requires protection but is not principally a knightly order. Ivo designed it, as Ferro had taught him, to understand an opponent's doctrine accurately before judging it.
+Chartered by Lord Primarch Celestin IX during the Council of Veridance in 1324, the Lantern is older than the Reformation it was chartered to answer. It began as an outlaw brotherhood: the lay singers of Aurelium's Saint-Leon quarter, who sang the dead out for nothing under Saint Gerlind's rule of a priest present, and who went on doing it at night and by lantern-light after the quarter was burned in 1285. Their priest, Father Ivo of Saint-Leon, had been carried out of that fire as a child and had studied under Lucian Ferro. The Inquisitors of Saint Malveris took him at a night funeral in 1314 and he died in one of their prison-houses the next winter, untried; the Order has never been told which house. The Council needed singers for the Great Arrears and took the brotherhood it had hunted for forty years. The Lantern now trains clergy, investigators, teachers, linguists, and field theologians. It carries arms when evidence requires protection but is not principally a knightly order. Its first rectors were Ferro's students, and they built it on his habit of understanding an opponent's doctrine accurately before judging it.
 
 ## Confessional Limits
 
