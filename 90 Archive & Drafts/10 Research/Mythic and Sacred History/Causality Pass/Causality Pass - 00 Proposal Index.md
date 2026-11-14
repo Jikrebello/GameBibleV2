@@ -186,31 +186,56 @@ Six independent reviewers read the finished history era by era, fixed what they 
 | Two Crowns to 1360 (present day explained: 8) | 8 | 7 | about 59% |
 | Legends, saints and otherworlds | 8 (agreement) | 7 | — |
 
+## The two bends (14–15 November)
+
+The creator asked for the sequences still close to real history to be bent. It took two rounds.
+
+- **First bend** (records [[Causality Pass - 10A Bending the Founding|10A]] to [[Causality Pass - 10F Bending the Road to 1360|10F]]): about twenty sequences were given causes that belong to this world. A blind read by two real-history specialists then scored what was left at 3 to 8 out of 10 for predictability. The causes were native, but the order of events, the fates of the principals and the spacing of the dates still followed the originals.
+- **Second bend** (records [[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic|11A1]] to [[Causality Pass - 11F Second Bend - The Road to 1360|11F]]): eight writers broke the order of events and the fates, and re-spaced dates wherever no fixed anchor forbade it. The Concordance gained rule 8, "Skeletons, not only mechanisms", and rule 7 was extended to constant offsets. No Locked Ruling was breached. No name was changed.
+- **Blind re-read** (15 November): two fresh specialists, who saw none of the pass's notes, tried to predict each sequence from its closest real parallel.
+
+Scores are predictability out of 10. Lower is better; 5 means a specialist guesses the next event about half the time. The earlier column is a single score from a different reader, so treat differences of one point as noise.
+
+| Sequence | After first bend | After second bend | With names counted | Most exposed now |
+|---|---|---|---|---|
+| Exodus and the Glass Sojourn (light touch by design) | 3 | 4 | 4 | order of events |
+| Arqesh | 4 | 4 | 4.5 | — |
+| Qiryath kings and the exile | 7.5 | 4 | 4.5 | names (Shaqel, Mikalet, Qoram) |
+| The siege and the returnings | 7 | 6 | 6 | order; dates about 150 years above the originals |
+| Qahur | 4.5 | 3 | 3.5 | — |
+| Eryndor III | 6 | 6 | 6 | the itinerary; dates about 360 above |
+| Eastern Sea Wars and Vashar | 6.5 | 6 | 6 | dates about 15 above |
+| Gateway Wars | 6.5 | 5 | 5 | dates about 400 above |
+| Late republic | 8 | 6 | 5.5 | births and events about 325 above |
+| Imperial founding | 5 | 5.5 | 5 | dates about 328 above |
+| Age of Glory | 6 | 3 | 3.5 | the House of Nerethan |
+| Great Tower Revolt | 8 | 6.5 | 6.5 | order; 61–67 against 66–70 |
+| 78–288 AR | 7 | 4.5 | 4.5 | — |
+| Cassian to Vestian | 7.5 | 6 | 6 | order, dates and names together |
+| Long Frontier and the Covenant | 5.5 | 4.5 | 5 | names; imperial dates near the originals |
+| Fall and Reconquest | 4 | 3.5 | 4 | names |
+| Two Crowns | 7 | 6 | 6.5 | names; dates about 200 above |
+| High Noon | 5 | 5 | 4.5 | dates about 144 above |
+| Road to 1360 | 7 | 7 | 7 | dates 212 to 226 below |
+| The 1360 board | 6 | 5.5 | 6 | reads as about 1578 |
+| **Average** | **6.1** | **5.1** | **5.2** | |
+
+**What the re-read shows.**
+
+- Causes are now the best-disguised part of every sequence. The readers' own "what broke my prediction" lists are the bends: Zamaret lynched at the store doors with no great battle, the cast of the late republic outliving their death scenes, Astrion living on as a rival emperor for twenty years, the legate drawing the blank at Drossfeld, Ansgar drowning before his theses are read.
+- Qiryath's kings, the Age of Glory, 78–288 AR and the late republic moved most. Eryndor, High Noon and the road to 1360 did not move.
+- **The clock is now the weakest disguise.** Where anchor dates were kept, a sequence still sits at a near-constant distance from its original, and a specialist who finds the distance can date the next event. The road to 1360 is the clearest case: bought conclave 1274, the *Grievances* 1297, the council 1319 and the Accord 1343 all sit 212 to 226 years below their originals, which makes 1360 read as about 1578.
+- **Names are the second.** They add half a point to a point wherever a ruler's name carries the original's sound. [[Causality Pass - 12 Rename Proposals]] gathers the proposals.
+- Some of what remains is deliberate and stays: the Isfir and Companions parallels to the Gospels and Acts, which carry the First Church article, and the Jirahar parallels in the Exodus and returnings cycles.
+- The re-read also reported twelve small contradictions between articles. Ten were real and are fixed (the siege of Qarzeth begins in 525, Saint Naris is a man, the marriage at the store-house falls in 92, and so on). Two were not contradictions: one misread BR dating, and one took an acclamation for a coronation.
+
 ## What remains
 
-- **Sequences still close to their analogues.** The anchors were kept, so these remain recognisable:
-  - the founding from 370 BR (Philippi to Actium, Caesarion, Octavia) and Thalion as Augustus;
-  - the Qiryath judges and kings cycles;
-  - Qahur as Egypt;
-  - Eryndor's arc;
-  - Xarun and the Persian Wars;
-  - Kellovar as Adrianople, Halmenth as Ephesus, the last fortress as Masada;
-  - Bir Qassim as Karbala;
-  - the *Guide for the Wandering* and Ioan of Velia;
-  - the Breakings as Iconoclasm and the Veil as the Pokrov;
-  - details of the Fall of 905;
-  - Caelmount as Covadonga, and the separate amirates as taifas and parias;
-  - Suhrab as Suleiman;
-  - Qarath's Well as Manzikert, and Caedros III as Basil II;
-  - Strazgorod's four-faith embassy;
-  - Alessior VI's name and number;
-  - the Fiorenzia sequence and the Reformation figures;
-  - Meshalem as Sabbatai Zevi;
-  - Qarayel's burial;
-  - the Twin Cardinals.
-
-  The next pass should take the six to eight most recognisable and bend them the way 02 bent the Punic Wars. The [[Real-History Concordance]] keeps the list.
-- **Names.**
+- **Sequences still close to their analogues.** Two bends later the causes are native and most skeletons are broken. What a specialist can still predict is listed in the table above and in the [[Real-History Concordance]] under "Sequences still close to their analogues". Three kinds of thing remain:
+  - *Clocks.* Near-constant offsets survive wherever anchor dates were kept: about +150 on the Qiryath exile, +360 on Eryndor, +400 on the Gateway Wars, +325 on the late republic and founding, +200 on Two Crowns, +144 on High Noon and −218 on the road to 1360. Breaking them means moving anchor dates, which is the creator's decision. Grenzburg cites 905, 957, 1338, 1343 and 1352.
+  - *Skeletons kept by a fixed point.* The House of Nerethan still runs as the last Ptolemies until its ending; Eryndor's itinerary is Alexander's; [[The Disputed Fourth Seal]] still opens as Karbala (that the dispute stays unresolved is a Locked Ruling; its incidents are not); the Reformation still runs conclave, grievances, trial, rising, council, peace.
+  - *Names.* See the next item.
+- **Names.** [[Causality Pass - 12 Rename Proposals]] gathers every analogue-revealing name from the second bend with a recommendation on each; nothing in it is applied. The older items are:
   - *Real-world leaks:* the Golden Book, "von Caldria" and "de Braxford".
   - *Collisions:* Arest Corven and Corven Ilar; Ardel Veyr and Miretha Ardel; Merath and Celor Marath; Aster Vey and Veyr; Hadrath, Hazreth and Harzun; Tamim and Tahmur; Ilarion and Ilaron; Neram bar Elior and Elior bar Hadan; Orthea and Ortheia (renaming Orthea to Ambreth is recommended); Thalion's two Lysaras.
   - Rename in Obsidian so links update.

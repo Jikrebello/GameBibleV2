@@ -64,7 +64,7 @@ The later House of Nerethan descended from one of the Delkosi officer families f
 
 The most durable dynastic connection began around 548 BR, when **Lemara of Esharat** married **Prince Tazirun Zaheret**, a junior Qahuri prince involved in the town's carrying trade. Tazirun brought scribes, linen workers, mortuary singers and knowledge of basin ceremony. Lemara controlled the land and stores which made their household powerful.
 
-Their daughter **Hesara** inherited kin in both countries. She concealed children during the siege of Qarzeth, 526–520 BR, and later became Hadrima's mother. Hadrima's marriage to Nerethan of Delkos joined that inheritance to the new government at Sarqen.
+Their daughter **Hesara** inherited kin in both countries. She concealed children during the siege of Qarzeth, 525–520 BR, and later became Hadrima's mother. Hadrima's marriage to Nerethan of Delkos joined that inheritance to the new government at Sarqen.
 
 The relationship grounded later Nerethan ceremony and royal prestige. Tenaret recognised kinship when useful and rejected Sarqen's broader genealogical claims.
 

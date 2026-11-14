@@ -40,6 +40,10 @@ A whole-history review of the World Egg's historical canon from the Age of Chain
 
 ---
 
+> [!note] Status — 15 November 2026
+> - **Bent twice.** The sequences listed as close to their analogues were bent in two rounds (records 10A–10F and 11A1–11F). A blind re-read by two real-history specialists puts average predictability at about 5 out of 10, down from about 6 after the first round.
+> - **What still shows** is the spacing of the dates and the names, both left for the creator: see "The two bends" in [[Causality Pass - 00 Proposal Index]] and [[Causality Pass - 12 Rename Proposals]].
+
 ## The verdict
 
 The history is **morally serious, socially textured and often beautifully observed**. When it is good (Vathra's tether crews, the Three Collections, Rethmar, the White Measure, the Jirahar guilt architecture) it is better than most published fantasy lore. But across every era it has the same four structural faults:

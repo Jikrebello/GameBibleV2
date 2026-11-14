@@ -22,7 +22,7 @@ Casvilar belonged to a civic family with old connections in Caleran and too litt
 
 He enjoyed conversation, public occasions and the chance to make an opponent look foolish without raising his voice. His speeches explained what a measure would put on the listener's table before asking anyone to trust the man proposing it. He could forgive a former enemy when forgiveness bought him room to move.
 
-His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Calvena married Marovan Veyr in 389 BR. The match sealed a political partnership and grew into real affection, and for some years Calvena was the one person who could speak privately to both men.
+His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Calvena married Marovan Veyr in 389 BR. The match bound a partnership already seven years old and grew into real affection, and for some years Calvena was the one person who could speak privately to both men.
 
 ## Partnership and conquest
 

@@ -136,7 +136,7 @@ Qahuri merchants dealt with both Caleran and [[The Gateway Republic|Qarzeth]] du
 
 The last Gateway War sent refugees and enslaved people into Qemaret and Tenaret. Some had resisted Qarzeth's child collections; others had served its government. Qahuri temples received rescued children and ransomed captives. Basin merchants also purchased people enslaved during the Atherian sack.
 
-**Prince Tazirun Zaheret**, a younger son with little prospect of the Tenaret crown, entered Esharat's carrying trade during a succession dispute and married **Lemara of Esharat** around 548 BR. Their daughter **Hesara** later helped conceal children from Qarzeth's collectors during the siege years of 526–520 BR and became the mother of Hadrima. Tazirun's dependants introduced burial songs, linen styles and coronation gestures later adopted by the Nerethan court.
+**Prince Tazirun Zaheret**, a younger son with little prospect of the Tenaret crown, entered Esharat's carrying trade during a succession dispute and married **Lemara of Esharat** around 548 BR. Their daughter **Hesara** later helped conceal children from Qarzeth's collectors during the siege years of 525–520 BR and became the mother of Hadrima. Tazirun's dependants introduced burial songs, linen styles and coronation gestures later adopted by the Nerethan court.
 
 The relationship supplied kinship, knowledge and prestige. Qahuri genealogists continued to dispute whether a prince settled abroad retained any place within the Twin-Reed rites.
 

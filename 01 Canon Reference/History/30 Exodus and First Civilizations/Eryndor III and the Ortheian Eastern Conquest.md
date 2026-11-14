@@ -82,7 +82,7 @@ The last Ubar king, Kassur III, escaped up the eastern channel with several sons
 
 In the reed country in 688 BR the images began to answer in another voice, with an upland accent. Their hereditary bearers heard Eryndor speaking out of Kassur's gilded mouths, decided that the images had chosen, and carried them across to the Ortheian lines by night. Kassur's guard scattered, and two of his sons were killed in the confusion. Kassur rode east with a handful of men to Arezan's outposts at Durqesh and surrendered to a man he had known as a hostage in the royal cavalry there.
 
-Eryndor demanded him, and Arezan refused, the allies' first open quarrel. At Durqesh Kassur sealed the water books of the Gate House over to Arezan, and the canal officials of the Ubar, who had obeyed that seal for nearly three centuries, served Vashar under it. Kassur lived out his life as a guarded guest in an orchard house at Kavresh and died there around 676 BR. He was buried on a Vashari hillside with no likeness over him.
+Eryndor demanded him, and Arezan refused, the allies' first open quarrel. At Durqesh Kassur sealed the water books of the Gate House over to Arezan, and the canal officials of the Ubar, who had obeyed that seal longer than they had obeyed any king, served Vashar under it. Kassur lived out his life as a guarded guest in an orchard house at Kavresh and died there around 676 BR. He was buried on a Vashari hillside with no likeness over him.
 
 Eryndor set the images in his audience hall at Arqesh, where they went on answering in his voice. Petitioners spoke of a weight in the air when they bowed and of dreams in which the new king stood taller than his statues. Eryndor retained Arqeshite secretaries and court dress and accepted eastern officers.
 
