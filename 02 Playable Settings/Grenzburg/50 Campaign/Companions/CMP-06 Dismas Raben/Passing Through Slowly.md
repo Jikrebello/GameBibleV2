@@ -89,7 +89,7 @@ He is dry about it rather than bitter, and he still fixes the Yard's worst exit 
 
 ## Broken or departed
 
-Word comes from far roads. A ferryman mentions a guide answering his description on the Kedravan track; the network runs anyway, chartered and fine, which he would hate to know is the kindest thing about his absence.
+Word comes from far roads. A ferryman mentions a guide answering his description on the Kedravan track, weeks to the west; the network runs anyway, chartered and fine, which he would hate to know is the kindest thing about his absence.
 
 **The Lasks send thanks he will never collect.** Anke has written it out and does not know where to send it, and gives it to the player, who cannot deliver it either.
 

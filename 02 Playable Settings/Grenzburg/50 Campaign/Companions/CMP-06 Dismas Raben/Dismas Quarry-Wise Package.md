@@ -22,7 +22,7 @@ Dismas remains a standard [[Hunter]]. His doctrine is **Quarry-Wise**, and the n
 
 ## The Inversion
 
-[[Ylva Winter-Track|Ylva]] hunts. Dismas is the escaped quarry who learned the hunter's habits from the wrong side of them — eleven years of being the thing on the other end of a tracker's attention, and a professional education assembled entirely out of near-misses.
+[[Ylva Winter-Track|Ylva]] hunts. Dismas is the escaped quarry who learned the hunter's habits from the wrong side of them — years of being the thing on the other end of a tracker's attention, and a professional education assembled entirely out of near-misses.
 
 He does not close on a target. **He collapses a pursuer's options.**
 

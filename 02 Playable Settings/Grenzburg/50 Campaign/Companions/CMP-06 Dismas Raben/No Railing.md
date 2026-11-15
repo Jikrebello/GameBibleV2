@@ -85,7 +85,7 @@ He has brought breakfast. He has been carrying it the whole way.
 
 ## The Sit
 
-At the end of the traverse the escarpment opens south over the Lowlands, and the view is genuinely worth the climb: three river bends, the Ash Road, and a scatter of small holdings in the flats.
+At the end of the traverse the escarpment opens north over the Lowlands, and the view is genuinely worth the climb: three river bends, the Black Road, and a scatter of small holdings in the flats.
 
 They eat. They play cards on the parapet with a deck one queen short. He tells three stories, all accurate, all of which omit the moment he mattered. He is funnier here than anywhere else in the campaign and completely unguarded, and the player should simply enjoy an afternoon with him.
 
@@ -95,7 +95,7 @@ Conversation may include: the first road he ever read; why he despises checkpoin
 
 Down in the flats, one of the holdings has eleven chimneys and a chapel roof going green.
 
-It is called Hollow Ash and it was not there twelve years ago. It exists because a Korrheim guide moved four families off a toll road in a bad winter and pointed them at empty ground, and it has been growing ever since, and nobody there knows his name.
+It is called Hollow Ash and it was not there nine years ago. It exists because a Korrheim guide moved four families off a toll road in a bad winter and pointed them at empty ground, and it has been growing ever since, and nobody there knows his name.
 
 **He comes every year.** Alone, anonymously, from this platform, to see whether the escape turned into a life.
 

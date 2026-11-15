@@ -28,7 +28,7 @@ She never learned his name. She is not looking for it.
 
 ## Where She Is
 
-Korrheim, one province from the road, in a house she rebuilt with a settlement from the coach line and eleven years of work. She keeps goats and a cart share, she is not poor, and she is not waiting for anything.
+Korrheim, one canton from the road, in a house she rebuilt with a settlement from the coach line and eleven years of work. She keeps goats and a cart share, she is not poor, and she is not waiting for anything.
 
 **She never enters the base-game worldspace,** and no version of this campaign brings her to Grenzburg. Everything she is reaches the player as two documents.
 
@@ -36,7 +36,7 @@ The previous treatment — Sella arriving with a civil charge naming Dismas, und
 
 ## The Claim
 
-Years ago she filed a civil claim in a Korrheim registry against *persons unknown*, because that is who the record said had done it. It has sat there since, unactioned, retrievable through [[Claims-Factor Marco Bellandi]] once somebody thinks to look — which nobody has, in eleven years, until Dismas does it himself.
+Years ago she filed a civil claim in the Falkendorf canton registry against *persons unknown*, because the form required a defendant and the record she was given named none. It has sat there since, unactioned, retrievable through [[Claims-Factor Marco Bellandi]] once somebody thinks to look — which nobody has, in eleven years, until Dismas does it himself. The conviction that came later sat on a road docket and was never joined to it.
 
 The claim is quoted whole in [[The Stonefall Papers]]. It is written in the register of expenses, because that is the register the form asked for, and it is unbearable for exactly that reason.
 

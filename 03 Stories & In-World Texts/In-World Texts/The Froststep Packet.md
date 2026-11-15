@@ -42,7 +42,7 @@ Petra's letter is **fixed across every playthrough.** It does not vary with Bern
 >
 > Petra Ilev, her mark.
 
-*Design note: her diction is tired rather than cruel; the concrete memory (the bricks) does the work that no accusation could; the strap is the flat Kedravan joke she is entitled to. She is not a symbol and does not speak in principles.*
+*Design note: her diction is tired rather than cruel; the concrete memory (the bricks) does the work that no accusation could; the strap is the flat Kedravan joke she is entitled to. She is not a symbol and does not speak in principles. The letter is in another hand because Petra wrote with her left; the missing clerk in the headnote explains only why a carrier took it down.*
 
 ---
 

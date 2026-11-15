@@ -111,8 +111,6 @@ He wears:
 - route chalk, compact traps, wire, climbing hooks, and a folding spyglass;
 - no visible badge unless circumstances make a badge useful.
 
-His final vocation package remains reserved for the Ilyana-Dismas paired retrofit. His current Hunter designation records field function, not a locked combat solution.
-
 ## Korrheim Roads
 
 Dismas learned roadcraft where tolls, confessional boundaries, military patrols, smugglers, pilgrims, and displaced families all claimed different versions of lawful passage.
@@ -131,7 +129,7 @@ He was convicted of armed robbery and road destruction because the full human co
 
 **Whether staying would have saved Anke Bekk cannot be established, in any playthrough.** The stone shifted twice, the soldiers came within the hour, and the record supports both readings and settles neither. He does not get the counterfactual, and neither does the player.
 
-No survivor, band member, road rival, or Korrheim official physically arrives in Grenzburg. Nobody is looking for him and no warrant exists for the deaths. The truth reaches the record only if he pays a Fiorenzian claims-factor to go and find it — see [[The Name on the Charge]].
+No survivor, band member, road rival, or canton official physically arrives in Grenzburg. Nobody is looking for him and no warrant exists for the deaths. The truth reaches the record only if he pays a Fiorenzian claims-factor to go and find it — see [[The Name on the Charge]].
 
 ## Culpability
 

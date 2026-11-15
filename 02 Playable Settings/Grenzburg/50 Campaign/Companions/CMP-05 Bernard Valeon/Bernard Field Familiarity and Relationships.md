@@ -65,7 +65,7 @@ He responds negatively to:
 
 [[The Long Winter Table]] opens during the winter siege. [[Embers Without Excuse]] becomes joinable when two of its five Act II assets are held. The quest itself is not relationship-gated, but commitment requires **Trusted** approval and personal completion.
 
-Commitment to [[Ghor at the Gate]] transforms the chapter. The transition docket states plainly that missing the finale closes the time-specific romance and sworn-bond opportunity. [[Paladin]] moves to the authored **Embers After Snow** field-service test rather than being lost solely through inattention.
+Commitment to [[Ghor at the Gate]] transforms the chapter. The transition docket states plainly that missing the finale closes the time-specific romance and sworn-bond opportunity. [[Paladin]] moves to the authored **Embers After Snow** field-service test inside **Ashes in the Storebook** rather than being lost solely through inattention.
 
 ### Act III and Summer
 
@@ -158,7 +158,7 @@ The commitment promises companionship without ownership, honest naming of urges 
 
 ### Sworn Bond
 
-A male player may enter a sworn bond. Bernard asks whether the two men should become more than ordinary friends through mutual truth, return, and service without either claiming authority over the other. The commitment opens [[Watch Until Morning]], where they repair Cairnside Shelter and explicitly become sworn brothers through a Long Watch lay custom. The bond does not imitate romance, marriage, or ordination.
+A male player may enter a sworn bond. Bernard asks whether the two men should become more than ordinary friends through mutual truth, return, and service without either claiming authority over the other. The commitment opens [[Watch Until Morning]], where they repair Cairnside Shelter and explicitly become sworn brothers through a lay custom of the Lantern Road house. The bond does not imitate romance, marriage, or ordination.
 
 Declining either path preserves friendship, quest access, Paladin progression, and the strongest non-relationship endings.
 

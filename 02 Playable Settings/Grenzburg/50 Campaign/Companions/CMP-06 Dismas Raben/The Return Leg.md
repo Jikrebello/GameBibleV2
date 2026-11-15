@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: forfeited
 world_state_outputs: ["dismas_romance_episode", "dismas_romance_move_upgrade", "dismas_return_leg_practiced", "return_leg_state"]
 reward_unlocks: ["Second Journey: Chosen Twice", "Return Leg Practiced"]
-required_locations: ["Ash Road", "Hollow Ash", "Reed Landing"]
+required_locations: ["The Black Road", "Hollow Ash", "Reed Landing"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
@@ -64,7 +64,7 @@ Its entire subject is announced in the title, and he announces it too, which is 
 
 ## Hook
 
-He proposes two days on the Ash Road — a walk, not a job — to a view above Hollow Ash he has been saving. And then, before they leave the gate, entirely unprompted and visibly costing him something:
+He proposes two days on the Black Road — a walk, not a job — to a view above Hollow Ash he has been saving. And then, before they leave the gate, entirely unprompted and visibly costing him something:
 
 > **Dismas:** We come back Thursday. I am saying it now so it is said.
 >
@@ -84,7 +84,7 @@ At the camp above Hollow Ash he does the only intimate thing his character permi
 
 **He shows her the exits.**
 
-All of them, one after another, from where they are sitting: the fen track behind the ridge, the ferry at Reed Landing that runs at dawn, the drover's road that reaches Kedrava in nine days, the two places on this hillside where a man could sit for a week and not be found. He knows all of it by heart. He has always known it. He knows it in every room he has ever slept in, including the Yard, including hers.
+All of them, one after another, from where they are sitting: the fen track behind the ridge, the ferry at Reed Landing that runs at dawn, the drover's road that reaches Kedrava in a matter of weeks, the two places on this hillside where a man could sit for a week and not be found. He knows all of it by heart. He has always known it. He knows it in every room he has ever slept in, including the Yard, including hers.
 
 > **Dismas:** That is what is in my head. All the time. It is not about you and it has never once been about you.
 

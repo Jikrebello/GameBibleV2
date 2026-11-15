@@ -124,7 +124,7 @@ The best material in the quest is in its margins and none of it is a test:
 
 - **The bored guard.** He is not corrupt, not cruel, and not stupid; he is nineteen and eleven hours into a twelve-hour post, and Dismas gets him talking about his sister's wedding for exactly as long as the cart needs.
 - **Bekka.** Nine years old, stashed in the cart with the crockery, and she laughs at completely the wrong moment. Everyone freezes. Nothing happens. Dismas, afterward, tells her it was the best-timed laugh he has ever heard, and means it.
-- **The card trick.** He teaches her one, badly, and loses a queen doing it. He looks for it for about four seconds and then stops looking, which the player may or may not notice. (See [[Dismas Companion Campaign]] on the queen.)
+- **The card trick.** He teaches her one, badly, and loses a queen doing it: an odd queen out of somebody else's deck, of the kind he marks routes with, not the one his own deck is short. He looks for it for about four seconds and then stops looking, which the player may or may not notice. (See [[Dismas Companion Campaign]] on the queen.)
 - **Torvald** repairs the cart's bad wheel mid-operation without being asked, and does not speak to anyone.
 - **Girel** wants to fight the bailiff's men and is talked out of it by his sister, not by Dismas.
 

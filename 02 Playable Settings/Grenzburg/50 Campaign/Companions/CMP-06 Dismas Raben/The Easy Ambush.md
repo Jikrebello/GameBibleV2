@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["dismas_act1_chapter_resolved", "dismas_act1_result", "dismas_direction", "winter_medicine_state", "ravine_civilian_state", "dismas_counting_heard", "lieutenant_report_state"]
 reward_unlocks: ["Reversible Line", "rearguard custom parts"]
-required_locations: ["Split Pine Ravine", "Lowland Reed Road", "Blackjack Yard"]
+required_locations: ["Haymaker's Copse", "Lowland Reed Road", "Blackjack Yard"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-finale
@@ -56,7 +56,7 @@ emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "A prepared hazard, mixed traffic, and an officer offering to make the cost disappear from the paper."
-emotional_function: "Put his hands on the exact machinery of 1355, and let the body remember before the man explains."
+emotional_function: "Put his hands on the exact machinery of 1349, and let the body remember before the man explains."
 pleasure_beat: "Reversible trapcraft, a ravine read like a page, and taking a raider band apart without killing anyone."
 care_beat: "Dismas stays in the dark afterward to disarm his own devices, uncredited, while the raiders regroup."
 player_archetype_hooks: []
@@ -74,7 +74,7 @@ Dismas's Act I finale, built out from outline. A marcher patrol asks him to desi
 
 Raiders out of the Reedknife band are moving stolen winter medicine east along the Lowland Reed Road: eleven crates of salve, bark, and spirits off a Mercy Hospital consignment, worth more than the men carrying them.
 
-A marcher lieutenant — competent, tired, results-oriented — asks the Blackjacks for a route specialist. Split Pine Ravine is the obvious place, and Dismas can see the whole thing before he has finished walking it: two anchors, a fall line, a bottleneck, done by dusk.
+A marcher lieutenant — competent, tired, results-oriented — asks the Blackjacks for a route specialist. The ravine under Haymaker's Copse is the obvious place, and Dismas can see the whole thing before he has finished walking it: two anchors, a fall line, a bottleneck, done by dusk.
 
 Then the timing sheets come in. The ravine also carries a **civilian wood train**: four carts, a family concern, running late because the frost came early.
 

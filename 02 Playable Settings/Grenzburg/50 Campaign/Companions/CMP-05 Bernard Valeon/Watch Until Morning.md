@@ -164,7 +164,7 @@ Each man takes a watch while the other sleeps. The resting character is not atta
 
 ## Dawn: Sworn Brothers
 
-At first light, Bernard explains a Long Watch lay custom used by two unordained road servants who freely accept mutual responsibility. The custom grants neither clerical office nor military rank.
+At first light, Bernard explains a lay custom of the Lantern Road house, not a rite of the whole Long Watch, used by two unordained road servants who freely accept mutual responsibility. The custom grants neither clerical office nor military rank.
 
 The pair cut two service cords from the repair rope. Each names:
 

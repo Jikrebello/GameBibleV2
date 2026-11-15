@@ -28,9 +28,9 @@ Her refusal is precise: **she will not take food from his hand.**
 
 Her father, **Josef Vrana**, was on the second sled.
 
-He is one of the five permanently injured at [[The Froststep Evacuation]] — nerve pain in both hands, a chest that fails every winter, and forty years of carrying work ended in one night above the lower switchback. He stayed in Kedrava, where the compensation reaches him and where the roads are ones he knows. Lenka and her sister came west for wages three years ago and send money home.
+He is one of the five permanently injured at [[The Froststep Evacuation]] — nerve pain in both hands, a chest that fails every winter, and forty years of carrying work ended in one night above the lower switchback. He stayed in Kedrava, where the compensation reaches him and where the roads are ones he knows. Lenka and her sister came east for wages three years ago and send money home.
 
-She has never met Bernard. She knew his name before she knew his face, because for two years it was the name in her father's house.
+She has never met Bernard. She knew his name before she knew his face, because for a year it was the name in her father's house.
 
 ## The Refusal
 

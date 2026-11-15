@@ -23,7 +23,7 @@ past_contact_mode: remote-only
 
 ## Core Concept
 
-Petra Ilev is a thirty-five-year-old Kedravan relief driver and one of the five people permanently injured during [[The Froststep Evacuation]]. She lost two fingers from her left hand, retains severe cold pain in one foot, and has built a competent life that does not revolve around Bernard's guilt.
+Petra Ilev is a thirty-five-year-old Kedravan relief driver and one of the five people permanently injured during [[The Froststep Evacuation]]. She lost two fingers from her left hand, the hand she wrote with, retains severe cold pain in one foot, and has built a competent life that does not revolve around Bernard's guilt.
 
 ## Life After Froststep
 

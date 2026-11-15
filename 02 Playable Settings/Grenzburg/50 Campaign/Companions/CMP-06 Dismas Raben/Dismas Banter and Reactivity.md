@@ -73,7 +73,7 @@ He stays to plan the return route.
 
 A debtor finds a key, dry boots, and a map beneath their bunk.
 
-Dismas denies involvement until the player points out the missing queen from his card deck was used as the route marker.
+Dismas denies involvement until the player points out that the route marker is a queen and his own deck is one short.
 
 **Dismas:** “Waste of a good queen.”
 

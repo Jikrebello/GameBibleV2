@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: forfeited
 world_state_outputs: ["dismas_bond_episode", "dismas_bond_move_upgrade", "dismas_missing_queen_given", "spring_cut_route_state"]
 reward_unlocks: ["Called Back: Two Signals", "Missing Queen Given"]
-required_locations: ["Grenz Lowlands", "Cold Spring Cut", "Ash Road"]
+required_locations: ["Grenz Lowlands", "Cold Spring Cut", "The Black Road"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: relationship
@@ -64,7 +64,7 @@ The answer is a shortcut. No villain, no theft, no vigil, no test.
 
 ## Hook
 
-Between the Ash Road and the Lowland reed track there is a cold spring in a fold of ground, and between them there is half a day of walking that does not need to exist.
+Between the Black Road and the Lowland reed track there is a cold spring in a fold of ground, and between them there is half a day of walking that does not need to exist.
 
 Dismas proposes cutting the route. Not against a toll, not around a checkpoint, not to evade anyone — **for no reason except that half a day is half a day, and carters will use it forever, and nobody will know who made it.**
 
@@ -93,7 +93,7 @@ They argue about the wording for twenty minutes. The player writes the final ver
 
 At dusk, sitting on the cut bank, Dismas produces his deck and takes the queen out of his coat — not from the deck; from his coat, where it has lived since [[The Decorative Fence]] and for eleven years before that.
 
-It is his route-marker. It is the thing he leaves at bad turns for people he will never meet. It is also, and he does not say this, the card he keeps out of every hand he plays.
+It is his route-marker: a queen is the thing he leaves at bad turns for people he will never meet, lifted one at a time out of other people's decks. This one is his own. It is also, and he does not say this, the card he keeps out of every hand he plays.
 
 > **Dismas:** Seven roads have one of these on them. This is the last one I have.
 >

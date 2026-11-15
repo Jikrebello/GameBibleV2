@@ -47,7 +47,7 @@ The campaign lets the player value the accomplice before it shows them the bill:
 3. a woman who has priced his kind of freedom and wins the argument;
 4. the body remembering a sound it has not made peace with;
 5. a passage that is thrilling to open and tedious to keep;
-6. the truth of 1355, which nobody is looking for and only he can file;
+6. the truth of 1349, which nobody is looking for and only he can file;
 7. a promise made twice, on purpose, to one person;
 8. a network that must survive its founder being bored;
 9. a road he answers three times because nobody can make him answer once.
@@ -67,7 +67,7 @@ The gesture-spine is **counting**, and it fires exactly four times:
 | 3 | [[The Name on the Charge]] | the dead, out loud, to the end, once |
 | 4 | [[Tuesday]] · [[Passing Through Slowly]] | the network's living |
 
-**The missing queen** — the card kept out of every game, his route-marker and his held-back self — also holds a four-beat budget: the unsigned exit, a route-mark the player learns to read, the bond rite where he gives it away, and (resolved) the first complete hand of the campaign.
+**The missing queen** — the card kept out of every game, his route-marker and his held-back self — also holds a four-beat budget: the unsigned exit, a route-mark the player learns to read, the bond rite where he gives it away, and (resolved) the first complete hand of the campaign. His own deck has been one queen short for eleven years, and that card stays in his coat unless he gives it away in the bond rite; the queens on the roads, and the one he loses in [[The Decorative Fence]], are odd queens out of other people's decks.
 
 ## Formal Campaign
 
@@ -97,7 +97,7 @@ Estimated first-play duration: approximately **10.5 hours.**
 - **held:** he does the work, but only under supervision, leverage, or somebody else's insistence — the compromised middle, and the one the world finds most convenient;
 - **gone:** he conceals, exits before a promise can form, or accepts somebody else's offer to carry what he did.
 
-`dismas_legal_debt_state` follows [[Companion Debt and Remote Claims Standard]]. [[Claims-Factor Marco Bellandi]] can retrieve the Korrheim registry, file an enlarged truth, and administer restitution. **He cannot compel the filing and nobody else can either** — no warrant exists for the deaths, and this is the campaign's central fact.
+`dismas_legal_debt_state` follows [[Companion Debt and Remote Claims Standard]]. [[Claims-Factor Marco Bellandi]] can retrieve the canton registry from Korrheim, file an enlarged truth, and administer restitution. **He cannot compel the filing and nobody else can either** — no warrant exists for the deaths, and this is the campaign's central fact.
 
 ## The Fixed Truth
 
@@ -149,7 +149,7 @@ Two assets permit player participation in a finale. Three make every material ob
 
 | Deadline | Intended action |
 |---|---|
-| commitment to [[The Last Convoy]] | Dismas sets the Split Pine ambush with whatever timing he has |
+| commitment to [[The Last Convoy]] | Dismas sets the Haymaker's Copse ambush with whatever timing he has |
 | commitment to [[Ghor at the Gate]] | Dismas holds the underways passage himself rather than handing it over |
 | commitment to [[The Deep Muster Main Quest]] | Dismas goes to Three Horn Depot |
 

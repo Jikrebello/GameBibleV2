@@ -103,9 +103,9 @@ Bellandi opens the packet before Bernard, the player, Brina, and Sister Hanne.
 
 **All three documents are quoted whole and read on screen.** They are transcribed in [[The Froststep Packet]] and no character paraphrases them, then or later.
 
-- **Petra's letter** is dictated — set down by another carrier's hand, because she cannot hold a pen through a long letter, and the fact that the handwriting is not hers is the first thing Bernard sees. Nobody remarks on it. She writes about the bakehouse bricks she scrubbed as a girl, about relearning buttons and giving up on laces, about driving second sled now on purpose. She tells him not to say he is sorry, because he already did and she believed him, and that was never the difficulty. **Her letter is identical in every playthrough** — it does not vary with his direction, his restitution state, or the player's conduct.
+- **Petra's letter** is dictated — set down by another carrier's hand, because the left hand was the one she wrote with and it cannot hold a pen through a long letter, and the fact that the handwriting is not hers is the first thing Bernard sees. Nobody remarks on it. She writes about the bakehouse bricks she scrubbed as a girl, about relearning buttons and giving up on laces, about driving second sled now on purpose. She tells him not to say he is sorry, because he already did and she believed him, and that was never the difficulty. **Her letter is identical in every playthrough** — it does not vary with his direction, his restitution state, or the player's conduct.
 - **Radena's letter** reports that the goose is alive, that the bakehouse floor was relaid and the niche mortared and the stable box given a proper lock with the key on the pantry ring, and that she had it all done at once so that he could stop keeping the map of that house in his head.
-- **Matej's assessment** is three sentences of certification that refuse to put either fact in front of the other.
+- **Matej's assessment** is three short paragraphs of certification that refuse to put either fact in front of the other.
 
 Petra's *standing instruction* is separate from her letter and is a line item selected by the actual restitution record: accept without reconciliation, redirect her share to winter-road care, or close contact.
 
@@ -170,7 +170,7 @@ His strongest line is not eloquent:
 
 ## Assault and White Flame
 
-Vek One-Ear's Grobi file attacks to seize medicine and prisoners for Ghor's host. Vek has no connection to Froststep.
+Vek One-Ear's Grobi file attacks to strip the infirmary's stores and take prisoners for Ghor's host. Vek has no connection to Froststep.
 
 The fight moves through:
 
@@ -192,7 +192,7 @@ Within a week:
 
 - somebody has hung a votive by his bunk at the Yard, and taking it down would be a public statement he does not want to make;
 - a mother from the casualty lane asks him to bless her child, and he has to refuse her twice, because the first refusal is not believed;
-- **Deacon Ignatius** preaches — in good faith, from real doctrine — that visible grace answers the question of the debt, and that a man the Flame has used is not a man the Bank should be billing;
+- **Deacon Ignatius** preaches — in good faith, from sincere popular piety and against his own Church's rule of test before verdict — that visible grace answers the question of the debt, and that a man the Flame has used is not a man the Bank should be billing;
 - Koss's tally of Bernard's costs becomes, briefly, *unpopular*, which is the most dangerous thing that happens in the whole sequence.
 
 Bernard has to insist on his own guilt against a room that has decided to absolve him. He is not eloquent about it and he does not get to win the argument: the city will believe what it finds comforting, and the votive will keep coming back.

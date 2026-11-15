@@ -48,7 +48,7 @@ changed_reentry: "Grace"
 ensemble_inputs: ["Ylva Winter-Track", "Ilyana Veshkar", "Zafir ibn Samad"]
 identity_hooks: []
 grounded_rewrite_status: approved
-external_stakes: ["a mixed wartime hospice", "three patient routes", "Lena and Urra's visible cold-injury risks", "civilian survival during a residue assault"]
+external_stakes: ["a mixed wartime hospice", "three patient routes", "Lena and Urra's visible cold risks", "civilian survival during a residue assault"]
 banter_priority: essential
 player_interest_gate: none
 missed_arc_treatment: changed-reentry
@@ -78,7 +78,7 @@ The closed quest uses the player and Bernard only. Grenzburg carers, patients, p
 
 Once any two Act III assets in [[Bernard Companion Campaign]] are secured, Mercy Hospital receives notice that the dead march has cut two casualty routes and will pass within reach of the outer camps. Its beds cannot absorb soldiers, debtors, displaced Folk, captured Grobi dependents, and civilians at once.
 
-Bernard proposes converting the abandoned West Refuge Hall into a neutral lay hospice. The hall's old lamp sign gives the future institution its name. The site is defensible and near the patients, but its roof, water line, and eastern lane require immediate work.
+Bernard proposes turning West Refuge Hall from a winter shelter into a neutral lay hospice. The hall's old lamp sign gives the future institution its name. The site is defensible and near the patients, but a hospice asks more of its roof, water line, and eastern lane than the winter shelter or the drill did.
 
 The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting the departure warning dismisses the other active companions. It states that the Deep Muster commitment will resolve Bernard's campaign autonomously, transform unresolved patients, and close the ordinary construction window.
 
@@ -155,15 +155,15 @@ The player can accept bounded help from any or all parties. The strongest arrang
 
 ## Middle: Preparing the Hall
 
-Three tasks may be completed in any order:
+Three tasks may be completed in any order. Each starts from what [[Beds Before Banners]] left in the hall: work the drill finished is not done again, and what remains is the step from shelter to hospice:
 
 ### Water and Heat
 
-Clear the blocked river cistern, repair a stove flue, or establish a carried-water line. Warlock and an unlocked Lancewright offer technical shortcuts; every vocation can use tools, labour, and local plans.
+Bring water from the cistern the drill opened through to the wards (clearing it now if the drill did not), repair a stove flue for the heated ward, or establish a carried-water line. Warlock and an unlocked Lancewright offer technical shortcuts; every vocation can use tools, labour, and local plans.
 
 ### Wards and Exits
 
-Open the rear cart door, mark two patient routes, and separate contagious, immobile, and guarded patients. Slayer and Fighter gain speed or defence options, but ordinary work completes the task.
+Keep the rear cart door the drill cleared open for stretchers (or open it now), mark two patient routes, and separate contagious, immobile, and guarded patients. Slayer and Fighter gain speed or defence options, but ordinary work completes the task.
 
 ### The Open Count
 
@@ -218,21 +218,23 @@ No group is disposable. Triage determines location and urgency, not moral worth.
 
 ### The Shortage
 
-The convoy brings two named exposure cases and one full portion of warming salve:
+The wave leaves two named exposure cases and one full portion of warming salve. Lena is already in the hall; the convoy brings Urra:
 
 - **Lena Reed-Kin**, Mika's eight-year-old cousin, has fever, numb fingers, and a stable pulse. Bernard has fed her since winter and set the salve aside for her before the public count.
-- **Urra**, an eight-year-old Grobi dependent under guard, has blue fingertips, a weak grip, and rapidly falling temperature after a river crossing.
+- **Urra**, an eight-year-old Grobi dependent under guard, comes in starved and soaked from a river crossing, with blue fingertips, a weak grip, and a rapidly falling temperature. Her danger is hunger and cold: a starved Grobi heals poorly, and she has no reserves left to mend on.
 
 Sister Hanne states the likely outcomes before anyone allocates the medicine:
 
 | Allocation | Known risk |
 |---|---|
-| full portion to Urra | Urra's hand is likely preserved; Lena needs sustained heat and observation but has the better unaided prognosis |
-| full portion to Lena | Lena stabilizes quickly; Urra has a high risk of permanent hand stiffness or tissue loss |
-| split portion | both improve, but each retains a moderate injury risk unless the heated ward and carer coverage are already secure |
+| full portion to Urra | Urra is likely warmed through the night and, once fed, should begin to mend; Lena needs sustained heat and observation but has the better unaided prognosis |
+| full portion to Lena | Lena stabilizes quickly; Urra has a high risk of sinking further unless she is also given the heated bed and fed through the night |
+| split portion | both improve, but each remains at moderate risk unless the heated ward and carer coverage are already secure |
 | hold the salve | both risks worsen and Bernard's concealment continues |
 
 The UI identifies these as **likely**, not certain, medical consequences. Hanne can be wrong at the margins; the causal danger is still legible.
+
+The two risks are not the same kind. Lena's is to her fingers. Urra's is to the whole child: the salve buys her warmth, but what she needs is the heated bed, a fire kept in, and food from the witnessed stores, and somebody else goes without each of them. Not every carer thinks she is owed them: the Church has not settled what a Grobi is, and the dispute is carried on over her bed. Hanne treats her under the admission rule as it stands and leaves the guard where it is.
 
 Preparation matters. With three or more assets, a repaired stove, named night carer, and open route to Mercy allow a split dose to protect both children through strong play. With fewer assets, the shortage produces a real tradeoff. No faction, vocation, or relationship is required for the best-supported route.
 
@@ -303,11 +305,13 @@ No timer, failed check, hidden approval value, or ordinary combat defeat selects
 
 After the assault, Bernard performs the count before treating his own wounds. The result establishes the moral outcome.
 
-The count names the salve allocation, the support each child actually received, and the remaining medical risk. Before the player leaves the hall, Hanne gives a plain provisional result:
+The count names the salve allocation, the support each child actually received, and the remaining medical risk. Before the player leaves the hall, Hanne gives a plain provisional result. For Lena's hand:
 
 - **protected:** circulation and grip have returned; continued observation remains necessary;
 - **at risk:** the hand remains stiff or numb and may not fully recover;
 - **injured:** permanent impairment is already likely and follow-up treatment is arranged.
+
+For Urra the same three words record hunger and cold, not a hand: **protected** means warm, fed, and mending; **at risk** means still chilled or underfed and slow to mend; **injured** means she has sunk further and needs weeks of heat and feeding. Hanne records no lasting cold injury for her in any state.
 
 These states follow the disclosed allocation, preparation, route condition, and care delivered during the assault. The game does not hide the causal chain or wait until summer to reveal an unavoidable punishment.
 

@@ -113,9 +113,9 @@ He does not pray aloud.
 
 When the fire fails, he rebuilds it without leaving.
 
-### Resentment — The fourth night (Hidden Heavyweight)
+### Resentment — The drill (Hidden Heavyweight)
 
-Bernard has cooked four suppers in four shelters in four nights. A carer asks him, reasonably, for the third time, how the flue works.
+Mid-drill at West Refuge Hall, Bernard is benched, tired, and watching other people do his work badly. A carer asks him, reasonably, for the third time, how the flue works.
 
 **Bernard:** “It works when somebody watches it. That is the whole trick. That is the entire—”
 
@@ -127,7 +127,7 @@ He stops.
 
 Later, to the player, without being asked:
 
-**Bernard:** “I was going to say something about how many pots I have carried this week.”
+**Bernard:** “I was going to say something about how many pots I have carried this winter.”
 
 **Player:** “Why didn't you?”
 

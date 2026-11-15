@@ -74,9 +74,9 @@ No survivor arrives. No warrant exists. No court is looking. This is the roster'
 
 The Lask task is running. The passage is held or lost. Winter is breaking.
 
-And the thing the ravine started has not stopped. He has been counting in his sleep since Split Pine; the number is three; and he has never known which three.
+And the thing the ravine started has not stopped. He has been counting in his sleep since Haymaker's Copse; the number is three; and he has never known which three.
 
-He goes to [[Claims-Factor Marco Bellandi]] and commissions an inquiry into the Korrheim rockfall of 1355 — passengers, survivors, estates, and the human cost the conviction never established. **Out of his own service credit,** the only currency he owns, at a price that measurably extends his contract.
+He goes to [[Claims-Factor Marco Bellandi]] and commissions an inquiry into the Korrheim rockfall of 1349 — passengers, survivors, estates, and the human cost the conviction never established. **Out of his own service credit,** the only currency he owns, at a price that measurably extends his contract.
 
 > **Dismas:** I want to know how many. Then I want it written where the first number was.
 >
@@ -103,7 +103,7 @@ Two permit the inquiry. Three establish names, sequence, and filing intact. Four
 Weeks of work, and the player does it:
 
 - **the registry** — Bellandi's Korrheim correspondence, honest about time: three weeks each way, a clerk who wants a fee, a war on the roads. The quest spans a season edge and says so.
-- **the notation** — his own route book from 1355, out of a Lowlands cache. Surrendering it is voluntary and irreversible, and it is the most self-destructive act available to him anywhere in the campaign.
+- **the notation** — his own route book from 1349, out of a Lowlands cache. Surrendering it is voluntary and irreversible, and it is the most self-destructive act available to him anywhere in the campaign.
 - **the estates** — Hedric Vane's family and the Bekks, as ledger entries with addresses and an unpaid burial subscription.
 - **the claim** — [[Sella Etten]]'s eleven-year-old civil filing against *persons unknown*, quoted whole in [[The Stonefall Papers]] and read on screen. Written in the register of expenses, because that is the register the form asked for. The last line is hers.
 - **the interference** — Low Lantern brokers offer to disappear *the inquiry*: cheaper than disappearing a person, nobody hurt, everybody content. Koss separately wants it closed, because an enlarged claim complicates his asset.

@@ -89,9 +89,9 @@ Lena Reed-Kin and Urra appear only when their established location and survival 
 
 If either child was recorded as **protected**, the coda shows ordinary recovery: carrying a bowl, fastening a mitten, helping at the table, or ignoring Bernard altogether.
 
-If either was **at risk**, a brace, exercise, or adapted spoon shows continued treatment. A carer names whether recovery improved, remained uncertain, or worsened. This follows the prognosis the player already received.
+If Lena was **at risk**, a brace, exercise, or adapted spoon shows continued treatment; if Urra was, extra rations and a place by the stove do. A carer names whether recovery improved, remained uncertain, or worsened. This follows the prognosis the player already received.
 
-If either was **injured**, the child may have a stiff grip, missing fingertip, or limited hand closure consistent with the recorded outcome. The adaptation is treated as part of that person's life, not a prop waiting to absolve or condemn Bernard.
+If Lena was **injured**, she may have a stiff grip, missing fingertip, or limited hand closure consistent with the recorded outcome. The adaptation is treated as part of her life, not a prop waiting to absolve or condemn Bernard. If Urra was **injured**, summer shows no such mark: she is still thin and slow to mend, the feeding and the warm corner have gone on all season, and her carer says how far she has come.
 
 The player may ask one practical follow-up, leave the moment alone, or support continuing care. No late action reverses permanent injury, but treatment and material support remain possible. Bernard's truthful or withholding conduct has already been judged through the final inventory; the summer scene does not secretly rescore it.
 
@@ -133,7 +133,7 @@ The table includes the people saved by his explicit final stand. The prayer rope
 
 Somebody else served her — a carer, Hannel, a porter, whoever is on the ladle. She is not seated near Bernard and did not choose to be seated far from him. She talks with the person on her left about the price of soap.
 
-That is the entire beat, and it is the furthest the world ever moves her: three seasons after she told him she would not eat from his hand, she is eating in a room he built, and it still is not from his hand. `lenka_state` has not changed and will not.
+That is the entire beat, and it is the furthest the world ever moves her: two seasons after the winter supper where she would not take a bowl from his hand, she is eating in a room he built, and it still is not from his hand. `lenka_state` has not changed and will not.
 
 ## Open Hand
 

@@ -44,7 +44,7 @@ preparation_inputs: ["bernard_road_school_wagon_recovered", "bernard_longlake_ro
 preparation_threshold: "2 of 5"
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
-changed_reentry: "The Road Afterward"
+changed_reentry: "The Bent Bell"
 ensemble_inputs: ["Dismas Raben", "Ylva Winter-Track"]
 identity_hooks: []
 grounded_rewrite_status: approved
@@ -286,7 +286,7 @@ In Early Winter the group travels by sled over the established lake road. The be
 - Chapel-Folk road-school and child summer scenes unlock;
 - qualitative approval and the friendship episode.
 
-## Autonomous Resolution and The Road Afterward
+## Autonomous Resolution and The Bent Bell
 
 If the player commits to [[The Last Convoy]] without joining this finale, Bernard travels with Oda using the preparation already secured. On the default route he carries an undeclared food reserve and delays naming the danger:
 
@@ -297,7 +297,7 @@ If the player commits to [[The Last Convoy]] without joining this finale, Bernar
 
 Truthful influence and at least three assets can produce an autonomous morally successful rescue with permanent supply or wagon loss. Poor preparation or withholding can cause a serious nonfatal injury and suspend the school. Bernard cannot die and no child dies unseen.
 
-The winter aftermath **The Road Afterward** permits compensation, bell repair, removal of the remaining snare line, and a later admission. It cannot reverse injuries, restore the bear, replay the journey, or grant the missed progression rewards.
+The winter aftermath **The Bent Bell** permits compensation, bell repair, removal of the remaining snare line, and a later admission. It cannot reverse injuries, restore the bear, replay the journey, or grant the missed progression rewards.
 
 ## Navigation
 

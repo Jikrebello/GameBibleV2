@@ -69,7 +69,7 @@ Dismas's Act III finale, built out from outline. A dead-march column cuts the Fe
 
 ## Premise
 
-A residue column following old replacement orders is moving up the Fenn Road toward Tannward and will pass within reach of Three Horn Depot, where a spring convoy has stopped: eleven carts, forty-one civilians, nine wounded marchers, a depot clerk, and a manifest nobody has read.
+A residue column following old replacement orders is moving up the Fenn Road toward Tannward and will pass within reach of Three Horn Depot, where a spring convoy has stopped: eleven carts, thirty-nine civilians, nine wounded marchers, a depot clerk, and a manifest nobody has read.
 
 The military lane is short, hard, and defensible. The civilian route is the fen track — slower, wetter, and impossible to hold.
 
@@ -118,7 +118,7 @@ Between the exits, the quest is craft:
 - **spoiling the pattern.** Residue follows command geometry, road grooves, and rank marks. Dismas does not fight a column; he makes a road stop looking like a road — grooves broken, marks defaced, a false lane cut into the fen that reads better to a dead formation than the real one does. His whole doctrine, finally used at scale.
 - **holding the line.** Rearguard work, reversible obstacles, and disengagement windows for people who cannot run.
 - **guides leading.** If trained, they take groups out on their own initiative and out of the player's sight, and the quest reports their arrivals rather than showing them.
-- **the manifest.** Read or unread, it determines whether anyone knows that two names are missing before the fen swallows the evidence.
+- **the manifest.** Read or unread, it determines whether anyone knows that two names are missing before the fen swallows the evidence: it lists thirty-nine civilians, and the legs carry thirty-seven.
 
 ### Pause Points: First Group Away · Depot Cleared
 

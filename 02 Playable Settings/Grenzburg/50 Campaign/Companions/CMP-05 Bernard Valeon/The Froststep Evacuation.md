@@ -42,9 +42,9 @@ Nobody caught it in time because there was nothing to catch — the paper was co
 
 The second sled lost a runner and spent a night above the lower switchback. Its people had too little oil, salve, food, and dry covering.
 
-No one died. Five evacuees suffered lasting cold injury:
+No one died. Five evacuees suffered lasting cold injury; the two carriers among them were passengers that night, not sled crew:
 
-- [[Petra Ilev]], relief driver — two fingers of her left hand, and severe cold pain in one foot;
+- [[Petra Ilev]], then a winter carrier — two fingers of her left hand, and severe cold pain in one foot;
 - **Josef Vrana**, carrier — nerve damage to both hands and a chest that fails every winter; forty years of carrying work ended in a night. His daughter [[Lenka Vrana]] works in Grenzburg;
 - three others carry reduced mobility, nerve pain, or recurrent winter illness.
 
