@@ -13,7 +13,8 @@ tags: [causality-pass, audit, grenzburg]
 ---
 # Causality Pass — 14 Grenzburg and Companions Audit
 
-**Report only. Nothing under `02 Playable Settings` was edited, and nothing in canon was changed to match it.**
+> [!note] Status — 15 November 2026, evening
+> **Acted on.** This page was written as a report only. The creator then asked for the canon-side items, the breaks, the rewords and the cosmetics to be fixed, and they were, the same day. "What was fixed" below says what was done, which calls were judgement, and what was left. The rest of the page and the seven detail records keep the audit as it was written; their line numbers refer to the files before the fixes (commit `c5add80`).
 
 The history was rewritten between 13 and 15 November while the game material was deliberately left alone. This page lists where the two now disagree, and where the game disagrees with itself. Seven auditors each read one slice in full and compared every statement that depends on the wider world with the canon page for it. Their reports are the detail records:
 
@@ -28,6 +29,57 @@ The history was rewritten between 13 and 15 November while the game material was
 | The quest library's adventures that lean on history | [[Causality Pass - 14G Audit - Quest Library\|14G]] |
 
 Each companion's slice is the campaign folder, the profile, the personal histories tied to that companion and, where one exists, the in-world text in `03 Stories & In-World Texts` (*The Velescar Correspondence*, *The Froststep Packet*, *The Stonefall Papers*, *The Red Brass Papers*).
+
+## What was fixed on 15 November 2026
+
+All 169 findings were answered: fixed in the game files, fixed in canon where canon was the stale side, or (one) withdrawn as a false finding. Eleven commits, `979eda3` to `8ae4645`, change 232 notes, and a twelfth records this. Nothing was pushed.
+
+**How it was done.** One writer per slice drafted exact old-to-new replacements without touching the vault. Each replacement had to match the file exactly once, each was read before it was applied, and each slice is its own commit, so any one can be reverted alone. Links were checked after every commit (no missing targets), the Chronology is still in date order, and no canon note links ambiguously in the reader.
+
+**The false finding.** RL-03 said Birchcross cannot be "outside the atlas" because it lies on a mapped road. The Locked Ruling (*Current Focus Board*: "Birchcross and Alderway Vale remain outside the base-game atlas") and the Gazetteer both put it outside. The finding was wrong and nothing was changed for it.
+
+### The ten decisions, as taken
+
+1. **Dismas.** The rockfall is autumn 1349. He was twenty-three, reached the march about 1351, and every "eleven years" tied to the coach is now true.
+2. **The Grobi follow canon.** Ghor has every tactical choice and no moral conscience; captives are provisions, not slaves; restraint toward separate bands rests on what humans owe. Bands signal by drum, and the Southern Horn is kept as Ghor's break with drum law. Urra stays a Grobi child: her danger is hunger and cold, with no lasting frostbite.
+3. **The Medori's officers.** Canon follows the game: Lucia Medori and Marco Bellandi in *Present-Day Courts and Crowns*.
+4. **Zafir's canon pages.** Malphas is generalised and the Way-Weaver sentence dropped. The two live links that used the alias "Zafir the Bound Chainmaster" now point at his name; the alias itself stays as a redirect because four frozen snapshots link it.
+5. **Jirahar patronymics.** 68 "bat" became "bath" and 9 "ben" became "bar" in canon, stories and research, and three more names were corrected in the quest library.
+6. **The Night of Broken Bells** is named in *Freeflame Reformation* and *The Korrheim Accord* and has a Chronology entry for 1338.
+7. **The Church questline: a light touch.** The second rite is named where the quests already stand: the winter camps and the trench (*Bread and Burial*), the Chapel-Folk households (*Ash at the Door*) and one clause in *Mercy in Winter*. No quest was added or restructured.
+8. **Ashira's past stays remote,** as the companion standard requires. What frightens Grenzburg is the copied face already loose in its criminal trade.
+9. **Bellless Hold** is the older imperial fort, regranted to a Markish lord in the 980s, abandoned after the Standing of the Water (994), its bell taken down under the Peace of the Bent Oak (999).
+10. **The duke** is `Duke Alaric von Grenzmark`. The old title stays as an alias so frozen snapshots still resolve.
+
+### Judgement calls worth a second look
+
+Each is small to reverse; the writers' notes give the alternative.
+
+- **Sandro Tessari keeps his scene (EL-01, EL-06).** "He was fourteen" and "the diggers' children" stand, so he is now "not yet twenty" and no longer in his thirties, and his mother still dies in Grenzburg. The companion standard now defines `downstream-local`, the value his note and Lenka Vrana's already carry: a resident who was already in the city, not an arrival. The alternative (keep him in his thirties and cut "fourteen") loses the scene's last line.
+- **The Last Convoy (A-07).** The columns withdraw north from Tann Crossing Farms; the party returns to the fort for the last wagons. The other reading, a supply run south into the fort, contradicts "pulled north" and both matrices.
+- **Act II order (A-09).** The window matrix was followed against the Season Constitution: *The Emerald Trail* and *Knives Behind the Walls* both open after *The City in Siege*.
+- **Falkendorf (D-02).** Korrheim has cantons and no provinces, so the coach, court and registry needed a canton. Falkendorf is the only one canon names; it is also the canton of the 1340 rising. Heldenheim is the alternative, in eight places.
+- **The Black Road and Haymaker's Copse (D-07, D-12).** The Lowlands "Ash Road" collided with canon's name for the Castaran Long Road and is now the Black Road. Dismas's Act I ambush moved from Split Pine Ravine, which the register puts in the Southwood, to the ravine under Haymaker's Copse.
+- **The queens (D-09).** The queens Dismas leaves on roads are lifted from other people's decks; his own stays in his coat.
+- **The Black Bell (F-05).** *The First Toll* is the Bell's first planned killing "as a standing tribunal", so Vey and the siege prisoners can come first.
+- **New minor names (EL-11, EL-12, IL-07).** Duplicate names needed a replacement: Tilde, Dorota Oster, Tam Two-Reeds, Jutta Helt, Arko Lund. None is used elsewhere.
+- **Window names.** The Companions register and 15 quest files used window names the Season Constitution does not have. "Siege Winter" became Early and Deep Winter, "Late Winter" Deep Winter, "Open Thaw" Early Spring, "Spring Reclamation" Early and Open Spring, "Before Deep Muster" Muster Crisis, "Playable Summer" Summer Aftermath, "Postgame Summer" Postwar Cycle. The register now follows each quest file for act and window.
+- **Paladin.** One line said the spring re-entry cannot earn the unlock; four other notes say it can. The one line was changed.
+- **Old Tithe Vault.** Two notes disagreed about who brought the Velescar cache to Grenzburg. It now reads: Medori shipped the pledged paper; Vardek's cutouts rented a section beside it before the siege closed the roads.
+- **Bent Oak Refuge (RL-10)** takes canon's spelling; the family surname Bent-Oak keeps its hyphen.
+
+### Seen while fixing, not in the audit, left alone
+
+- **State register rows nothing writes:** `salt_reed_roster_in_grenzburg`, `salt_reed_winter_consent`, `ilyana_celia_safe`, `ilyana_instruments_returned`, `ilyana_performer_pledges_recorded` and `hospice_cold_injury_child` (the last still says "unrepairable", against the rule that consequences are shown before the choice). Dropping identifiers is the creator's call.
+- ***The City in Siege*** records `elara_winter_roofline_proven`; Elara's files and the register call it `elara_roofline_route`.
+- ***Old Tithe Vault*** names "Vasko or the replacement senior retainer" where the quest has Advocate Sera Vann.
+- ***The Last Convoy***: "Completion ends Open Autumn" (the controls end it at the commitment), and a defeated escort's holdfast is recovered on a withdrawal that follows only the central road.
+- **Faction quest 8** of all four lines is windowed "Early Spring, Muster Crisis" and skips Open Spring.
+- ***Hollow Keep*** no longer says why Hannes's death was recorded elsewhere, now that the massacre is public (HK-2). One sentence would settle it; none was invented.
+- ***The Broken Tower*** conversion note still carries an older torque (the lapsed charter, "the surveyor's ransom") that is not in the full adventure.
+- **Near-duplicate minor names** not in the findings: Hanne Wirth and Sister Hanne Wolkert; Mara Venn and Mara Senn; Harl Venn and Hadrik Venn.
+- **`past_contact_mode: current-world`** on Karel Reed-Hand's note is not defined in the companion standard.
+- **The production map** (SVG and PNG) was not touched; any label on it spelled the old way still is.
 
 ## The short version
 
@@ -107,7 +159,7 @@ Finding numbers are the auditors'; the detail record gives file, line and quotat
   - Lenka "came west" from Kedrava (B-03 in 14C).
   - Kedrava is "nine days" by drover's road (D-03).
   - The escarpment "opens south over the Lowlands", which lie north (D-04).
-  - Birchcross is "outside the atlas" but on a road the atlas shows (RL-03 in 14E).
+  - Birchcross is "outside the atlas" but on a road the atlas shows (RL-03 in 14E). *This finding was wrong: the Locked Ruling and the Gazetteer both put Birchcross outside the base-game atlas. Nothing was changed.*
   - *The Last Convoy* and *The First Summer Road* give routes that do not fit the map (A-06, A-07 in 14F).
 - **An Earth month.** "Districts that went hungry in February" (EL-04 in 14A).
 

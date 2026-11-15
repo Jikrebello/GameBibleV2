@@ -302,7 +302,7 @@ Scores are predictability out of 10; lower is better. "Before" is the second re-
 
 ## The Grenzburg audit (15 November)
 
-With the history settled, the game material was read against it for the first time. [[Causality Pass - 14 Grenzburg and Companions Audit]] is the report, with seven detail records (14A to 14G): the eight companions, the production bible and region, the cast and campaign, and the quest library. **It is a report only; nothing in `02 Playable Settings` was edited.**
+With the history settled, the game material was read against it for the first time. [[Causality Pass - 14 Grenzburg and Companions Audit]] is the report, with seven detail records (14A to 14G): the eight companions, the production bible and region, the cast and campaign, and the quest library. It was written as a report only. **The creator then asked for it to be acted on, and it was, the same day:** eleven commits (`979eda3` to `8ae4645`) change 232 notes, and record 14 lists what was done under "What was fixed".
 
 - **169 findings:** 11 that break something, 62 that need rewording and 96 cosmetic.
 - **The rewrite did little damage.** No moved date is cited in the game material, and one old name survives ("Saint Ioan Outer Fort" in Caleran).
@@ -312,7 +312,7 @@ With the history settled, the game material was read against it for the first ti
 
 ## What remains
 
-- **Grenzburg has not been brought into line.** Record 14 lists ten decisions for the creator; nothing in it has been acted on.
+- **Grenzburg has been brought into line, with judgement calls to confirm.** Record 14 lists the ten decisions as taken, about a dozen calls worth a second look (Sandro Tessari's age, the direction of the Last Convoy, Falkendorf, the order of Act II) and what was seen but left alone.
 - **Left by the date moves.** Three notes carry old dates in their file names and are the creator's to rename inside Obsidian, because *Current Focus Board* and the Vestian draft link two of them: `Cassian and the Four Sees - The Settlement of 292 to 316 AR` (now 292 to 307), `Astrion and the Road to Vestian - 348 to 377 AR` (now 340 to 377) and `After Cassian - The Succession of 316 and the Forty Flames` (now 307). The Vestian draft says "kin who had left after 70 AR"; canon now has the households leaving in 64 and 72.
 - **Skeletons are the lever now.** The third blind re-read scored the order of events and the fates at 7 on Cassian to Vestian, Two Crowns, the road to 1360 and the siege and the returnings, and their overall scores did not move. A third bend of those sequences would do more than any further change of date or name. The same re-read found a clock in the first imperial house (about 323 by the sum of the years) that no researcher has checked.
 - **Sequences still close to their analogues.** Two bends later the causes are native and most skeletons are broken. What a specialist can still predict is listed in the table above and in the [[Real-History Concordance]] under "Sequences still close to their analogues". Three kinds of thing remain:

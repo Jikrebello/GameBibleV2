@@ -14,7 +14,7 @@ tags: [causality-pass, audit, grenzburg]
 # Causality Pass — 14G Audit: The Quest Library
 
 > [!note] Status — 15 November 2026
-> Detail for [[Causality Pass - 14 Grenzburg and Companions Audit]]. **Report only: nothing in the game folders or in canon was changed.** This is the auditor's report as written. Paths beginning `CMP-`, `C10`, `PH` and the like are short forms for folders under `02 Playable Settings/Grenzburg/`; each report explains its own.
+> Detail for [[Causality Pass - 14 Grenzburg and Companions Audit]]. This is the auditor's report as written, before any fix. **The fixes were applied later the same day;** record 14 says what was done under "What was fixed". Line numbers and quotations are from the files as they stood at commit `c5add80`. Paths beginning `CMP-`, `C10`, `PH` and the like are short forms for folders under `02 Playable Settings/Grenzburg/`; each report explains its own.
 
 Audit of `02 Playable Settings/Quest Library/` against `01 Canon Reference/` as it stands on 15 November 2026. Read-only; nothing in the vault was changed.
 

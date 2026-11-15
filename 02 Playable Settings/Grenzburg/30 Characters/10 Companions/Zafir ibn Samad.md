@@ -9,7 +9,7 @@ culture: ["Ahl-e-Ahd", "Iqashari"]
 related_factions: ["Blackjack Corps", "Medori Bank"]
 appears_in: ["Grenzburg"]
 needs: []
-aliases: []
+aliases: ["Zafir the Bound Chainmaster"]
 tags: [game-ready]
 companion_id: "CMP-08"
 sex: man
