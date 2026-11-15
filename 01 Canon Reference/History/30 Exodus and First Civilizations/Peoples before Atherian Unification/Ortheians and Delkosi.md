@@ -26,7 +26,7 @@ Eryndor III used these resources to build a western hegemony and invade the east
 
 ## The Delkosi formation
 
-Delkos became the principal base for part of Eryndor's conquered army. The king died in 684 BR aboard the flagship of the allied fleet. Its crew, descendants of the Belyra families from the Nemeru shipyards, sailed his body and his gilded regalia to Delkos, the fleet's home port, ahead of its lord Serevan, and became the doorkeepers of his tomb. After his death, commanders, soldiers and household claimants divided the eastern possessions. Local islanders lived beside Ortheian veterans, Arqeshite officials, Vashari allies, freed captives, the Belyra families and households recruited from other ports.
+Delkos became the principal base for part of Eryndor's conquered army. The king died in 673 BR aboard the flagship of the allied fleet. Its crew, descendants of the Belyra families from the Nemeru shipyards, sailed his body and his gilded regalia to Delkos, the fleet's home port, ahead of its lord Serevan, and became the doorkeepers of his tomb. After his death, commanders, soldiers and household claimants divided the eastern possessions. Local islanders lived beside Ortheian veterans, Arqeshite officials, Vashari allies, freed captives, the Belyra families and households recruited from other ports.
 
 The term **Delkosi** first named inhabitants of the city. It widened among people attached to its fleet, court and military settlements. Service, residence, marriage and public admission brought new households into the identity. A person could be Delkosi through civic life and remain conscious of Ortheian, Arqeshite or island ancestry.
 

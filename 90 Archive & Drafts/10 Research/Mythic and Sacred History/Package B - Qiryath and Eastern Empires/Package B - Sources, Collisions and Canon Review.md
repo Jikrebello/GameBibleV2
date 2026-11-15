@@ -33,8 +33,8 @@ The package preserves the established sequence of First Qiryath's destruction in
 | c. 1050–800 BR | First Qiryath grows around refuge, sanctuary and council; Yedran's crown fails | House Ubar establishes imperial government | House Tiravan rises within Kavresh and the western pass system |
 | c. 842–742 BR | Qiryath faces increasing tribute and hostage demands | Merod II uses Ashkur's murder to deepen Qahuri intervention; later Ubar kings expand towards Qiryath and Vashar | highland houses divide between collaboration and revolt |
 | 742–690 BR | city destroyed; people killed, enslaved and deported; dispersed communities survive | Ilbarun's victory gives way to overextension and Ubar succession war | Valeron II builds Ortheian hegemony; Arezan Tiravan builds a provincial coalition |
-| 702–684 BR | deported and dispersed households live through another regional war | Eryndor's western invasion and Arezan's coalition converge; Arqesh falls; Eryndor dies | two allied commands divide the conquest before turning to succession war |
-| c. 684–660 BR | return under the Decree of Roads and Houses; Second Qiryath consecrated | Arqesh becomes a contested capital and then a Vasharan provincial centre | Wars of the Inheritance divide Eryndor's conquests; House Tiravan establishes the Crown of Roads and Dawns |
+| 702–673 BR | deported and dispersed households live through another regional war | Eryndor's western invasion and Arezan's coalition converge; Arqesh falls; Eryndor dies | two allied commands divide the conquest before turning to succession war |
+| c. 673–660 BR | return under the Decree of Roads and Houses; Second Qiryath consecrated | Arqesh becomes a contested capital and then a Vasharan provincial centre | Wars of the Inheritance divide Eryndor's conquests; House Tiravan establishes the Crown of Roads and Dawns |
 | c. 660–520 BR | communal and road-house life develops under Vasharan supremacy | canals and cities remain productive under new rulers | Vasharan road commands expand while Caleran fights the Gateway Wars |
 | 514–491 BR | Jirahar households are divided by the eastern wars | Ubar grain and engineers sustain royal campaigns | Tasar revolts; Kazren's two expeditions culminate in defeat at Ilyessa |
 | 486–431 BR | traders, interpreters and captive-ransom networks cross both spheres | provincial houses acquire lasting influence | Orvaz I replaces direct conquest with clients, money and grain |
@@ -152,7 +152,7 @@ Reqa, Ubar and Vashar lie within the setting's northern and eastern warm belt. T
 | **Elior bar Hadan** | 742 BR | chief guardian who refuses Ilbarun's demand for hostages and a royal image |
 | **Yavreth bat Qesem** | 742 BR | councillor who opens unauthorised negotiations in an attempt to preserve the city |
 | **Sameth bar Yorin** | 742–690 BR | deported musician whose punishment and daughter's court service shape an exile tradition |
-| **Yaelith bat Coren** | c. 684–660 BR | keeper of the surviving cistern whose household organises water and labour during reconstruction |
+| **Yaelith bat Coren** | c. 673–660 BR | keeper of the surviving cistern whose household organises water and labour during reconstruction |
 
 ### Arqesh
 
@@ -167,7 +167,7 @@ Reqa, Ubar and Vashar lie within the setting's northern and eastern warm belt. T
 | **Ilbarun II Ubar** | 758–728 BR | destroyer of First Qiryath |
 | **Iltara Ubar** | eighth century BR | royal woman whose estate and marriage network shape succession politics |
 | **Kassur III Ubar** | dies 688 BR | last ruling king, murdered during flight and given royal burial by Eryndor |
-| **Mardun Ubar** | c. 706–690 BR | provincial governor whose shifting alliance helps open Durqesh |
+| **Mardun Ubar** | c. 718–690 BR | provincial governor whose shifting alliance helps open Durqesh |
 | **Ishara of the Soot Court** | c. 690 BR | smith who signals forced workers to open Khalbar's gate; later royal ceremony omits the massacre that follows |
 
 ### Vashar and the eastern coast
@@ -179,11 +179,11 @@ Reqa, Ubar and Vashar lie within the setting's northern and eastern warm belt. T
 | **Arezan I Tiravan** | 704–671 BR | coalition ruler, conqueror of Arqesh and issuer of the return decree |
 | **Mithara Tiravan** | early seventh century BR | Arezan's sister and essential organiser of the Kavresh coalition |
 | **Parena Tiravan** | dies during the Wars of the Inheritance | Mithara's daughter, Eryndor's wife and intermediary within the mixed conquering court |
-| **Valeron II of Ortheia** | c. 735–706 BR | king who builds the upland army and coerced Atherian hegemony inherited by Eryndor |
-| **Eryndor III of Ortheia** | 706–684 BR | Far-Road King, co-conqueror of Arqesh and source of the divided successor inheritance |
-| **Demeran Kavos** | from 684 BR | western general who takes Ortheia and destroys Eryndor's nominal heirs |
-| **Serevan of Delkos** | from 684 BR | fleet commander who establishes the eastern maritime successor court |
-| **Neresh of Qemaret** | from 684 BR | Qahuri-born officer who holds temporary southern garrisons through military marriage |
+| **Valeron II of Ortheia** | c. 735–709 BR | king who builds the upland army and coerced Atherian hegemony inherited by Eryndor |
+| **Eryndor III of Ortheia** | 709–673 BR | Far-Road King, co-conqueror of Arqesh and source of the divided successor inheritance |
+| **Demeran Kavos** | from 673 BR | western general who takes Ortheia and destroys Eryndor's nominal heirs |
+| **Serevan of Delkos** | from 673 BR | fleet commander who establishes the eastern maritime successor court |
+| **Neresh of Qemaret** | from 673 BR | Qahuri-born officer who holds temporary southern garrisons through military marriage |
 | **Tavrad I Tiravan** | 671–625 BR | creator of the road-command system |
 | **Kavran I Tiravan** | 625–584 BR | consolidator of western roads and Qahuri relations |
 | **Mithara I Tiravan** | 584–536 BR | queen who repairs finances and provincial relationships after dynastic conflict |
@@ -326,10 +326,10 @@ No ordinary lead remains under a vague “defer”. The unrecognised son's prope
 4. The connected siege, deportation and local survival of 742 BR.
 5. The Vashari people, Vashar highlands, House Tiravan and named Vasharan Empire.
 6. Merod II's earlier Qahuri intervention after Ashkur's murder, separated from the later destruction of First Qiryath.
-7. Ortheia, Valeron II, Eryndor III, Marenthe and Belyra as the Atherian upland and campaign sequence of 735–684 BR.
+7. Ortheia, Valeron II, Eryndor III, Marenthe and Belyra as the Atherian upland and campaign sequence of 735–673 BR.
 8. Arqesh's fall in 690 BR through Arezan's coalition, Eryndor's command and internal revolts.
 9. Kassur III's murder, Eryndor's royal burial of him and the Wars of the Inheritance.
-10. Arezan's Decree of Roads and Houses in 684 BR and Second Qiryath's consecration around 660 BR under Vasharan supremacy.
+10. Arezan's Decree of Roads and Houses in 673 BR and Second Qiryath's consecration around 660 BR under Vasharan supremacy.
 11. Demeran, Serevan and Neresh as the three other principal successor rulers; Delkos as the maritime successor court.
 12. The road-command system, Dawn Road and varied provincial government.
 13. Tasar's revolt and the eastern sea wars of 514–491 BR.
@@ -397,7 +397,7 @@ A later canon delivery should expand existing pages in place and add substantial
 
 The package is internally coherent and ready for canon review. Its eastern history now contains two connected achievements without assigning either civilisation a supporting role: Eryndor supplies the Atherian conquest and successor age, while Arezan turns a highland coalition into the Vasharan empire that survives as an eastern peer in 350 BR. Qiryath's return occurs inside their divided settlement and preserves Jirahar life beyond the fortunes of either king.
 
-Recommended disposition for all five companion dossiers: **retain with incorporated reconciliation**. The controlling dates are 702–690 BR for the eastern conquest, 684–c. 650 BR for the Wars of the Inheritance and 514–491 BR for the Vasharan–Atherian sea wars. All material remains exploratory until the user authorises canon promotion.
+Recommended disposition for all five companion dossiers: **retain with incorporated reconciliation**. The controlling dates are 702–690 BR for the eastern conquest, 673–c. 650 BR for the Wars of the Inheritance and 514–491 BR for the Vasharan–Atherian sea wars. All material remains exploratory until the user authorises canon promotion.
 
 ## Package validation
 

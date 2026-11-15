@@ -104,7 +104,7 @@ Arqeshite troops killed defenders and civilians, stripped the sanctuary and dest
 
 Iltara supervised the first resettlement and ordered the cisterns preserved so the surviving villages could feed the garrison and pay grain tax. Later Jirahar accounts sometimes describe the order as mercy because it kept the district habitable. Arqeshite instructions describe the same work as preparation for assessment and military settlement.
 
-## The empire after Qiryath, 742–706 BR
+## The empire after Qiryath, 742–718 BR
 
 The victory displayed Arqesh at its greatest extent. Tribute entered from the Qahuri approaches, Reqa, the coast and several highland districts. Deportees enlarged Arqesh and Nemeru. Royal building consumed stone, timber and labour at a scale earlier kings could not have supported.
 
@@ -114,9 +114,9 @@ The enlarged empire became expensive to hold. Garrisons required grain during po
 
 Ilbarun died in 731 BR of a marsh fever taken while he inspected the new shipyards at Nemeru. His son **Belatar II** executed two uncles and married a cousin from Iltara's line. He relied upon military households—families whose estates and status came from service in the royal army—while Nemeru and Khalbar sought greater control of local revenue. Iltara died in 719, removing the relative most capable of negotiating among them.
 
-## Succession war and coalition conquest, c. 706–690 BR
+## Succession war and coalition conquest, c. 718–690 BR
 
-Belatar's death without an adult son divided House Ubar. **Kassur III**, supported by Arqesh and the palace army, claimed the throne. **Mardun Ubar**, governor of Durqesh, held the highland road and married into the Vashari House Tiravan. Each opened or blocked canals serving the other's supporters. Soldiers took seed grain and dismantled village roofs for camps.
+Belatar died around 718 BR, the year after Iltara, and his death without an adult son divided House Ubar. **Kassur III**, supported by Arqesh and the palace army, claimed the throne. **Mardun Ubar**, governor of Durqesh, held the highland road and married into the Vashari House Tiravan. Each opened or blocked canals serving the other's supporters. Soldiers took seed grain and dismantled village roofs for camps.
 
 Provincial revolts followed. Nemeru withheld boats. Qahuri rulers expelled isolated garrisons. Tarkhan and other open-country leaders attacked stations holding animals, grain and hostages. A few wealthy northern houses used chariots or kept scarce riding horses, but most of their fighters travelled by camel or on foot. Vashari highland houses united behind **Arezan Tiravan**, who promised to preserve submitting cities and break the Ubar monopoly.
 
@@ -132,9 +132,9 @@ Kassur escaped up the eastern channel with several adult sons, his household gua
 
 ## Arqesh under its successors
 
-Eryndor occupied the High Palace and treasury while Arezan held the Gate House, eastern roads and most surviving provincial administration. Canal officials continued working because neither army could feed the city without them, and after 688 they kept their books under Kassur's seal to Arezan. Eryndor accepted Ubar court dress, retained Arqeshite secretaries and set Kassur's images in his audience hall, where they answered in his voice and courtiers said the Crowned Countenance still attended the bowing. Within a year the images had ordered one of his own officers to bow, the officer had been executed under the old court law for refusing, and a companion who mocked them had been strangled by their bearers. After that they spoke in the dead companion's voice and called the king by his camp name. Arezan appointed Vashari officers beside local water managers and strengthened his support among the towns that had opened their gates.
+Eryndor occupied the High Palace and treasury while Arezan held the Gate House, eastern roads and most surviving provincial administration. Canal officials continued working because neither army could feed the city without them, and after 688 they kept their books under Kassur's seal to Arezan. Eryndor accepted Ubar court dress, retained Arqeshite secretaries and set Kassur's images in his audience hall, where they answered in his voice and courtiers said the Crowned Countenance still attended the bowing. For seven years the east bowed to them. In the seventh year, 681 BR, the images ordered one of his own officers to bow; the officer was executed under the old court law for refusing, and a companion who mocked them was strangled by their bearers. After that they spoke in the dead companion's voice and called the king by his camp name. Arezan appointed Vashari officers beside local water managers and strengthened his support among the towns that had opened their gates.
 
-The alliance survived long enough to defeat the remaining Ubar fortresses, but each king continued to govern his own army and conquests. Eryndor marched east in 687 to get out of their hearing, came back wounded in 685 and went down the river in 684 to sail home to Ortheia. He died aboard the flagship of the allied fleet in the roads of Nemeru, in the middle of a Qahuri funerary rite performed in the ship's hold. Its crew, descendants of the Belyra deportees from the Nemeru yards, sailed the embalmed body and Kassur's images to Delkos. There the images stood in the tomb-hall from which, for nearly thirty years, a voice claiming to be Eryndor promised away provinces, until they were walled into the tomb with the corpse around 655 BR. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, took the road to Kavresh, where their daughter Mehrava was in her grandmother's keeping. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
+The alliance survived long enough to defeat the remaining Ubar fortresses, but each king continued to govern his own army and conquests. Eryndor marched east in 680 to get out of their hearing and was wounded there. He lay four years beside a healing seep on the road back, returned to Arqesh in 674 and went down the river in 673 to sail home to Ortheia. He died aboard the flagship of the allied fleet in the roads of Nemeru, in the middle of a Qahuri funerary rite performed in the ship's hold. Its crew, descendants of the Belyra deportees from the Nemeru yards, sailed the embalmed body and Kassur's images to Delkos. There the images stood in the tomb-hall from which, for sixteen years, a voice claiming to be Eryndor promised away provinces, until they were walled into the tomb with the corpse around 655 BR. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, took the road to Kavresh, where their eighteen-year-old daughter Mehrava lived in her grandmother's household. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
 
 Arezan issued the **Decree of Roads and Houses** during the first division of Eryndor's commands. It permitted selected deportees and sacred objects to return. It also required restored communities to register property, maintain roads and acknowledge Vasharan supremacy. Arqeshite families displaced during the conquest received no comparable general restoration.
 
@@ -159,13 +159,13 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 | 746 BR | demand for Qiryath's hostages and royal image |
 | 742 BR | destruction and deportation of First Qiryath |
 | c. 740–730 BR | Compact ships seized in eastern harbours; the Atherian quarter of Belyra deported inland |
-| c. 706–702 BR | Ubar succession war and provincial revolt; Eryndor secures the Ortheian throne and Atherian hegemony |
+| c. 718–702 BR | Ubar succession war and provincial revolt; from 709 Eryndor secures the Ortheian throne and Atherian hegemony |
 | 702–690 BR | Eryndor's eastern invasion joins Arezan's highland war and the internal revolts |
 | 692 BR | Belyra falls to the allied fleet |
 | 690 BR | the capital's labour gangs open Arqesh to the two allied commands |
 | 688 BR | Kassur III's images go over to Eryndor; Kassur surrenders to Arezan and seals the water books to him at Durqesh |
-| 684–650 BR | Eryndor's death at Nemeru and the Wars of the Inheritance divide the conquered territories |
 | c. 676 BR | Kassur III dies a guarded guest at Kavresh |
+| 673–650 BR | Eryndor's death at Nemeru and the Wars of the Inheritance divide the conquered territories |
 | c. 655 BR | Kassur's images are walled into Eryndor's tomb at Delkos |
 
 ## Historical memory

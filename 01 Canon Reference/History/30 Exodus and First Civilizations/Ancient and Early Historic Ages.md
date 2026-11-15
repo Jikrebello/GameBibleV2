@@ -55,7 +55,7 @@ The peoplehood, civic membership and imperial subjecthood of the period are inde
 
 **Iron** spread unevenly. Smiths in the cold south smelted local ore from early times, because salvaged Giant metal rarely reached them. Along the old roads near the Sacred Basin, recast tomb bronze dominated until the Reclaiming of c. 1450–1325 BR, when the tombs' servants walked out to collect it; afterwards iron became the road metal of the north and east, because no dead owner had ever claimed it.
 
-**Coin** came late. Earlier traders weighed stamped ingots and ring-silver. The first struck coins were silver pieces minted in Ortheia around 730 BR to pay Valeron II's standing infantry, and the courts that divided Eryndor's conquests spread them after 684 BR.
+**Coin** came late. Earlier traders weighed stamped ingots and ring-silver. The first struck coins were silver pieces minted in Ortheia around 730 BR to pay Valeron II's standing infantry, and the courts that divided Eryndor's conquests spread them after 673 BR.
 
 ## Geography Lock
 

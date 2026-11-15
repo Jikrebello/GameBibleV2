@@ -25,9 +25,9 @@ Several old communities occupied the contested coast. **Tasar** was a cultivated
 
 Qiryath lay inland from the main fighting. Its road houses carried travellers across both political spheres, while Jirahar residents lived in Vasharan, coastal and Atherian cities. War therefore divided related households. One cousin might provision a Vasharan station, another serve as an Atherian interpreter and a third try to move children away from both armies.
 
-## The successor coast, 684–650 BR
+## The successor coast, 673–650 BR
 
-The coast inherited an earlier division from the death of Eryndor III of Ortheia. Eryndor's conquest had joined Ortheian infantry, city levies and allied ships under his personal command. When he died at Arqesh in 684 BR, that army possessed no accepted adult ruler. His half-brother and the child carried by his widow Parena Tiravan became nominal heirs while generals and royal relatives seized the provinces, fleets and treasuries needed to enforce their claims.
+The coast inherited an earlier division from the death of Eryndor III of Ortheia. Eryndor's conquest had joined Ortheian infantry, city levies and allied ships under his personal command. When he died at Arqesh in 673 BR, that army possessed no accepted adult ruler. His half-brother and the child carried by his widow Parena Tiravan became nominal heirs while generals and royal relatives seized the provinces, fleets and treasuries needed to enforce their claims.
 
 **Serevan of Delkos**, commander of the allied fleet, took the islands and several eastern harbours. His court combined Ortheian officers, local pilots, former Arqeshite officials and households attached to the conquered ports. It preserved Eryndor's claim to kingship while rewarding cities that supplied ships. **Demeran Kavos** controlled Ortheia and the western army. **Arezan Tiravan** held Vashar and most of the Ubar basin. **Neresh of Qemaret** established southern garrisons through agreements and marriages with Qahuri crown towns.
 
@@ -173,7 +173,7 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 
 | Date | Event |
 |---:|---|
-| 684–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
+| 673–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
 | c. 650–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
 | 514 BR | Tasar revolts and receives Atherian aid |
 | 513 BR | rebels and Atherian forces take lower Avesh |

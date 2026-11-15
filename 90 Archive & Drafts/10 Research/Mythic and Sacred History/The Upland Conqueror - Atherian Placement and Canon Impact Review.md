@@ -14,7 +14,7 @@ tags: [research, atherian-formation, package-b, alexander, canon-review, eastern
 ---
 # Eryndor III of Ortheia — Atherian Placement and Canon Impact Review
 
-The World Egg has room for an Alexander-shaped ruler separate from Teren Casvilar and Aurelius Thalion. **Eryndor III of Ortheia**, later called the **Far-Road King**, occupies that place around **706–684 BR**. He inherits his father Valeron II's military hegemony, compels the Atherian city leagues, joins Arezan Tiravan's war against Arqesh and carries the conquest into regions which neither ally can govern alone.
+The World Egg has room for an Alexander-shaped ruler separate from Teren Casvilar and Aurelius Thalion. **Eryndor III of Ortheia**, later called the **Far-Road King**, occupies that place around **709–673 BR**. He inherits his father Valeron II's military hegemony, compels the Atherian city leagues, joins Arezan Tiravan's war against Arqesh and carries the conquest into regions which neither ally can govern alone.
 
 His death creates a true Successor age. Caleran recovers authority among the western cities; Arezan establishes the Vasharan Crown of Roads and Dawns; commanders and local houses create mixed maritime and river kingdoms; Qahuri crowns survive foreign garrisons and dynastic marriages. These states shape the political world later inherited by Casvilar and Thalion without turning either imperial founder into Alexander.
 
@@ -26,7 +26,7 @@ The following points remain fixed:
 
 - The Celestial Compact forms around 800 BR among twelve substantial Atherian cities. Caleran becomes its principal meeting place and later the centre of a republic.
 - Arqesh destroys First Qiryath in 742 BR. Its mortal House Ubar and canal empire remain distinct from Giant ancestry and supernatural Masks.
-- Arqesh falls around 690 BR. Arezan Tiravan and the Vashari highland houses are essential to that defeat; the Decree of Roads and Houses follows in 684.
+- Arqesh falls around 690 BR. Arezan Tiravan and the Vashari highland houses are essential to that defeat; the Decree of Roads and Houses follows in 673.
 - Ancient Qahur is divided after 858 BR and experiences Arqeshite and High-Road intervention without losing its own cities, crowns and river society.
 - The Gateway Republic, its wars with Caleran and Qarzeth's destruction belong principally to c. 650–520 BR.
 - Teren Casvilar remains the Caesar-like republican conqueror assassinated in 370 BR.
@@ -40,7 +40,7 @@ The placement must enrich those facts rather than replace them with one conquero
 | Alternative | Historical shape | Strength | Cost | Disposition |
 |---|---|---|---|---|
 | **I. Heroic-age conqueror, c. 1500–1400 BR** | a sea-king campaigns among post-palatial strongholds and Giant-blooded houses | fits monster-fighting and heroic legend | precedes Arqesh, Vashar and the mature city world; loses the administrative and Successor functions | **reject for Alexander function**; retain the existing heroic cycles |
-| **II. Upland king and eastern conquest, c. 700–684 BR** | an Atherian-speaking mountain crown compels the city leagues, joins the war against Arqesh and campaigns beyond it | preserves Philip, Alexander, Persia, mixed court, army refusal and Successor grammars while explaining the world before the Gateway Wars | requires a controlled revision of Package B and additions to several canonical overviews | **recommend** |
+| **II. Upland king and eastern conquest, c. 700–673 BR** | an Atherian-speaking mountain crown compels the city leagues, joins the war against Arqesh and campaigns beyond it | preserves Philip, Alexander, Persia, mixed court, army refusal and Successor grammars while explaining the world before the Gateway Wars | requires a controlled revision of Package B and additions to several canonical overviews | **recommend** |
 | **III. Late-republic commander, c. 430–390 BR** | a brilliant young general conquers Vashar immediately before Veyr and Casvilar | gives direct contact with the imperial-founding cast | overcrowds Veyr's eastern career, Casvilar's conquest and Ostar's disaster; contradicts Vashar's survival | **reject** |
 | **IV. Early imperial prince, c. 315–285 BR** | one of Thalion's heirs campaigns east and dies young | avoids changing Package B | overlaps Meren I and the first dynasty's established succession; makes Alexander an afterthought to Rome | **reject** |
 
@@ -60,9 +60,9 @@ This arrangement gives the conqueror something real to inherit. His army, treasu
 
 | Date | Proposed development |
 |---:|---|
-| c. 735–706 BR | Valeron II consolidates Ortheia, reforms military service and imposes a changing hegemony upon several Compact cities |
-| 706 BR | Valeron is assassinated; Eryndor III succeeds amid rival household claims |
-| 705–704 BR | Marenthe revolts; Eryndor storms the city, kills or enslaves much of its population and divides its territory |
+| c. 735–709 BR | Valeron II consolidates Ortheia, reforms military service and imposes a changing hegemony upon several Compact cities |
+| 709 BR | Valeron is assassinated; Eryndor III succeeds amid rival household claims |
+| 708–707 BR | Marenthe revolts; Eryndor storms the city, kills or enslaves much of its population and divides its territory |
 | 702 BR | Eryndor crosses the eastern inner sea under a war mandate accepted freely by some cities and under duress by others |
 | 701–697 BR | western Arqeshite armies are defeated; coastal cities negotiate, resist or change sides |
 | c. 697–695 BR | the siege of Belyra gives the army its eastern fleet and leaves the harbour with mass graves, exiles and an altered shoreline |
@@ -70,10 +70,10 @@ This arrangement gives the conqueror something real to inherit. His army, treasu
 | 694–691 BR | alliance with Arezan Tiravan divides Arqesh's field armies from its Vashari and river subjects |
 | c. 690 BR | Arqesh falls through the coordinated campaigns of the upland conqueror, Arezan's coalition, rebellious governors and forced workers within the river cities |
 | 688 BR | Kassur III is murdered by a provincial commander; Eryndor executes the killers and gives the Ubar king a royal burial |
-| 688–685 BR | Eryndor campaigns beyond the old capital among eastern fortresses and mobile opponents |
-| c. 685 BR | soldiers refuse a further march; discharged and angry veterans begin returning west while eastern recruits enter royal service |
-| 684 BR | Eryndor dies at Arqesh while preparing government and another campaign; Arezan issues the Decree of Roads and Houses during the first succession settlement |
-| 684–c. 650 BR | Parena Tiravan, the nominal heirs, generals, city leagues and local rulers fight the Wars of the Inheritance; several successor kingdoms emerge |
+| 680–674 BR | Eryndor campaigns beyond the old capital among eastern fortresses and mobile opponents |
+| c. 674 BR | soldiers refuse a further march; discharged and angry veterans begin returning west while eastern recruits enter royal service |
+| 673 BR | Eryndor dies at Arqesh while preparing government and another campaign; Arezan issues the Decree of Roads and Houses during the first succession settlement |
+| 673–c. 650 BR | Parena Tiravan, the nominal heirs, generals, city leagues and local rulers fight the Wars of the Inheritance; several successor kingdoms emerge |
 | from c. 650 BR | the first Gateway War begins in a world whose fleets, officers, royal marriages and eastern markets were reshaped by the conquest |
 
 The exact dates of minor campaigns and the location of Ortheia's royal seat remain open. The sequence matters more than reproducing Alexander's eleven years mechanically.
@@ -163,7 +163,7 @@ The Wars of the Inheritance give Caleran military experience and an eastern netw
 
 | Figure | Political origin | Principal expansion | Relationship to government | Death and legacy |
 |---|---|---|---|---|
-| **Eryndor III of Ortheia** | hereditary mountain king inheriting Valeron II's army and league | helps destroy Arqesh and campaigns into the far east | personal monarchy improvised across older states | dies young without settlement; Successors create several kingdoms |
+| **Eryndor III of Ortheia** | hereditary mountain king inheriting Valeron II's army and league | helps destroy Arqesh and campaigns into the far east | personal monarchy improvised across older states | dies without settlement; Successors create several kingdoms |
 | **Teren Casvilar** | indebted aristocrat and magistrate of a mature republic | conquers inhabited southern Folk districts | concentrates republican offices and patronage | assassinated by intimates; leaves disputed civic and royal inheritances |
 | **Aurelius Thalion** | Casvilar's designated heir within civil war | wins succession war and annexes Sarqen | turns military supremacy into durable imperial administration | dies after a long reign with an adopted adult successor |
 
@@ -177,7 +177,7 @@ Package B remains coherent after the following incorporated revisions:
 2. **Arezan:** retain him as indispensable Vashari coalition leader and founder of the High-Road empire; make him the strongest regional Successor rather than the sole destroyer of Arqesh.
 3. **Mithara and Parena:** retain Mithara as Arezan's sister and senior organiser; make her daughter Parena Eryndor's wife and a political actor in the mixed court.
 4. **The last Ubar king:** Kassur III remains distinct from Ilbarun II, whose sack of Qiryath occurred fifty-two years earlier.
-5. **The Decree of 684:** place it within the first succession settlement. It becomes both restoration policy and Arezan's claim to legitimate authority after the conqueror's death.
+5. **The Decree of 673:** place it within the first succession settlement. It becomes both restoration policy and Arezan's claim to legitimate authority after the conqueror's death.
 6. **Second Qiryath:** preserve return, contested property and consecration around 660. Returned households now live through the Successor wars as well as the transfer from Arqesh to Vashar.
 7. **Vasharan government:** retain the road commands and varied provinces. Add institutions and marriages inherited from the joint conquest.
 8. **Eastern Sea Wars:** preserve the 514–491 conflict. Its navies and mixed coastal courts inherit technologies and claims from the Successor period without becoming the same war.

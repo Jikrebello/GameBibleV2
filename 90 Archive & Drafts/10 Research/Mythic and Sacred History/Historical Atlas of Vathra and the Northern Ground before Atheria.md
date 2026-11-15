@@ -102,7 +102,7 @@ Arqesh's expansion reached the open country through roads, gifts and exemplary p
 
 Two related dynasts became the principal clients of the age. **Savan Uruz** accepted an Arqeshite crown, arms and an annual grain payment in return for guarding the north-eastern approach. His cousin **Demer Khol** received Qahuri support and controlled western camel stages. Their households exchanged hostages, intermarried and raided each other's unaffiliated dependants. Singers later presented them as champions of settled and mobile life; both built courts which depended on foreign money and captive labour.
 
-Arqeshite payments failed during the succession struggles after 706 BR. Savan's soldiers killed him when he could not provide their grain. Demer attempted to absorb the unpaid companies and was defeated by camps whose relatives he had previously sold. The client courts collapsed, leaving trained soldiers, poets, smiths and rival claimants across the region.
+Arqeshite payments failed during the succession struggles after 718 BR. Savan's soldiers killed him when he could not provide their grain. Demer attempted to absorb the unpaid companies and was defeated by camps whose relatives he had previously sold. The client courts collapsed, leaving trained soldiers, poets, smiths and rival claimants across the region.
 
 Open-country leaders joined the coalition against Arqesh for different reasons. They wanted the imperial remount stations destroyed, hostages returned and access to disputed pasture. Some attacked retreating garrisons; others looted subject towns. Arezan Tiravan's Vasharan settlement recognised several northern leaders and purchased continued passage with gifts. It did not make Vashar sovereign over the whole country.
 
@@ -153,7 +153,7 @@ No army could conquer this world by winning one battle. It had to carry water, s
 | c. 1450–1325 BR | Breaking of the Bronze Roads destroys distant exchange and most horse concentrations |
 | c. 1325–800 BR | hearth crowns, protected markets and recognisably Tarkhan and Ahdari communities form |
 | c. 800–690 BR | Arqeshite pressure and rival client houses reshape the roads |
-| c. 706–690 BR | client collapse and northern participation in Arqesh's defeat |
+| c. 718–690 BR | client collapse and northern participation in Arqesh's defeat |
 | c. 690–520 BR | Vasharan, Qahuri and local powers compete through routes and client relationships |
 | 402 BR | Kharuz and Tavisha defeat Lethren Ostar at Rethmar |
 | 350 BR | divided northern states and societies confront expanding Atheria |

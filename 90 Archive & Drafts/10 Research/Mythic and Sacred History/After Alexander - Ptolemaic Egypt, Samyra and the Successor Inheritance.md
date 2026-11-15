@@ -3,7 +3,7 @@ type: research
 status: reviewed
 canon_level: exploratory
 visibility: author-only
-era: ["Proposed c. 684–350 BR"]
+era: ["Proposed c. 673–350 BR"]
 region: [Qahur, Qabir-Zanthir Gateway, Sarqen, Delkos, eastern inner sea]
 culture: [Qahuri, Esharati, Sarqeni, Gateway, Atherian, Delkosi successor]
 related_factions: [House Nerethan]
@@ -49,11 +49,11 @@ This history already resembles the Ptolemaic problem more closely than a direct 
 
 ### The eastern maritime Successor kingdom
 
-When Eryndor III dies in 684 BR, his fleet commander **Serevan of Delkos** gains control of Delkos, neighbouring islands and several eastern harbours. His forces include Atherian sailors, Arqeshite clerks, Vashari officers, discharged soldiers and local maritime households. He claims to protect the nominal heirs while building an independent kingdom.
+When Eryndor III dies in 673 BR, his fleet commander **Serevan of Delkos** gains control of Delkos, neighbouring islands and several eastern harbours. His forces include Atherian sailors, Arqeshite clerks, Vashari officers, discharged soldiers and local maritime households. He claims to protect the nominal heirs while building an independent kingdom.
 
 Delkos becomes a Successor capital. Its rulers maintain an Atherian-speaking court, employ several administrative languages and adopt parts of Ubar and Qahuri royal ceremony. Their fleet moves grain, soldiers, diplomats and royal brides through the eastern inner sea. War with other Successors leaves the dynasty smaller than its founder's ambitions, but its officer houses and political culture survive after the principal kingdom fragments.
 
-House Nerethan descends from one of these **later Delkosi officer houses**, rather than from Serevan or Eryndor himself. The interval between 684 and Nerethan's arrival in 499 spans approximately 185 years. During that time Serevan's royal house divides, loses territory and draws older naval households into the service of its successors. Nerethan's family preserves an inherited claim to command without requiring implausibly long lives.
+House Nerethan descends from one of these **later Delkosi officer houses**, rather than from Serevan or Eryndor himself. The interval between 673 and Nerethan's arrival in 499 spans approximately 174 years. During that time Serevan's royal house divides, loses territory and draws older naval households into the service of its successors. Nerethan's family preserves an inherited claim to command without requiring implausibly long lives.
 
 Nerethan's established description as an Atherian harbour commander remains true. The addition explains what kind of Atherian military world formed him. He brings Delkosi drill, coin standards, household titles, naval patronage and a Successor memory of kingship into the Second Harbour.
 
@@ -69,7 +69,7 @@ The kingdom of Sarqen thus resembles Ptolemaic Egypt in court structure while re
 
 Eryndor enters divided Qahur around 695 BR. He needs river grain, boats, guides and a secure southern approach before the final campaign against Arqesh. Qahuri crowns choose separately. One grants a royal title and access to an oracle. Another bars storehouses and supports Arqesh. A third waits for the result before recognising either side.
 
-His victory allows temporary Successor garrisons and marriages in selected crown lands after 684. Some officers present themselves as heirs of the conqueror's Qahuri title. Temple and irrigation houses continue to control the institutions without which no foreign court can collect grain or maintain canals. Over the following generations, local houses expel, absorb or domesticate the garrisons.
+His victory allows temporary Successor garrisons and marriages in selected crown lands after 673. Some officers present themselves as heirs of the conqueror's Qahuri title. Temple and irrigation houses continue to control the institutions without which no foreign court can collect grain or maintain canals. Over the following generations, local houses expel, absorb or domesticate the garrisons.
 
 This produces a **Qahuri Hellenistic period** without imposing one continuous foreign dynasty over the whole basin. Atherian coin forms, military colonies and court art enter Qahur. Qahuri funerary craft, astronomy, temple architecture and royal language enter the Successor kingdoms. The exchange travels through artisans, wives, prisoners, priests and soldiers as well as royal policy.
 
@@ -82,7 +82,7 @@ Samyra can inherit four visible strands:
 1. **Gateway country:** the spared towns, sea trade, remembered destruction of Qarzeth and disputes concerning child sacrifice and Caleran conquest.
 2. **Esharati authority:** Hadrima's household alliances, local rites, agricultural property and the survival politics of the lesser towns.
 3. **Junior Qahuri ancestry:** one maternal connection to a basin house, expressed through names, ritual education and diplomacy rather than a claim to universal river kingship.
-4. **Delkosi Successor culture:** an Atherian-speaking royal and naval tradition descending from the eastern kingdoms formed after 684 BR.
+4. **Delkosi Successor culture:** an Atherian-speaking royal and naval tradition descending from the eastern kingdoms formed after 673 BR.
 
 This makes Samyra culturally Sarqeni and dynastically mixed. She can speak the court Atherian of House Nerethan, one or more Gateway languages and a Qahuri ritual or diplomatic language. Like Cleopatra, her linguistic range becomes a political ability: she can address groups whom earlier members of her dynasty required interpreters to reach.
 
@@ -128,7 +128,7 @@ S1 preserves every useful difference. Qahur remains Egypt-shaped at the civilisa
 
 ```mermaid
 flowchart LR
-    UC[Eryndor III dies, 684 BR] --> D[Serevan's Delkosi maritime kingdom]
+    UC[Eryndor III dies, 673 BR] --> D[Serevan's Delkosi maritime kingdom]
     D --> OH[Delkosi officer houses and naval culture]
     OH --> N[Nerethan arrives at the Second Harbour, 499 BR]
     E[Esharati spared-town houses] --> H[Hadrima of Esharat]
@@ -157,7 +157,7 @@ Existing canon would then receive limited additions:
 - [[The House of Nerethan]] would identify Nerethan's Delkosi household as an inheritor of the eastern Successor military tradition.
 - [[The Spared Towns and the Nerethan Settlement]] would explain what the arriving commander's titles, ships and household practices mean.
 - [[Samyra Nerethan]] would clarify her court language, local languages, three political registers and relationship to the Successor inheritance.
-- [[Ancient Qahur and the Twin-Reed Crowns]] would describe the conqueror's visit, divided crown responses and limited post-684 garrisons.
+- [[Ancient Qahur and the Twin-Reed Crowns]] would describe the conqueror's visit, divided crown responses and limited post-673 garrisons.
 - [[Qahur and the Gateway before Atheria]] would preserve the separation between Sacred Basin ancestry and Sarqeni sovereignty.
 - the chronology and Successor articles would place Delkos between the Wars of the Inheritance and the arrival of Nerethan.
 

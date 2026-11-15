@@ -143,9 +143,9 @@ Arqesh fell in 690 BR after a succession war divided House Ubar and the palace a
 
 A second command came from the western sea. **Eryndor III of Ortheia**, the Far-Road King, had crossed with an Atherian-speaking army in 702 BR and taken the coast after a destructive siege at Belyra. His agreement with Arezan brought the principal siege army, allied fleet and western treasury into the war. Nemeru boats carried Eryndor's soldiers across a channel believed to be closed. The two rulers entered different quarters of Arqesh and competed for its palace, stores and officials. Their allies shared an enemy while pursuing independence, land, plunder, office or revenge.
 
-Eryndor died at Arqesh in 684 BR. His generals, Arezan and the households of his nominal heirs divided the conquered army and provinces. Their Wars of the Inheritance lasted until about 650 BR. Returning Jirahar therefore travelled through garrisons and districts whose rulers were still changing.
+Eryndor died at Arqesh in 673 BR. His generals, Arezan and the households of his nominal heirs divided the conquered army and provinces. Their Wars of the Inheritance lasted until about 650 BR. Returning Jirahar therefore travelled through garrisons and districts whose rulers were still changing.
 
-In 684 BR, Arezan issued the **Decree of Roads and Houses**. It allowed displaced communities to restore named sanctuaries and return with property recognised by Vasharan officials. Returned households owed taxes, road service and political obedience to the new empire. The decree weakened surviving Arqeshite military households and reopened neglected routes while denying a general restoration to people displaced by Arezan's own conquest.
+In 673 BR, Arezan issued the **Decree of Roads and Houses**. It allowed displaced communities to restore named sanctuaries and return with property recognised by Vasharan officials. Returned households owed taxes, road service and political obedience to the new empire. The decree weakened surviving Arqeshite military households and reopened neglected routes while denying a general restoration to people displaced by Arezan's own conquest.
 
 Many Jirahar remained in the river cities. Those who returned found fields cultivated by families who had survived the conquest or descended from imperial settlers. The widow **Yaelith bat Coren**, keeper of the principal surviving cistern, married **Neram bar Elior**, an exile official sent to supervise reconstruction. Her neighbours feared the returned houses would dispossess them. His relatives accused him of surrendering ancestral claims through marriage.
 
@@ -180,8 +180,8 @@ By 350 BR, Qiryath was a populous pilgrimage and market city under Vasharan supr
 | 742 BR | First Qiryath destroyed and leading households deported |
 | 702–690 BR | Eryndor's western invasion and Arezan's eastern coalition converge upon Arqesh |
 | 690 BR | Arqesh falls to their separate commands and internal revolts |
-| 684–c. 650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
-| 684 BR | Decree of Roads and Houses permits return |
+| 673–c. 650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
+| 673 BR | Decree of Roads and Houses permits return |
 | c. 660 BR | Second Qiryath consecrated |
 | c. 660–350 BR | Qiryath develops under Vasharan supremacy and widening diaspora |
 

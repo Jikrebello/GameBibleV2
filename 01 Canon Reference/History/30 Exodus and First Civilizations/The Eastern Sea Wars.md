@@ -14,7 +14,7 @@ tags: [history, war, vashar, atheria, eastern-sea]
 ---
 # The Eastern Sea Wars
 
-The **Eastern Sea Wars** were a series of conflicts between Vashar and the Atherian maritime leagues from 514 to 491 BR, followed by decades of client rivalry. They began when the harbour city of Tasar resisted a Vasharan governor's attempt to choose its magistrate and enlarge its naval levy, and they widened when the Atherian port of Velanthe took in Tasar's fugitives and would not give them up. Kazren I lost one fleet at anchor off Ilyessa in 506 BR, hired the island's pilots and launched a western invasion that won its battles and starved before Velanthe. At Ilyessa in 493 BR the grain that fed his army spoiled in the holds of a second anchored fleet, and his own subject crews rowed for an Atherian refuge fire. The king died in his camp. The League of the Eastern Oar, which took the deserters in, preserved the leagues from Vasharan rule and within a generation was raising its harbour chains against its own members.
+The **Eastern Sea Wars** were a series of conflicts between Vashar and the Atherian maritime leagues from 514 to 491 BR, followed by decades of client rivalry. They began when the harbour city of Tasar resisted a Vasharan governor's attempt to choose its magistrate and enlarge its naval levy, and they widened when the Atherian port of Velanthe took in Tasar's fugitives and would not give them up. Kazren I lost one fleet at anchor off Ilyessa in 502 BR, hired the island's pilots and launched a western invasion that won its battles and starved before Velanthe. At Ilyessa in 493 BR the grain that fed his army spoiled in the holds of a second anchored fleet, and his own subject crews rowed for an Atherian refuge fire. The king died in his camp. The League of the Eastern Oar, which took the deserters in, preserved the leagues from Vasharan rule and within a generation was raising its harbour chains against its own members.
 
 ## Two powers approach the same coast
 
@@ -24,9 +24,9 @@ Several old communities occupied the contested coast. **Tasar** was a cultivated
 
 Qiryath lay inland from the main fighting. Its road houses carried travellers across both political spheres, while Jirahar residents lived in Vasharan, coastal and Atherian cities. War therefore divided related households. One cousin might provision a Vasharan station, another serve as an Atherian interpreter and a third try to move children away from both armies.
 
-## The successor coast, 684–650 BR
+## The successor coast, 673–650 BR
 
-The coast inherited an earlier division from the death of Eryndor III of Ortheia. Eryndor's conquest had joined Ortheian infantry, city levies and allied ships under his personal command. When he died aboard ship at Nemeru in 684 BR, that army possessed no accepted ruler. A half-brother was acclaimed in distant Ortheia, the king's small daughter was in a Vashari valley, and generals and royal relatives seized the provinces, fleets and treasuries within their reach.
+The coast inherited an earlier division from the death of Eryndor III of Ortheia. Eryndor's conquest had joined Ortheian infantry, city levies and allied ships under his personal command. When he died aboard ship at Nemeru in 673 BR, that army possessed no accepted ruler. A half-brother was acclaimed in distant Ortheia, the king's eighteen-year-old daughter was in a Vashari valley, and generals and royal relatives seized the provinces, fleets and treasuries within their reach.
 
 **Serevan of Delkos**, commander of the allied fleet, took the islands and several eastern harbours. His court combined Ortheian officers, local pilots, former Arqeshite officials and households attached to the conquered ports. It preserved Eryndor's claim to kingship while rewarding cities that supplied ships. **Demeran Kavos** controlled Ortheia and the western army. **Arezan Tiravan** held Vashar and most of the Ubar basin. **Neresh of Qemaret** established southern garrisons through agreements and marriages with Qahuri crown towns.
 
@@ -34,7 +34,7 @@ Their Wars of the Inheritance moved fleets and soldiers through the coast until 
 
 The strangest grants came from Delkos. The king had died on the flagship of the allied fleet, and its Belyra crews had sailed the body to Serevan's harbour. Veterans swore that the dead king still spoke in the dim tomb-hall, from behind a curtain that smelled of cedar oil, in a voice that remembered their horses' names. Serevan's scribes wrote down and sealed what the voice promised, and it promised the same harbours to more than one captain. The voice fell silent around 657 BR, when Qahuri embalmers testified that their own rite had failed, and Serevan's grandson walled the corpse in its tomb a year or two later. The sealed grants outlived it. Harbour houses kept them in chests and brought them out whenever a magistracy, a berth or an anchorage changed hands. [[Wars of the Inheritance]]
 
-The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
+The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars were fought within this connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
 
 ## The western coast during the Gateway Wars, c. 674–520 BR
 
@@ -58,9 +58,9 @@ In 511 BR the net-makers and porters of the Salt Gate quarter, the poorest in th
 
 On the night the gate opened, Telmar's ships and every hull that could float rowed west with the people who expected the executioner, guided through the Narrows by their Ilyessan pilots. Velanthe had sent Tasar nothing. Its harbour wardens had learned Kelarion's Roll of Refused Hulls with their approaches, and they raised no chain against a hull in distress. Kazren's envoys demanded the fugitives. The wardens read them the Roll.
 
-## The fleet that sank at anchor, 506 BR
+## The fleet that sank at anchor, 502 BR
 
-Kazren could not yet reach Velanthe. He could reach the pilots. In 506 BR he appointed **Zadran Vezh**, an Aveshi noble with experience in coastal levies, to take the islands of Ilyessa, seize the pilot families and hold the Narrows. The expedition assembled ships from several subject ports. Their hulls, rigging and crew practices differed, and Zadran filled the benches with conscripts from the coast, Tasarians among them.
+Kazren could not yet reach Velanthe. He could reach the pilots, though not quickly. The harbour quarters of Tasar, its shipwrights among them, were keeping relay stations in the high passes by his own order, and a fleet had to be levied hull by hull from the subject ports. It took nine years. In 502 BR he appointed **Zadran Vezh**, an Aveshi noble with experience in coastal levies, to take the islands of Ilyessa, seize the pilot families and hold the Narrows. The expedition assembled ships from several subject ports. Their hulls, rigging and crew practices differed, and Zadran filled the benches with conscripts from the coast, Tasarians among them.
 
 The pilot families took to their boats and the inner channels. Zadran anchored his fleet in the lee of the islands to starve them out and kept it there through a calm summer. The ships began to ride low. Carpenters found dry bilges and sound seams. Zadran would not believe that a tight hull could sink, and he kept the subject crews bailing empty holds while his Vashari crews shifted to the newest ships. By autumn more than half the fleet had gone down at its moorings. Crews drowned below decks at the pumps; others swam to the islands and gave themselves up to the people they had come to seize. Coastal allies accused Zadran of buying his own crews' lives with theirs. He returned to Avesh with fewer than half his ships and was executed after a royal inquiry, which found that Ilyessan sorcery had sunk the fleet. His household lost its estates, although ship captains who had slipped their cables early escaped punishment by blaming the dead commander.
 
@@ -156,7 +156,7 @@ The sea and the sky took sides in the songs. Kazren's court diviners dreamed of 
 | **Mazdan Aresh** | governor of Avesh | revives an old Delkos grant to manipulate Tasar's succession for ships and hostages; killed at Tasar after surrendering |
 | **Liora of Tasar** | harbour magistrate | is refused Atherian aid, hires ships on her family's credit and loses control of violence committed by her coalition |
 | **Eryon Telmar** | hired captain, later League commander | runs Tasar's blockade, carries its fugitives to Velanthe, holds that city through the siege and helps build a league capable of coercing its own members |
-| **Zadran Vezh** | Vasharan admiral | anchors off Ilyessa to starve out the pilot families and keeps his subject crews bailing dry holds; executed after the loss of the fleet in 506 BR |
+| **Zadran Vezh** | Vasharan admiral | anchors off Ilyessa to starve out the pilot families and keeps his subject crews bailing dry holds; executed after the loss of the fleet in 502 BR |
 | **Sharvan Medh** | Vasharan admiral | buys passage of the Narrows on the Ilyessan pilots' terms, then anchors the granary fleet on the king's order |
 | **Ebris of Ilyessa** | pilot | gives the royal fleet the terms of the Narrows and refuses to break them; drowned by marines in 493 |
 | **Nerica Aven** | Atherian fleet commander | keeps Velanthe's refuge fire lit for the king's deserting crews, takes the granary fleet at Ilyessa and gains power over dependent cities |
@@ -175,11 +175,11 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 
 | Date | Event |
 |---:|---|
-| 684–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
 | c. 674–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
+| 673–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
 | 514 BR | Tasar revolts; Mazdan Aresh is killed after surrendering; the Senate refuses aid |
 | 511 BR | the Salt Gate quarter opens Tasar to Ardash Aresh; executions, sale and deportation to the Dawn Road stations; Velanthe admits the fugitive hulls |
-| 506 BR | Zadran Vezh's fleet settles at its moorings off Ilyessa; Kazren hires the pilots and takes their children |
+| 502 BR | Zadran Vezh's fleet settles at its moorings off Ilyessa; Kazren hires the pilots and takes their children |
 | 497 BR | Kazren begins the great invasion; the League of the Eastern Oar forms at Velanthe |
 | 495 BR | the royal fleet passes the Narrows of Ilyessa on the pilots' terms |
 | 493 BR | Kazren claims the sea in his title; the granary fleet spoils at anchor; subject crews desert to Velanthe; the League takes the transports |

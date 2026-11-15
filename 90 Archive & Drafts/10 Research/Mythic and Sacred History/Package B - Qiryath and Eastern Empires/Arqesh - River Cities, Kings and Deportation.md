@@ -103,7 +103,7 @@ Arqeshite troops killed defenders and civilians, stripped the sanctuary and dest
 
 Iltara supervised the first resettlement and ordered the cisterns preserved so the surviving villages could feed the garrison and pay grain tax. Later Jirahar accounts sometimes describe the order as mercy because it kept the district habitable. Arqeshite instructions describe the same work as preparation for assessment and military settlement.
 
-## The empire after Qiryath, 742–706 BR
+## The empire after Qiryath, 742–718 BR
 
 The victory displayed Arqesh at its greatest extent. Tribute entered from the Qahuri approaches, Reqa, the coast and several highland districts. Deportees enlarged Arqesh and Nemeru. Royal building consumed stone, timber and labour at a scale earlier kings could not have supported.
 
@@ -111,7 +111,7 @@ The enlarged empire became expensive to hold. Garrisons required grain during po
 
 Ilbarun died in 728 BR after illness during a northern campaign. His son **Belatar II** executed two uncles and married a cousin from Iltara's line. He relied upon military households—families whose estates and status came from service in the royal army—while Nemeru and Khalbar sought greater control of local revenue. Iltara died in 719, removing the relative most capable of negotiating among them.
 
-## Succession war and coalition conquest, c. 706–690 BR
+## Succession war and coalition conquest, c. 718–690 BR
 
 Belatar's death without an adult son divided House Ubar. **Kassur III**, supported by Arqesh and the palace army, claimed the throne. **Mardun Ubar**, governor of Durqesh, held the highland road and married into the Vashari House Tiravan. Each opened or blocked canals serving the other's supporters. Soldiers took seed grain and dismantled village roofs for camps.
 
@@ -131,7 +131,7 @@ Kassur escaped with several adult sons and the portable royal images. A provinci
 
 Eryndor occupied the High Palace and treasury while Arezan held the Gate House, eastern roads and most surviving provincial administration. Canal officials continued working because neither army could feed the city without them. Eryndor accepted Ubar court dress, retained Arqeshite secretaries and allowed the Crowned Countenance to appear in his royal ceremonies. Arezan appointed Vashari officers beside local water managers and strengthened his support among the towns that had opened their gates.
 
-The alliance survived long enough to defeat the remaining Ubar fortresses. It did not produce a shared government. Eryndor marched farther east and died at Arqesh in 684 BR while preparing another campaign. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, was pregnant. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
+The alliance survived long enough to defeat the remaining Ubar fortresses. It did not produce a shared government. Eryndor marched farther east and died at Arqesh in 673 BR while preparing another campaign. His widow **Parena Tiravan**, daughter of Arezan's sister Mithara, was pregnant. Ortheian commanders, the city leagues, Arezan and the royal household disagreed over who possessed the conquered army and treasury.
 
 Arezan issued the **Decree of Roads and Houses** during the first division of Eryndor's commands. It permitted selected deportees and sacred objects to return. It also required restored communities to register property, maintain roads and acknowledge Vasharan supremacy. Arqeshite families displaced during the conquest received no comparable general restoration.
 
@@ -155,11 +155,11 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 | 758–728 BR | proposed reign of Ilbarun II |
 | 746 BR | demand for Qiryath's hostages and royal image |
 | 742 BR | destruction and deportation of First Qiryath |
-| c. 706–702 BR | Ubar succession war and provincial revolt; Eryndor secures the Ortheian throne and Atherian hegemony |
+| c. 718–702 BR | Ubar succession war and provincial revolt; from 709 Eryndor secures the Ortheian throne and Atherian hegemony |
 | 702–690 BR | Eryndor's eastern invasion joins Arezan's highland war and the internal revolts |
 | 690 BR | the two principal allied commands and their local partners capture Arqesh |
 | 688 BR | Kassur III is murdered during flight and buried by Eryndor |
-| 684–650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
+| 673–650 BR | Eryndor's death and the Wars of the Inheritance divide the conquered territories |
 
 ## Historical memory
 

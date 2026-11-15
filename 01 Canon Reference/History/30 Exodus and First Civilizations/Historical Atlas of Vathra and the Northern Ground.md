@@ -120,7 +120,7 @@ Arqesh extended power into the open country through garrisons at dependable wate
 
 The cousins **Savan Uruz** and **Demer Khol** became the principal clients of the period. Savan accepted an Arqeshite crown and annual grain in return for guarding the north-eastern approach. Demer controlled western camel stages with Qahuri support. They exchanged hostages, intermarried and raided households beyond the districts which paid them.
 
-Arqeshite payments failed during the succession struggles after 706 BR. Savan's soldiers killed him when he seized grain from their families. Demer tried to absorb the unpaid companies and was defeated by camps whose relatives he had sold. The courts disappeared, leaving trained soldiers, poets, smiths and mixed households across the region.
+Arqeshite payments failed during the succession struggles after 718 BR. Savan's soldiers killed him when he seized grain from their families. Demer tried to absorb the unpaid companies and was defeated by camps whose relatives he had sold. The courts disappeared, leaving trained soldiers, poets, smiths and mixed households across the region.
 
 Tarkhan leaders joined the coalition against Arqesh for different reasons. **Yalun of the White Camel** sought hostages held at Durqesh. **Marat Two-Bows** wanted the imperial herds and accepted Vasharan gifts. Yalun released captives from several peoples. Marat sold captured grooms after the victory. Arezan Tiravan recognised both men as local protectors, but Vashar gained no general sovereignty over the northern ground.
 
@@ -154,7 +154,7 @@ No army could master this country through one victory. It had to carry water, se
 | c. 1450–1325 BR | Breaking of the Bronze Roads and the Reclaiming destroy distant exchange and most horse concentrations |
 | c. 1325–800 BR | protected markets and recognisably Tarkhan and Ahdari communities form |
 | c. 800–690 BR | Arqeshite pressure and rival client houses reshape the roads |
-| c. 706–690 BR | client collapse and northern participation in Arqesh's defeat |
+| c. 718–690 BR | client collapse and northern participation in Arqesh's defeat |
 | 402 BR | Kharuz and Tavisha destroy Lethren Ostar's expedition at Rethmar |
 | 350 BR | divided northern societies confront expanding Atheria |
 

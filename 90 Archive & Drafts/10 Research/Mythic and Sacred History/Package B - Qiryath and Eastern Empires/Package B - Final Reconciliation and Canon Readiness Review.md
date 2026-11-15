@@ -52,17 +52,17 @@ Descriptions superseded by this review remain research history. They do not retu
 | 811–802 BR | Merod uses Ashkur's death to justify a larger occupation of road stations and eastern canal towns. |
 | 758–728 BR | Ilbarun II rules Arqesh and prepares the conquest of Qiryath. |
 | 742 BR | Arqesh takes and destroys First Qiryath; inhabitants are killed, enslaved and deported. |
-| c. 735–706 BR | Valeron II consolidates Ortheia and imposes a changing hegemony upon several Atherian cities. |
-| 706 BR | Valeron is assassinated; Eryndor III succeeds. |
-| 705–704 BR | Marenthe rebels; Eryndor sacks the city and kills or enslaves much of its population. |
+| c. 735–709 BR | Valeron II consolidates Ortheia and imposes a changing hegemony upon several Atherian cities. |
+| 709 BR | Valeron is assassinated; Eryndor III succeeds. |
+| 708–707 BR | Marenthe rebels; Eryndor sacks the city and kills or enslaves much of its population. |
 | 702 BR | Eryndor crosses the eastern sea with Ortheian troops, Compact contingents, engineers and allied ships. |
 | 697–695 BR | Eryndor takes Belyra after joining its fortified harbour to the shore with a siege causeway. |
 | 695 BR | Rival Qahuri crowns receive or resist Eryndor; one recognises a royal title and enables his oracle journey. |
 | 694 BR | Eryndor and Arezan Tiravan form an alliance; Eryndor marries Arezan's niece Parena Tiravan. |
 | 690 BR | Arezan's eastern coalition, Eryndor's western command and revolts inside the Ubar empire take Arqesh. |
 | 688 BR | A provincial commander murders Kassur III; Eryndor executes the killers and gives Kassur a royal burial. |
-| 684 BR | Eryndor dies at Arqesh. Arezan issues the Decree of Roads and Houses during the first division of the conquest. |
-| 684–c. 650 BR | Wars of the Inheritance divide Eryndor's commands among Arezan, Demeran Kavos, Serevan of Delkos and Neresh of Qemaret. Parena and Eryndor's posthumous child are killed. |
+| 673 BR | Eryndor dies at Arqesh. Arezan issues the Decree of Roads and Houses during the first division of the conquest. |
+| 673–c. 650 BR | Wars of the Inheritance divide Eryndor's commands among Arezan, Demeran Kavos, Serevan of Delkos and Neresh of Qemaret. Parena and Eryndor's posthumous child are killed. |
 | c. 660 BR | Second Qiryath is consecrated under Vasharan protection while the inheritance wars continue elsewhere. |
 | c. 650–520 BR | Delkosi and Ortheian successor inheritances enter the Gateway Wars; Vasharan western commands expand. |
 | 514–491 BR | Tasar's revolt, Kazren's punitive campaigns and the defeat at Ilyessa establish the long Atherian–Vasharan coastal contest. |
@@ -97,7 +97,7 @@ Kassur escapes and is murdered in 688 BR by a commander seeking reward. Eryndor 
 
 Eryndor marries Parena Tiravan after his alliance with Arezan. Parena is Mithara's adult daughter and Arezan's niece. Mithara remains the senior organiser of the Tiravan coalition and estates; Parena develops a separate position inside Eryndor's mixed court. She receives Vashari officers, Arqeshite families and Qahuri envoys whose interests cross the two commands.
 
-Eryndor dies in 684 BR while Parena is pregnant. His adult half-brother and the posthumous child become nominal heirs. The army's commands, treasury and provinces pass into four practical centres:
+Eryndor dies in 673 BR while Parena is pregnant. His adult half-brother and the posthumous child become nominal heirs. The army's commands, treasury and provinces pass into four practical centres:
 
 | Successor | Principal inheritance | Historical consequence |
 |---|---|---|
@@ -229,7 +229,7 @@ The canon pass should proceed as one delivery because the events cross several e
 
 ## Collision check
 
-- Eryndor is neither Teren Casvilar nor Aurelius Thalion. His hereditary kingdom, eastern conquest, early death and fragmented successors serve a different historical function.
+- Eryndor is neither Teren Casvilar nor Aurelius Thalion. His hereditary kingdom, eastern conquest, death without a settlement and fragmented successors serve a different historical function.
 - Arezan remains the founder of Vasharan government. He is neither Eryndor's subordinate nor the sole conqueror of Arqesh.
 - Merod II's Qahuri intervention, Ilbarun II's destruction of First Qiryath and Kassur III's last war belong to different generations.
 - Parena is Mithara's daughter. The later Queen Mithara I is named for her great-aunt and belongs to another generation.

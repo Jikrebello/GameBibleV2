@@ -132,7 +132,7 @@ A client king drew followers from camps, towns, poets, priests, guards and forei
 
 The cousins **Savan Uruz** and **Demer Khol** were raised in the same foster camp. Savan accepted an Arqeshite crown and garrison at an eastern station. Demer controlled western camel roads with Qahuri support. Each claimed to protect the country from the other, and each raided communities beyond the districts whose tribute he received.
 
-Savan employed Taleri smiths and Arqeshite deportees. Demer supported poets, camel races and a sanctuary for fugitives from Savan's taxes. He also sold captured eastern families into Qahuri estates. When Arqeshite payments stopped after 706 BR, Savan seized grain from his soldiers' families and the soldiers killed him. Demer tried to recruit the unpaid companies and was defeated by former captives.
+Savan employed Taleri smiths and Arqeshite deportees. Demer supported poets, camel races and a sanctuary for fugitives from Savan's taxes. He also sold captured eastern families into Qahuri estates. When Arqeshite payments stopped after 718 BR, Savan seized grain from his soldiers' families and the soldiers killed him. Demer tried to recruit the unpaid companies and was defeated by former captives.
 
 The client courts disappeared, while their mixed households and craftspeople remained. Their history encouraged several wells to strengthen assemblies which could survive a patron's death.
 

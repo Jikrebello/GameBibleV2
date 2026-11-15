@@ -116,7 +116,7 @@ The cousins **Savan Uruz** and **Demer Khol** had been raised in the same foster
 
 Savan employed Taleri smiths and Arqeshite deportees. Demer supported poets, camel races and a sanctuary for fugitives from Savan's taxes. He also sold captured eastern families into Qahuri estates.
 
-When Arqeshite payments stopped after 706 BR, Savan seized grain from his soldiers' families. The soldiers killed him. Demer tried to recruit the unpaid companies and was defeated by former captives. The client courts disappeared while their mixed households and craftsmen remained.
+When Arqeshite payments stopped after 718 BR, Savan seized grain from his soldiers' families. The soldiers killed him. Demer tried to recruit the unpaid companies and was defeated by former captives. The client courts disappeared while their mixed households and craftsmen remained.
 
 ## Arqesh's fall
 

@@ -29,13 +29,13 @@ Arqeshite first described the civic population of Arqesh and then widened to inc
 
 By the eighth century BR, Arqeshite provinces were carrying their disputes to be judged at Qiryath's festival offerings rather than before royal governors. Ilbarun II demanded hostages and a place for his image in the upper sanctuary. Qiryath refused the royal image and hostage demand. Arqesh destroyed the city in 742 BR, looted its sanctuary, and deported leading Jirahar households. In the following years its coastal governors seized Atherian ships and marched the merchant quarter of Belyra inland, giving Ortheia the grievance behind its eastern war. Exile made Arqeshite cities important sites of Peshara development even while the empire remained an oppressor.
 
-## Fall, 706–690 BR
+## Fall, c. 718–690 BR
 
-The death of Belatar II divided House Ubar between Kassur III at Arqesh and Mardun Ubar at Durqesh. Rival claimants opened and blocked canals serving one another's supporters. Soldiers seized seed grain and roof timber, while Nemeru withheld boats and Qahuri rulers expelled isolated garrisons.
+The death of Belatar II around 718 BR divided House Ubar between Kassur III at Arqesh and Mardun Ubar at Durqesh. Rival claimants opened and blocked canals serving one another's supporters. Soldiers seized seed grain and roof timber, while Nemeru withheld boats and Qahuri rulers expelled isolated garrisons.
 
 Arezan Tiravan united Vashari highland houses and rebellious governors from the east. Eryndor III crossed the inner sea with an Ortheian army, Compact levies, siege engineers and allied ships. The two kings made an alliance in 694 BR. Provincial communities withheld the supplies upon which House Ubar depended, and Kassur fed his soldiers by cutting the rations of the capital's dredging gangs and deportee quarters. In 690 the gangs rose and opened the gates, and deported Belyra families from the Nemeru shipyards ferried Eryndor's soldiers across a closed channel. Arqesh surrendered after street fighting. Both victorious armies killed inhabitants and plundered districts.
 
-Kassur III fled with the portable royal images. In 688 the images began to answer in Eryndor's voice, and their bearers carried them over to him. Kassur surrendered to Arezan, sealed the Gate House's water books over to the Vashari king at Durqesh and died a guarded guest at Kavresh around 676. After Eryndor's death in 684 BR the images went with his embalmed body to Delkos. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
+Kassur III fled with the portable royal images. In 688 the images began to answer in Eryndor's voice, and their bearers carried them over to him. Kassur surrendered to Arezan, sealed the Gate House's water books over to the Vashari king at Durqesh and died a guarded guest at Kavresh around 676. After Eryndor's death in 673 BR the images went with his embalmed body to Delkos. Arezan's Decree of Roads and Houses permitted selected deported peoples to return while bringing their restored communities under Vasharan rule. Second Qiryath was consecrated around 660 during the resulting Wars of the Inheritance.
 
 ## Legacy
 

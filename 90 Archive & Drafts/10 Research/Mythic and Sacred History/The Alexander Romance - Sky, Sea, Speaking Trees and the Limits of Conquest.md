@@ -3,7 +3,7 @@ type: research
 status: reviewed
 canon_level: exploratory
 visibility: author-only
-era: ["Historical c. 706–684 BR", "later legendary reception"]
+era: ["Historical c. 709–673 BR", "later legendary reception"]
 region: [Atherian uplands, eastern inner sea, Qahur, Arqesh, Vashar, farther eastern roads, Egg White thresholds]
 culture: [Atherian, Qahuri, Arqeshite, Vashari, Jirahar, eastern successor cultures]
 related_factions: []
@@ -16,7 +16,7 @@ tags: [research, alexander-romance, upland-conqueror, mythic-history, menhir, eg
 
 Alexander's literary life became much larger than his empire. Greek and Roman readers inherited accounts of a Macedonian conqueror who reached India and died at Babylon. Egyptian, Syriac, Armenian, Persian, Arabic, Hebrew and European writers made him the son of an Egyptian king, a Persian prince, a seeker of immortal water, a visitor to the heavens and the sea floor, a builder of the last gate and, in some traditions, a sage or prophet. Other Iranian traditions remembered him as an accursed destroyer. These portraits disagree because communities used Alexander to think about their own rulers, enemies, sacred histories and limits of knowledge.
 
-The World Egg can preserve that abundance without granting equal historical truth to every story. The recommended arrangement gives several famous adventures a real incident beneath them. Each incident occurs during **Eryndor III of Ortheia's** eastern campaign of c. 702–685 BR. No second world tour is required. Later cultures separate the incidents from their original military setting, combine them with local heroes and move them to the edges of their own maps.
+The World Egg can preserve that abundance without granting equal historical truth to every story. The recommended arrangement gives several famous adventures a real incident beneath them. Each incident occurs during **Eryndor III of Ortheia's** eastern campaign of c. 702–674 BR. No second world tour is required. Later cultures separate the incidents from their original military setting, combine them with local heroes and move them to the edges of their own maps.
 
 The resulting cycle concerns a king who repeatedly tries to extend royal power into a realm it cannot possess. Eryndor descends below the sea during the siege of Belyra, rises into the upper air to inspect an enemy position, demands knowledge of his death from a speaking grove, seeks water that might preserve life and closes a mountain road against a surviving horror. Each marvel is real in a limited sense. None makes him a prophet, saint, Menhir child or divinely appointed ruler.
 
@@ -40,7 +40,7 @@ The episode gives the world-conqueror the viewpoint his title promises. It also 
 
 ### Historical kernel
 
-Eryndor makes a genuine aerial ascent during the fortress campaigns of c. 688–687 BR. His army already depends upon engineers, animal handlers and knowledge gathered from conquered peoples. Captured or trained [[Sky-Lions and Crown-Beasts|Sky-Lions]] lift a light, tethered observation frame from a high ridge. The king insists upon taking the observer's place so that he can inspect a fortress, river bend or road hidden beyond the mountain shoulder.
+Eryndor makes a genuine aerial ascent during the fortress campaigns of c. 680 BR. His army already depends upon engineers, animal handlers and knowledge gathered from conquered peoples. Captured or trained [[Sky-Lions and Crown-Beasts|Sky-Lions]] lift a light, tethered observation frame from a high ridge. The king insists upon taking the observer's place so that he can inspect a fortress, river bend or road hidden beyond the mountain shoulder.
 
 The ascent works. It also disturbs a local Zephyraxis correspondence. An [[Aerials and Deep Envoys|Aerial]] strips shouted instructions from the handlers' mouths, pulls the frame into a cross-current and forces a violent descent beyond the prepared landing ground. One handler dies or is permanently injured; at least one Sky-Lion is killed after becoming tangled in the harness. The king returns with useful knowledge and rewards the surviving craftworkers, but later images remove the handlers, ropes and dead animal. They show him commanding obedient griffins by will alone.
 
@@ -74,7 +74,7 @@ The prophecy gives the homeward half of the Romance its momentum. The audience k
 
 ### Historical kernel
 
-The army encounters a connected grove in the foothills east of the Ubar basin around c. 687–686 BR. Its [[Root-Minds, Water-Wives, and Stone-Voices|Root-Minds]] possess territorial memory under Sylvorn pressure. Sunlight and moonlight pass through different living canopies, activating separate parts of the fungal and root network. The grove can answer through leaves, cracking trunks, several human mouths or a voice carried from the soil. Its knowledge concerns land, graves, travellers and the return routes passing through its domain.
+The army encounters a connected grove in the foothills east of the Ubar basin around c. 680–679 BR. Its [[Root-Minds, Water-Wives, and Stone-Voices|Root-Minds]] possess territorial memory under Sylvorn pressure. Sunlight and moonlight pass through different living canopies, activating separate parts of the fungal and root network. The grove can answer through leaves, cracking trunks, several human mouths or a voice carried from the soil. Its knowledge concerns land, graves, travellers and the return routes passing through its domain.
 
 The king removes iron and enters with a small party because weapons silence the older roots. He asks whether the eastern road will make him master of the whole inhabited world. The grove answers with the place and season of his death, though not necessarily its medical cause. It also says he will never see his upland home again. An interpreter first softens the answer. The king discovers the alteration and orders his execution, or stops the execution only after a companion intervenes. Either choice preserves the source tradition's coercion: the ruler who demands truth punishes the person required to speak it.
 
@@ -90,7 +90,7 @@ The tale turns world conquest inward. The king can inherit capitals and treasure
 
 ### Historical kernel
 
-The Dark Road can be a short, disastrous expedition during c. 686–685 BR, after the speaking grove and before the army's final refusal. Guides lead a selected party through a lightless ravine, buried road or Egg White-adjacent fault where distance and time do not behave consistently. The route promises access behind an enemy position and rumours of a spring that restores exhausted animals.
+The Dark Road can be a short, disastrous expedition during c. 678–674 BR, after the speaking grove and before the army's final refusal. Guides lead a selected party through a lightless ravine, buried road or Egg White-adjacent fault where distance and time do not behave consistently. The route promises access behind an enemy position and rumours of a spring that restores exhausted animals.
 
 A camp cook or local guide washes a dried fish in a seep. The flesh moves and the fish escapes into the stone-dark water. A mortally wounded porter recovers enough strength to stand. The king orders the spring collected and enters the fault himself. Every sealed vessel returns filled with ordinary bitter water. One companion disappears beyond the local correspondence after drinking directly; whether that person survives bodily in a small Egg White refuge remains open.
 
@@ -108,7 +108,7 @@ The story nevertheless preserves a strong political contradiction. A ruler famou
 
 ### Historical kernel
 
-Eryndor closes one strategic pass around c. 686 BR. His engineers repair an older Giant barrier while retreating from a fortress district. The enemy may be a surviving Giant war-brood, a recurrence system producing malformed soldiers, or an army gathered around a violent Idol Mask. Its identity remains unresolved until the farther eastern geography is developed.
+Eryndor closes one strategic pass around c. 679 BR. His engineers repair an older Giant barrier while retreating from a fortress district. The enemy may be a surviving Giant war-brood, a recurrence system producing malformed soldiers, or an army gathered around a violent Idol Mask. Its identity remains unresolved until the farther eastern geography is developed.
 
 The gate stops a particular pursuit. Its construction requires the destruction of villages in the approach, forced labour from prisoners and the abandonment of people who remain on the far side. Soldiers kill those who attempt to force entry before the final closure. The decision saves the returning army and exposed settlements west of the pass. It also creates descendants who remember the king as the man who shut their ancestors among the monsters.
 
@@ -143,25 +143,25 @@ The Romance contains peoples with monstrous bodies, strange animals, giant crabs
 
 Human communities with unfamiliar appearance or custom must never be converted into bestiary entries. The one-eyed, headless and dog-headed nations of later maps remain folklore unless a separate creaturely identity is established.
 
-## A historical sequence that fits the short reign
+## A historical sequence that fits the reign
 
 | Date | Existing campaign | Recommended Romance kernel |
 |---:|---|---|
-| 706 BR | accession after the father's assassination | no Romance addition |
-| 705–703 BR | revolt and destruction of an Atherian city | later romances conceal the king's first great atrocity |
+| 709 BR | accession after the father's assassination | no Romance addition |
+| 708–706 BR | revolt and destruction of an Atherian city | later romances conceal the king's first great atrocity |
 | 702–698 BR | sea crossing and western Arqeshite victories | marvel stories begin among multilingual troops and ports |
 | 697–695 BR | prolonged harbour siege | real undersea observation bell and lethal attack |
 | 695 BR | Qahur and the royal oracle | bounded sign; later starry-paternity tradition |
 | 694–690 BR | alliance with Arezan and fall of Arqesh | philosophers, translators and royal archives enter the court |
 | 689–688 BR | pursuit of Kassur III | queen recognises the disguised Eryndor and compels a settlement |
-| 688–687 BR | eastern fortress campaigns | real Sky-Lion ascent during reconnaissance |
-| 687–686 BR | exposed roads beyond the basin | speaking grove and local prediction of death |
-| 686 BR | withdrawal through a threatened pass | one engineered gate closes a particular surviving threat |
-| 686–685 BR | attempted advance and growing refusal | Dark Road and failed search for life-giving water |
-| 685 BR | army refuses further march | no supernatural power overrides the soldiers' decision |
-| 684 BR | death in an Ubar river capital | prophecy remembered; succession destroys the household |
+| 680 BR | eastern fortress campaigns | real Sky-Lion ascent during reconnaissance |
+| 680–679 BR | exposed roads beyond the basin | speaking grove and local prediction of death |
+| 679 BR | withdrawal through a threatened pass | one engineered gate closes a particular surviving threat |
+| 678–674 BR | attempted advance and growing refusal | Dark Road and failed search for life-giving water |
+| 674 BR | army refuses further march | no supernatural power overrides the soldiers' decision |
+| 673 BR | death in an Ubar river capital | prophecy remembered; succession destroys the household |
 
-The episodes occupy approximately twelve years of campaigning because they arise from problems the army already faces. The bell serves a siege. The ascent serves reconnaissance. The queen controls a supply route. The grove stands beside an eastern road. The gate covers a retreat. The Dark Road is one final attempt to move farther. None requires a hidden extra reign.
+The episodes occupy approximately twenty-three years of campaigning because they arise from problems the army already faces. The bell serves a siege. The ascent serves reconnaissance. The queen controls a supply route. The grove stands beside an eastern road. The gate covers a retreat. The Dark Road is one final attempt to move farther. None requires a hidden extra reign.
 
 ## Five limits and one human refusal
 
@@ -224,7 +224,7 @@ Later Christian readers may treat the ruler as an example of pagan magnificence 
 
 ## Source-fidelity ruling
 
-The adapted cycle retains the Romance's principal hard edges. Alexander's ascent and descent are reckless uses of servants, animals and technical specialists. The speaking-tree episode retains the ruler's threat against interpreters. The Water of Life goes to a socially lesser figure or guide while the conqueror fails. The gate protects some people by abandoning and killing others. Philosophical rebuke does not erase executions. The later legend grows around conquest, enslavement, destroyed cities and the early death of a man who caused many other deaths.
+The adapted cycle retains the Romance's principal hard edges. Alexander's ascent and descent are reckless uses of servants, animals and technical specialists. The speaking-tree episode retains the ruler's threat against interpreters. The Water of Life goes to a socially lesser figure or guide while the conqueror fails. The gate protects some people by abandoning and killing others. Philosophical rebuke does not erase executions. The later legend grows around conquest, enslavement, destroyed cities and the death of a man who caused many other deaths.
 
 The pass should not combine every source's cruelties into every episode. Each incident carries the cost belonging to its borrowed element and its military setting.
 
@@ -232,7 +232,7 @@ The pass should not combine every source's cruelties into every episode. Each in
 
 ### Recommended historical core
 
-Promote the undersea bell, Sky-Lion ascent, speaking grove, failed life-water expedition, local gate, eastern queen and ascetic rebuke as separate incidents in the c. 697–685 BR campaign. Preserve the precise identities of the sea attacker, missing drinker and enclosed threat until their regional homes are developed.
+Promote the undersea bell, Sky-Lion ascent, speaking grove, failed life-water expedition, local gate, eastern queen and ascetic rebuke as separate incidents in the c. 697–674 BR campaign. Preserve the precise identities of the sea attacker, missing drinker and enclosed threat until their regional homes are developed.
 
 ### Recommended legendary core
 

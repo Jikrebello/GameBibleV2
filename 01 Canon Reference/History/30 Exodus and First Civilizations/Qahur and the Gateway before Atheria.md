@@ -54,7 +54,7 @@ Qarzeth's destruction sent refugees and enslaved people into basin markets. Some
 
 ## The Successor sea
 
-Eryndor III's conquest and death altered the maritime world as the Gateway Wars began. His fleet commander Serevan established a royal court at Delkos after 684 BR around the king's embalmed body, whose tomb was said to speak in his voice until Qemaret's own embalmers testified against it. The court joined Atherian military speech with Arqeshite administration, Vashari officers and the skills of island and harbour households. Successive rulers lost much of Serevan's territory, but Delkosi ships and officer families remained active across the eastern sea.
+Eryndor III's conquest and death altered the maritime world as the Gateway Wars began. His fleet commander Serevan established a royal court at Delkos after 673 BR around the king's embalmed body, whose tomb was said to speak in his voice until Qemaret's own embalmers testified against it. The court joined Atherian military speech with Arqeshite administration, Vashari officers and the skills of island and harbour households. Successive rulers lost much of Serevan's territory, but Delkosi ships and officer families remained active across the eastern sea.
 
 Selected Qahuri crowns received foreign garrisons and military marriages during the same succession. These settlements introduced new coin forms and military colonies without replacing the Basin's temple, canal and royal houses. Qahuri funerary work, astronomy and court ceremony travelled towards Delkos through artisans, wives, captives and priests.
 
