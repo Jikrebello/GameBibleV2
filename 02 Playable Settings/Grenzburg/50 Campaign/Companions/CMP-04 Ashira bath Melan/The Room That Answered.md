@@ -46,7 +46,7 @@ required_states: ["ashira_introduction_complete"]
 optional_state_inputs: ["customs_runner_state", "neda_available", "underways_route_access"]
 companion_required: "Ashira bath Melan"
 duo_quest: false
-pause_points: ["Witness Protected", "Echo Source Found"]
+pause_points: ["Witness Protected", "Residue Source Found"]
 autonomous_deadline: "The Last Convoy"
 autonomous_resolution: "See Companion Autonomy and Act Convergence; untracked content uses stable-colleague treatment."
 changed_reentry: "The Drowned Answer begins with reduced privacy support."
@@ -57,7 +57,7 @@ dialogue_status: approved
 remote_claim_status: compliant
 archetype_pressure: "Ashira can prove the uncanny event only by exposing a dismissed debtor's private grief."
 emotional_function: "Show her as the person who believes an unwanted witness, then test whether belief becomes ownership."
-pleasure_beat: "A room answering knocks, covert observation, and exposing a clever mundane racket around a real Echo."
+pleasure_beat: "A room answering knocks, covert observation, and exposing a clever mundane racket around real residue."
 care_beat: "Protect the witness's chosen account even when a more dramatic disclosure would solve the case faster."
 player_archetype_hooks: []
 persistence_scope: local-persistent
@@ -68,7 +68,7 @@ persistence_scope: local-persistent
 
 Dismissed Blackjack **Heda Morn** says her dead sister answers a three-knock pattern from an empty room in Debtors' Row. A protection crew uses the answers to identify when Heda is alone and extort former debtors.
 
-The room contains a genuine non-conscious [[Anchored Hauntings|House Echo]] formed from repeated household movement. The criminals neither created it nor understand it; they learned how to trigger selected sounds.
+The room holds genuine [[Residue Dead Overview|routine-grade residue]] formed from repeated household movement. It repeats; it cannot speak, recognize anyone, or suffer, so it is not a [[Anchored Hauntings|House Echo]]. The criminals neither created it nor understand it; they learned how to trigger selected sounds.
 
 ## Structure
 
@@ -80,17 +80,17 @@ The normal party can:
 4. follow collectors into an underways counting niche;
 5. confront the extortion crew and decide what becomes public.
 
-Every essential conclusion has two sources: physical tubes and witness timing; echo cadence and collector schedule; marked payments and a captured lookout.
+Every essential conclusion has two sources: physical tubes and witness timing; residue cadence and collector schedule; marked payments and a captured lookout.
 
 Ashira knows immediately that the answer is not Heda's sister. She does not say so until Heda asks. If the player pushes for instant correction, Heda may close the room.
 
-Ashira initially classifies the three-knock response as a fixed domestic loop that the criminals can only observe. Heda insists the third knock moved after the collectors replaced one floorboard. Ashira dismisses that as grief joining unrelated details. A physical inspection proves Heda right: a new pressure strip lets the crew select which part of the Echo repeats. Ashira's error costs the party its first chance to catch the upstairs lookout if they accepted her certainty without checking.
+Ashira initially classifies the three-knock response as a fixed domestic loop that the criminals can only observe. Heda insists the third knock moved after the collectors replaced one floorboard. Ashira dismisses that as grief joining unrelated details. A physical inspection proves Heda right: a new pressure strip lets the crew select which part of the residue repeats. Ashira's error costs the party its first chance to catch the upstairs lookout if they accepted her certainty without checking.
 
 ## Action
 
 The crew responds to discovery by trapping residents on the upper floor, releasing smoke, and escaping through the speaking tubes. The party protects residents, crosses a collapsing gallery, and captures or pursues the collectors.
 
-The House Echo repeats evacuation gestures from an older fire. Following them reveals a safe stair. It is useful without being conscious.
+The residue repeats evacuation gestures from an older fire. Following them reveals a safe stair. It is useful without being conscious.
 
 ## Choice
 
@@ -105,7 +105,7 @@ Ashira can honor it, argue that the name is evidentiary, or follow the player's 
 - Lost collectors leave payment marks for later arrest.
 - A public room draws gawkers and closes Heda's housing.
 - A protected room preserves trust but yields weaker publicity.
-- Destroying the Echo ends exploitation but also erases a useful fire route.
+- Destroying the residue ends exploitation but also erases a useful fire route.
 
 Record `ashira_yard_testimony_protected`, `debtor_room_state`, `house_echo_state`, and `ashira_debtors_row_extortion_state`. Completion supports **Hush Field** and Act I readiness.
 

@@ -67,7 +67,7 @@ Her resolved arc does not make her cheerful, conventional, or publicly transpare
 ## Identity
 
 - **Age:** twenty-nine in 1360 AR.
-- **Origin:** Qesheth Tower, one of the Jirahar scholarly communities.
+- **Origin:** Migdal Qesheth, the Tower of the Bow, first in sacred dignity among the five living Jirahar towers.
 - **Current standing:** personal-liability debtor and clandestinely protected Blackjack Medium.
 - **Public style:** composed outsider, exact scholar, and unsettlingly calm field specialist.
 - **Private contradiction:** she resents being inspected while believing her own insight entitles her to inspect others.
@@ -87,7 +87,7 @@ She changes the arrangement of her cords according to mood and denies doing so.
 
 ## Qesheth Formation
 
-Qesheth scholarship treats memory, image, repetition, and shadow as distinct things. Ashira learned to identify the difference between:
+Her formation was in the Millin Setharin, the Hidden Words, as the Keepers of Migdal Qesheth use them to tell a true sign from a staged one. The tower sanctions that discernment, which treats memory, image, repetition, and shadow as distinct things. Her work with shadow media was her own restricted study, tolerated there and never taught. Ashira learned to identify the difference between:
 
 - a routed human soul;
 - corpse residue;
@@ -321,7 +321,7 @@ Their friendship succeeds when:
 
 ## Seasonal Movement
 
-- **Autumn:** earns trust through strange competence and confronts the first living owner of a face she retained.
+- **Autumn:** earns trust through strange competence and meets the first living people with authority to refuse a face she retained.
 - **Winter:** becomes useful in identification, panic, and siege while learning that truth cannot overrule consent.
 - **Spring:** faces the Muster's public reproduction of private likeness.
 - **Summer:** becomes an ethical nonhuman-imprint teacher, supervised practitioner, isolated keeper, or departed predator according to play.

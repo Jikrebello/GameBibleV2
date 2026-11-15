@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-2
-availability_window: ["Siege Winter"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["yard_screen_state", "copied_imprint_method_state", "ashira_act2_resolution", "ashira_direction", "yard_captive_roster"]

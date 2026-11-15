@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: summer
-availability_window: ["Playable Summer", "Postwar Cycle"]
+availability_window: ["Summer Aftermath", "Postwar Cycle"]
 repeatability: one-shot
 cutoff_result: remains-available
 world_state_outputs: ["ylva_summer_coda", "ylva_destination", "ylva_postwar_route_state", "ylva_memorial_state"]

@@ -142,7 +142,7 @@ Typical materials: licensed blast charge, shaped cap, shock collar, and reinforc
 | [[A Signal Shared]] | reliable bad-weather signals and blunt rescue stops | All-Weather Flare Arrow; Reinforced Blunt-Head |
 | [[The Rearguard Road]] | line-assisted extraction | Line Arrow |
 | [[Signals Over Lantern Ward]] | coordinated smoke withdrawal | Smoke Arrow |
-| [[What the Ice Takes]] | Rescue Scout doctrine and stronger ally prioritization | Rescue Scout doctrine |
+| [[What the Ice Takes]] | Rescue Scout doctrine and stronger ally prioritization | none; the doctrine is Ylva's own |
 | [[Routes for the Living]] | controlled obstruction clearing | Controlled Blast Arrow |
 | [[The Last Marker]] | full severe-weather coordination | Winter-Track Fieldcraft |
 

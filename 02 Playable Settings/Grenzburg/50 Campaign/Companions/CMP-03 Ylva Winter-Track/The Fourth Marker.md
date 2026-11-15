@@ -27,7 +27,7 @@ quest_sequence: 1
 companion_id: "CMP-03"
 faction_line: ""
 faction_branch: ""
-chapter_id: "MC-04"
+chapter_id: "MQ-04"
 main_sequence: 4
 story_gate: "The Southbound Muster"
 estimated_hours: 1.0
@@ -101,7 +101,7 @@ Confronting Koss now secures a written record but costs departure time. Going im
 
 ## Middle: The Diverted Road
 
-The party follows three redundant signs:
+The party follows five redundant signs:
 
 - a wheel rut crossing the declared road;
 - a flare cap placed upside down;
@@ -159,7 +159,7 @@ At the restored marker, the player decides how the returning watch is staffed:
 
 Ylva must also answer for her concealed injury. The player can ask her to report it, report the physical fact without speaking for her motives, or reward the concealment.
 
-She joins the Blackjacks as a selectable companion after the marker is restored or the carters are safely returned.
+She joins the player's company as a selectable companion after the marker is restored or the carters are safely returned.
 
 ## Information Routes
 
@@ -186,7 +186,7 @@ No social failure can erase it. Failure changes who accepts the evidence and whe
 ## Rewards
 
 - Ylva becomes recruitable.
-- `ylva_campaign_tracked`
+- `ylva_campaign_tracked`, only under the Tracking rules in [[Ylva Companion Campaign]]: the player accepts this case, agrees that four simultaneous watches are not a sustainable assignment, or tracks the campaign by hand. If Ylva resolves the case alone she is still recruited, untracked, and follows the stable-colleague route.
 - `ylva_fourth_marker_restored` when a real watch is staffed.
 - **Winter Route Read:** Ylva warns about one severe-weather or staffing hazard during ordinary travel.
 - access to [[A Signal Shared]].

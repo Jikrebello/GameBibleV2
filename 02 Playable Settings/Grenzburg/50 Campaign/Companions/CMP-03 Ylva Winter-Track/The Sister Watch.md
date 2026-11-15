@@ -11,8 +11,8 @@ appears_in: ["Grenzburg"]
 needs: []
 tags: [narrative-rewrite]
 quest_class: companion
-act: act-2
-availability_window: ["Late Winter", "Early Spring"]
+act: act-3
+availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: expires
 world_state_outputs: ["ylva_bond_episode", "ylva_bond_move_unlocked", "ylva_sister_watch_practiced", "east_watch_cairn_state"]
@@ -76,7 +76,7 @@ There is no romance, courtship, marriage symbolism, physical intimacy scene, fad
 
 After bond commitment and personal completion of [[What the Ice Takes]], Ylva asks the player to inspect East Watch Cairn with her.
 
-She says the old relief practice required two route women to demonstrate that either could take lead and either could call the other off the road. The custom was never a formal war-scout office and grants no clan rank.
+She says the old relief practice required two route women to demonstrate that either could take lead and either could call the other off the road. The custom was never a formal war-scout office and grants no hall rank.
 
 Ylva has never performed it with someone she chose.
 
@@ -135,7 +135,7 @@ The bond is mutual. The player does not become Ylva's keeper.
 
 ## The Sister Signal
 
-At dawn each ties a short grey-white service cord to the cairn's relief bar. The cords are not rings, prayer beads, marriage tokens, clan adoption, or military insignia.
+At dawn each ties a short grey-white service cord to the cairn's relief bar. The cords are not rings, prayer beads, marriage tokens, hall adoption, or military insignia.
 
 They agree upon a simple signal meaning:
 

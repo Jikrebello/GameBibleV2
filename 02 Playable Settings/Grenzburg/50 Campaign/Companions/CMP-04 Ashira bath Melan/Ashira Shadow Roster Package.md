@@ -16,7 +16,7 @@ architecture_status: migrated
 ---
 # Ashira Shadow Roster Package
 
-Ashira is a [[Medium]]. This is a companion package, not a ninth vocation.
+Ashira is a [[Medium]]. This is a companion package, not a tenth vocation.
 
 ## Ontology
 

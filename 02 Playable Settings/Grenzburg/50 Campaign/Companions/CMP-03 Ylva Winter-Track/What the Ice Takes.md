@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
-availability_window: ["Winter Siege"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: autonomous
 world_state_outputs: ["ylva_act2_finale_played", "ylva_direction", "longlake_evacuees_state", "ice_food_state", "shared_liability_filing", "ylva_relationship_commitment_available", "ylva_act2_readiness"]

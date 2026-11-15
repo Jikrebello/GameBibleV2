@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Dead March", "Before Deep Muster"]
+availability_window: ["Muster Crisis"]
 repeatability: one-shot
 cutoff_result: autonomous
 world_state_outputs: ["ylva_act3_finale_played", "ylva_direction", "ylva_final_outcome", "fenn_lantern_state", "white_mud_causeway_state", "last_hearth_evacuated", "last_marker_relief_state", "ylva_fate", "ylva_relationship_perk"]

@@ -11,8 +11,8 @@ appears_in: ["Grenzburg"]
 needs: []
 tags: [narrative-rewrite]
 quest_class: companion
-act: act-2
-availability_window: ["Late Winter", "Early Spring"]
+act: act-3
+availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: expires
 world_state_outputs: ["ylva_romance_episode", "ylva_romance_move_unlocked", "ylva_homeward_route_practiced", "chosen_hearth_state"]
@@ -111,7 +111,7 @@ The scene is reciprocal without turning affection into barter.
 
 ## The Shared Hearth
 
-At night Ylva explains that Grey-Wolf language distinguishes a shelter one happens to share from a hearth deliberately chosen with another person.
+At night Ylva explains that Grey-Wolf speech distinguishes a shelter one happens to share from a hearth deliberately chosen with another person.
 
 She asks plainly whether the player wants the latter.
 

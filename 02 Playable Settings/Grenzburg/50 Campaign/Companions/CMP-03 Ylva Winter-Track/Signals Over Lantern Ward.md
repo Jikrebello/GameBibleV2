@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
-availability_window: ["Early Winter", "Winter Siege"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["ylva_lantern_ward_signal_chain", "ylva_direction", "lantern_rooftop_stations_state", "debtors_row_warning_state", "west_alley_receivers_state"]
@@ -105,7 +105,7 @@ The player recruits crews through neighbourhood trust, faction contacts, payment
 
 ### Roof Routes
 
-The party secures ladders, hatchways, and two ordinary rooftop gaps. Shared traversal works for every vocation. Slayer and Hunter gain faster routes; Fighter can stabilize ladders; Warlock can clear ice with bounded heat; Medium can distract residue around an old fire site; Bard and advanced vocations offer support without becoming keys.
+The party secures ladders, hatchways, and two ordinary rooftop gaps. Shared traversal works for every vocation. Slayer and Hunter gain faster routes; Fighter can stabilize ladders; Warlock can clear ice with bounded heat; Medium can distract residue around an old fire site; Bard and the other advanced vocations offer support without becoming keys.
 
 ### Signal Materials
 

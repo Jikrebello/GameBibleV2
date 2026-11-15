@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: summer
-availability_window: ["Playable Summer"]
+availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["ashira_summer_destination", "ashira_coda_complete"]

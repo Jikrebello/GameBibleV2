@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-3
-availability_window: ["Before Deep Muster"]
+availability_window: ["Muster Crisis"]
 repeatability: one-shot
 cutoff_result: autonomous-resolution
 world_state_outputs: ["human_roster_final_state", "bone_reed_station_state", "ashira_final_outcome", "ashira_legal_debt_state", "ashira_relationship_perk_state"]

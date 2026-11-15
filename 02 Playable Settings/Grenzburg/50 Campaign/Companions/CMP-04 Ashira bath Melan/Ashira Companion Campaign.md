@@ -59,7 +59,7 @@ The human imprints are never souls. Ontological accuracy does not grant ethical 
 | Seq. | ID | Piece | Format | Function |
 |---:|---|---|---|---|
 | 1 | CMP-04-I | [[The Faces She Kept]] | normal party | Customs and underways pursuit reveals the prohibited roster |
-| 2 | CMP-04-A1-O | [[The Room That Answered]] | normal party | protect a witness's grief while exposing criminals using a House Echo |
+| 2 | CMP-04-A1-O | [[The Room That Answered]] | normal party | protect a witness's grief while exposing criminals using a room's routine-grade residue |
 | 3 | CMP-04-A1-F | [[A Useful Terror]] | duo | rescue captives without treating a recognizable face as Ashira's tool by right |
 | 4 | CMP-04-FR | [[The Puppet Dies Twice]] | one-on-one | puppets, cherries, epitaphs, jokes, and chosen Yard belonging |
 | 5 | CMP-04-A2-O | [[What the Ruins Repeated]] | normal party | distinguish survivors, repeated signals, and deaths after the breach |

@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-2
-availability_window: ["Siege Winter"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["ashira_breach_casualty_map", "ashira_missing_blackjacks_identified", "repeated_signal_state", "yard_missing_roster"]

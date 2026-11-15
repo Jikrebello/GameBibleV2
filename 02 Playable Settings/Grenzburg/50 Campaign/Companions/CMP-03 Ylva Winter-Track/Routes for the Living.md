@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation"]
+availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["ylva_living_route_atlas", "ylva_direction", "upper_grenz_route_team_state", "tuskway_route_team_state", "frostfenn_route_team_state", "duplicated_stores_state"]
@@ -82,9 +82,11 @@ The job is therefore commissioned as a certification run, not a mapping expediti
 
 ## The Three Corridors
 
-The party may address the corridors in any order.
+The party may address the open corridors in any order.
 
 ### Upper Grenz
+
+This corridor needs `tannbruck_reclaimed` from [[The Land Reclaimed]]. Until Tannbruck is retaken it stays closed, and the party works the other two corridors first.
 
 Reopen the Tannbruck scout post and establish a northbound casualty route that does not cross the old command crypt.
 
@@ -131,7 +133,7 @@ The Fenn crew's lead asks to be relieved halfway through the trial after a fever
 
 The supernatural threat consists of non-conscious corpse residue and command patterns. The dead repeat old formations, follow rank geometry, and respond to working route marks as if they were mobilization signs.
 
-They are not trapped souls, soldiers awaiting persuasion, or a moral community. Burial knowledge may identify remains and support later rites, but the immediate patterns must be dispersed, burned, broken, or redirected.
+They are not trapped souls, soldiers awaiting persuasion, or a moral community. Burial knowledge may identify remains and support later rites, but the immediate patterns must be dispersed, contained and burned, broken, or redirected.
 
 Every vocation can contribute:
 

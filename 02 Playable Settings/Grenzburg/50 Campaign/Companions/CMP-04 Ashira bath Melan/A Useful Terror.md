@@ -66,9 +66,9 @@ persistence_scope: regional-persistent
 
 ## Premise
 
-Smugglers using [[Sunken Causeway]] take six ferry workers and two children as leverage. Their sentries are former associates of the raider band whose human patterns Ashira retained. One recognizable face could scatter them immediately.
+Smugglers using [[Sunken Causeway]] take six ferry workers and two children as leverage. Their sentries have no tie to the raid behind Ashira's roster: they are lake smugglers who have heard what the copied face did at Customs in [[The Faces She Kept]], and they fear it. One recognizable face could scatter them immediately.
 
-The captives' families refuse that use. Some knew the dead raider. Others simply reject being rescued through terror imposed in their name.
+The captives' families refuse that use. Some fear what the face would do to their own people, two of them children, held in the same galleries. Others simply reject being rescued through terror imposed in their name.
 
 ## Duo Structure
 

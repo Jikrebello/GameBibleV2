@@ -133,7 +133,7 @@ Pavel decides separately whether his name enters the report.
 
 - `ashira_spindle_recovered`: intact, damaged, circulated, or lost;
 - `human_roster_disclosed`: Brina, player-only, minimized, or concealed;
-- `customs_runner_state`: protected, public, discredited, injured, or dead;
+- `customs_runner_state`: protected, public, discredited, or injured;
 - `ashira_direction`;
 - `ashira_introduction_complete`;
 - unlock **Pattern Known**.

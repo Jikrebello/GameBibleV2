@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-1
-availability_window: ["Late Autumn", "Siege Winter"]
+availability_window: ["Late Autumn", "Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["ashira_friendship_episode", "yard_puppet_state", "ashira_private_joke_state"]

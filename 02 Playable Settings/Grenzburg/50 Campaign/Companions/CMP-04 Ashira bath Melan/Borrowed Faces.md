@@ -12,7 +12,7 @@ needs: []
 tags: [companion-campaign]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation"]
+availability_window: ["Open Spring"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["ashira_borrowed_face_caches", "blackjack_likeness_policy", "field_copy_state", "tannbruck_relief_convoy_state", "ashira_direction"]
@@ -42,8 +42,8 @@ encounter_deck: []
 postgame_season: ""
 estimated_hours: 1
 gameplay_pillars: [investigation, escort, defence, pursuit, field-identification]
-required_states: ["ashira_act2_resolution"]
-optional_state_inputs: ["copied_imprint_method_state", "blackjack_internal_alignment", "neda_available", "tannbruck_reclaimed"]
+required_states: ["ashira_act2_resolution", "tannbruck_reclaimed"]
+optional_state_inputs: ["copied_imprint_method_state", "blackjack_internal_alignment", "neda_available"]
 companion_required: "Ashira bath Melan"
 duo_quest: false
 pause_points: ["First Runner Verified", "Convoy Reached"]

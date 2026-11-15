@@ -25,7 +25,7 @@ dungeon_scale: minor
 
 The Rain Vault is a small Atherian water garden cut into blue-glass terraces above Highlake. Spring runoff animates cups, channels, delayed reflections, and silver-insect habitats. It contains no conscious mechanism, trapped soul, secret claimant, or campaign-scale weapon.
 
-[[The Garden Under Rain]] uses it as a romance-only exploration site. Its danger comes from water pressure, slick glass, broken channels, and changing return paths.
+[[The Garden Under Rain]] is a romance-only episode set here; the site itself is open to any player's exploration. Its danger comes from water pressure, slick glass, broken channels, and changing return paths.
 
 ## Navigation
 
