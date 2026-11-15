@@ -132,7 +132,7 @@ The participation of Tarkhan forces did not give them Arqesh's empire. Vasharan 
 
 Rethmar developed around winter water, storage and a market where western circuits met. It was a gathering place rather than a capital. Permanent gardeners, smiths and water keepers lived beside seasonal compounds built by visiting houses.
 
-In 381 BR, Lethren Ostar expected Rethmar's leaders to provide his Atherian army with water, camels and guides. **Kharuz of the Stone Wells** organised Tarkhan resistance. He drew Ostar's columns apart by promising separate negotiations and used foot archers against detachments moving between wells. **Tavisha**, an Ahdari water keeper, removed supplies and arranged false camps.
+In 402 BR, Lethren Ostar expected Rethmar's leaders to provide his Atherian army with water, camels and guides. **Kharuz of the Stone Wells** organised Tarkhan resistance. He drew Ostar's columns apart by promising separate negotiations and used foot archers against detachments moving between wells. **Tavisha**, an Ahdari water keeper, removed supplies and arranged false camps.
 
 The victory killed Ostar and captured many of his followers. Kharuz prioritised the ransom of officers because weapons and animals would strengthen the wells. Tavisha argued that sick captives and water carriers should be released first. Their disagreement became public after a fever spread through the prisoner camp. The coalition accepted Tavisha's order for the sick, exchanged several officers and enslaved captives whose families sent no ransom.
 

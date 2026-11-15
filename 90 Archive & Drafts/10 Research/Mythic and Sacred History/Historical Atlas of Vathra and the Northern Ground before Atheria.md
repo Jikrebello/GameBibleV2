@@ -112,7 +112,7 @@ The fall of Arqesh enlarged the power of market towns and caravan houses. Former
 
 Rethmar grew where several western circuits met around dependable winter water. It possessed permanent storehouses, workshops and gardens, but most people present during a great gathering lived in tents and temporary compounds. Water keepers measured the reserve. Caravan captains negotiated road protection. Tarkhan and Ahdari houses heard disputes through their own customs and used respected mediators when a case crossed communal lines.
 
-In 381 BR the Atherian commander **Lethren Ostar** marched towards Rethmar. He expected local leaders to provide water, animals and passage for a wider northern expedition. **Kharuz of the Stone Wells**, a Tarkhan leader, organised foot archers and camel scouts. **Tavisha**, an Ahdari water keeper, moved stores away from Ostar's approach and marked false camps with empty skins. Separated Atherian columns reached dry wells and were attacked before they could reunite.
+In 402 BR the Atherian commander **Lethren Ostar** marched towards Rethmar. He expected local leaders to provide water, animals and passage for a wider northern expedition. **Kharuz of the Stone Wells**, a Tarkhan leader, organised foot archers and camel scouts. **Tavisha**, an Ahdari water keeper, moved stores away from Ostar's approach and marked false camps with empty skins. Separated Atherian columns reached dry wells and were attacked before they could reunite.
 
 Ostar died during the retreat. The victors took soldiers and camp followers captive and demanded ransom. Some captives entered local households as slaves when payment failed. Kharuz and Tavisha quarrelled over their treatment: he wanted to exchange officers first for weapons and animals, while she demanded that sick people and water carriers be released before negotiation. Their coalition endured long enough to protect Rethmar, then divided without creating a northern kingdom.
 
@@ -155,7 +155,7 @@ No army could conquer this world by winning one battle. It had to carry water, s
 | c. 800–690 BR | Arqeshite pressure and rival client houses reshape the roads |
 | c. 706–690 BR | client collapse and northern participation in Arqesh's defeat |
 | c. 690–520 BR | Vasharan, Qahuri and local powers compete through routes and client relationships |
-| 381 BR | Kharuz and Tavisha defeat Lethren Ostar at Rethmar |
+| 402 BR | Kharuz and Tavisha defeat Lethren Ostar at Rethmar |
 | 350 BR | divided northern states and societies confront expanding Atheria |
 
 ## Further reading

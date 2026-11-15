@@ -36,15 +36,15 @@ The sales made Ostar's name hated among the enslaved and respected among owners.
 
 ## The first partnership
 
-Between 396 and 391 BR Ostar supplied money and political support to Casvilar while cooperating with Veyr over appointments and provincial interests. Their partnership operated through personal agreement, marriage and influence in public bodies. Veyr wanted his eastern settlements confirmed, and Casvilar wanted a southern command. Ostar wanted the senate's seal on a purchase.
+Between 405 and 391 BR Ostar supplied money and political support to Casvilar while cooperating with Veyr over appointments and provincial interests. Their partnership operated through personal agreement, marriage and influence in public bodies. Veyr wanted his eastern settlements confirmed, and Casvilar wanted a southern command. Ostar wanted the senate's seal on a purchase.
 
 The dealers who had bought his rebels had since sold him something larger: shares in the reservoirs of Rethmar and rights of passage on the roads beyond it. He kept the deeds in Caleran. In the well country water belonged to the keepers who maintained it and the households who drank from it, and no dealer had a share to sell. Ostar either did not know this or believed that a deed with enough soldiers behind it would serve.
 
-His son Pel, born in 418 BR, had grown up expecting a public career supported by his family's means. Ostar gave him the venture to command.
+His son Pel, born in 424 BR, had grown up expecting a public career supported by his family's means. Ostar gave him the venture to command.
 
 ## The disaster at Rethmar
 
-In 392 BR Pel Ostar marched towards Rethmar, a winter gathering where Ahdari camel circuits and Tarkhan well communities met. Permanent gardeners, smiths and water keepers lived around its reservoirs. Visiting households occupied seasonal compounds and attended its market. Pel brought hired companies, a train of surveyors and bailiffs, and his father's deeds, and he expected local leaders to provide water, transport and passage on the strength of them. His father stayed in Caleran.
+In 402 BR Pel Ostar marched towards Rethmar, a winter gathering where Ahdari camel circuits and Tarkhan well communities met. Permanent gardeners, smiths and water keepers lived around its reservoirs. Visiting households occupied seasonal compounds and attended its market. Pel brought hired companies, a train of surveyors and bailiffs, and his father's deeds, and he expected local leaders to provide water, transport and passage on the strength of them. His father stayed in Caleran.
 
 Kharuz of the Stone Wells organised resistance among settlements whose livelihoods depended on controlling access to stored water. Tavisha, a keeper involved in distributing water between households and visiting caravans, moved the stores away from the line of advance, drained the cisterns the deeds described and marked false camps with empty skins. Their followers used camels, foot archers and knowledge of the intervals between wells.
 
@@ -56,11 +56,11 @@ For the financier's son Kharuz asked a thousand pack animals and the deeds burne
 
 The coalition dispersed after securing Rethmar. Tavisha's authority governed the reservoirs, while Kharuz commanded people who had followed him to war. The loss damaged lenders and suppliers at home as well as military households. Northern communities remembered the preservation of their wells and the relatives lost in achieving it.
 
-A Rethmar tradition holds that some of the water carriers who emptied the cisterns ahead of the columns were rebels Ostar had sold north eighteen years before. The well households tell it with relish. Ahdari genealogists answer that the carriers named in the story belong to known local families, and Atherian writers left it out of every account.
+A Rethmar tradition holds that some of the water carriers who emptied the cisterns ahead of the columns were rebels Ostar had sold north eight years before. The well households tell it with relish. Ahdari genealogists answer that the carriers named in the story belong to known local families, and Atherian writers left it out of every account.
 
 ## The banker of the southern war
 
-Rethmar cost Ostar an army's wages and his heir. He looked to Casvilar to make good the money. From 390 the loans that paid for the southern command were repaid each autumn in captives, whom Ostar's agents sold to estates and to the Olveth workings. For eleven years the arrangement suited both men.
+Rethmar cost Ostar an army's wages and his heir. He looked to Casvilar to make good the money, and went on paying for Casvilar's offices and public works until the assembly voted him the south. From 390 the loans that paid for the southern command were repaid each autumn in captives, whom Ostar's agents sold to estates and to the Olveth workings. For eleven years the arrangement suited both men.
 
 It ended with the war. In 379 Casvilar's veterans came home wanting land, no more captives followed them, and Ostar called in what he was owed. He summoned Casvilar before the city's court for debt. Casvilar had been Warden of the Red Field since the siege of Kellovar, and his augurs ruled that a man who summoned a Warden from his field had set himself against it. They entered Ostar's name as a contestant. Under the rite he had now to come down to the muster ground armed or be held to have fled the field. He was sixty-seven and had never worn a sword.
 

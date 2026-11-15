@@ -21,7 +21,7 @@ Tarkhan ancestors descend principally from Vathran subject communities, fugitive
 
 The broad Tarkhan name entered common use during the Hearth-Crown centuries. Fosterage, marriage, assemblies and related dialects joined Tergai well houses, Elkari grass families, Taleri towns and Narashi caravan households without placing them under one government. [[The Tarkhan before the Horse Hordes]] gives the ancient history through 350 BR.
 
-## The defence of Rethmar, 392 BR
+## The defence of Rethmar, 402 BR
 
 [[Lethren Ostar#The disaster at Rethmar|Ostar's northern expedition]] threatened western well communities near the approaches later associated with Mazrakan. Kharuz of the Stone Wells organised resistance, while the water keeper Tavisha helped move supplies beyond the army's reach. Camel transport, foot archers and defended water enabled local forces to defeat separated Atherian columns. Captivity and ransom followed.
 

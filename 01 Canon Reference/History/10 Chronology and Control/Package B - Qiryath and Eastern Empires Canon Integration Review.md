@@ -129,7 +129,7 @@ The existence of the Ortheian, Qahuri, Arqeshite, Vashari, Jirahar and Atherian 
 
 ## Historical collisions resolved
 
-Eryndor remains separate from Teren Casvilar and Aurelius Thalion. Arezan remains an equal allied ruler and founder of Vashar. The Gateway Wars begin after the Successor settlement and retain their own causes. The Eastern Sea Wars are a later conflict between Vashar and Atherian leagues. Marenthe is unrelated to the archive catastrophe at Orthea. The Bent-Key Fellowship, Crownless Company, Oar-King and Road Without Milestones remain independent traditions.
+Eryndor remains separate from Teren Casvilar and Aurelius Thalion. Arezan remains an equal allied ruler and founder of Vashar. The first Gateway war is fought while the Successors are still dividing the inheritance, and the Gateway Wars retain their own causes. The Eastern Sea Wars are a later conflict between Vashar and Atherian leagues. Marenthe is unrelated to the archive catastrophe at Orthea. The Bent-Key Fellowship, Crownless Company, Oar-King and Road Without Milestones remain independent traditions.
 
 ## Protected and open matters
 

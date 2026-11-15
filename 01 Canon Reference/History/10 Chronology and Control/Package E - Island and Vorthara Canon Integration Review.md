@@ -67,8 +67,8 @@ The first promotion exposed an editorial failure: the initial public articles we
 | [[Marelith]] | 520–518 its captains buy rescued children sold by Atherian soldiers and resell many to Esharat's ransom funds; Ilya curses them. 466 "the harbour without a chain" takes in refused rebel crews. 355 proscribed families among the dead; island songs call the burning a second Kelarion |
 | [[Black Reef]] | Elmarai pilots dip their lanterns to the reef as to a drowned refuge |
 | [[Elmarai Isles before 350 BR]] | c. 475 the League of the Eastern Oar holds Elmarai pilot families as surety for Pyrassa's ship money; 466 the pilots lead refused rebel hulls to Marelith; after 461 they swear before the Roll at Ilamar |
-| [[Shoal and Lagoon Islands before 350 BR]], [[Near-Mainland Harbour Islands before 350 BR]], [[Gateway-Facing Outer Approaches before 350 BR]] | The Tammur blockade (c. 652), hostage ships after 646, Tashqar's island war (608), the salt of 520, Marelith's child-buying (520–518), the League's chains after 491 and the gale of 466 |
-| [[Historical Atlas of the Elmaric Sea before 350 BR]] | Gateway Wars redated c. 660–520; the Oar's chains, 466 and the Chain Peace; Veyr at Ilamar; extended chronology table |
+| [[Shoal and Lagoon Islands before 350 BR]], [[Near-Mainland Harbour Islands before 350 BR]], [[Gateway-Facing Outer Approaches before 350 BR]] | The Tammur blockade (c. 666), hostage ships after 660, Tashqar's island war (608), the salt of 520, Marelith's child-buying (520–518), the League's chains after 491 and the gale of 466 |
+| [[Historical Atlas of the Elmaric Sea before 350 BR]] | Gateway Wars redated c. 674–520; the Oar's chains, 466 and the Chain Peace; Veyr at Ilamar; extended chronology table |
 | [[Vorthara before 350 BR]], [[Vortharan Working Precincts before 350 BR]], [[The Pale Hand before 350 BR]] | c. 505–498 the Provider house of Gateway exiles; the refuge households' salt; the Hand's refusal of bodies. 399 the Spire Pursuit and the Kept Doors |
 
 **Authorial rulings.**

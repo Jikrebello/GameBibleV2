@@ -152,11 +152,11 @@ Arqesh demanded scouts, hostages and route access. Its deportations placed Ahdar
 
 ## Tavisha and Rethmar
 
-By the fourth century BR, **Rethmar** served as a winter gathering where Tarkhan and Ahdari circuits met. Gardeners, smiths and water keepers lived there permanently. Visiting households occupied seasonal compounds around its reservoirs and market.
+By the end of the fifth century BR, **Rethmar** served as a winter gathering where Tarkhan and Ahdari circuits met. Gardeners, smiths and water keepers lived there permanently. Visiting households occupied seasonal compounds around its reservoirs and market.
 
 **Tavisha** belonged to a family which maintained three reservoirs and supervised emergency distribution. Her authority rested upon knowledge, public service and the willingness of visiting houses to accept her measures.
 
-In 392 BR an Atherian army hired by the financier Lethren Ostar and led by his son Pel approached with deeds to the reservoirs and demands for water, transport and passage. Tavisha inventoried the stores, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where the Atherian scouts expected supplies.
+In 402 BR an Atherian army hired by the financier Lethren Ostar and led by his son Pel approached with deeds to the reservoirs and demands for water, transport and passage. Tavisha inventoried the stores, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where the Atherian scouts expected supplies.
 
 **Kharuz of the Stone Wells** organised camel scouts and foot archers. He drew the Atherian columns apart through separate negotiations and attacked the detachments moving between wells. Pel Ostar was taken alive and stayed among the wells; his father had never left Caleran. Northern forces captured officers, soldiers, servants and carriers.
 

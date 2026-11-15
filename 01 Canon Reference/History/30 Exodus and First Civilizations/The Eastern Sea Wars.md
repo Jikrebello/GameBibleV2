@@ -36,7 +36,7 @@ The strangest grants came from Delkos. The king had died on the flagship of the 
 
 The successor kingdoms' people and practices remained. Delkosi officers entered maritime republics and royal courts; Ortheian veterans held land among eastern cities; mixed ship crews carried Atherian, Qahuri, Vashari and Arqeshite techniques. The Gateway Wars began within this already connected sea. Later rulers remembered the successor age whenever they claimed that a fleet commander could preserve order after a king's death.
 
-## The western coast during the Gateway Wars, c. 660–520 BR
+## The western coast during the Gateway Wars, c. 674–520 BR
 
 Caleran's long war with Qarzeth shaped the later eastern conflict. The republic learned to maintain large fleets, collect naval contributions and keep distant crews supplied. Its commanders acquired clients among island cities and merchant households. Qarzeth's destruction in 520 BR released ships, veterans and political ambition into an eastern sea already disturbed by Vasharan expansion.
 
@@ -110,7 +110,7 @@ Later tellers joined the two festivals, their rival processions and the winter s
 
 Kazren's successor **Orvaz I Tiravan** abandoned plans for a direct conquest of the principal Atherian leagues. He used money, grain, marriage and sanctuary to divide them. Exiled city rulers received houses at Avesh. Vasharan timber reached coalitions opposing Caleran leadership. Atherian commanders supported provincial rivals within the western road command.
 
-The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. Within a generation of the night Velanthe's wardens let the king's deserting crews in under the Roll, cities that fell behind found the League's chains raised against their hulls even in storms. In 469 Velanthe and the shipless allies refused the assessment, Orvaz sent them timber and money and housed their leaders at Avesh, and the war of the closed chains ran until the Chain Peace of 461. The captains Vespen Harod named as his enemies in 466 lived out their lives at Avesh. The peace left Caleran the fixed ship money and took the chains out of its hands.
+The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. Within a generation of the night Velanthe's wardens let the king's deserting crews in under the Roll, cities that fell behind found the League's chains raised against their hulls even in storms. In 476 Velanthe and the shipless allies refused the assessment, Orvaz sent them timber and money and housed their leaders at Avesh, and the war of the closed chains ran until the Chain Peace of 461. The captains Vespen Harod named as his enemies in 466 lived out their lives at Avesh. The peace left Caleran the fixed ship money and took the chains out of its hands.
 
 Vasharan road commanders used local troops and taxes to defend the empire and accumulated enough wealth to treat their commands as family possessions; the Aresh house at Avesh held its command by the oath Orvaz had sworn at its gate. In 462 BR the governor of Avesh joined three commands against him. The king offered safe conduct to divide them, then executed two surrendered leaders, the Aresh governor first, and gave Avesh to the dead man's nephew. **Rathava of Daryam** condemned the broken promise in the palace garden. Orvaz had Rathava's labourers brought into the garden in ropes, and Rathava unsaid his words before the court to keep them from the slave market. His students quarrelled for generations over whether he had failed the truth or kept faith with his household.
 
@@ -176,7 +176,7 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 | Date | Event |
 |---:|---|
 | 684–c. 650 BR | Eryndor's death divides the eastern coast among competing successor commands |
-| c. 660–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
+| c. 674–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
 | 514 BR | Tasar revolts; Mazdan Aresh is killed after surrendering; the Senate refuses aid |
 | 511 BR | the Salt Gate quarter opens Tasar to Ardash Aresh; executions, sale and deportation to the Dawn Road stations; Velanthe admits the fugitive hulls |
 | 506 BR | Zadran Vezh's fleet settles at its moorings off Ilyessa; Kazren hires the pilots and takes their children |

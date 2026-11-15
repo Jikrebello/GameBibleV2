@@ -75,10 +75,10 @@ The first three outcomes are settled history. Sairat's reported returns, Molqara
 ### Rethmar
 
 - Rethmar was a mixed winter gathering of permanent water workers and visiting Ahdari and Tarkhan households. It was neither a capital nor another name for the Nine Wells of Tergai.
-- In 381 BR, Tavisha removed the water Lethren Ostar expected to seize and Kharuz divided his columns. Ostar and his son Pel died during the defeat.
+- In 402 BR, Tavisha removed the water Lethren Ostar expected to seize and Kharuz divided his columns. Ostar and his son Pel died during the defeat.
 - Northern forces killed and captured members of the army. Sick captives and non-combatant water workers were released; healthy officers were ransomed; other captives were exchanged, admitted to households or enslaved.
 - Tavisha governed water and Kharuz commanded a wartime following. The coalition dispersed after the victory.
-- **Amended 14 November 2026 (Causality Pass 02.5 and 03.6).** In 399 BR Ostar sold the captured rebels of the supply-corridor revolt north in lots to the well-country dealers instead of crucifying them. The sales gave him his northern contacts, his knowledge of the roads between the wells and the belief that northern water and cooperation could be bought, which is the misjudgement that destroyed him. Rethmar's facts above are unchanged. A Rethmar tradition that some of Tavisha's water carriers were men Ostar had sold north is public and disputed. Authorially, a few of the sold had reached Rethmar's households as bought labourers by 381, but none of the carriers named in the tradition was one of them.
+- **Amended 14 November 2026 (Causality Pass 02.5 and 03.6).** In 410 BR Ostar sold the captured rebels of the supply-corridor revolt north in lots to the well-country dealers instead of crucifying them. The sales gave him his northern contacts, his knowledge of the roads between the wells and the belief that northern water and cooperation could be bought, which is the misjudgement that destroyed him. Rethmar's facts above are unchanged. A Rethmar tradition that some of Tavisha's water carriers were men Ostar had sold north is public and disputed. Authorially, a few of the sold had reached Rethmar's households as bought labourers by 402, but none of the carriers named in the tradition was one of them.
 
 ## Identity and supernatural controls
 

@@ -126,11 +126,11 @@ Arqeshite government divided Tarkhan interests. Client leaders gained weapons an
 
 Arezan recognised both as local protectors. Their temporary cooperation ended as soon as their objectives diverged. The Tarkhan inherited no part of Arqesh as a united nation, and Vashar acquired influence along selected roads rather than sovereignty over the open country.
 
-## Rethmar, 392 BR
+## Rethmar, 402 BR
 
 Rethmar developed around winter water, storage and a market where western circuits met. Permanent gardeners, smiths and water keepers lived beside seasonal compounds used by visiting households.
 
-When the army of the Atherian financier Lethren Ostar advanced in 392 BR under his son Pel, **Kharuz of the Stone Wells** organised camel scouts and foot archers. He drew Atherian columns apart by offering separate negotiations and attacked detachments moving between wells. **Tavisha**, an Ahdari keeper, removed the water the Atherians expected to seize.
+When the army of the Atherian financier Lethren Ostar advanced in 402 BR under his son Pel, **Kharuz of the Stone Wells** organised camel scouts and foot archers. He drew Atherian columns apart by offering separate negotiations and attacked detachments moving between wells. **Tavisha**, an Ahdari keeper, removed the water the Atherians expected to seize.
 
 Pel Ostar was taken alive and stayed among the wells; his father had never left Caleran. Northern forces captured officers, soldiers, servants and carriers. Fever entered the camp before ransom could be arranged. Tavisha ordered sick captives and water workers released. Kharuz exchanged several healthy officers for weapons and animals. Captives whose families sent no payment were exchanged, admitted to local households or enslaved.
 

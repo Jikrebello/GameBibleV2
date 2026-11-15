@@ -48,7 +48,7 @@ The Worm did not reach the charter rolls of the League of the Eastern Oar, which
 
 ## Aftermath
 
-After the sealing, c. 513 BR, the Compact's rolls were rebuilt from Caleran's own copies, and from then on every Compact dispute went through Caleran's archive; this completed Caleran's hold on the league. The Nine-Valley League dissolved. Its valleys, now assessed directly by Caleran, refused their ship money in 469 BR and joined the rebels in the War of the Closed Chains.
+After the sealing, c. 513 BR, the Compact's rolls were rebuilt from Caleran's own copies, and from then on every Compact dispute went through Caleran's archive; this completed Caleran's hold on the league. The Nine-Valley League dissolved. Its valleys, now assessed directly by Caleran, refused their ship money in 476 BR and joined the rebels in the War of the Closed Chains.
 
 ## Public Memory
 

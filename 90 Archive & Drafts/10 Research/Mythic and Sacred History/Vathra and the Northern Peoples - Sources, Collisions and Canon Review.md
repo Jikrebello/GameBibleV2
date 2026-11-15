@@ -38,7 +38,7 @@ The following decisions govern the package.
 7. The First Catch of 905–920 AR is the decisive Tarkhan horse revolution. Package C cannot place an equivalent mounted civilisation in antiquity.
 8. Arqesh destroys First Qiryath in 742 BR and falls during the wars ending around 690 BR. Arezan Tiravan's coalition includes northern leaders pursuing their own aims.
 9. Vasharan power follows Arqesh and reaches selected Qahuri and northern routes without governing every dry-country society.
-10. Lethren Ostar dies at Rethmar in 381 BR after Kharuz and Tavisha defeat his expedition.
+10. Lethren Ostar dies at Rethmar in 402 BR after Kharuz and Tavisha defeat his expedition.
 11. The Nine Wells of Tergai are ancestral Tarkhan works seized by Covenant forces in 558 AR.
 12. Mujalib receives the Covenant revelation in 541 AR. No ancient Ahdari practice may be described as Al-Ahdiya.
 
@@ -98,7 +98,7 @@ The development uses relational geography compatible with the provisional invert
 | Glassward approaches | dry country adjoining the changing margins and safer approaches of the Great Glass Desert | Near-Glass contact, early Ahdari formation and routes towards Qahur |
 | Hundred Wells of Narash | western and central chain between former Giant roads, Glassward traffic and southern markets | old caravan crowns, sanctuary, camel breeding and cross-cultural marriage |
 | Tergai water chain | north of the later Mazrakan approach | ancestral Tarkhan wells used by Ahdari and Jirahar travellers; later Covenant seizure remains unchanged |
-| Rethmar winter country | western gathering ground beyond the secure Caleran road | market, storage and joint Ahdari–Tarkhan defence in 381 BR |
+| Rethmar winter country | western gathering ground beyond the secure Caleran road | market, storage and joint Ahdari–Tarkhan defence in 402 BR |
 | Taleri grounding belt | central and north-eastern tether country around Kel-Orun and other fallen works | craft towns, ruins and former Vathran human households |
 | Elkari seasonal lakes | farther east where dry country opens into colder grass | cattle, sheep, hunting, carts and later Grass-Tarkhan ancestry |
 | northern Copper Stair approaches | upland roads beyond the principal grass circuits | metal, timber, rival Giant contacts and later independent trade |
@@ -135,7 +135,7 @@ Exact coastlines, borders, distances and settlement coordinates remain open for 
 | c. 1100 BR | Kor Ashal | debtor child sacrificed; mother breaks altar and is executed; oasis declines | integrate as local cult history if approved |
 | c. 900–690 BR | Savan Uruz and Demer Khol | rival client courts connect northern houses to Arqesh and Qahur | integrate after Package A/B cross-check |
 | c. 706–690 BR | Yalun and Marat | distinct Tarkhan leaders participate in anti-Arqesh coalition | integrate after Vashar chronology check |
-| 381 BR | Kharuz and Tavisha | established defence of Rethmar receives household and captivity consequences | deepen established canon |
+| 402 BR | Kharuz and Tavisha | established defence of Rethmar receives household and captivity consequences | deepen established canon |
 
 ## Identity and continuity matrix
 
@@ -215,7 +215,7 @@ Ahdari is an ancient people. Ahl-e-Ahd is the later imperial-confessional civili
 
 ### Rethmar and the Nine Wells
 
-Rethmar is a winter gathering and market in the western well country. It is not one of the Nine Wells of Tergai. Ostar's defeat in 381 BR and the Covenant seizure of Tergai in 558 AR remain separate conflicts.
+Rethmar is a winter gathering and market in the western well country. It is not one of the Nine Wells of Tergai. Ostar's defeat in 402 BR and the Covenant seizure of Tergai in 558 AR remain separate conflicts.
 
 ### Kor Ashal and Qarzeth
 

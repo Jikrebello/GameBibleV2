@@ -128,7 +128,7 @@ Tarkhan leaders joined the coalition against Arqesh for different reasons. **Yal
 
 Rethmar grew around winter water, storage and a market where western circuits met. Permanent gardeners, smiths and water keepers lived beside temporary compounds used by visiting houses. Tarkhan and Ahdari communities heard disputes through their own customs and invited mediators when a case crossed communal lines.
 
-In 392 BR the Atherian financier [[Lethren Ostar]], who had bought shares in Rethmar's reservoirs from dealers with no right to sell them, sent his son Pel north with hired companies to take possession. Pel expected local leaders to provide water, animals and passage. **Kharuz of the Stone Wells**, a Tarkhan leader, organised foot archers and camel scouts. **Tavisha**, an Ahdari water keeper, moved stores away from the line of advance and marked false camps with empty skins.
+In 402 BR the Atherian financier [[Lethren Ostar]], who had bought shares in Rethmar's reservoirs from dealers with no right to sell them, sent his son Pel north with hired companies to take possession. Pel expected local leaders to provide water, animals and passage. **Kharuz of the Stone Wells**, a Tarkhan leader, organised foot archers and camel scouts. **Tavisha**, an Ahdari water keeper, moved stores away from the line of advance and marked false camps with empty skins.
 
 The columns reached dry wells and were attacked before they could reunite. Pel was captured and lived out his life in a water keeper's household; his father had stayed in Caleran. The victors took soldiers and camp followers captive. Fever entered the prisoner camp while families attempted to raise ransom. Tavisha secured the release of sick captives and water workers; Kharuz exchanged several officers for weapons and animals. Other captives entered local households as slaves when payment failed.
 
@@ -155,7 +155,7 @@ No army could master this country through one victory. It had to carry water, se
 | c. 1325–800 BR | protected markets and recognisably Tarkhan and Ahdari communities form |
 | c. 800–690 BR | Arqeshite pressure and rival client houses reshape the roads |
 | c. 706–690 BR | client collapse and northern participation in Arqesh's defeat |
-| 392 BR | Kharuz and Tavisha destroy Lethren Ostar's expedition at Rethmar |
+| 402 BR | Kharuz and Tavisha destroy Lethren Ostar's expedition at Rethmar |
 | 350 BR | divided northern societies confront expanding Atheria |
 
 ## Further reading

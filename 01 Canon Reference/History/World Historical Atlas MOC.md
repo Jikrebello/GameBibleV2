@@ -94,7 +94,7 @@ The received adventures of the Far-Road King are gathered in [[The Five Limits o
 
 [[Historical Atlas of Vathra and the Northern Ground]] follows the northern dry belt from the last Giant century to the balance of 350 BR. Its opening history, [[Vathra and the Great Unyoking]], describes the flying crown-cities, the War of Altitude and the human revolt which broke their ground system.
 
-The human histories continue through [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]]. The first follows Orphaned well workers, camel keepers, grass families and craftspeople before the mounted Horse Centuries. The second follows the Glass-descended and Braided communities of the western wells before Al-Ahdiya. Their shared winter gathering at Rethmar connects this northern history to [[Lethren Ostar|Ostar's]] failed expedition in 392 BR.
+The human histories continue through [[The Tarkhan before the Horse Hordes]] and [[The Ahdari before the Covenant]]. The first follows Orphaned well workers, camel keepers, grass families and craftspeople before the mounted Horse Centuries. The second follows the Glass-descended and Braided communities of the western wells before Al-Ahdiya. Their shared winter gathering at Rethmar connects this northern history to [[Lethren Ostar|Ostar's]] failed expedition in 402 BR.
 
 ## The southern cold world
 

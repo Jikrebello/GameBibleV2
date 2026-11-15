@@ -154,9 +154,9 @@ Arqesh demanded scouts, hostages and route access. Its deportations placed Ahdar
 
 ## Tavisha and the defence of Rethmar
 
-By the fourth century BR, Rethmar served as a winter gathering for Tarkhan and Ahdari circuits. **Tavisha** belonged to a family which maintained three reservoirs and supervised emergency distribution. Her authority arose from knowledge, recognised service and the willingness of visiting houses to accept her measures.
+By the end of the fifth century BR, Rethmar served as a winter gathering for Tarkhan and Ahdari circuits. **Tavisha** belonged to a family which maintained three reservoirs and supervised emergency distribution. Her authority arose from knowledge, recognised service and the willingness of visiting houses to accept her measures.
 
-Lethren Ostar approached in 381 BR with an Atherian army and demands for water, transport and passage. Tavisha inventoried the stored water, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where Ostar's scouts expected supplies.
+Lethren Ostar approached in 402 BR with an Atherian army and demands for water, transport and passage. Tavisha inventoried the stored water, moved filled skins away from the road and sent gardeners and children towards secondary wells. She marked empty camps where Ostar's scouts expected supplies.
 
 Kharuz of the Stone Wells organised the fighting. His camel scouts and foot archers separated the Atherian columns. After Ostar's death, the victors took officers, soldiers, servants and water carriers captive. Fever entered the camp before ransom could be arranged.
 

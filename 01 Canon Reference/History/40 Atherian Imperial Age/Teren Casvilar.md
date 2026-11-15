@@ -22,11 +22,11 @@ Casvilar belonged to a civic family with old connections in Caleran and too litt
 
 He enjoyed conversation, public occasions and the chance to make an opponent look foolish without raising his voice. His speeches explained what a measure would put on the listener's table before asking anyone to trust the man proposing it. He could forgive a former enemy when forgiveness bought him room to move.
 
-His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Selvena married Marovan Veyr in 389 BR. The match bound a partnership already seven years old and grew into real affection, and for some years Selvena was the one person who could speak privately to both men.
+His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Selvena married Marovan Veyr in 389 BR. The match bound a partnership already sixteen years old and grew into real affection, and for some years Selvena was the one person who could speak privately to both men.
 
 ## Partnership and conquest
 
-Between 396 and 391 BR, Casvilar, Veyr and Ostar worked together to obtain commands and protect their separate interests. Veyr had victories and eastern clients; Ostar had money. Casvilar needed a command that could make him their equal. Ostar's own northern venture was destroyed at Rethmar in 392, and from then on the banker expected his loans to Casvilar to come back as captives.
+Between 405 and 391 BR, Casvilar, Veyr and Ostar worked together to obtain commands and protect their separate interests. Veyr had victories and eastern clients; Ostar had money. Casvilar needed a command that could make him their equal. He was twenty-six when the three first worked together, and it took fifteen years of offices and public works paid for by Ostar before the assembly voted him one. Ostar's own northern venture was destroyed at Rethmar in 402, and from then on the banker expected his loans to Casvilar to come back as captives.
 
 His southern campaigns, principally between 390 and 379 BR, carried Atherian armies into the lives of separate Folk coalitions along the river and forest approaches. He negotiated with Morveth's followers, recruited local guides and fed his troops from conquered stores, so that the people who had grown the food went hungry while his army stayed strong. Each autumn the season's captives went north to Ostar's agents.
 

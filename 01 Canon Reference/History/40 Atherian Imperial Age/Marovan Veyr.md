@@ -26,7 +26,7 @@ He liked an orderly reception, knew the value of appearing unhurried and took pl
 
 ## Selvena and the partnership
 
-Veyr joined Casvilar and Lethren Ostar in the informal partnership of 396–391 BR. Each could supply what the others lacked. Veyr wanted his eastern settlements confirmed and land for his soldiers; Ostar defended his money; Casvilar wanted the command that would make his own name.
+Veyr joined Casvilar and Lethren Ostar in the informal partnership of 405–391 BR. Each could supply what the others lacked. Veyr wanted his eastern settlements confirmed and land for his soldiers; Ostar defended his money; Casvilar wanted the command that would make his own name.
 
 In 389 BR Veyr married Selvena Casvilar, then sixteen. He was thirty years older and already had children from an earlier union, Ardel among them. The marriage gave both households a way to talk and became an affectionate one. Selvena carried news between the two houses and could soften a quarrel before it reached the senate floor.
 
