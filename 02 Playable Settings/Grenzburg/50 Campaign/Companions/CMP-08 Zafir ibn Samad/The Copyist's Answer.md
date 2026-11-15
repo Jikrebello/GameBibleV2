@@ -73,9 +73,9 @@ Bellandi receives [[Samira bint Nahal]]'s authenticated response to the Iqashari
 Her fixed terms are:
 
 1. do not contact her;
-2. recognize her authorship of the inversion;
-3. destroy every surviving living-person instrument in local custody;
-4. derive any personal severance without using unpublished work taken from her.
+2. expect no counter-script from her;
+3. recognize her authorship of the inversion;
+4. destroy every surviving living-person instrument.
 
 At the same time, siege damage opens the Chain House anchor vault. The local execution-end and copied instruments begin activating against clerks, prisoners, and rescue workers.
 

@@ -68,7 +68,7 @@ player_archetype_hooks: []
 
 ## Premise
 
-Nine-Lever Chainworks copied a family of Zafir's old living-person restraints into its safety interlocks. Eight operators are keyed to eight stations. A ninth master lever can stop the whole works, but it also locks every operator in place so one supervisor can restart without reassembly.
+Nine-Lever Chainworks copied a family of Zafir's old living-person restraints into its safety interlocks. Eight operators are keyed to eight stations, and a ninth worker is keyed to the ninth, the inspection bridge. A master lever, the ninth lever, can stop the whole works, but it also locks all nine workers in place so one supervisor can restart without reassembly.
 
 During a load failure, nine workers are trapped inside moving chains, counterweights, and suspended iron. The duo must save them before the load floor tears loose.
 

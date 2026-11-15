@@ -101,7 +101,7 @@ One authored beat each, none of which is triumph or tragedy:
 - **He loses:** he confirms the record stands, and says so to the officials before anyone can propose a rematch. It cost him something to hear the crowd cheer for Tavio and he does not pretend otherwise.
 - **Draw:** he objects — not to the result but to the recording of it, which he wants worded precisely, and he spends twenty minutes on that with a clerk while the crowd disperses.
 - **He withdraws** (pain, brace warning): information, not defeat, delivered in the same tone as the filing. He has spent four years insisting that a warning is data; he will not now ignore his own.
-- **He refuses the bout entirely:** valid, authored, and final. Tavio may not narrate himself denied redemption, and no dialogue option treats her — or him — as an obstacle to it. Lio still gives his testimony against the Bench; the two things were never the same request.
+- **He refuses the bout entirely:** valid, authored, and final. Tavio may not narrate himself denied redemption, and no dialogue option treats him as an obstacle to it. Lio still gives his testimony against the Bench; the two things were never the same request.
 
 ## Navigation
 

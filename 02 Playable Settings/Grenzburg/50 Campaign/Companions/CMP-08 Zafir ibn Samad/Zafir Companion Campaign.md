@@ -80,7 +80,7 @@ Only the three act finales use the fixed player-plus-Zafir party. Romance and bo
 - **procedural:** Zafir follows external safeguards while treating them as constraints rather than moral purposes;
 - **mastering:** expertise becomes authority to override people for their own good.
 
-`zafir_legal_debt_state` follows [[Companion Debt and Remote Claims Standard]]. [[Claims-Factor Marco Bellandi]] authenticates the Iqashari judgement, holds the local execution-end, records destruction, and closes or restructures the claim. He cannot transform Samira's refusal into forgiveness.
+`zafir_legal_debt_state` follows [[Companion Debt and Remote Claims Standard]]. [[Claims-Factor Marco Bellandi]] authenticates the Iqashari judgement, holds the local execution-end as licensed court custody outside Zafir's service instrument (see [[The Inverted Surety]]), records destruction, and closes or restructures the claim. He cannot transform Samira's refusal into forgiveness.
 
 Legal debt, personal direction, relationship, destination, and physical fate remain separate playthrough states. No one of them automatically selects another.
 

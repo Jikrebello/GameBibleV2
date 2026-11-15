@@ -132,7 +132,7 @@ The truth has redundant sources:
 - maker scar and invoice sequence;
 - heat memory in the metal;
 - the gauntlet's pre-bout modification;
-- footage or written bout cadence;
+- bout bills or written bout cadence;
 - Tavio's old seconding card;
 - a folded Red Brass instruction beneath the lining.
 

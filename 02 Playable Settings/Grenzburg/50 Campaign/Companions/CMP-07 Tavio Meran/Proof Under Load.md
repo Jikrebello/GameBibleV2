@@ -74,10 +74,7 @@ Tavio's Act I finale is a player-and-Tavio expedition into [[Cold-Iron Deeps]]. 
 
 A winter gauntlet batch cracks at the Great Forge. The supplier blames Highlake cold-iron. Hella finds a fracture that resembles the Fifth Ring but needs an uncontaminated mine sample and the original testing frame.
 
-A Red Brass field agent has reached the mine first:
-
-- [[Seraf Pellan]] if he escaped;
-- a named Red Brass quartermaster if Seraf was detained, exposed, or otherwise unavailable.
+A Red Brass field agent has reached the mine first: a Red Brass quartermaster, working to [[Seraf Pellan]]'s remote orders where his local network survived [[The Signed Measure]] and to the Bench's own where it did not. Seraf himself never enters Grenzburg.
 
 The agent offers the mine owners a fast public test that will either clear the ore or ruin Highlake's contracts.
 

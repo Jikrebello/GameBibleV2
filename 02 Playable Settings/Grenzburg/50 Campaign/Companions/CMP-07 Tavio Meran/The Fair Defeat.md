@@ -199,7 +199,7 @@ Lio can:
 - withdraw because of pain or brace warning;
 - refuse to forgive after any result.
 
-Tavio may not throw the bout. A deliberate loss steals Lio's fair contest as surely as the hidden ring did.
+Tavio must not throw the bout. A deliberate loss steals Lio's fair contest as surely as the hidden ring did. It is a wrong he can still commit, not an impossibility: a thrown bout is the Overproof outcome in [[Tavio Companion Campaign]], and its result is authored under The Result.
 
 ## The Result
 
@@ -233,6 +233,10 @@ Lio may refuse the bout entirely, before or after the sabotage investigation. It
 
 **Tavio may not narrate himself denied redemption**, and no dialogue option treats Lio as an obstacle to it.
 
+### Thrown bout
+
+Tavio's own wrong, and authored as one. The recorder enters a loss and item seven keeps it. Lio is not deceived, and it angers him because it steals his agency again. This is the Overproof outcome, never a fair loss, and nothing in the fair-loss branch above applies to it.
+
 ## Reckoning
 
 After the result, Tavio chooses whether to:
@@ -255,7 +259,7 @@ Placed at the weigh-in or after the result, branch-dependent, and spoken to Lio 
 
 Four years of *I carried the risk* collapses into one sentence about being outclassed and unable to bear it. **Lio's response is his own**, and he is entitled to find it useless — a fact about Tavio's interior life, offered late, changing nothing about a hip.
 
-Maro and Seraf may be exposed, referred for arrest abroad, stripped of local agents, or left at large. Later content uses state-based substitutes and never requires either man to enter Grenzburg.
+Maro and Seraf may be exposed, referred to the Crucible's masters and held in Vorthara, stripped of local agents, or left at large. Later content uses state-based substitutes and never requires either man to enter Grenzburg.
 
 ## Relationship Commitment
 
@@ -273,7 +277,7 @@ The episodes are distinct and mutually exclusive.
 - Brace sabotage succeeds: Lio may alter rules, postpone, testify, or withdraw.
 - Officials flee: Hella and public records preserve a reduced event.
 - Evidence burns: betting shifts and physical tool marks remain.
-- Every result advances the campaign. No result advances it *normally* — see The Result below.
+- Every result advances the campaign. No result advances it *normally* — see The Result above.
 - Party defeat during disruption: the bout proceeds later under heavier supervision.
 - Missed deadline: the winter relationship opportunity and Selective Yield close; a spring changed examination preserves access to Lancewright without replaying the bout.
 

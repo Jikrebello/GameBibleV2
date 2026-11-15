@@ -176,7 +176,7 @@ This register records the disposition of every other active note matching the Co
 - `02 Playable Settings/Caleran/40 Factions/Patriarchal Household of Caleran.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Caleran/50 Campaign Toolkit/Forty Caleran Urban Quest Seeds.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Caleran/60 Under-Caleran/The Glass Courts Below.md` - reviewed; reference is compatible or incidental and requires no change
-- `02 Playable Settings/Grenzburg/30 Characters/Zafir the Bound Chainmaster.md` - reviewed; reference is compatible or incidental and requires no change
+- `02 Playable Settings/Grenzburg/30 Characters/10 Companions/Zafir ibn Samad.md` (formerly `30 Characters/Zafir the Bound Chainmaster.md`) - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/Brass Jackals.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/Breach-Assessor Samir Veyad.md` - reviewed; reference is compatible or incidental and requires no change
 - `02 Playable Settings/Quest Library/Blocked Adventures/Risen from the Glass/Risen from the Glass — Full Adventure.md` - reviewed; reference is compatible or incidental and requires no change

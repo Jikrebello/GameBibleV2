@@ -24,7 +24,7 @@ That belief makes him dangerous precisely because it contains real knowledge.
 
 ## The Fifth Ring
 
-Maro conceived the Fifth Ring, arranged its installation through [[Seraf Pellan]], and told Tavio that carrying the excess load would make the result his responsibility. Tavio accepted that argument because it sounded like courage.
+Maro conceived the Fifth Ring, arranged its installation through [[Seraf Pellan]], and told Tavio that carrying the excess load would make the result his responsibility. Tavio did not use the ring because of that argument. He used it because he was losing to [[Lio Varcen]], and he took the argument up afterward because it made the fear sound like courage.
 
 After [[Lio Varcen]] was maimed, Maro:
 
@@ -38,7 +38,7 @@ After [[Lio Varcen]] was maimed, Maro:
 
 Maro prefers persuasion, professional loyalty, selective truth, and reputation pressure. He resorts to sabotage or hired violence only after records and protected witnesses place the Bench in real danger.
 
-He may be exposed, detained abroad, removed from the Bench, or remain at large. No later Tavio chapter requires his cooperation or freedom.
+He may be exposed, held in Vorthara by the Crucible's masters, removed from the Bench, or remain at large. No later Tavio chapter requires his cooperation or freedom.
 
 Maro remains outside the playable worldspace. He exerts pressure through Red Brass records, local affiliates, equipment, correspondence, and remote institutional action. Active Tavio quests confront his local network and written choices rather than his body.
 

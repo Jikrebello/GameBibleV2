@@ -136,7 +136,7 @@ Tavio obeys the global Low, Normal, and High settings. At Normal he contributes 
 
 **A player-second who learns about the tremor and stays silent** receives one line of reckoning from Hella after the bout. It is not an approval penalty; it is a note in the file.
 
-`tavio_declined_challenge` is true in every playthrough and is not an approval event. Being read as a coward by a crowd is the cost of the act, not a judgement on the player.
+`tavio_declined_challenge` is true in every tracked playthrough, played or autonomous, and is not an approval event. Being read as a coward by a crowd is the cost of the act, not a judgement on the player. On the never-tracked stable-colleague route Steffen issues no challenge and the state is not written.
 
 ## Navigation
 

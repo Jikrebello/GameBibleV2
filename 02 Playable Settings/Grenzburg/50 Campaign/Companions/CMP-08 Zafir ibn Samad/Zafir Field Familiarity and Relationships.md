@@ -65,7 +65,7 @@ Distinct authored beats count:
 
 **The Route That Wasn't There** opens during the winter siege.
 
-**The Copyist's Answer** requires two of five Act II assets and closes at [[Ghor at the Gate]]. Personal completion grants Binder immediately and is required for either relationship path. A changed spring field proof can grant Binder later without reopening those relationship scenes.
+**The Copyist's Answer** requires two of five Act II assets and closes at [[Ghor at the Gate]]. Personal ethical completion grants Binder immediately and is required for either relationship path; the quest's other outcomes (personal severance only, supervised, failed) do not unlock it. A changed spring field proof can grant Binder later without reopening those relationship scenes.
 
 **Every Hand May Let Go** opens in Act III.
 
@@ -76,7 +76,7 @@ Distinct authored beats count:
 Commitment requires:
 
 - Trusted approval;
-- personal completion of [[The Copyist's Answer]];
+- personal ethical completion of [[The Copyist's Answer]];
 - an explicit authored player interest signal;
 - no unresolved major violation involving slavery, coerced persons, or destruction of Samira's refusal;
 - an available global romance or bond slot.

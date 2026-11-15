@@ -77,7 +77,7 @@ The first spring since the siege lifted brings the reclamation games — license
 
 **Steffen Krall** is winning them in Meran-style: spear, proof gauntlet, arena flourishes off eight years of bout bills. He is nineteen and he is *good.*
 
-His gauntlet is the private demonstration piece that left the Old Market auction in [[The Signed Measure]]. His rings are knockoff Red Brass from the recalled batches, bought cheap from a Hammer Ward fence — cheap because they carry a Meran endorsement the sellers still believe means quality.
+His gauntlet is the private demonstration piece that left the Old Market auction in [[The Signed Measure]]. His rings are knockoff Red Brass from the recalled batches, bought cheap from a Hammer Ward fence — cheap because they carry a Meran endorsement the sellers still believe means quality. If the auction piece did not leave the room intact and unrecorded in Act I, his gauntlet is instead another fitting from the same recalled batches, bought from the same fence.
 
 Hella traces a cracked ring from a pit injury back to the endorsement chain and asks Tavio to find the supply and stop it. He has no authority to stop anything, and everybody in the yards knows it.
 
@@ -106,7 +106,7 @@ The player may interrupt, let it run, or pull him out. None of it un-says the se
 Investigation through Hammer Ward pit culture, no combat required and none forbidden:
 
 - the fence who sold the rings, and the batch stamps he cannot read but kept;
-- the auction paper trail from Old Market to the pits;
+- the auction paper trail from Old Market to the pits, where the piece left the auction;
 - three other fighters carrying batch gear, one of whom has a hand that will not close properly;
 - the bout brokers taking bets on gear they cannot certify.
 
@@ -171,7 +171,7 @@ Nobody thanks him. Steffen, if he takes the ladder, is graceless about it for at
 - `tavio_field_inspection_ledger`: complete, partial, or lost;
 - `steffen_state`: examiner-apprentice, licensed fighter, injured, or estranged;
 - `pit_gear_state`: recalled, partly-recalled, or circulating;
-- `tavio_declined_challenge`: true in every route (autonomous included);
+- `tavio_declined_challenge`: true in every tracked route (autonomous included); not written on the never-tracked stable-colleague route, where the challenge is not staged;
 - `tavio_direction` movement.
 
 ## Rewards

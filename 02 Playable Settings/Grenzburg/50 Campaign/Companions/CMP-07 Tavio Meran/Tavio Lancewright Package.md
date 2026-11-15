@@ -103,7 +103,7 @@ Tavio's right-hand nerve scarring from the Fifth Ring discharge is **narrative m
 - It never modifies a stat, a value, a cooldown, or a failure chance.
 - It is never rolled, never random, and never a debuff or status.
 - It does not gate, weaken, or alter Yield, Break, Brace, Cast, or any mark.
-- It appears in exactly four authored beats: [[The False Ring]] (seeded), [[The Fair Defeat]] (the filing mirror), [[No Wager Between Us]] (seen, unmanaged), and [[Horn for Leak-Day]] (named at the proof gauntlet).
+- It appears in four authored beats and no others, the third on the romance route only: [[The False Ring]] (seeded), [[The Fair Defeat]] (named: the filing mirror), [[No Wager Between Us]] (spent: seen and unmanaged), and [[Horn for Leak-Day]] (passed: named aloud at the proof gauntlet).
 
 If a later balance pass is tempted to represent it mechanically, do not. The concealment is the content.
 

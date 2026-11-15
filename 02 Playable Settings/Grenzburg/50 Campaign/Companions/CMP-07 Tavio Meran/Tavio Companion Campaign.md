@@ -55,7 +55,7 @@ It is a story he assembled afterward. He cheated because he was losing to [[Lio 
 
 The crowd's arc runs opposite and is the campaign's real antagonist: adored, then hungry for one villain to blame, then gone to somebody younger, then — if he earns it — won back honestly at small scale by a man who now measures more than he fights.
 
-**The tremor appears exactly four times** (seeded, named, spent, passed) and never becomes a mechanic; see [[Tavio Meran#The hand]] and [[Tavio Lancewright Package]].
+**The tremor appears in four authored beats, the third on the romance route only** (seeded, named, spent, passed) and never becomes a mechanic; see [[Tavio Meran#The hand]] and [[Tavio Lancewright Package]].
 
 ## Formal Campaign
 
@@ -122,7 +122,7 @@ No threshold requires a faction, relationship, origin, starting vocation, or mor
 |---|---|---|
 | `tavio_lio_brace_intact` | [[The Challenger's Road]] | preserves Lio's full choice of bout rules |
 | `tavio_bout_rules_filed` | Crucible or ducal court work | prevents private rule substitution |
-| `tavio_neutral_officials_secured` | Great Forge, Church, or civic route | protects a result neither Bench controls |
+| `tavio_neutral_officials_secured` | Great Forge, Church, or civic route | protects a result the Bench does not control |
 | `tavio_red_brass_witness` | Act I evidence or protected technician | exposes institutional pressure |
 | `tavio_bookmaker_ledger` | Low Lantern, watch, or investigation | identifies sabotage and fixed odds |
 
@@ -171,7 +171,7 @@ Elara may recover the bookmaker ledger. Zafir may expose the liability structure
 ### Act III
 
 - **Measured and Prepared:** Tavio sounds the horn before the forge becomes his final arena and qualifies as an independent road examiner.
-- **In every route, played or autonomous:** he declines Steffen's public challenge and is read as a coward or a has-been for it. `tavio_declined_challenge` is always true; see [[Meran-Style]].
+- **In every tracked route, played or autonomous:** he declines Steffen's public challenge and is read as a coward or a has-been for it. `tavio_declined_challenge` is true in every tracked route; on the Stable-Colleague Route below, Steffen issues no challenge and the state is not written. See [[Meran-Style]].
 - **Managed default:** he saves the Great Forge only after Hella or ducal authority orders evacuation, becoming a supervised load tester.
 - **Overproof:** he delays for spectacle, conceals a failed measure, or abandons evacuation for one impossible hold.
 

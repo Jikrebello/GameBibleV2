@@ -105,7 +105,7 @@ He tears his display copy, not the evidence.
 
 ### Stress — When the joke stops working (Lovable Captain)
 
-A pit-night crowd. Someone half Tavio's age has just quoted him back at himself, accurately, and the room is enjoying it.
+A pit-night crowd. Someone eleven years younger than Tavio has just quoted him back at himself, accurately, and the room is enjoying it.
 
 **Tavio:** *(easy)* “He is not wrong. I never called one. I was insufferable at his age too — worse, ask anyone in Vorthara—”
 
@@ -202,7 +202,7 @@ Reject any Tavio line that:
 - treats applause as his only pleasure;
 - makes public confidence incompatible with vulnerability;
 - converts Lio into a prop who exists to forgive him;
-- **explains the tremor.** It is shown four times and named twice, by him, to people with a right to know. Nobody diagnoses it and no scene makes it a metaphor out loud;
+- **explains the tremor.** It is shown four times at most, three off the romance route, and named twice, by him, to people with a right to know. Nobody diagnoses it and no scene makes it a metaphor out loud;
 - **narrates the declined challenge as wisdom.** It is a loss. It is felt as a loss. If a line makes it read as serenity, cut it;
 - **lets Steffen be simply wrong.** An old champion preaching limits to the young has a real problem, and the kid's version of it is allowed to land;
 - **makes Maro a hypocrite.** He means the letter. That is what makes it work.

@@ -59,7 +59,7 @@ emotional_rewrite_status: cleared
 dialogue_status: approved
 remote_claim_status: compliant-via-lio-clause
 archetype_pressure: "Competition becomes worth: test whether Tavio can stop, lose, or need help without surrendering athletic joy."
-emotional_function: "Keep Lio's remote claim and refusal; use a present-day challenger to center bodily vulnerability, public expectation, and the right to withdraw"
+emotional_function: "Keep Lio's claim and refusal; bring Lio himself in under the Lio Clause, with no proxy challenger, to center bodily vulnerability, public expectation, and the right to withdraw"
 pleasure_beat: "Competition, crowds, food, physical effort, ridiculous prizes, and celebrating improvement."
 care_beat: "Tavio trains beside people, celebrates their effort, and calls a halt before glory spends their bodies."
 player_archetype_hooks: []

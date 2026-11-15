@@ -34,7 +34,7 @@ Seraf is not devoted to Tavio, Maro, or arena glory. He believes every filed lim
 - hired escorts and ordinary violence;
 - destroying one register while preserving a more valuable copy.
 
-He has no supernatural immunity and no secret patron. He may be exposed, detained abroad, lose his network, or remain at large without breaking later stages.
+He has no supernatural immunity and no secret patron. He may be exposed, held in Vorthara by the Crucible's masters, lose his network, or remain at large without breaking later stages.
 
 ## Narrative Use
 

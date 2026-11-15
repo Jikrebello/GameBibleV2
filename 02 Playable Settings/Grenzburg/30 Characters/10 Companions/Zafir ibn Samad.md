@@ -126,7 +126,7 @@ Reduced harm mattered to those forced to live inside the system. It did not make
 
 She escaped. Zafir became subject to remote restraint through the same architecture he had called humane.
 
-His law house paid claims, voided affected instruments, and called his professional surety. Medori purchased the liability and court-appointed custody of the inverted relation.
+His law house, the private chamber of jurists he practised from, paid claims, voided affected instruments, and called his professional surety. The Court of Breaches at Iqashar recorded the inversion's effects in a judgement and appointed its custody. Medori purchased the liability and that custody, which travels under the Vault of Names' licence and is held apart from his Blackjack service instrument; see [[The Inverted Surety]].
 
 Samira's coercion of Zafir is culpable. His victimization does not retroactively justify his practice. She remains physically absent and may act through authenticated instructions, legal agents, testimony, refusal, or silence. [[Claims-Factor Marco Bellandi]] administers the portfolio without treating either party's legal position as a moral verdict.
 

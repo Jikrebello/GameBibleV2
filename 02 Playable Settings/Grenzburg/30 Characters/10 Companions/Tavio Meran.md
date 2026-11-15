@@ -142,7 +142,7 @@ Nerve scarring across the inside of the right gauntlet hand: a fine tremor at ma
 
 **It is the Bench's architecture in his own body:** a concealed over-capacity problem inside a certified housing. His private contradiction — that every body deserves fair limits and he built his identity on being the exception — is now something he can feel in a glove.
 
-The tremor is **narrative material only** and appears exactly four times across the campaign. It never becomes a stat, a debuff, or a random check; see [[Tavio Lancewright Package]].
+The tremor is **narrative material only** and appears in four authored beats across the campaign, the third of them on the romance route only. It never becomes a stat, a debuff, or a random check; see [[Tavio Lancewright Package]].
 
 Coach Maro Vezan and proof-broker Seraf Pellan organized the Red Brass cover-up. They do not physically travel to Grenzburg during this campaign. Their role continues through equipment, records, agents, endorsements, and institutional pressure.
 
@@ -321,7 +321,7 @@ His campaign must include:
 2. teams who trusted unsafe gear because his name was on it;
 3. a public stop that feels like defeat;
 4. a villain-free fair and cleanup;
-5. Lio exercising independent goals through remote terms, testimony, refusal, and a locally appointed challenger rather than arriving for Tavio's benefit;
+5. Lio arriving under the Lio Clause to fight for himself, with independent goals exercised through his filed terms, testimony, and refusal rather than for Tavio's benefit;
 6. Tavio losing, drawing, winning fairly, or accepting a halt without narrative protection;
 7. relationship episodes where he is not performer, champion, or project;
 8. a forge crisis in which sounding the horn before glory becomes catastrophe is the capstone.

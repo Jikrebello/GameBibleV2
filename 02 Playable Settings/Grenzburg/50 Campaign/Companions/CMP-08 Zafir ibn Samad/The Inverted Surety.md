@@ -29,6 +29,8 @@ It has three required parts:
 
 The execution-end reaches Grenzburg through ordinary custody and is held at Chain House under Medori and civil witness. Samira does not operate it remotely.
 
+The judgement is the Court of Breaches' at Iqashar, and the custody it appointed travels under licence of the Vault of Names, whose Living Register keeps the names of the living bound; Medori bought that licensed custody together with the liability. The cord is held in that custody, apart from Zafir's Blackjack service instrument, and is no term of his service, because name-binding in a Debtors' Corps instrument is a crime under Fiorenzian law.
+
 ## Recorded Effects
 
 The instrument may perform only the effects recorded in the judgement:
@@ -61,7 +63,7 @@ The campaign therefore separates:
 - legal debt;
 - moral direction.
 
-No single technical act resolves all four.
+No single technical act resolves all five.
 
 ## Safe Handling
 

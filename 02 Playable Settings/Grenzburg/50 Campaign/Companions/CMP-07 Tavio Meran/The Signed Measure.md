@@ -82,7 +82,7 @@ Three unsafe fittings are already in use:
 - a Hammer Ward testing collar;
 - a private demonstration gauntlet being auctioned in Old Market.
 
-The master batch register is moving with [[Seraf Pellan]].
+The master batch register is moving with a Red Brass agent working to [[Seraf Pellan]]'s remote orders. Seraf himself never enters Grenzburg.
 
 ## Beginning: Name the Recall
 
@@ -94,7 +94,7 @@ At the Great Forge, the player and Tavio choose how to announce the recall:
 - Low Lantern warning through workers;
 - Red Brass voluntary notice.
 
-A public notice protects users but alerts Seraf. A quiet route preserves surprise but leaves more people at risk. Preparation and companion methods can reduce the tradeoff.
+A public notice protects users but alerts the agent. A quiet route preserves surprise but leaves more people at risk. Preparation and companion methods can reduce the tradeoff.
 
 ## Middle: Three Fittings
 
@@ -116,7 +116,7 @@ Whatever happens to it here is remembered. If it leaves the room intact and unre
 
 ## Pursuit
 
-Seraf leaves with the master register by a workshop cart disguised as salvage. The pursuit crosses Hammer Ward hoists, Old Market service lanes, and the Highlake freight ramp.
+The agent leaves with the master register by a workshop cart disguised as salvage. The pursuit crosses Hammer Ward hoists, Old Market service lanes, and the Highlake freight ramp.
 
 The party may:
 
@@ -124,9 +124,9 @@ The party may:
 - copy the register during a moving boarding;
 - follow it to a Red Brass cache;
 - save bystanders when a false fitting ruptures;
-- let Seraf escape while securing the batch list.
+- let the agent escape while securing the batch list.
 
-Seraf's survival is never required later.
+The agent's survival is never required later.
 
 ## Tavio's Test
 
@@ -136,7 +136,7 @@ This choice moves `tavio_direction`.
 
 ## Fail-Forward
 
-- Seraf escapes: the register or a partial copy remains.
+- The agent escapes: the register or a partial copy remains.
 - Register burns: batch stamps on recovered fittings reconstruct the routes.
 - Apprentice injured: the injury persists and opens changed winter repair.
 - Quarry closes: Highlake supply slows, but no story gate closes.
@@ -146,7 +146,7 @@ This choice moves `tavio_direction`.
 
 - `tavio_signed_batch_register`;
 - state of three unsafe fittings;
-- Seraf's live, arrested, dead, or escaped state;
+- the cart agent's fate, and Seraf's remote state as exposed, cut off from his local agents, or still at large;
 - **Batch Recall**, improving unsafe-equipment detection;
 - **Measured Marking**, reducing Tavio's wasted marks;
 - Act I finale readiness.
