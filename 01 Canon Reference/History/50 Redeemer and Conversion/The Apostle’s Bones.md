@@ -20,7 +20,7 @@ tags: []
 
 ### **Date**:
 
-The find, about 338 AR, under Emperor Sevrin. The bishops' hearing followed within the decade. After 383 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
+The find, about 338 AR, under Emperor Sevrin. The bishops' hearing followed within two years. After 383 the bishops' readers re-entered the find, and after the Great Split of 1015 both churches renewed their claims.
 
 ---
 
@@ -51,7 +51,7 @@ The bishops answered that a Star-priestess would not have been buried with a Red
 
 ####  **The hearing**
 
-Sevrin let the four sees hear the case, as his father had let three of them sit on Halmenth's refusal of the Concord in 297, and the bishops met in a chapel within sight of the ruined altar. They found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
+Sevrin let the four sees hear the case, as his father had let three of them sit on Halmenth's refusal of the Concord in 305, and the bishops met in a chapel within sight of the ruined altar. They found for Calira in matters of communion: the faithful might venerate the bones and keep her feast before them. The governor held to the augurs' entry in law: the remains could not be carried in public procession or moved from Veridun Minor. The bones stayed where they were found, in a sanctuary built over the old altar, and pilgrims came to them anyway.
 
 In 383, after the augur colleges were dissolved and their books passed to the bishops, the bishops' readers struck the augurs' entry and entered the bones as Calira's. Old-cult families at Veridun Minor kept the augurs' version alive for generations.
 

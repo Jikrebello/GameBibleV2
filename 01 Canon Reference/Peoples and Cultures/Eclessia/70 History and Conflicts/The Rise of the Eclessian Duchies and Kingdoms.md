@@ -18,7 +18,7 @@ The present Eclessian realms descend from Atherian provinces, post-Fall emergenc
 
 ## The Bishops' East
 
-When Caleran fell in 905 the eastern provinces were already used to governing themselves. Their bishops had collected and spent the eastern revenue since the seventh century, kept a single register of land, oath and relic, and held the provincial governors' oaths at Aurelium "in trust for the emperor who proves lawful", a formula dating from Bishop Oswin's examination of a court relic in 711. Markish lords held the frontier marches and took their oaths from the bishops. After the Fall emergency lordships hardened into principalities, but none could claim to be the empire. [[Eclessia During the Invasion]]
+When Caleran fell in 905 the eastern provinces were already used to governing themselves. Their bishops had collected and spent the eastern revenue since the seventh century, kept a single register of land, oath and relic, and held the provincial governors' oaths at Aurelium "in trust for the emperor who proves lawful", a formula dating from Bishop Oswin's examination of a court relic in 700. Markish lords held the frontier marches and took their oaths from the bishops. After the Fall emergency lordships hardened into principalities, but none could claim to be the empire. [[Eclessia During the Invasion]]
 
 ## Adalmar's Crown, 961-1019 AR
 

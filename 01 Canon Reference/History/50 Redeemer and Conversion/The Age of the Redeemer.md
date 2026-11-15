@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["c. 33 BR–67 AR"]
+era: ["c. 33 BR–72 AR"]
 region: ["Atherian Empire", "Second Qiryath", "Caleran"]
 culture: ["Atherian", "Jirahar"]
 related_factions: ["Star Pantheon", "Qiryath Council", "Followers of the Redeemer"]
@@ -39,7 +39,7 @@ Food, illness, childbirth and the care of the dead supplied the daily work behin
 
 ## Revolt and Underground
 
-The Great Tower Revolt of 61–67 AR began when the emperor's daily offering lay unburnt on Qiryath's altar for nine mornings, the governor's augur called it fraud, and soldiers sent up the stair to burn a bull in pitch killed the altar's custodians and two hundred others. Militants promised that the lost sign would come back once foreign rule ended. The legions went first to Migdal Shahar on the Dawn Road, whose households escaped through its Way-Gate in 64. Second Qiryath fell in 67 AR, its cisterns broken and its sanctuary burned from its own altar, after its Keeper had sent the sanctuary's vessels away through the city's gate. Atheria ended Qiryath's charter government, put the city under direct provincial rule and charged every Jirahar household for the missing vessels. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
+The Great Tower Revolt of 61–72 AR began when the emperor's daily offering lay unburnt on Qiryath's altar for nine mornings, the governor's augur called it fraud, and soldiers sent up the stair to burn a bull in pitch killed the altar's custodians and two hundred others. Militants promised that the lost sign would come back once foreign rule ended. The legions went first to Migdal Shahar on the Dawn Road, whose households escaped through its Way-Gate in 64, and then to the province's smaller tower towns. Second Qiryath fell in 72 AR, its cisterns broken and its sanctuary burned from its own altar, after its Keeper had sent the sanctuary's vessels away through the city's gate. Atheria ended Qiryath's charter government, put the city under direct provincial rule and charged every Jirahar household for the missing vessels. Many displaced Jirahar found refuge beyond imperial jurisdiction. Some of Qiryath's believers went with them, and others found homes among congregations already established within the empire.
 
 During the Underground Centuries, 1–291 AR, local officials, emperors and mobs acted differently. Some congregations flourished long enough to acquire property before losing it. Others survived through service households and burial fraternities. Magistrates who had watched lamp cults and grave cults feed on soldiers' grief saw the same signs in congregations that kept lamps at executed men's graves, and Tervan Marcellan's edict of 245 made every household relight its grave-lamps green from the Stars' fire after a cult called the Kept Lamps had fed mutinies in the eastern garrisons. Their local histories survive in [[Saints and Sinners of the Chronicles]].
 

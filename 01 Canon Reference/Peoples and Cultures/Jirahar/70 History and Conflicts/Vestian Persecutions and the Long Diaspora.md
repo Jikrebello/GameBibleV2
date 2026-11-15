@@ -17,7 +17,7 @@ The Vestian persecutions of 377–398 AR turned intermittent hostility towards t
 
 ## Before Vestian
 
-The destruction of 67 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. It had also left every Jirahar household in the empire on the rolls of the Litter Debt, charged by the head for the sanctuary vessels that had gone through Qiryath's gate before the city fell. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
+The destruction of 72 AR had ended Qiryath's charter government and driven many displaced families beyond direct Atherian rule. It had also left every Jirahar household in the empire on the rolls of the Litter Debt, charged by the head for the sanctuary vessels that had gone through Qiryath's gate before the city fell. Older diaspora communities received them. Other Jirahar remained in imperial towns, surviving towers and the diminished settlement at Qiryath. During the Underground Centuries, Jirahar and Redeemer congregations sometimes sheltered one another and sometimes denounced one another. Local violence existed, and imperial policy remained inconsistent.
 
 Some Redeemer congregations were themselves largely of Jirahar descent, especially in Sermora's harbours and the gateway ports such as Qabir. Their families had joined the faith under the first Qiryath agreement and kept their mothers' registers beside their baptism rolls. Several still prayed in the Jirahar dialect.
 
@@ -51,7 +51,7 @@ The chancery's draft forbade habitation and rebuilding "in perpetuity". Vestian 
 
 ## The Long Diaspora
 
-Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 67 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. A host community needed to know whom it owed shelter, so refugees carried their mothers' lines, their leases and their burial rights written out. Charters became the stuff of diaspora politics. The mothers' registers held scattered households together as one people, and the conversion courts kept that people open to newcomers by choice as well as by birth.
+Refugees established or enlarged tower communities, host-city quarters, Sea Fleets and Turning Companies. Some households secured safe conduct to Vashar or the independent dry-margin towns through kin who had left after 72 AR. Others entered port quarters or remained under local protections within the empire. A few departures used fixed Way-Gates with the agreement of the receiving community; Qiryath's gate stayed shut. A host community needed to know whom it owed shelter, so refugees carried their mothers' lines, their leases and their burial rights written out. Charters became the stuff of diaspora politics. The mothers' registers held scattered households together as one people, and the conversion courts kept that people open to newcomers by choice as well as by birth.
 
 ## Inherited Wound
 

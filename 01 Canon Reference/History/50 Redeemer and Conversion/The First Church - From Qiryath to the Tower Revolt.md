@@ -4,7 +4,7 @@ type: history
 status: canon
 canon_level: core
 visibility: public
-era: ["0–67 AR", "Age of the Redeemer", "Underground Centuries"]
+era: ["0–72 AR", "Age of the Redeemer", "Underground Centuries"]
 region: [Second Qiryath, Veridun Minor, Virelos, Caleran, Halmenth, Sermora]
 culture: [Jirahar, Atherian, Elmaric, Folk]
 related_factions: [Qiryath Council, Followers of the Redeemer, Atherian Empire]
@@ -14,7 +14,7 @@ tags: [world-historical-atlas, early-church, redeemer, qiryath]
 ---
 # The First Church
 
-The first Church was the congregation that formed at Second Qiryath in 0 AR. Its first work was to tell what happened, baptise those who believed, eat together in remembrance of Isfir, and care for people who would otherwise go without food or burial. By the time the city fell in 67 AR, people were doing that work in houses and workshops across the empire. Qiryath was their point of origin. They could survive its destruction because other households had already learned the work.
+The first Church was the congregation that formed at Second Qiryath in 0 AR. Its first work was to tell what happened, baptise those who believed, eat together in remembrance of Isfir, and care for people who would otherwise go without food or burial. By the time the city fell in 72 AR, people were doing that work in houses and workshops across the empire. Qiryath was their point of origin. They could survive its destruction because other households had already learned the work.
 
 [[The Rise of the Redeemer]] describes the Resurrection and gift of the Holy Flame. [[The Twelve Companions of the Redeemer]] follows the witnesses and their missions. [[Great Tower Revolt and the Second Destruction]] follows the war that displaced the first congregation.
 
@@ -54,9 +54,9 @@ Calira died defending Amaryah's refuge in 29 AR. The larger wave of persecution 
 
 The first Church had to choose how to hear the testimony of people who had recanted under threat, how to support their families and whether they could safely be entrusted with names again. The loss of witnesses gave authority to the people who could still teach what they had received and could produce letters other houses recognised. Elders oversaw particular assemblies, and stewards continued looking after meals, burials and aid. The homes which first hosted a meal could by then have obligations extending through several generations. Amaryah died around 55 AR, and Solana, by then the last of the Companions, kept her lamp. The household's practice of tending it continued in Veridun Minor as the people who remembered Qiryath personally grew fewer.
 
-## 61–67 AR — The city falls and its people carry the Church
+## 61–72 AR — The city falls and its people carry the Church
 
-The revolt began in the spring of 61 AR, when the emperor's offering lay unburnt on the altar for nine mornings and soldiers killed the custodians on the sanctuary stair. Believers in Qiryath faced the same competing duties as their neighbours. No army came for three years, and in that time some left with families on routes already used by the assemblies. Some stayed to care for dependants or to keep burial work going. Relief from other towns reached people through kin and commercial contacts while the roads were still open, and by the same roads came word that Solana had died in her sleep at Veridun Minor in 63 AR, far from the fighting, among the pilgrims who still came to the lamp. In 64 the deep tower of Migdal Shahar, two days east, sent its households out through its Way-Gate before the legions dug down to its fighters, and that autumn the siege closed round Qiryath and broke those contacts. The sanctuary burned in 67 AR. Atheria replaced Qiryath's charter government with direct rule. Many displaced Jirahar found refuge beyond Atherian jurisdiction. Among the city's believers, some went with those households and others reached assemblies inside the empire.
+The revolt began in the spring of 61 AR, when the emperor's offering lay unburnt on the altar for nine mornings and soldiers killed the custodians on the sanctuary stair. Believers in Qiryath faced the same competing duties as their neighbours. No army came against the city for eight years, and in that time some left with families on routes already used by the assemblies. Some stayed to care for dependants or to keep burial work going. Relief from other towns reached people through kin and commercial contacts while the roads were still open, and by the same roads came word that Solana had died in her sleep at Veridun Minor in 63 AR, far from the fighting, among the pilgrims who still came to the lamp. In 64 the deep tower of Migdal Shahar, two days east, sent its households out through its Way-Gate before the legions dug down to its fighters. The legions then dug out the province's smaller tower towns one at a time, and in the autumn of 69 the siege closed round Qiryath and broke those contacts. The sanctuary burned in 72 AR. Atheria replaced Qiryath's charter government with direct rule. Many displaced Jirahar found refuge beyond Atherian jurisdiction. Among the city's believers, some went with those households and others reached assemblies inside the empire.
 
 The survivors carried teaching, burial names, letters and the memory of the places where Isfir had spoken and been buried. They could find congregations in cities which had already sent and received teachers and relief. In Caleran, the memory of the martyrs eventually gave the former forum a church. At Veridun Minor, local households kept Amaryah's lamp through the long period of uneven persecution. At Qiryath, the terrain and loss of the families who knew it eventually defeated claims to identify the exact tomb. Later churches inherited different parts of this history and made different claims from them. [[The Ember Underground]] · [[Qiryath Reqa]] · [[Caleran and the Eternal Ember]]
 

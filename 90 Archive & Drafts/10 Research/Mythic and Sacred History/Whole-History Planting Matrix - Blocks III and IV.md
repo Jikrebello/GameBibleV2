@@ -822,7 +822,7 @@ The register records nursery dispositions rather than canon promotion. Every Blo
 
 ### Conversion and Decadence Review Gates
 
-1. **Chronology gate:** legalization begins under Cassian in 292 AR, Astrion's restoration lasts 348–351, compulsory conversion belongs to Vestian from 377–395, Velian culture forms after 411, and the Ättar Great Keel-Taking belongs chiefly to c. 400–540. No company may flatten those phases into one event.
+1. **Chronology gate:** legalization begins under Cassian in 292 AR, Astrion's restoration lasts 340–351, compulsory conversion belongs to Vestian from 377–395, Velian culture forms after 411, and the Ättar Great Keel-Taking belongs chiefly to c. 400–540. No company may flatten those phases into one event.
 2. **Star-complexity gate:** most major Star powers were refracted Menhir, Thanatos was a misclassification of the Boatman, ordinary images and offices also existed, and Idol Masks could infiltrate real institutions. No one diagnosis applies to the whole Pantheon.
 3. **Conversion gate:** authentic revelation and sanctity coexist with persuasion, protection, opportunism, coercion, confiscation, dispossession, resistance, and atrocity. Neither Church nor old cult receives collective innocence.
 4. **Classification gate:** human soul, object, fraud, residue, office, Menhir `court-law`, Idol Mask, true spirit, bound soul, relic, Patron, and saint remain distinct. A working sign proves only the bounded relationship that answered.

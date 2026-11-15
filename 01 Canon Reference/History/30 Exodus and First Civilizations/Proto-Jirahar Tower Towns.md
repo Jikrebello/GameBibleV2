@@ -42,7 +42,7 @@ The Jirahar preserve the strongest claim to the Great Prophet's original teachin
 
 ## Future Consequence
 
-Qiryath becomes the greatest early tower, where guardians who carried the offering beside the altar's cool stones came to rule like kings until a widow asked whom the stones answered. It is destroyed by Arqesh in 742 BR, rebuilt, and destroyed again by Atheria in 67 AR. The broader tower pattern survives because it never depends on one kingdom. Later towers become deep cities and fixed anchors for the Prophet's Roads.
+Qiryath becomes the greatest early tower, where guardians who carried the offering beside the altar's cool stones came to rule like kings until a widow asked whom the stones answered. It is destroyed by Arqesh in 742 BR, rebuilt, and destroyed again by Atheria in 72 AR. The broader tower pattern survives because it never depends on one kingdom. Later towers become deep cities and fixed anchors for the Prophet's Roads.
 
 ## Navigation
 

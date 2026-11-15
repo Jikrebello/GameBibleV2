@@ -35,7 +35,7 @@ Under Atheria, some Jirahar became citizens, advocates, translators, craftsmen, 
 
 ## The Long Diaspora
 
-The destruction of 67 AR did not create mobility from nothing. It made existing caravans and foreign quarters responsible for displaced households, priestly memory, and law. Vestian's later persecutions turned temporary refuge into permanent communities across every major region.
+The destruction of 72 AR did not create mobility from nothing. It made existing caravans and foreign quarters responsible for displaced households, priestly memory, and law. Vestian's later persecutions turned temporary refuge into permanent communities across every major region.
 
 ## Conversion and Descent
 

@@ -57,7 +57,7 @@ Local wall crews, caravan guards and village militias went on building and fight
 
 ## The Two Oaths seen from the line
 
-When Tavoran II died in the Fever Week of 709 and the same fever left his son too weak to ride, the marches learned what their charters meant. The oaths had to be renewed within a year and a day, in person, and only Corvenas, the sick emperor's brother-in-law, rode out to renew them. March towns watched him come up their roads in 710 with a handful of riders, kneel at the gate and wait while the monk read; at most of them the lamps took the Fire. Covenant commanders across the line watched the same war and kept still, because their jurists warned that crossing would open the peace of 612.
+When Tavoran II died in the Fever Week of 698 and the same fever left his son too weak to ride, the marches learned what their charters meant. The oaths had to be renewed within a year and a day, in person, and only Corvenas, the sick emperor's brother-in-law, rode out to renew them. March towns watched him come up their roads in 699 with a handful of riders, kneel at the gate and wait while the monk read; at most of them the lamps took the Fire. Covenant commanders across the line watched the same war and kept still, because their jurists warned that crossing would open the peace of 612.
 
 ## Small wars inside the peace
 

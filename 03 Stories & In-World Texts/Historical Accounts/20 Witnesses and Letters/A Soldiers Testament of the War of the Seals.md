@@ -51,14 +51,14 @@ And then they rode on.
 
 ---
 
-The **north** fell town by town, in a handful of years. Not conquered—**served**. Its magnates took terms so quickly I wonder if they had been waiting for it; they had not forgotten the requisition columns of the hungry years. The northern field army rode out and killed a court and its escort at the **Dry Ford**, and we cheered when we heard it. By autumn there was no northern field army. It had marched home through served towns whose wells would not draw for it, and it died of its own thirst. The Ahl-e-Ahd didn’t just take territory—they **rewrote it**. Their scribes carved symbols into the stone of our cities, and the cities forgot their names.
+The **north** fell town by town, in a dozen years. Not conquered—**served**. Its magnates took terms so quickly I wonder if they had been waiting for it; they had not forgotten the requisition columns of the hungry years. The northern field army rode out and killed a court and its escort at the **Dry Ford**, and we cheered when we heard it. By autumn there was no northern field army. It had marched home through served towns whose wells would not draw for it, and it died of its own thirst. The Ahl-e-Ahd didn’t just take territory—they **rewrote it**. Their scribes carved symbols into the stone of our cities, and the cities forgot their names.
 
 We sent dispatches to **Caleran**, begging for reinforcements. The reply?  
 _“You are the reinforcements.”_
 
 ---
 
-For twenty years after, we held what we could and lost the rest a town at a time. When the **War of the Seals** was called, it was done with urgency—not ceremony. There was no grand anointing, no procession of holy relics. Only the order:  
+For eight years after, we held what we could and lost the rest a town at a time. When the **War of the Seals** was called, it was done with urgency—not ceremony. There was no grand anointing, no procession of holy relics. Only the order:  
 _“All legions west of the Thalassian Spine—march.”_
 
 We burned our own crops so they wouldn’t feed the invaders. We left villages empty, cities hollow, so that we might concentrate what remained. The legions from the east—**good men, faithful men**—were pulled from their posts, their provinces abandoned. I remember meeting a captain from the **eastern provinces**—a boy, really. Seventeen. They’d sent him with a hundred barely-armed recruits.

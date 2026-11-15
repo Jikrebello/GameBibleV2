@@ -3,7 +3,7 @@ type: reference
 status: canon
 canon_level: core
 visibility: public
-era: ["568-1360 AR", "Present Day"]
+era: ["574-1360 AR", "Present Day"]
 region: ["The Covenant", "Zanthir", "Velian States"]
 culture: ["Velian", "Thalmyric", "Eclessian"]
 related_factions: ["Velian Church", "Thalmyric Church", "Eclessian Church"]

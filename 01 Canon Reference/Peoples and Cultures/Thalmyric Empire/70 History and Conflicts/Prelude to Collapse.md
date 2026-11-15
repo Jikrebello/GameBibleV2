@@ -25,15 +25,15 @@ He was devout, ceremonial and sincerely frightened for the empire's soul. He tur
 
 Every remedy open to Corvenas III needed a test in public.
 
-- To call the marches he had to ride to them and kindle a summons before the frontier monks, as Corvenas I had done in 710. A failure there, in front of the garrisons, would loose every march oath at once.
+- To call the marches he had to ride to them and kindle a summons before the frontier monks, as Corvenas I had done in 699. A failure there, in front of the garrisons, would loose every march oath at once.
 - To pay his armies honestly he had to strike the lost north off the registers, and so concede the Covenant's ancient ruling in writing.
-- To bring the east to war he had to send his relics to Aurelium and let Oswin's successors examine them, as Aurelium had examined the Velos Standard in 711 and recorded it silent.
+- To bring the east to war he had to send his relics to Aurelium and let Oswin's successors examine them, as Aurelium had examined the Velos Standard in 700 and recorded it silent.
 
 He chose what could be done inside Caleran. Thalmyric chroniclers call that the failure of a frightened soul. Eclessian chroniclers call it the natural end of the Guttering. Covenant jurists, who had the file on his accession, call it prudence.
 
 ## Structural Weakness
 
-The palace registers carried every northern province lost between 568 and 612 as though it still paid tax, and an honest muster would have shown empty depots and unpaid troops. Court factions delayed mobilisation for exactly that reason. Soldiers' silver had been debased again after 878. The Ättar marine crews who guarded the Kedravan coast and the capital's harbour had gone months without pay.
+The palace registers carried every northern province lost between 574 and 612 as though it still paid tax, and an honest muster would have shown empty depots and unpaid troops. Court factions delayed mobilisation for exactly that reason. Soldiers' silver had been debased again after 878. The Ättar marine crews who guarded the Kedravan coast and the capital's harbour had gone months without pay.
 
 The marches were bound to their ground. A march commander who left his district without a kindled summons broke his own oath, and Covenant courts, free to sit again since the ruling of 884, waited for exactly that. The east had governed itself since the tax fleet foundered in 653 and would not march on an unexamined summons. The Reception's failure in 878 had already shown the frontier could not be repaired by ceremony.
 
