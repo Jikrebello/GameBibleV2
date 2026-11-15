@@ -24,7 +24,7 @@ Settlement leaders own local and marquee chains rather than a global reputation 
 | [[Highlake]] and upland camps | mining, Tuskway defense, Ghost-Foot terms, avalanche and winter isolation | ore, carriers, outpost control, waystone access |
 | [[Timberfalls]] and Upper Grenz holdings | Tannbruck supply, rafting, fuel, evacuation, spring resettlement | fort survivors, cordwood, bridge state, farm return |
 | Three Mills Reach and the Lowlands | flour, flooding, convoy safety, debt and requisition | winter food, draft animals, road trust |
-| Bent-Oak and other refuges | shelter, burial, worship, fugitive limits, displaced families | sanctuary trust, camp health, compact terms |
+| Bent Oak Refuge and other refuges | shelter, burial, worship, fugitive limits, displaced families | sanctuary trust, camp health, compact terms |
 
 Each chain can align with or resist a principal faction. A local speaker never becomes a universal Folk delegate or automatic ducal client. Seasonal changes transform unresolved quests into authored losses, occupations, evacuations, or recovery work.
 

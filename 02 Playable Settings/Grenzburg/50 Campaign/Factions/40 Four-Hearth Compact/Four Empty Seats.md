@@ -16,7 +16,7 @@ availability_window: ["Early Autumn", "Open Autumn"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["four_hearth_seats", "folk_rank_admitted", "compact_initial_trust"]
-required_locations: ["Moss-Crown Mootground", "Bent-Oak Refuge", "Lakewatch"]
+required_locations: ["Moss-Crown Mootground", "Bent Oak Refuge", "Lakewatch"]
 blocking_status: outlined
 quest_owner: "Four-Hearth Compact"
 quest_sequence: 1

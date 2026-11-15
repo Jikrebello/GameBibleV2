@@ -22,7 +22,7 @@ faction_branch: ""
 ---
 # Ghor-Maw
 
-Ghor-Maw is the war-chief who turns a hard southern migration into the Bloody-Sun conquest of Grenzburg. Hunger, displaced routes, and competition among Grobi bands explain why a host can form; they do not require Ghor to target civilians, hold dependents close to his army, promise plunder, or demand one crown over bands that follow other chiefs; those are his tactical choices.
+Ghor-Maw is the war-chief who turns a hard southern migration into the Bloody-Sun conquest of Grenzburg. Hunger, displaced routes, and competition among Grobi bands explain why a host can form; they do not require Ghor to target civilians, hold dependents close to his army, promise plunder, or demand one crown over bands that follow other chiefs. Those are his tactical choices.
 
 ## Public Character
 

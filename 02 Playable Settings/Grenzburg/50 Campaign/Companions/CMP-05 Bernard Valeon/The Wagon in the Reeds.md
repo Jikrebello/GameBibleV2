@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: resolves-offscreen
 world_state_outputs: ["bernard_road_school_wagon_recovered", "road_school_wagon_state", "refuge_bell_state", "road_school_pack_state", "wagon_driver_state", "reed_road_bandits_state"]
 reward_unlocks: ["Road-School Wagon", "Longlake refuge service"]
-required_locations: ["Bent Oak Chapel", "Lake Gate", "Pikehook Marsh", "Bent-Oak Refuge"]
+required_locations: ["Bent Oak Chapel", "Lake Gate", "Pikehook Marsh", "Bent Oak Refuge"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-operation
@@ -86,7 +86,7 @@ At the cut trace he stops. The leather is stained where Elsa kept driving after 
 - route boards and chalk;
 - blankets, food, bandages, and a field kettle;
 - the bronze refuge bell used to teach emergency signals;
-- repair timber for [[Bent-Oak Refuge]].
+- repair timber for [[Bent Oak Refuge]].
 
 The wagon never arrived. A soaked mule returns with a cut trace and reeds tangled around its harness.
 
@@ -202,5 +202,5 @@ If the player does not participate, Oda, Elsa, and local fishers recover the pas
 - [[Oda Reed-Way]]
 - [[Little Hands, Long Road]]
 - [[Grenzburg Worldspace Location Register#Longlake Country|Pikehook Marsh]]
-- [[Bent-Oak Refuge]]
+- [[Bent Oak Refuge]]
 - [[Companions MOC]]

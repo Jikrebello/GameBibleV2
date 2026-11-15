@@ -9,7 +9,7 @@ culture: ["Folk", "Chapel-Folk", "Eclessian"]
 related_factions: ["Bent Oak", "Lakewatch fishers"]
 appears_in: ["Grenzburg"]
 needs: []
-aliases: ["Bent Oak Refuge"]
+aliases: ["Bent-Oak Refuge"]
 tags: [game-ready]
 map_id: "GR-2-M1"
 worldspace_role: medium-site
@@ -21,9 +21,9 @@ travel_services: [ox-cart, sled]
 seasonal_states: [autumn, winter, spring, summer]
 dungeon_scale: none
 ---
-# Bent-Oak Refuge
+# Bent Oak Refuge
 
-Bent-Oak Refuge is a Chapel-Folk communal hall and protected store on the western lake road. It serves as a teaching destination in [[Little Hands, Long Road]] and as ordinary shelter infrastructure before and after that quest.
+Bent Oak Refuge is a Chapel-Folk communal hall and protected store on the western lake road. It serves as a teaching destination in [[Little Hands, Long Road]] and as ordinary shelter infrastructure before and after that quest.
 
 ## Site
 

@@ -17,7 +17,7 @@ repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["bernard_act1_chapter_resolved", "bernard_act1_result", "bernard_direction", "road_school_state", "chapel_children_state", "mika_food_state", "wounded_bear_state", "bent_oak_refuge_state"]
 reward_unlocks: ["Shelter at My Back", "Long Watch rescue augment"]
-required_locations: ["Bent Oak Chapel", "Lake Road Cairn", "Reedmile Chapel", "Pikehook Marsh", "Bent-Oak Refuge"]
+required_locations: ["Bent Oak Chapel", "Lake Road Cairn", "Reedmile Chapel", "Pikehook Marsh", "Bent Oak Refuge"]
 blocking_status: blocked
 architecture_status: migrated
 companion_content_role: act-finale
@@ -74,7 +74,7 @@ The full party is the player and Bernard. [[Oda Reed-Way]] and seven children tr
 
 ## Unlock and Staging
 
-Once any two Act I assets in [[Bernard Companion Campaign]] are secured, Oda invites Bernard to help lead an autumn road-school trip from Bent Oak Chapel in [[Longlake Ward]] to [[Bent-Oak Refuge]]. Bernard asks the player to come because the children need two adults who can carry, climb, and respond if the road changes.
+Once any two Act I assets in [[Bernard Companion Campaign]] are secured, Oda invites Bernard to help lead an autumn road-school trip from Bent Oak Chapel in [[Longlake Ward]] to [[Bent Oak Refuge]]. Bernard asks the player to come because the children need two adults who can carry, climb, and respond if the road changes.
 
 The tracked docket displays Viable, Prepared, or Strongly Prepared readiness. Accepting at Bent Oak Chapel dismisses the other active companions. The departure warning names the route, expected weather, the presence of children, and the transformed Early Winter conditions.
 
@@ -222,7 +222,7 @@ Freeing the bear before securing the children is reckless and can worsen injurie
 
 ### Pause Point: Children Sheltered
 
-Once all seven are inside Bent-Oak Refuge, the player may pause before dealing with the wounded animal or damaged stores outside.
+Once all seven are inside Bent Oak Refuge, the player may pause before dealing with the wounded animal or damaged stores outside.
 
 ## End: The Refuge Supper
 
@@ -253,7 +253,7 @@ If the bear survives, local hunters monitor it and remove the abandoned snare li
 
 - Low readiness increases injuries and reduces available nonlethal time.
 - A broken road bell makes the winter route less safe until repaired later.
-- Lost food reduces Bent-Oak Refuge's opening winter reserve but does not starve the children.
+- Lost food reduces Bent Oak Refuge's opening winter reserve but does not starve the children.
 - If the bear escapes while injured, hunters establish a bounded follow-up rather than respawning the quest.
 - If the duo is downed, Oda gets the main group behind the refuge wall while Bernard's fixed interposition preserves Tova; injuries and bear state worsen.
 
@@ -282,7 +282,7 @@ In Early Winter the group travels by sled over the established lake road. The be
 
 - Bernard gains the improved **Shelter at My Back** interposition;
 - the Long Watch rescue augment enters the custom-part library;
-- Bent-Oak Refuge becomes a stable rest and dialogue site according to outcome;
+- Bent Oak Refuge becomes a stable rest and dialogue site according to outcome;
 - Chapel-Folk road-school and child summer scenes unlock;
 - qualitative approval and the friendship episode.
 
@@ -304,7 +304,7 @@ The winter aftermath **The Bent Bell** permits compensation, bell repair, remova
 - [[Bernard Valeon]]
 - [[Bernard Companion Campaign]]
 - [[Oda Reed-Way]]
-- [[Bent-Oak Refuge]]
+- [[Bent Oak Refuge]]
 - [[Bernard Field Familiarity and Relationships]]
 - [[Bernard Long Watch Greatsword Package]]
 - [[Predators and Oversized Fauna]]

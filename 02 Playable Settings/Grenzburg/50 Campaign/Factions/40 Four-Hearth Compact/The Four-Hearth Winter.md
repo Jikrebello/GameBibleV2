@@ -16,7 +16,7 @@ availability_window: ["Early Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
 world_state_outputs: ["four_hearth_compact_form", "folk_rights_term", "compact_warning_network", "bernard_mixed_carer_pledge"]
-required_locations: ["Moss-Crown Mootground", "Bent-Oak Refuge", "Fenn Road Exchange"]
+required_locations: ["Moss-Crown Mootground", "Bent Oak Refuge", "Fenn Road Exchange"]
 blocking_status: outlined
 quest_owner: "Four-Hearth Compact"
 quest_sequence: 8

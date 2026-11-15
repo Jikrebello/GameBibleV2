@@ -45,7 +45,7 @@ All seven travel as temporary quest NPCs outside the companion limit. They remai
 - [[Bernard Companion Campaign]]
 - [[The Wagon in the Reeds]]
 - [[Little Hands, Long Road]]
-- [[Bent-Oak Refuge]]
+- [[Bent Oak Refuge]]
 - [[Chapel-Folk]]
 - [[Bernard Valeon]]
 - [[Longlake Ward]]

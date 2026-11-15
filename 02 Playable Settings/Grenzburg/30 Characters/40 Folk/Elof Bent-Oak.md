@@ -24,7 +24,7 @@ faction_branch: ""
 
 ## Core Concept
 
-The reader and refuge keeper of Bent-Oak, responsible for shelter, worship, and road testimony among one Chapel-Folk community.
+The reader and keeper of Bent Oak Refuge, responsible for shelter, worship, and road testimony among one Chapel-Folk community.
 
 ## Conviction and Blind Spot
 

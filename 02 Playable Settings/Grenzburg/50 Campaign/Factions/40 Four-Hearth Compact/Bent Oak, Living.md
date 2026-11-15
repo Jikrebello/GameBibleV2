@@ -16,7 +16,7 @@ availability_window: ["Late Autumn", "Early Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["bent_oak_sanctuary", "chapel_folk_trust", "fugitive_state"]
-required_locations: ["Bent-Oak Refuge", "Reedmile Chapel", "West Refuge Hall"]
+required_locations: ["Bent Oak Refuge", "Reedmile Chapel", "West Refuge Hall"]
 blocking_status: outlined
 quest_owner: "Four-Hearth Compact"
 quest_sequence: 4
