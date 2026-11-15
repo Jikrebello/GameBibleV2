@@ -22,7 +22,7 @@ plural law keeps the ward peaceful, but jurisdictional gaps are deliberately sol
 
 ## Leadership
 
-the Hall of Compacts, represented by Keeper Hadassa ben Or and several consular heads.
+the Hall of Compacts, represented by Keeper Hadassa bath Or and several consular heads.
 
 ## Resources
 

@@ -442,11 +442,11 @@ A living person accepts the seal or leaves at Estate Hold 4. Sethrak cannot leav
 
 ## What the Adventure Changes
 
-- A minor Ishkatar estate becomes the first fully documented example of funerary ownership magic.
+- A minor Ishkatar estate becomes the first example of funerary ownership magic fully documented in the present age; the Reclaiming that helped break the Bronze Roads is its ancient precedent.
 - The Jirahar recover names and testimony from households erased before the Exodus.
 - Qasr Ilyun establishes a ruling on whether Giant-Age slave estates can possess anything in the present.
 - The Brass Jackals become trusted ruin specialists, cursed rivals, or casualties whose survivors blame the party.
-- Estate Dead and Gilded Wardens enter the known bestiary of desert expeditions.
+- Estate Dead and Gilded Wardens, known from accounts of the Reclaiming, enter the working bestiary of present-day desert expeditions.
 - Avarix's influence is shown through possession, classification, and appetite rather than generic golden monsters.
 - The cause of the Great Glass Desert remains unresolved. The storm exposed the tomb; the tomb did not create the Glass.
 

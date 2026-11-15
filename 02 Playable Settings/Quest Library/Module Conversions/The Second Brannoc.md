@@ -22,7 +22,7 @@ tags:
 
 **The original:** hunt the Red Raven, a masked outlaw folk-hero, through the valley that loves him.
 
-**The conversion:** someone is robbing assurance-collectors and tithe-farmers along the Weiss roads and paying burial fees for north-yard families — a **Brannoc claimant**, and the marches have decided to believe. The party is hired (by the Church, the Bank, or a duke, each with different terms) to end it. The claimant is good, beloved, protected by every village — and funding something with the surplus the ballads don't mention.
+**The conversion:** someone is robbing dead-paper brokers' collectors and tithe-farmers along the Weiss roads and paying burial fees for north-yard families — a **Brannoc claimant**, and the marches have decided to believe. The party is hired (by the Church, the Bank, or a duke, each with different terms) to end it. The claimant is good, beloved, protected by every village — and funding something with the surplus the ballads don't mention.
 
 **The torque:** per the folk-hero register, Brannoc's mantle is real cultural machinery — kill the claimant wrongly and you *canonize* him; expose the surplus's destination and the ballads become the party's problem.
 
@@ -61,7 +61,7 @@ Replace generic employers and hidden surplus; use Brauvalian folk-hero tradition
 
 ## Translated Adventure Core
 
-- **Premise:** find the beloved outlaw robbing assurance-collectors and tithe-farmers under the mantle of Brannoc.
+- **Premise:** find the beloved outlaw robbing dead-paper brokers' collectors and tithe-farmers under the mantle of Brannoc.
 - **Conflict:** the claimant does real good and serves real justice, but conceals what the stolen surplus funds and risks turning every village protecting him into a battlefield.
 - **Antagonist:** the claimant's violent inner circle and the oppressive collectors whose abuses made the new Brannoc possible.
 - **Consequences:** the claimant becomes reformer, martyr, prisoner, or exposed fraud, while the Brannoc legend and its social cause survive whatever happens to the person.

@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready, unique-antagonist]
 ---
 # Azravan the Last Cup
 
-Azravan was Grand Chamberlain of Anshara and master of the [[Palace of the Last Audience]]. He is a primordial Vampire Giant: a towering court-bred descendant of the Sovereign whose blood can dominate, preserve, and consume memory as well as life.
+Azravan was Grand Chamberlain of Anshara and master of the [[Palace of the Last Audience]]. He is a primordial Vampire Giant: a towering court-bred Giant claiming descent from the Sovereign, whose blood can dominate, preserve, and consume memory as well as life.
 
 ## The Last Audience
 

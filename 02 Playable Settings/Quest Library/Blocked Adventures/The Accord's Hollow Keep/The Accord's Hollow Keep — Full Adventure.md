@@ -43,7 +43,7 @@ tags: [module-conversion, game-ready]
 
 The old Church and Freeflame movement contain sincere believers, genuine goods, serious errors, and people willing to exploit the crisis. Their theological dispute is not resolved by declaring both sides equally right or equally corrupt.
 
-The Korrheim Accord stopped a war and provides a real public good. It also buried crimes that its signatories considered too dangerous to assign. Peace built over concealed murder remains vulnerable to the truth, but exposing the truth need not require restarting the war.
+The Korrheim Accord stopped a war and provides a real public good. It also buried crimes that its signatories considered too dangerous to assign. Peace built over a murder nobody was made to answer for remains vulnerable to the truth, but exposing the truth need not require restarting the war.
 
 The Hollow Sentries are not resurrected soldiers. The souls of those killed during the Night of Broken Bells were not stored as a convenient army. The thin space repeats memory, office, fear, wounds, and final intention. Its echoes deserve truthful handling because they bear human testimony, but they are not whole persons who can be kept as soldiers indefinitely.
 
@@ -63,7 +63,7 @@ The third order was forged by a Brauvalian noble agent who feared peace would ex
 
 The chaplain's confession register recorded every person's rite and assigned station because both confessions demanded separate burial. The register, bell, contradictory orders, and concentrated deaths formed a soul-route thin space. Survivors reported seeing sentries continue their patrols after their bodies were carried away.
 
-When the Accord was signed five years later, delegates sealed the undercroft and rebuilt the site as a joint watch-fort. Publicly acknowledging the massacre would have required accusing one of the first signatory houses of engineering a false breach. The keep became a monument to peace while the reason it needed peace remained underground.
+When the Accord was signed five years later, delegates sealed the undercroft and rebuilt the site as a joint watch-fort. The massacre and the forged order were already common knowledge. Publicly naming the forger would have required accusing one of the first signatory houses of engineering a false breach, and neither side wished to record that the dead still kept their posts below. The keep became a monument to peace while the forger's name and the dead who still walked there remained underground.
 
 ## Why the Muster Woke Now
 
@@ -410,7 +410,7 @@ The strongest account establishes four facts:
 
 - Othmar forged the immediate orders and opened the seal.
 - Sabine copied living soldiers and attempted to remove the register.
-- the 1338 massacre began through a forged no-quarter command rather than confessional attack;
+- the forged no-quarter command of 1338 was the work of a Brauvalian noble agent, sent to both sides through different runners, and not of either confession;
 - current soldiers of both rites resisted or survived the conspiracy.
 
 Evidence can include Othmar's confession, rescued originals, Sabine's notes, the modern and old registers, Hannes's completed cease-watch, and testimony from Grey Pike contractors.
@@ -419,7 +419,7 @@ Evidence can include Othmar's confession, rescued originals, Sabine's notes, the
 
 ### The Joint Watch Restored
 
-Sabine is stopped, Living Recovered is 3+, Accord Stability is +1 or better, and both relief columns receive the truth. The Muster is healed or jointly sealed. Hollow Keep returns to a mixed garrison under a new commander, and the Night of Broken Bells enters the public record. This is the most restorative continuation.
+Sabine is stopped, Living Recovered is 3+, Accord Stability is +1 or better, and both relief columns receive the truth. The Muster is healed or jointly sealed. Hollow Keep returns to a mixed garrison under a new commander, and the whole truth of the Night of Broken Bells enters the public record. This is the most restorative continuation.
 
 ### Korrheim Holds the Walls
 
@@ -427,7 +427,7 @@ Greta controls the signal tower when relief arrives and the Freeflame company ca
 
 ### Brauvalis Holds the Chapel
 
-Lucien preserves the register and opens the gate to Brauvalian troops. Church investigators take custody of the undercroft. They release some echoes through proper burial but restrict the massacre record to prevent scandal.
+Lucien preserves the register and opens the gate to Brauvalian troops. Church investigators take custody of the undercroft. They release some echoes through proper burial but restrict the forger's name and the undercroft record to prevent scandal.
 
 ### The Grey Pike Settlement
 
@@ -451,7 +451,7 @@ Othmar leaves with Hannes's echo bound to an object or living pattern. The echo 
 
 ## What the Adventure Changes
 
-- The Night of Broken Bells becomes a documented wound of the Wars of Reform.
+- The Night of Broken Bells, already known as a massacre, has its forger and its dead documented or buried a second time.
 - The Korrheim Accord gains either a successful joint precedent or a fresh territorial crisis.
 - Hollow Sentries become a known soul-route threat rather than folklore about doubled guards.
 - The Order of the Lantern must answer for Sabine Krail's methods and dismissal.

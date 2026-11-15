@@ -18,7 +18,7 @@ The Abbey of the Last Lamp is a dissolved Brauvalian burial house on the ridge e
 
 ## Foundation
 
-The abbey was founded in 1028 AR after early Brauvalian clergy discovered a ghoul passage beneath an older funerary quarry. The brothers closed the passage, built a cemetery above it, and made an annual office of naming, lamp vigil, and physical inspection part of the Seal's maintenance.
+The abbey was founded in 1028 AR after early clergy from what became Brauvalis discovered a ghoul passage beneath an older funerary quarry. The brothers closed the passage, built a cemetery above it, and made an annual office of naming, lamp vigil, and physical inspection part of the Seal's maintenance.
 
 The house never became rich. It buried strangers, road dead, mine laborers, plague victims, and people whose parishes could not pay. Its title, **the Last Lamp**, referred to the light left burning after a funeral household departed.
 

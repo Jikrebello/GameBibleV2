@@ -53,7 +53,7 @@ Preserve the rival camps, excavation race, layered pyramid, and destabilizing pr
 
 ### Replace
 
-Replace generic contract-shaped traps; use mixed Ansharan ritual and early metaphysical law, with only some genuinely contractual mechanisms.
+Replace generic contract-shaped traps; use mixed Ishkatar ritual and early metaphysical law, with only some genuinely contractual mechanisms.
 
 ## Exact World Egg Placement
 

@@ -58,7 +58,7 @@ The arrangement is awkward but has prevented open fighting for seventeen years.
 
 The keep stands over the site of the Night of Broken Bells in 1338 AR, when a forged no-quarter order turned a prisoner exchange into a massacre. The confession register, cracked bell, and repeated final duties formed a soul-route thin space.
 
-The Accord sealed the undercroft without publicly assigning blame. See [[The Hollow Muster]].
+The massacre and the forged order are public history. The Accord sealed the undercroft without publicly naming the forger or admitting that the dead still walked there. See [[The Hollow Muster]].
 
 ## Story Use
 

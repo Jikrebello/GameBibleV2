@@ -76,9 +76,9 @@ Outside a great city stand the ruined siege-castles of old wars, long picked ove
 
 ## Exact World Egg Placement
 
-**The conversion:** an earthquake cracks open the [[The Kestrel Tower]], a long-sealed Atherian-Eclessian frontier fort near Dornwatch. A small survey party enters before the structure is stable and becomes trapped among [[Harridans]], broken stairs, and awakened residue. [[Torvald Ghost-Foot]], a Folk exile with a genuine grievance against the survey's Bank sponsor, follows them in and turns the last defensible chamber into a hostage standoff. The party is sent to bring everyone out alive.
+**The conversion:** an earthquake cracks open the [[The Kestrel Tower]], a long-sealed Atherian-Eclessian frontier fort near Dornwatch. A small survey party enters before the structure is stable and becomes trapped among [[Harridans]], broken stairs, and awakened residue. [[Torvald Ghost-Foot]], a Folk exile with a genuine grievance against the survey's Bank sponsor, is already living on the upper floors. He helps them reach the top, recognizes the Bank seal on the surveyor's satchel, and turns the last defensible chamber into a hostage standoff. The party is sent to bring everyone out alive.
 
-**The torque:** the rescue cannot wait for the title dispute. Torvald has proof that the Bank used an old marcher survey to close a Ghost-Foot winter road and never compensated the displaced households, but his grievance does not justify holding frightened guides at spearpoint. The characters must cross the failing fort, keep the trapped people alive, and resolve the standoff before anyone can safely argue over ownership.
+**The torque:** the rescue cannot wait for the title dispute. Torvald has proof that a Bank survey wrongly condemned his family's holding on a technicality of frontier title, but his grievance does not justify keeping the surveyor bound while two injured guides wait in a failing tower. The characters must cross the failing fort, keep the trapped people alive, and resolve the standoff before anyone can safely argue over ownership.
 
 **Hook:** a dangerous rescue through a newly opened frontier ruin, ending with a hostage-taker whose grievance is true and whose chosen remedy is wrong.
 

@@ -16,7 +16,7 @@ tags: [game-ready]
 
 Cavora is a Castaran charter town on the [[Castaran Long Road]], twelve road-days west of Castara. About 650 people live there year-round. During major caravan windows its bunkhouses, yards, and temporary camps can hold more than a thousand.
 
-The town stands on a low stone shelf around three wells, a caravan depot, a market yard, and an old assay house. Open grass begins immediately beyond its marked approaches. Cavora is a durable inland stopping place, not an extension of Castara's sovereign border.
+The town stands on a low stone shelf around three wells, a caravan depot, a market yard, and a stone assay house. Open grass begins immediately beyond its marked approaches. Cavora is a durable inland stopping place, not an extension of Castara's sovereign border.
 
 ## The Roadholding
 

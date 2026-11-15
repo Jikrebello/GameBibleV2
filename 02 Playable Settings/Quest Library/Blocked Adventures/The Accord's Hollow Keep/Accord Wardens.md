@@ -15,11 +15,11 @@ tags: [module-conversion, game-ready]
 ---
 # Accord Wardens
 
-Accord Wardens are mixed-confession soldiers, clerks, guides, and beacon-keepers assigned to roads and watchhouses whose exclusive occupation would threaten [[The Korrheim Accord]]. They are a practical border institution rather than a knightly order.
+Accord Wardens are mixed-confession soldiers, clerks, guides, and beacon-keepers. The first were the mixed watches posted on the common ground of the Night Count of 1342, the few dozen places that would not lie still for either rite. Since [[The Korrheim Accord]] they are also assigned to roads and watchhouses whose exclusive occupation would threaten it. They are a practical border institution rather than a knightly order.
 
 ## Purpose
 
-Wardens keep crossings open, verify troop movements, escort displaced clergy and households, maintain shared rescue stores, and report armed confessional breaches before local retaliation becomes a campaign.
+Wardens watch the common-ground yards, are called with Lantern investigators to tell a walking churchyard from a staged haunting, and escort the carrying parties that cross a border with their dead for a yard of their own rite. On their roads they keep crossings open, verify troop movements, escort displaced clergy and households, maintain shared rescue stores, and report armed confessional breaches before local retaliation becomes a campaign.
 
 Their presence does not erase territorial rule. They exist where exercising that rule without witnesses would be unusually dangerous.
 
@@ -33,7 +33,7 @@ A watch normally includes:
 - signalers trained on both beacon networks;
 - rotating auxiliaries supplied by neighboring rulers.
 
-Wardens swear to the peace schedule and assigned road, not to theological neutrality. Individual members retain their confession.
+Wardens swear to the Schedule of Yards and their assigned yard or road, not to theological neutrality. Individual members retain their confession.
 
 ## Strengths
 

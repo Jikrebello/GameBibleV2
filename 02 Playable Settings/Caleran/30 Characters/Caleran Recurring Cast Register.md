@@ -22,7 +22,7 @@ These eighteen supporting characters recur across districts and factions without
 | Tomas Varek | district watch sergeant | Broken Arch | protects tenants while taking Vesna's information |
 | Eleni Sarant | junior Synod clerk | Synod Close | receives letters from an absent bishop |
 | Jakov Red-Hand | veteran claimant | Returning Ward | his founder's amnesty defeats his land claim |
-| Miriam bat Tal | Jirahar scroll advocate | Caravan Ward | safeguards a prophecy fragment she believes mundane |
+| Miriam bath Tal | Jirahar scroll advocate | Caravan Ward | safeguards a prophecy fragment she believes mundane |
 | Lucan d'Aurelle | Eclessian envoy | Old Gardens | seeks schism leverage through a relic dispute |
 | Farid Qasren | Zanthiri physician | Glass Court | treats people both empires prefer to classify first |
 | Ana Velesh | mill representative | Cistern Ward | accuses the Keepers of inventing shortages |

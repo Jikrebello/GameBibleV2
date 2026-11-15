@@ -71,7 +71,7 @@ Late imperial engineers built a signal and refuge relay above a north-running se
 
 ### The Fraternity of the First Shelter
 
-In 1012 AR, four years after the Folk Wars formally ended, Chapel-Folk survivors and Eclessian marcher soldiers restored the upper relay as a refuge hall. They formed the [[Fraternity of the First Shelter]] and bound themselves to protect carried-off persons, fugitives from unlawful violence, winter travelers, and surrendered enemies awaiting judgement.
+In 1012 AR, thirteen years after the Peace of the Bent Oak, Chapel-Folk survivors and Eclessian marcher soldiers restored the upper relay as a refuge hall. They formed the [[Fraternity of the First Shelter]] and bound themselves to protect carried-off persons, fugitives from unlawful violence, winter travelers, and surrendered enemies awaiting judgement.
 
 Their founding rule became [[The First-Shelter Writ]]: life and shelter precede claims over property, rank, or border. The fraternity died out as roads moved and its last households joined Birchcross. Its public hall was sealed; its crypt and the older stair passed into story.
 

@@ -28,9 +28,9 @@ He came to the Kestrel Tower because the quake had emptied it and no one else wa
 
 ## The Hostage
 
-When the Bank sent surveyor Ivo Kesler to assess the cracked fort, Torvald recognized the seal and took him. It was not a plan so much as a reflex — the first Bank thing to come within reach in two years of being unheard. He has not harmed Kesler. He feeds him, keeps him bound, and argues his case at him nightly, because Kesler is the only person in the world currently obliged to listen.
+When the Bank's surveyor Ivo Kesler and two local guides became trapped above the collapsed stair, Torvald helped them reach the top floor. Then he recognized the Bank seal on Kesler's satchel and refused to let him leave. It was not a plan so much as a reflex — the first Bank thing to come within reach in two years of being unheard. He has not harmed Kesler. He feeds him, keeps him bound, and argues his case at him nightly, because Kesler is the only person in the world currently obliged to listen.
 
-His demand is small and, as he has framed it, impossible: the Bank must admit the survey was wrong and restore his family's title. He does not know that Kesler entered with two local guides whose safety his standoff now endangers.
+His demand is small and, as he has framed it, impossible: the Bank must admit the survey was wrong and restore his family's title. The two local guides who came in with Kesler are free but injured, and his standoff keeps them in a tower that is still collapsing.
 
 ## Character
 

@@ -16,7 +16,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Iron Diadem
 
-**Source:** *Tomb of the Iron Medusa* | **Tier:** F/W | **Region:** a remote Thalmyric border range | **Band:** level 14 analog
+**Source:** *Tomb of the Iron Medusa* | **Tier:** F/W | **Region:** Veridun | **Band:** level 14 analog
 
 **The original:** the last heir of a disgraced noble family hires explorers to enter its trap-laden necropolis and recover evidence that might clear the family name.
 

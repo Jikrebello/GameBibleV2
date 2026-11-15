@@ -33,7 +33,7 @@ the district absorbs people and hazards excluded from the inner city without rec
 - **Camp of the Rekindling:** a recurring social, investigative, or expedition location within the district.
 - **Metropolitan Necropolis:** a recurring social, investigative, or expedition location within the district.
 - **Cartwright Field:** a recurring social, investigative, or expedition location within the district.
-- **Saint Ioan Outer Fort:** a recurring social, investigative, or expedition location within the district.
+- **Saint Dovrin Outer Fort:** a recurring social, investigative, or expedition location within the district.
 
 ## Quest Hooks
 

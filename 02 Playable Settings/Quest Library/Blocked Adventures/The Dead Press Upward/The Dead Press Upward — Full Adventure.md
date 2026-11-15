@@ -53,7 +53,7 @@ Old-Church and Freeflame households disagree about authority, images, and the pr
 
 ## The Central Truth
 
-The Abbey of the Last Lamp was founded in 1028 AR over a much older funerary cutting. Early Brauvalian brothers discovered that ghouls had used the cutting as a road into surface grave fields. They built the Seal of the Shut Mouth across that route and maintained a consecrated drainage of residue through named interment, lamp vigils, and an annual closing rite.
+The Abbey of the Last Lamp was founded in 1028 AR over a much older funerary cutting. Early brothers from what became Brauvalis discovered that ghouls had used the cutting as a road into surface grave fields. They built the Seal of the Shut Mouth across that route and maintained a consecrated drainage of residue through named interment, lamp vigils, and an annual closing rite.
 
 During the Grey Sweat, Wanenbruck buried more than four hundred paupers and strangers in new galleries around the abbey. The brothers recorded each name they knew on clay tablets and left blank marks for the unknown. The abbey later lost population, property, and office. Its surviving burial duties passed to Wanenbruck's sextons, while its outer land was leased to mines and timber yards.
 

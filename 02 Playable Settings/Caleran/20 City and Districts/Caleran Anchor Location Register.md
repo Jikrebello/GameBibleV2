@@ -124,7 +124,7 @@ These seventy locations are the first recurring stage set for Caleran. Promote a
 - **Camp of the Rekindling:** service ground transformed into a tent city during the great feast.
 - **Metropolitan Necropolis:** cemetery administration over grave roads, plague fields, and military belts.
 - **Cartwright Field:** heavy workshops, yards, animal care, and freight assembly.
-- **Saint Ioan Outer Fort:** garrison, road station, refuge house, and final secure aqueduct-hill post.
+- **Saint Dovrin Outer Fort:** garrison, road station, refuge house, and final secure aqueduct-hill post.
 
 ## Navigation
 

@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # Hushfield
 
-Hushfield is an abandoned early road hamlet northwest of [[Cavora]]. A failed well, one fever season, and the movement of the declared caravan line emptied it. The toll house, memorial ground, dry well, and several roofless homes remain.
+Hushfield is an abandoned toll hamlet on one of the older northern caravan routes, northwest of [[Cavora]]. A failed well, one fever season, and a declared caravan line staked to pass it by emptied it. The toll house, memorial ground, dry well, and several roofless homes remain.
 
 ## The Toll-Widow
 
@@ -34,7 +34,7 @@ The residue dead contain no trapped people. Proper reburial honors the dead and 
 
 ## The Closing Cadence
 
-Hushfield's last keeper recorded Atherian workers passing east after closing a western mine. The seven-beat cadence attached to that entry is the shutdown sequence for [[The Rehearsal Forge]]. Recovering it can halt one repeated mechanism or lower Seam Resonance.
+Hushfield's keepers handed down an old entry that records Atherian workers passing east after closing a western mine, and the last keeper still recited it. The seven-beat cadence attached to that entry is the shutdown sequence for [[The Rehearsal Forge]]. Recovering it can halt one repeated mechanism or lower Seam Resonance.
 
 ## Navigation
 

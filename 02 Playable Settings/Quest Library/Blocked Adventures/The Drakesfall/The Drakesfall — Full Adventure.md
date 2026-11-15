@@ -90,7 +90,7 @@ The [[The Concord of Weights]] and Vorthara stand behind it all: heart-gems in b
 
 ### The Word from the Passes
 
-The party is in [[Kalzaret, Bastion of the Returning Road|Kalzaret]], the Bastion of the Flame, where the reconquest stages and the passes begin. The trouble arrives as frontier trouble does: teamsters who will not take the upper road after dark, a village deputation the garrison is ignoring, and a Phoenix chaplain worried about "nights that don't turn."
+The party is in [[Kalzaret, Bastion of the Returning Road|Kalzaret]], the Bastion of the Flame, where the Reconquest once staged and the passes begin. The trouble arrives as frontier trouble does: teamsters who will not take the upper road after dark, a village deputation the garrison is ignoring, and a Phoenix chaplain worried about "nights that don't turn."
 
 The party can learn, before they climb:
 

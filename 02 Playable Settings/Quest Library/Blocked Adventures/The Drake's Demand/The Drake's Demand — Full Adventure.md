@@ -63,7 +63,7 @@ The strongest ending kills Sovarath, saves the selected attendants, tells the fo
 
 ### The First Battle
 
-In 1117 AR, Dame Sabine Heller led retainers against a gold drake that had begun hunting carts and quarry crews along the upper Weiss. The creature was then a large but nonsapient territorial animal. Sabine drove it into its nesting court and wounded it through the chest with a consecrated boar-spear. A cave fall buried the body beneath sunstone and lime.
+In 1117 AR, Dame Sabine Heller led retainers against a gold drake that had begun hunting carts and quarry crews along the middle Weiss. The creature was then a large but nonsapient territorial animal. Sabine drove it into its nesting court and wounded it through the chest with a consecrated boar-spear. A cave fall buried the body beneath sunstone and lime.
 
 Sabine recovered the Meridian Mirror, several scales, and a gilded crest from the outer court. She read the stillness, blood, and collapsed passages as death. The first Hellerbruck charter described the ridge as land freed from a devouring beast. The town grew around a bridge, quarry, brewery yards, and bell foundry.
 

@@ -266,7 +266,7 @@ The party needs any two independent location clues to triangulate Echo Seam Mine
 
 ### Hushfield - The Closing Cadence
 
-Hushfield was an early road hamlet abandoned after a dry well and fever season. The intact toll house contains an anchored persona echo called the **Toll-Widow**, formed from repeated declarations spoken by several generations of record-keepers. It is not any one keeper's soul.
+Hushfield was a toll hamlet on one of the older northern caravan routes, abandoned after a dry well and fever season. The intact toll house contains an anchored persona echo called the **Toll-Widow**, formed from repeated declarations spoken by several generations of record-keepers. It is not any one keeper's soul.
 
 **Signs:** a shutter opens whenever someone names a destination; dust records footsteps that occurred years apart; a woman's voice asks for declarations from empty rooms; the memorial board has been split for firewood.
 
@@ -274,7 +274,7 @@ Hushfield was an early road hamlet abandoned after a dry well and fever season. 
 
 **Opposition:** collapse, territorial dogs gone feral, residue walkers from an unmarked fever trench, and the House Echo's defensive repetition. The walkers contain no trapped people.
 
-**Information:** the last toll keeper recorded Atherian workers closing a western mine and sang the workshop's seven-beat shutdown cadence to remember it.
+**Information:** the toll keepers handed down an old entry that records Atherian workers closing a western mine, and each in turn sang the workshop's seven-beat shutdown cadence to remember it.
 
 **Asset - Closing Cadence:** once during the mine, halt a repeating mechanism, lower Resonance by 1, or create a safe pause during the recursive run.
 

@@ -28,14 +28,14 @@ The group disappeared after locating [[Bitter Crown Basin]]. It expected to retu
 | **Tiratha bath Emon** | Jirahar healer and memorial witness | Alive near the False Audience, sheltering behind an embalming table and refusing an imposed court title |
 | **Korin bar Atara** | Jirahar guard | Alive in the blood distillery, holding a servant route against Wax-Bound Courtiers |
 | **Qasim Darun** | Qahuri porter and animal keeper | Dead at the Gate of Conquest; his brace marks expose the crushing corridor |
-| **Lethara bath Orin** | Jirahar copyist | Dead at the Annihilation Mouth after testing it with a tether; the cut line and scorched threshold reveal its boundary |
+| **Lethara bath Orin** | Jirahar copyist | Dead at the Annihilation Mouth after testing it with a tether; the cut line at the threshold reveals its boundary |
 | **Halim Sahr** | Qahuri mason and ruin reader | Dead beneath the Throne Procession; his chisel marks identify the safe maintenance rhythm |
 
 ## Expedition Principles
 
 Bashir and Shimara agreed to shared custody of inscriptions, public recording of human names, and division of ordinary salvage under Qasr Ilyun's breach court. The expedition carried no vampire patron, concealed rival crew, or inherited Ansharan key.
 
-Its members made intelligent mistakes under pressure. They recognized the two monumental gates as dangerous, found the Dust Door, and penetrated deeply. Court Attention separated them after Bashir offered blood to save an injured porter and the palace treated that act as acceptance of rank.
+Its members made intelligent mistakes under pressure. They recognized the two monumental gates as dangerous, found the Dust Door, and penetrated deeply. Court Attention separated them after the porter Qasim died and Bashir offered blood to prevent another death; the palace treated that act as acceptance of rank.
 
 ## Rescue Use
 

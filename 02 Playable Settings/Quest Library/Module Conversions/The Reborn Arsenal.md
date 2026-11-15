@@ -20,7 +20,7 @@ tags: [module-conversion, game-ready]
 
 **The original:** a gunmaking city sends heroes beyond its walls to discover why its clockwork defenders have begun attacking citizens.
 
-**The conversion:** a Caldrian crown arsenal couples local warlock crews to imported [[Ironbound Frames|Ironvale labor and war frames]]. During proof week, the machines begin enforcing an obsolete siege directive: requisition food, close roads, and classify armed citizens as mutineers. The command originates in a mothballed proving ground beyond the mountain foundries, where a human Black Forger has layered “maintain wartime readiness” over every ordinary shutdown condition.
+**The conversion:** a Caldrian ducal arsenal couples local warlock crews to imported [[Ironbound Frames|Ironvale labor and war frames]]. During proof week, the machines begin enforcing an obsolete siege directive: requisition food, close roads, and classify armed citizens as mutineers. The command originates in a mothballed proving ground beyond the mountain foundries, where a human Black Forger has layered “maintain wartime readiness” over every ordinary shutdown condition.
 
 **The torque:** the constructs are not mad or afraid to die. They are executing valid orders whose emergency authority was never terminated. Stopping them by force saves the town but destroys a generation of strategic industry; ending the directive requires reaching the command spine, identifying the self-maintenance layer, and restoring a human shutdown chain.
 
@@ -62,7 +62,7 @@ Replace a generic reborn machine; make it a Caldrian Reform-war arsenal whose do
 - **Premise:** stop a Caldrian arsenal of imported Ironbound frames from imposing an obsolete siege directive on its foundry town during proof week.
 - **Conflict:** destroying the constructs saves people quickly but ruins strategic industry, while ending the directive requires restoring a severed human command chain inside a foreign-built system.
 - **Antagonist:** the human Black Forger who installed the permanent-war layer; the non-conscious arsenal is the principal physical threat.
-- **Consequences:** Ironvale's roads and food remain under military seizure or return to civic control, and the arsenal is destroyed, corrected, or claimed by a new authority.
+- **Consequences:** the foundry town's roads and food remain under military seizure or return to civic control, and the arsenal is destroyed, corrected, or claimed by a new authority.
 
 ## Controlling Canon
 

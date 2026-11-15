@@ -16,7 +16,7 @@ tags: [module-conversion, game-ready]
 ---
 # The Midnight Glass
 
-**Source:** *The Midnight Mirror* | **Tier:** W | **Region:** a Brauvalis manor-town or Vortharan client estate | **Band:** level 4 analog
+**Source:** *The Midnight Mirror* | **Tier:** W | **Region:** Caldria | **Band:** level 4 analog
 
 **The original:** disease, disappearances, and communal tension lead investigators through a noble manor into a prison demiplane hidden inside a mirror.
 

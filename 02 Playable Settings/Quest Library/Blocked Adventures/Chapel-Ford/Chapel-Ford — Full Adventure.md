@@ -161,7 +161,7 @@ Miri's hidden letters describe dreams of her mother at the old toll-house. Edda 
 
 ### Chapel of the Two Fires: The First Fraud
 
-Father Tomas retains his original apparition notes. One prophecy was delivered before the event it predicted, but the event was a Kind Lantern grain donation Marta had already arranged. He also identifies phrases supposedly spoken by Elsin that imitate Chapel-Folk idiom rather than the saint's surviving sermons.
+Father Tomas retains his original apparition notes. One prophecy was delivered before the event it predicted, but the event was a Kind Lantern grain donation Marta had already arranged. He also names the doubt he set aside when he authenticated it: Saint Elsin was the mute shepherd who moved crowds without a word and left no sermons, yet this Elsin speaks, in phrases that imitate Chapel-Folk idiom.
 
 **Choice:** reassure Tomas and gain his help, threaten exposure and make him defensive, or demand he announce doubt immediately, which raises Apparition Strength through public panic and comparison.
 
