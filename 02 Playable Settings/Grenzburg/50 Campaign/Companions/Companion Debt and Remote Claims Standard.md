@@ -112,6 +112,8 @@ Every companion bible records:
 - the companion-specific legal debt state key;
 - a personal direction key owned by that companion's campaign.
 
+A supporting character's own note may record `past_contact_mode: downstream-local`. It marks someone who already lives in Grenzburg when the game opens, came there for reasons of their own, and carries a cost of a companion's former life in their own household. Such a person is a resident, not an arrival, and so is not an exception to the core rule. They speak for nobody else, their state never moves, and they are never a substitute victim or a source of forgiveness. [[Sandro Tessari]] and [[Lenka Vrana]] are the only two.
+
 Quest notes that still require an unsanctioned past person to arrive use `remote_claim_status: pending-migration` and remain excluded from implementation-ready views. Compliant quests use `remote_claim_status: compliant`; Lio's two appearance quests use `compliant-via-lio-clause`.
 
 ## Navigation

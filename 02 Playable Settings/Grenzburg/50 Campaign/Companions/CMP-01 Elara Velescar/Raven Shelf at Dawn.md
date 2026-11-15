@@ -169,7 +169,7 @@ The upgrade requires Elara in the active party.
 
 ## Raven Line Practiced
 
-The climb records `elara_raven_line_practiced`. During the clearing-chamber collapse in [[No Lady of Velescar]], the pair can trust a split route and preserve one additional person or material recovery.
+The climb records `elara_raven_line_practiced`. During the vault collapse in [[No Lady of Velescar]], the pair can trust a split route and preserve one additional person or material recovery.
 
 This advantage never changes which recovery Elara values first and cannot create a resolved outcome from entitled conduct.
 

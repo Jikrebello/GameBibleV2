@@ -172,7 +172,7 @@ No relationship state changes Elara's settlement.
 
 The hearing is concise, and the room already knows what the households said — the opening movement spent that currency. What arrives now is what the vault yielded and what the winter cost.
 
-**The Cabinet's fork lands here, visibly.** If [[The Patron's Cabinet]] lost the evidence half, specific worker liabilities cannot be proved and named claims fail on the record, one after another, while their delegates watch. If it lost the relief half, the delegates arrive from districts that went hungry in February and everyone in the room knows which choice bought which loss. There is no configuration in which both halves arrived.
+**The Cabinet's fork lands here, visibly.** If [[The Patron's Cabinet]] lost the evidence half, specific worker liabilities cannot be proved and named claims fail on the record, one after another, while their delegates watch. If it lost the relief half, the delegates arrive from districts that went hungry in the deep of winter and everyone in the room knows which choice bought which loss. There is no configuration in which both halves arrived.
 
 Delegates speak first if the coalition survived. Bellandi reports:
 
@@ -210,7 +210,7 @@ Legal debt may be satisfied in any moral outcome if assets lawfully cover it. A 
 - Lost wealth may keep the legal debt open without preventing moral relinquishment.
 - A captured delegate remains rescuable during the collapse.
 - Defeat triggers an exterior recovery; agents take one bundle and the hearing proceeds with what remains.
-- Missing the finale fixes the compromised autonomous settlement.
+- In a tracked campaign, missing the finale fixes the compromised autonomous settlement; an untracked Elara stays unresolved.
 
 ## Rewards
 

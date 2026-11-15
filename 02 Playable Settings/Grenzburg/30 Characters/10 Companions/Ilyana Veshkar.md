@@ -327,7 +327,7 @@ Their foil must reveal what neither likes to do:
 ## Seasonal Movement
 
 - **Autumn:** makes the Blackjacks larger than their contracts and confronts the first present refusal.
-- **Winter:** discovers whether repeated service can remain art and whether Mirella may answer without returning.
+- **Winter:** discovers whether repeated service can remain art and whether Mirella's answer, lodged before the roads closed, can stand without her returning.
 - **Spring:** creates work meant to continue without her command.
 - **Summer:** becomes an open-road artist, a bounded civic signal-Bard, a proprietary company leader, or a departed performer according to play.
 

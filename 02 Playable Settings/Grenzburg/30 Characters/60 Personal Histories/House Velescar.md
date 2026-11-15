@@ -32,7 +32,7 @@ The holding is never a playable off-map region. It enters Grenzburg through reco
 
 ## Social Truth
 
-The households feared absorption by a larger Vardek demesne estate because its labor demands were harsher and its right of movement narrower. Elara used that real danger to describe preservation of House Velescar as preservation of everyone beneath it.
+The households are held under the bond of the clean village: their forebears, survivors of priestless villages sealed in the Grey Sweat, were moved onto the demesne in exchange for a priest, a consecrated cemetery and burial in rite, and the bond has hardened in every generation since. They feared absorption by a larger Vardek demesne estate because its labor demands were harsher and its right of movement narrower. Elara used that real danger to describe preservation of House Velescar as preservation of everyone beneath it.
 
 The equation was false. The households were not asked whether the title justified grave robbery, new fines, or increased secrecy. Some wanted land; some wanted cash and freedom to leave; some valued familiar obligations more than an uncertain sale. The final settlement must preserve those differences.
 
@@ -46,7 +46,7 @@ She instead accepted Vardek's antiquities patronage because it promised enough m
 
 ## Grave Economy
 
-The house mark entered six Grey Sweat expeditions through Elara's survey cuts, tools, and private correspondence. Local factors recruited labor and converted coercion into apparently voluntary account records. [[Lord Marek Vardek]] financed the work and purchased goods through cutouts.
+The house mark entered six Grey Sweat expeditions, each into the yard of a village sealed and emptied in the Sweat, through Elara's survey cuts, tools, and private correspondence. Local factors recruited labor and converted coercion into apparently voluntary account records. [[Lord Marek Vardek]] financed the work and purchased goods through cutouts.
 
 When burial tracing exposed the chain, Vardek surrendered Elara and vulnerable workers while retaining profitable material and the records that proved his control.
 
@@ -55,13 +55,13 @@ When burial tracing exposed the chain, Vardek surrendered Elara and vulnerable w
 At the start of Grenzburg:
 
 - Elara's title is suspended but not extinguished;
-- Medori owns her personal restitution and service surety;
+- Medori owns her personal restitution and criminal surety;
 - Vardek interests hold options against the landing and estate debt;
 - households remain bound under interim stewards;
 - grave claimants have incomplete inventories;
 - the decisive land rolls, title seal, and burial provenance are hidden in [[Old Tithe Vault]].
 
-The instruments sit under Grenzburg because Medori moved them there. When the Bank purchased Elara's restitution and service surety it took possession of the pledged Velescar paper as collateral and shipped it to the branch administering the account — the rolls, the seal, and the burial provenance followed the debt into the Ledger Quays vault system, where an old tithe cellar had been holding overflow since the war closed the upper strongrooms.
+The instruments sit under Grenzburg because Medori moved them there. When the Bank purchased Elara's restitution and criminal surety it took possession of the pledged Velescar paper as collateral and shipped it to the branch administering the account — the rolls, the seal, and the burial provenance followed the debt into the Ledger Quays vault system, where an old tithe cellar had been holding overflow since the war closed the upper strongrooms.
 
 Correspondence with the households is slow and finite. One authenticated packet reached Grenzburg before the siege closed the roads, and it has been sitting in Bellandi's backlog since; nothing new arrives while the city is shut. Everything the campaign can enforce comes out of that packet or out of copies the Bank already held.
 

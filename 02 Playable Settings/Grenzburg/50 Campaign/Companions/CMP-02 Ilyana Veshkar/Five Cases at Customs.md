@@ -93,7 +93,7 @@ The party examines the four cases:
 - Celia's viol tools;
 - Tomas's horn plates.
 
-Each bears an individual ownership mark beneath the Salt-Reed common seal. A false lining contains copied approvals for the Gilded Wake season. Four signatures are forgeries in Ilyana's hand.
+Each bears an individual ownership mark beneath the Salt-Reed common seal. A false lining in Mirella's score case contains copied approvals for the Gilded Wake season. Four signatures are forgeries in Ilyana's hand.
 
 Information has redundant sources:
 
@@ -118,7 +118,7 @@ Crane grease, a cut sling, witness statements, and a dropped reed lead through:
 3. the crane walk;
 4. river stairs where Pell is being forced into a skiff.
 
-Pell stole Mirella's compact score case. Two ordinary smugglers discovered its false lining and now intend to sell the papers as leverage.
+Pell stole the fifth case, the company's compact common case. Two ordinary smugglers found the shared scores and booking papers inside and now intend to sell the papers as leverage.
 
 Approaches include:
 
@@ -135,7 +135,7 @@ Every vocation can climb ordinary ladders, cross the warehouse, or reach the sta
 The smugglers cut a suspended cargo net to cover their escape. The party must manage:
 
 - Pell hanging from the net;
-- the falling score case;
+- the falling common case;
 - civilians below;
 - the escaping skiff.
 

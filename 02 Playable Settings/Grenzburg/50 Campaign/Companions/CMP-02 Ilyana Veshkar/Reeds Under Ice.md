@@ -82,8 +82,8 @@ No saboteur caused the contradiction. Condensation split one keyed reed, a copie
 
 - **Oren Fask:** now serving the east horn post.
 - **Sella Morn:** Mercy Hospital litter caller, exact and impatient.
-- **Pell Two-Reeds:** Ferry Yard drummer and rope lead.
-- **Arko Venn:** River Boom mechanic, deaf in one ear and dependent on flag confirmation.
+- **Tam Two-Reeds:** Ferry Yard drummer and rope lead.
+- **Arko Lund:** River Boom mechanic, deaf in one ear and dependent on flag confirmation.
 
 Tessa Rill may be present if fit, but no former Salt-Reed member enters the quest.
 
@@ -143,7 +143,7 @@ If the code remains dependent on her, she must overextend to keep the crossing o
 - Patients survive a failed rescue but gain complications and Mercy Hospital loses capacity.
 - Lost food worsens winter prices without closing the campaign.
 - Boom damage closes one river route and lengthens the later casualty corridor.
-- A confused code can be simplified under ducal order, producing a procedural rather than consensual direction result.
+- A confused code can be simplified under ducal order, producing a mixed rather than consensual direction result.
 - Party defeat ends with quay workers recovering the stranded crews after the cargo is lost.
 
 ## Rewards

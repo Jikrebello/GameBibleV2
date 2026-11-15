@@ -22,7 +22,7 @@ originalization_status: original
 
 Elara is a [[Slayer]] by combat role, but she does not use the player's paired-blade and grappling-knife loadout. Her **Delver-Duelist** package is a companion-specific discipline built from court fencing, practical excavation, climbing, prepared missiles, and the bad habits of a woman who once expected every locked place to become hers.
 
-This package does not create a ninth authored vocation and does not broaden the normal Slayer's equipment permissions.
+This package does not create a tenth authored vocation and does not broaden the normal Slayer's equipment permissions.
 
 ## Field Role
 

@@ -52,7 +52,7 @@ His restoration offer includes:
 - renewed recognition of the Velescar title;
 - enough private wealth to preserve a reduced estate;
 - release or purchase of selected Medori liabilities;
-- a public account in which Elara acted alone but has now paid nobly;
+- a public account in which Elara was misled by disloyal factors and has now paid nobly;
 - abandonment of the workers and burial claimants whose evidence reaches him.
 
 ## Why He Pays to Restore Her
@@ -67,7 +67,7 @@ He is not sentimental about her. He is buying silence at the price of a reduced 
 
 ## Remote Pressure
 
-Vardek never enters the base-game worldspace. During winter he sends genuine grain warrants, a local solicitor, authenticated correspondence, and a restoration offer through [[Claims-Factor Marco Bellandi]]. City need still makes seizure politically expensive because the relief is real.
+Vardek never enters the base-game worldspace. His genuine grain warrants, authenticated correspondence, and restoration offer crossed before the siege closed the roads and have been held by the local solicitor he retained; in winter the solicitor releases them, the offer through [[Claims-Factor Marco Bellandi]]. City need still makes seizure politically expensive because the relief is real.
 
 The travelling cabinet in [[The Patron's Cabinet]] contains relief instruments and a material chain of the grave economy. Vardek's absence prevents a charismatic confrontation from absorbing Elara's decisive scene.
 

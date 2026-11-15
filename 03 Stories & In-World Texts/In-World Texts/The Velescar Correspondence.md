@@ -26,7 +26,7 @@ Player-readable documents for [[Elara Companion Campaign]]. All four items are a
 
 ## The Restoration Offer
 
-*Ostrian laid paper, deckled, unwatermarked. Vardek's own hand throughout, including the clause.*
+*Ostrian laid paper (a stationers' trade name for the stock, not a place), deckled, unwatermarked. Vardek's own hand throughout, including the clause.*
 
 > My dear Elara,
 >
@@ -78,11 +78,11 @@ Player-readable documents for [[Elara Companion Campaign]]. All four items are a
 
 ### Roll 14 — the Ferrant holding
 
-> We do not want the commons and we do not want a share of the landing. We want the ten acres above the mill race that we have worked since my grandfather, in fee tail to us and to ours, and we want it written in a way that no steward can read backwards. We have had eleven years of the house's protection and it has cost us a third of everything we grew. Give us the field.
+> We do not want the commons and we do not want a share of the landing. We want the ten acres above the mill race that we have worked since my grandfather, in fee tail to us and to ours, and we want it written in a way that no steward can read backwards. We have had the house's protection since the Sweat and it has cost us a third of everything we grew. Give us the field.
 
 *(Fee tail is not what they want and would restrict the inheritance they are trying to secure. Nobody in the packet corrects them. Any settlement drafted from their instruction must either give them what they asked for or what they meant, and the difference is a real decision.)*
 
-### Roll 31 — Hanne Oster, for the Oster household
+### Roll 31 — Dorota Oster, for the Oster household
 
 > Keep her money.
 >

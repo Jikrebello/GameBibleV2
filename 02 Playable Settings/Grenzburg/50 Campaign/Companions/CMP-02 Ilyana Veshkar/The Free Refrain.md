@@ -33,7 +33,7 @@ story_gate: reckoning
 estimated_hours: 1.75
 gameplay_pillars: [rescue, defence, traversal, support-magic, civic-coordination]
 required_states: ["ilyana_act2_readiness_viable", "winter_siege_active", "city_in_siege_complete"]
-optional_state_inputs: ["ilyana_winter_signal_code", "ilyana_breach_casualty_lane_mapped", "ilyana_counter_tuning_prepared", "ilyana_local_roles_recorded", "ilyana_refuge_acoustics_known", "grobi_siege_state"]
+optional_state_inputs: ["ilyana_winter_signal_code", "ilyana_breach_casualty_lane_mapped", "ilyana_counter_tuning_prepared", "ilyana_local_roles_recorded", "ilyana_refuge_acoustics_known", "grobi_siege_state", "ilyana_bridgehold_refrain_known"]
 field_experience_gate: []
 companion_required: "Ilyana Veshkar"
 duo_quest: true
@@ -70,18 +70,18 @@ player_archetype_hooks: []
 
 Ilyana's Act II duo finale defends a winter casualty corridor with a temporary civic ensemble. Personal completion unlocks [[Bard]]. The external objective stands on its own: patients, residents, and relief teams need a route from the damaged western wards to Mercy Hospital.
 
-No former Salt-Reed member appears. Their authenticated winter instruction forbids Ilyana from using the jointly owned **Wake Refrain**. The refusal is fixed and cannot be negotiated by the player.
+No former Salt-Reed member appears. Their authenticated instruction, which reached Bellandi before the roads closed and has been held in his office since, forbids Ilyana from using the jointly owned **Wake Refrain**. The refusal is fixed and cannot be negotiated by the player.
 
 ## Hook
 
-After [[The City in Siege]], Grobi horn teams prepare a second push toward Debtors' Row. Fire, smoke, broken pumps, and blocked streets isolate West Refuge Hall from Tann Gate's casualty lane.
+After [[The City in Siege]], Grobi drum teams prepare a second push toward Debtors' Row. Fire, smoke, broken pumps, and blocked streets isolate West Refuge Hall from Tann Gate's casualty lane.
 
 Ilyana proposes a moving corridor built from new material:
 
 - fog against missiles and smoke;
 - a plain walking cadence for stretcher teams;
 - elemental support for defenders;
-- a counterphrase against Grobi horns;
+- a counterphrase against Grobi drums;
 - fixed retreat calls between the Yard and Mercy Hospital.
 
 The performers are current workers with other jobs and reasons to leave when their agreed task ends.
@@ -101,11 +101,13 @@ Substitutes come from Yard bell teams, Church stretcher callers, Warlock counter
 |---|---|
 | Winter signal code | keeps movement working after the ensemble splits |
 | Casualty lane mapped | opens a protected route through Debtors' Row |
-| Counter-tuning prepared | suppresses one Grobi horn phase |
+| Counter-tuning prepared | suppresses one Grobi drum phase |
 | Local roles recorded | names each task, stop signal, and replacement |
 | Refuge acoustics known | provides a fallback position inside West Refuge Hall |
 
 Two assets permit the plan. Three make patients, crews, refuge, and counterattack achievable. Four or five protect one objective from one logistical failure.
+
+`ilyana_bridgehold_refrain_known` from [[A Tune with No Owner]] is a bonus cue outside the five: the corridor's bridge crossing can be timed to the sentries' own warning couplet.
 
 ## Beginning: A Job with Edges
 
@@ -130,9 +132,9 @@ The duo crosses three crisis spaces:
 
 1. **Debtors' Row:** rescue residents behind smoke and collapsed awnings.
 2. **West Refuge Hall:** stabilize patients and relocate the performance position.
-3. **Tann Gate Casualty Lane:** counter the Grobi horn push and reopen movement to Mercy Hospital.
+3. **Tann Gate Casualty Lane:** counter the Grobi drum push and reopen movement to Mercy Hospital.
 
-Threats include Grobi shield and horn teams, burning structures, blocked stretchers, frightened crowds, and attempts to isolate Ilyana. Ordinary bells, ropes, and runners remain usable if harmonic support fails.
+Threats include Grobi shield and drum teams, burning structures, blocked stretchers, frightened crowds, and attempts to isolate Ilyana. Ordinary bells, ropes, and runners remain usable if harmonic support fails.
 
 ### Pause Point: West Refuge Hall Secured
 

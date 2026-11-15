@@ -151,10 +151,11 @@ The player can hold the bridge, cut one span after evacuation, redirect wagons i
 
 ## Outcomes
 
-- **Accountable:** Ilyana accepts Tessa's stop, protects the evacuation, and returns the reed.
-- **Costly:** the stop is respected while the bridge, food, or bandit capture is lost.
-- **Procedural:** Ilyana obeys only because the player or written code compels it.
+- **Consensual and Prepared:** Ilyana accepts Tessa's stop, protects the evacuation, and returns the reed.
+- **Mixed default:** Ilyana obeys only because the player or written code compels it.
 - **Entitled:** Ilyana orders an injured non-hostile colleague to continue, creating a warned major conflict.
+
+With only two assets a consensual result still respects the stop, but the bridge, food, or bandit capture is lost.
 
 Tessa's future opinion depends on the work done, not a forgiveness scene.
 

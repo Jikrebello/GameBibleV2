@@ -111,13 +111,13 @@ Losing the house meant more to her than poverty. It meant discovering that the r
 
 ## The Grave Expeditions
 
-Over eighteen months Elara led six expeditions into Grey Sweat burial sites.
+Over eighteen months Elara led six expeditions into Grey Sweat burial sites. Each was the yard of a Virelian village sealed when its priest died in the Sweat and later emptied onto the demesne; in those yards neighbours had buried their dead unsent, each with a cup and a name tablet against the day a priest came to send them. Her crews limed every opened burial to stabilise it, which is the lime on the goods and on the diggers' hands.
 
 She selected the sites, supervised extraction, recruited vulnerable diggers, and accepted arrangements she knew those workers could not safely refuse. She gave the crews fine meals, dramatic names, attractive equipment, and public praise. She used those real kindnesses to avoid admitting that she still controlled the risk and the proceeds.
 
 Lord Marek Vardek financed the work and purchased finds through intermediaries. When discovery approached, he surrendered Elara and the laborers while preserving his own distance.
 
-Medori purchased Elara's restitution and criminal surety. [[Claims-Factor Marco Bellandi]] administers the portfolio in Grenzburg. Vardek, former factors, diggers, clerks, and Velescar households remain remote. Their letters, refusals, sworn copies, settlement instructions, and material claims can reach Grenzburg; they do not.
+Medori purchased Elara's restitution and criminal surety. [[Claims-Factor Marco Bellandi]] administers the portfolio in Grenzburg. Vardek, former factors, diggers, clerks, and Velescar households remain remote. Their letters, refusals, sworn copies, settlement instructions, and material claims can reach Grenzburg; they do not. The one digger's family in the city did not come for her: Aldi Tessari and her son reached Grenzburg on their own after the house fell (see [[Sandro Tessari]]).
 
 Elara's legal account follows [[Companion Debt and Remote Claims Standard]]. Bellandi may verify or close the debt, but no account state determines whether Elara has shared power, repaired harm, or earned anybody's forgiveness.
 

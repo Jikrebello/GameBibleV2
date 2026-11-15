@@ -80,7 +80,7 @@ At each stop she:
 - records the source of a new verse;
 - agrees payment before performance;
 - offers support without claiming local signal authority;
-- accepts that no former Salt-Reed member is required to join.
+- accepts that no former Salt-Reed member is required to answer.
 
 The player may accompany the first leg. A romance adds a private invitation without making the player's presence compulsory. A sworn bond adds an equal route-call and promised answer. Friendship receives a complete farewell-and-return scene.
 
@@ -106,8 +106,8 @@ The player cannot restore the missed Act III settlement in summer.
 
 ## Salt-Reed States
 
-- Former members may attend as individuals.
-- One or more may perform a new piece under fresh terms.
+- Former members may answer as individuals, by letter and without attending.
+- One or more may send a new piece under fresh terms.
 - They may exchange civil letters without friendship.
 - They may refuse all contact.
 - The old company does not re-form merely because Ilyana resolved.

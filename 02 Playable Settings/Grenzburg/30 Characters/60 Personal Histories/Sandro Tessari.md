@@ -20,7 +20,7 @@ past_contact_mode: downstream-local
 
 ## Core Concept
 
-Sandro Tessari is a crane-hand at the Ledger Quays, a Virelian emigrant in his thirties, and the only person in Grenzburg whom Elara Velescar personally harmed.
+Sandro Tessari is a crane-hand at the Ledger Quays, a Virelian emigrant not yet twenty, and the only person in Grenzburg whom Elara Velescar personally harmed.
 
 He is not a claimant, a quest, or an obstacle. He is a fixed point. Everything the campaign otherwise offers Elara — refusal from strangers, restitution to people she never wronged, forgiveness she can earn through competence — becomes cheap in his presence, which is why he exists.
 
@@ -28,7 +28,7 @@ He is not a claimant, a quest, or an obstacle. He is a fixed point. Everything t
 
 His mother, **Aldi Tessari**, dug for House Velescar.
 
-She was recruited into one of the six Grey Sweat expeditions through an arrangement she could not safely refuse — food debt against a season's work, papers she could not read, a lady who was kind to her in front of others. She handled burial lime for eighteen months. It took the skin off her hands in sheets and it took her lungs slowly, over years, in Grenzburg, where she and Sandro came after the house fell and the work dried up.
+She was recruited into the fourth of the six Grey Sweat expeditions through an arrangement she could not safely refuse — food debt against a season's work, papers she could not read, a lady who was kind to her in front of others. She handled burial lime for that season. It took the skin off her hands in sheets and it took her lungs slowly, over years, in Grenzburg, where she and Sandro came after the house fell and the work dried up.
 
 She died two winters before the game opens. Her name is on the Velescar labour rolls, and the campaign's finale can recover the tube it is written in.
 

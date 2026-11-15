@@ -116,9 +116,11 @@ No threshold requires one vocation, faction, relationship, origin, or moral alig
 |---|---|---|
 | `ilyana_winter_signal_code` | [[Reeds Under Ice]] | keeps the corridor legible after its performance positions split |
 | `ilyana_breach_casualty_lane_mapped` | [[The City in Siege]] | opens the safest casualty corridor |
-| `ilyana_counter_tuning_prepared` | Warlock Hall or Hammer Ward support | counters Grobi horns without overstraining local callers |
+| `ilyana_counter_tuning_prepared` | Warlock Hall or Hammer Ward support | counters Grobi drums without overstraining local callers |
 | `ilyana_local_roles_recorded` | Yard, Mercy, and Longlake rehearsals | establishes each task, stop signal, and replacement |
 | `ilyana_refuge_acoustics_known` | West Refuge or River Boom exploration | supplies a second performance position and retreat cadence |
+
+`ilyana_bridgehold_refrain_known` from [[A Tune with No Owner]] is a bonus route cue outside the threshold. It times the corridor's bridge crossing to the sentries' own warning couplet and does not count as an asset.
 
 ## Act III Preparation
 

@@ -67,7 +67,7 @@ persistence_scope: local-persistent
 
 ## Premise
 
-Dock porter **Jonas Feld** opens a crate after caustic lime burns through its boards. Inside are funerary cups, identity tablets, cloth, and grave fittings listed as lamp parts. Elara recognizes shallow survey cuts she made during one of her six Virelian expeditions.
+Dock porter **Jonas Feld** opens a crate after caustic lime burns through its boards. Inside are funerary cups, identity tablets, cloth, and grave fittings listed as lamp parts. Elara recognizes shallow survey cuts she made during one of her six Virelian expeditions into the yards of villages sealed in the Grey Sweat.
 
 Customs arrests Jonas. A local receiving crew called the **Silkhooks** begins removing the rest of the shipment before sunset. They are liquidating property purchased remotely through [[Lord Marek Vardek|Vardek]] intermediaries; nobody from Elara's former life is present.
 
@@ -98,7 +98,7 @@ The normal party remains available. Elara is required but never the only route o
 
 Three independent clues clear Jonas:
 
-- lime under the later dock packing came from burial stabilization;
+- lime under the later dock packing came from burial stabilization at the dig;
 - his burns prove he opened the crate after leakage;
 - a handcart left with the document case before his arrest.
 

@@ -66,7 +66,7 @@ persistence_scope: regional-persistent
 
 ## Premise
 
-Vardek's Grenzburg solicitor has placed a travelling cabinet inside Chancery House during a winter relief reception. It holds:
+Vardek's Grenzburg solicitor has placed a travelling cabinet inside Chancery House during a winter relief reception. The cabinet and its contents crossed before the siege closed the roads and have been in his keeping since. It holds:
 
 - grave-sale records;
 - worker liabilities;
@@ -74,7 +74,7 @@ Vardek's Grenzburg solicitor has placed a travelling cabinet inside Chancery Hou
 - correspondence proving remote patronage;
 - genuine grain warrants needed that night by besieged districts.
 
-[[Claims-Factor Marco Bellandi]] separately presents Elara with Vardek's authenticated restoration offer. Vardek does not appear. The letter is quoted whole in [[The Velescar Correspondence]] and must be read, not summarized: warm, cultured, itemized like a schedule, and never once naming the crime. It offers a reduced house, a private reserve, closure of her Medori liabilities, a public account in which she alone was misled by disloyal factors — and the authority to hear, compound, and close the sixty-three households' claims herself, with her own hand, decently.
+[[Claims-Factor Marco Bellandi]] separately presents Elara with Vardek's authenticated restoration offer, which crossed with the cabinet and which the solicitor has lodged with him for the occasion. Vardek does not appear. The letter is quoted whole in [[The Velescar Correspondence]] and must be read, not summarized: warm, cultured, itemized like a schedule, and never once naming the crime. It offers a reduced house, a private reserve, closure of her Medori liabilities, a public account in which she alone was misled by disloyal factors — and the authority to hear, compound, and close the sixty-three households' claims herself, with her own hand, decently.
 
 Elara hates how good it sounds.
 

@@ -83,9 +83,9 @@ Her anger is frightening because she knows exactly how much public discomfort th
 
 Elara begins a grand introduction, sees the debtor recoil, and changes course.
 
-**Elara:** “This is Mira. She has had enough of being looked at. The stew is there; the quiet bench is mine, but I am lending it.”
+**Elara:** “This is Tilde. She has had enough of being looked at. The stew is there; the quiet bench is mine, but I am lending it.”
 
-She keeps the rest of the room occupied until Neda chooses whether to join.
+She keeps the rest of the room occupied until Tilde chooses whether to join.
 
 ### Shame — A familiar survey cut
 

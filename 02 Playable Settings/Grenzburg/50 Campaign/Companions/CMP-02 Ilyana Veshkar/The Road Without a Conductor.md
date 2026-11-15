@@ -76,8 +76,8 @@ The circuit must be capable of running without one indispensable conductor.
 
 - **Tessa Rill:** a forty-six-year-old Longlake ferry Bard. She knows three dependable fog and signal phrases and has no interest in Ilyana's theatrical ambitions.
 - **Oren Fask:** a mill horn-player who is excellent at timing and poor at improvisation.
-- **Mara Helt:** a Ledger Quays singer who took the work because winter rent is approaching.
-- **Pell Two-Reeds:** a Chapel-Folk cart driver and hand-drummer who owns the circuit wagon.
+- **Jutta Helt:** a Ledger Quays singer who took the work because winter rent is approaching.
+- **Tam Two-Reeds:** a Chapel-Folk cart driver and hand-drummer who owns the circuit wagon.
 
 They are Grenzburg colleagues, not substitutes for the Salt-Reed Company.
 
@@ -102,7 +102,7 @@ The player can examine the disagreement, inspect the wagon, or simply ask what m
 The first road stop is intentionally easy. It gives the crew room to be funny, competent, and occasionally bad:
 
 - Oren misses an entrance because a mill wheel changes tempo;
-- Mara improves a dull tax notice by turning it into a call-and-response;
+- Jutta improves a dull tax notice by turning it into a call-and-response;
 - Tessa refuses an ornamental flourish that muddies the danger signal;
 - Ilyana wins over a hostile yard by making its workers part of the song.
 
@@ -135,7 +135,7 @@ The encounter supports:
 - direct assault while the performers evacuate captives;
 - cutting the stolen marker loose and turning the public road against the ambush.
 
-Ilyana can conduct the first exchange. A falling beam then separates her from half the crew. Tessa, Oren, Mara, and Pell must continue from the written plan while the player and Ilyana reach the captives.
+Ilyana can conduct the first exchange. A falling beam then separates her from half the crew. Tessa, Oren, Jutta, and Tam must continue from the written plan while the player and Ilyana reach the captives.
 
 If the code belongs only in Ilyana's head, the crew loses time and one material objective. If stop authority and signals were shared, they adapt without waiting for her.
 

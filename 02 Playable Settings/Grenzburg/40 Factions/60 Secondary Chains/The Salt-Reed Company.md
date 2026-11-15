@@ -40,7 +40,7 @@ Ilyana's charisma brought the company work. Mirella's scores and Nereo's managem
 
 ## Present State
 
-The company is broken, not dead. All four former companions survive and reach Grenzburg by winter through separate routes. They may cooperate during immediate danger, forgive in part, reject Ilyana, or create new individual futures.
+The company is broken, not dead. All four former companions survive and remain abroad; none enters Grenzburg. Their scores, instruments, testimony, refusals, and instructions reach the city through ordinary carriage and authenticated correspondence. From a distance they may lend recorded technical aid, forgive in part, reject Ilyana, or create new individual futures.
 
 The strongest settlement does not automatically reunite the Salt-Reed Company. It establishes:
 

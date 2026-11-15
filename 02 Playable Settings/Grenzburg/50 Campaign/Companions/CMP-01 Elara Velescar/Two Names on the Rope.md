@@ -183,7 +183,7 @@ Boss grabs, authored catastrophic hazards, and total defeat retain their intende
 
 `elara_two_names_line_practiced` records the paired-anchor discipline and reciprocal rescue.
 
-During the clearing-chamber collapse in [[No Lady of Velescar]], it can preserve one additional person or material recovery. This is the same safeguard supplied by `elara_raven_line_practiced`; the two states are mutually exclusive and can never stack.
+During the vault collapse in [[No Lady of Velescar]], it can preserve one additional person or material recovery. This is the same safeguard supplied by `elara_raven_line_practiced`; the two states are mutually exclusive and can never stack.
 
 The safeguard does not decide which recovery Elara values first and cannot convert entitled conduct into a resolved outcome.
 
