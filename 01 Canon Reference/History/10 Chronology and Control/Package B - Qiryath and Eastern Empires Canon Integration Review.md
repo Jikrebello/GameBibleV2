@@ -40,7 +40,7 @@ Ordinary ancient names, relationships, campaigns and consequences are fixed at t
 
 ## Fixed historical sequence
 
-Mareh bat Sivan's three camps belong around 1800 BR. The mature Bronze Roads extend from approximately 1750 to 1325, with regional failures between 1450 and 1325. Local protector cycles, the growth of tower settlements and the development of First Qiryath follow across several centuries.
+Mareh bath Sivan's three camps belong around 1800 BR. The mature Bronze Roads extend from approximately 1750 to 1325, with regional failures between 1450 and 1325. Local protector cycles, the growth of tower settlements and the development of First Qiryath follow across several centuries.
 
 House Ubar takes Arqesh around 958 BR. Kassur I develops the provincial and deportation system. Merod II's existing expansion towards Qahur intensifies after Prince Ashkur is murdered in 814. Ilbarun II demands hostages and the royal image from Qiryath in 746 and destroys the city in 742.
 

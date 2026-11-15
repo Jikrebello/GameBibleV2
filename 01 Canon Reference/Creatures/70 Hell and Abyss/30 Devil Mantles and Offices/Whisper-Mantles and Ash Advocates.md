@@ -49,7 +49,7 @@ Ash Advocates are offices of adverse interpretation. They prosecute breach, defe
 - **Threat:** redefine allies as collateral, force actions into legal categories, manifest penalties, and temporarily exclude evidence from the encounter.
 - **Removal:** expose a conflict in authority, sever the beneficiary's standing, invalidate the witness chain, or break the true-name handle assigning the office.
 
-[[Zafir the Bound Chainmaster|Zafir's]] adversary Malphas wears an Ash Advocate mantle serving the Silent Partners through the Creditor's hidden architecture. `Malphas` names the office-bearing presentation, not a Kuthite species or infernal nation.
+The Ash Advocate called Malphas wears a mantle serving the Silent Partners through the Creditor's hidden architecture. `Malphas` names the office-bearing presentation, not a Kuthite species or infernal nation.
 
 ## The Bearer Beneath
 
@@ -85,5 +85,4 @@ Names include whisper mantle, ear-devil, little counsel, ash advocate, black not
 - [[Hell and Abyss MOC]]
 - [[Contract Magic and True Names]]
 - [[The Creditor]]
-- [[Zafir ibn Samad]]
 - [[Bestiary MOC]]

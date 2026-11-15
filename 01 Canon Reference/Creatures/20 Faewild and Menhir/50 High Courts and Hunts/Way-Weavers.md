@@ -57,7 +57,7 @@ Way-Weavers close exits, exchange destinations, make a toll follow the traveler,
 
 Contract courts prize Way-Weavers because they can expose concealed paths through an agreement. Capturing one does not create heavenly authority or infallible judgement. A bound Weaver can be forced to display consequences while being prevented from showing alternatives.
 
-One corrupt Eclessian canon court holds such a captive and calls it an angelic witness. This is the bound being encountered through [[Zafir the Bound Chainmaster|Zafir's]] Grenzburg arc. It is a Way-Weaver, not a true angel.
+One corrupt Eclessian canon court holds such a captive and calls it an angelic witness. It is a Way-Weaver, not a true angel.
 
 ## Weaknesses and Permanent Defeat
 
@@ -86,5 +86,4 @@ Way-Weaver, crossroad wife, key sister, road norn, fork speaker, and the one who
 - [[Faewild and Menhir MOC]]
 - [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Hecatara.md|Hecatara]]
 - [[Contract Magic and True Names]]
-- [[Zafir ibn Samad]]
 - [[Bestiary MOC]]

@@ -136,23 +136,23 @@ Reqa, Ubar and Vashar lie within the setting's northern and eastern warm belt. T
 
 | Person | Period | Historical function |
 |---|---:|---|
-| **Mareh bat Sivan** | c. 1800 BR | provisioner who preserves three road camps through famine and fever |
+| **Mareh bath Sivan** | c. 1800 BR | provisioner who preserves three road camps through famine and fever |
 | **Tovan bar Rameq** | c. 1290 BR | reluctant threshing-house deliverer whose ring-standard and heirs corrupt his refused protectorate |
-| **Tirzah bat Oren** | c. 1210 BR | investigator of the poisoned cistern; remembered as a protector without a dynasty |
+| **Tirzah bath Oren** | c. 1210 BR | investigator of the poisoned cistern; remembered as a protector without a dynasty |
 | **Hador bar Mavin** | c. 1170 BR | vowed strongman whose private war with Gedran ends in his mutilation and a hall collapse |
-| **Nareh bat Dovan and Delira of the South Gate** | c. 1170 BR | women endangered by Hador's feuds and the coercion of Gedran's rulers |
+| **Nareh bath Dovan and Delira of the South Gate** | c. 1170 BR | women endangered by Hador's feuds and the coercion of Gedran's rulers |
 | **Othan bar Raqel** | c. 1140 BR | successful war leader whose vow causes Naveth's death |
-| **Amariah bat Qoreb** | c. 1020 BR | teacher and calendar mediator during First Qiryath's formation |
+| **Amariah bath Qoreb** | c. 1020 BR | teacher and calendar mediator during First Qiryath's formation |
 | **Yedran bar Aqev** | c. 955–925 BR | protector whose quasi-royal rule and household crimes leave a dynastic war after his death |
-| **Avileth bat Oram** | tenth century BR | Zeran's daughter and Yedran's wife; her relatives seize part of Qiryath's grain during the household war |
-| **Seram ben Teth** | c. 842–835 BR | guardian who extends emergency rule through an Arqeshite marriage, cult patronage and confiscated land |
-| **Tilqa bat Keresh** | c. 842–835 BR | river-born political wife who establishes the court shrine and arranges the case against Tobel |
+| **Avileth bath Oram** | tenth century BR | Zeran's daughter and Yedran's wife; her relatives seize part of Qiryath's grain during the household war |
+| **Seram bar Teth** | c. 842–835 BR | guardian who extends emergency rule through an Arqeshite marriage, cult patronage and confiscated land |
+| **Tilqa bath Keresh** | c. 842–835 BR | river-born political wife who establishes the court shrine and arranges the case against Tobel |
 | **Tobel bar Yamin** | c. 842 BR | vineyard keeper executed after refusing the guardian's purchase |
 | **Haviel of the Lower Stair** | c. 842–835 BR | prophetic teacher associated with the dry-channel confrontation and the Six Women's Gate |
 | **Elior bar Hadan** | 742 BR | chief guardian who refuses Ilbarun's demand for hostages and a royal image |
-| **Yavreth bat Qesem** | 742 BR | councillor who opens unauthorised negotiations in an attempt to preserve the city |
+| **Yavreth bath Qesem** | 742 BR | councillor who opens unauthorised negotiations in an attempt to preserve the city |
 | **Sameth bar Yorin** | 742–690 BR | deported musician whose punishment and daughter's court service shape an exile tradition |
-| **Yaelith bat Coren** | c. 673–660 BR | keeper of the surviving cistern whose household organises water and labour during reconstruction |
+| **Yaelith bath Coren** | c. 673–660 BR | keeper of the surviving cistern whose household organises water and labour during reconstruction |
 
 ### Arqesh
 
@@ -199,7 +199,7 @@ These names have been checked against the present vault. They remain provisional
 
 ## Newcomer-readability clarification, 10 September 2026
 
-The first prose review clarified the material organisation of Mareh bat Sivan's three camps. Extended households held most grain and animals, while each camp maintained a common reserve for guards, sick people and households whose food had failed. Grain borrowed from the reserve was normally repaid after harvest. Pack animals carried water, seed and people who could not walk. These details explain Mareh's authority, the captain's attempted seizure and the cost of preserving transport during shortage.
+The first prose review clarified the material organisation of Mareh bath Sivan's three camps. Extended households held most grain and animals, while each camp maintained a common reserve for guards, sick people and households whose food had failed. Grain borrowed from the reserve was normally repaid after harvest. Pack animals carried water, seed and people who could not walk. These details explain Mareh's authority, the captain's attempted seizure and the cost of preserving transport during shortage.
 
 The stranded servant household is provisionally defined as a hired driver, his wife, their two children and his widowed mother. A broken axle and insufficient water make the decision to continue intelligible. The received tradition remains divided over whether Mareh opposed the departure or gave the deciding order. This is a minimal historical clarification for causal coherence, not a new independent story lead.
 

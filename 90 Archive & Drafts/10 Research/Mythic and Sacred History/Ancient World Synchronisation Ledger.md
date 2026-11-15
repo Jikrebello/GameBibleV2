@@ -109,7 +109,7 @@ The following register records the approved Package B history promoted on 11 Sep
 | c. 2165–1750 BR | road camps divide gradually after the Prophet's death | independent canal towns develop | hearth domains and sanctuary markets form | routes reconnect Ark-derived and Orphaned communities | canon |
 | c. 1750–1325 BR | occupational houses and towers participate in the Bronze Roads | Ubar grain, cloth and boat craft travel widely | Daryam, Kavresh and Ruzhan exchange metal, fruit and animals | exchange creates multilingual households and specialised work | canon |
 | c. 1450–1325 BR | road failure isolates settlements | canal cities retain local production | sanctuary markets preserve some upland exchange | protector houses rise amid insecurity | canon |
-| c. 1210 BR | Tirzah bat Oren exposes cistern poisoning | orchard and caravan interests meet in Reqa | — | a local protector cycle forms without a dynasty | canon |
+| c. 1210 BR | Tirzah bath Oren exposes cistern poisoning | orchard and caravan interests meet in Reqa | — | a local protector cycle forms without a dynasty | canon |
 | c. 1140 BR | Othan defeats Gedran; his vow kills Naveth | — | — | victory becomes the cause of an annual women's fast | canon |
 | c. 1050–800 BR | First Qiryath grows through refuge, sanctuary and council | Arqesh gains the chief canal junction | House Tiravan rises in Kavresh | three separate political systems mature | canon |
 | c. 955–925 BR | Yedran's crown and household war end in restored council rule | House Ubar consolidates | Tiravan households alternate between service and resistance | failed kingship strengthens rather than ends Qiryath | canon |

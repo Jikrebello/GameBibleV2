@@ -40,7 +40,7 @@ Descriptions superseded by this review remain research history. They do not retu
 
 | Date | Reconciled development |
 |---:|---|
-| c. 1800 BR | Mareh bat Sivan preserves three Jirahar road camps during famine and fever; one household is abandoned during departure. |
+| c. 1800 BR | Mareh bath Sivan preserves three Jirahar road camps during famine and fever; one household is abandoned during departure. |
 | c. 1750–1325 BR | Jirahar Bronze Roads, Ubar canal cities and Vashari sanctuary markets form a connected eastern economy. |
 | c. 1450–1325 BR | The Bronze Roads break unevenly; towers, households and local craft survive the loss of long exchange. |
 | c. 1290–925 BR | Protector houses, sanctuary coalitions and an unsuccessful crown shape the rise of First Qiryath. |

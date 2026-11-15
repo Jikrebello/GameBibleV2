@@ -93,7 +93,7 @@ The price the well named at Qarath and the court's Forfeiture of the Drinkers, s
 
 ## The Seven Sestaran Seals
 
-Sestara has no common court. **Duke Gaius Medori** rules Fiorenzia beside its senate, with **Lord Matteo Medori** directing investments and Factors Gianni and Livia active in Grenzburg. **Doge Terenzo Vescari** balances Sermora's Admiralty and merchant houses. **Duke Marcus Soran** and **General Aurelia Soran** command Aversia. Vorthara has no ruler; **Pass-Keeper Salvi Corren** holds only its external seal. **First Speaker Eliana Corvesi** heads Castara's Merchant Princes. **Harbor Rector Sabina Valeris** governs Orsena. **First Burgess Tomas Bellafor** presides over Vardessa's guild benches.
+Sestara has no common court. **Duke Gaius Medori** rules Fiorenzia beside its senate, with **Lord Matteo Medori** directing investments and Ledger-Master Lucia Medori and Claims-Factor Marco Bellandi active in Grenzburg. **Doge Terenzo Vescari** balances Sermora's Admiralty and merchant houses. **Duke Marcus Soran** and **General Aurelia Soran** command Aversia. Vorthara has no ruler; **Pass-Keeper Salvi Corren** holds only its external seal. **First Speaker Eliana Corvesi** heads Castara's Merchant Princes. **Harbor Rector Sabina Valeris** governs Orsena. **First Burgess Tomas Bellafor** presides over Vardessa's guild benches.
 
 Rivals whisper of a foreign legal inheritance behind the Medori's uncanny clauses; Fiorenzia is nobody's proxy. The seven authorities cooperate automatically only under [[The Seven-Seal Defensive Muster]]. Fiorenzia still dreams uneasily of Frate Severin.
 
