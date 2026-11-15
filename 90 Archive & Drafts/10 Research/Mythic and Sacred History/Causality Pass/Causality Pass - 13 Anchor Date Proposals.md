@@ -49,7 +49,7 @@ Left as it was, and noted:
 - **No Primarch is named between Alessior II (d. 1289) and Celestin IX (1317).** The gap was 1296–1317 before.
 - **Older research notes that never followed canon** keep their pre-bend dates (the revolt as "66–73 AR", the Gateway Wars as "c. 650–520").
 - **Not touched:** *Current Focus Board*, the Vestian draft, `02 Playable Settings`, the dated snapshots and the earlier records of this pass. The reader app's generated data shows old dates until it is rebuilt.
-- **Not measured.** The blind re-read has not been run since the renames or these moves.
+- **Measured afterwards.** A third blind re-read was run the same day ([[Causality Pass - 00 Proposal Index]], "The third blind re-read"). The clock axis fell from 5.08 to 4.00 on average and names from 5.55 to 4.55; overall predictability fell from 5.05 to 4.75, nearly all of it before the Redeemer. The road to 1360 stayed at 7, as this page predicted.
 
 ## The short version
 

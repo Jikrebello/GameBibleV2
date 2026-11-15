@@ -245,11 +245,65 @@ The creator asked for a draft of the date moves that would break the clocks, app
   - *The road to 1360.* The Blackwater funerals are in 1290; the Nikandran emperors reign 1225–1249, 1249–1296 and 1296–1329.
 - **What dates could not do.** Three clocks stay whatever is moved: Darneth to the Unification (380–350 BR), the Eastern Sea Wars, and the road to 1360, which is loosened and not broken because the 1360 board is itself a portrait of the 1560s and 1570s.
 - **What the research found.** Four lines that no earlier record had declared: the last years of Arqesh, the start of the Unsealing, the Impounding with the Rekindling and Korinna, and the three Nikandran reigns after 1225.
-- **Not measured.** The blind re-read has not been run since the renames or these moves, so the table above still describes the history before both.
+- **Measured.** The third blind re-read, below, was run after the renames and these moves.
+
+## The third blind re-read (15 November, after the renames and the date moves)
+
+Two fresh specialists were given the same brief as the second re-read: read only the reader articles, name the closest real parallel, try to predict each sequence, and score it on four axes. Each number is one reader's judgement and the readers were not the same as last time, so differences of one point are noise.
+
+Scores are predictability out of 10; lower is better. "Before" is the second re-read, taken before the renames and the date moves.
+
+| Sequence | Overall before | Overall after | Clock before | Clock after | Names before | Names after |
+|---|---|---|---|---|---|---|
+| Exodus and the Glass Sojourn | 4 | 4 | 1 | 1 | 5 | 5 |
+| Arqesh | 4 | 4.5 | 3 | 3 | 5 | 5 |
+| Qiryath kings and the exile | 4 | 4 | 2 | 2 | 7 | 6 |
+| The siege and the returnings | 6 | 6 | 6 | 4 | 6 | 6 |
+| Qahur | 3 | 3 | 1 | 1 | 5 | 4 |
+| Eryndor III | 6 | 4 | 6 | 3 | 5 | 4 |
+| Eastern Sea Wars and Vashar | 6 | 5 | 6 | 4 | 6 | 4 |
+| Gateway Wars | 5 | 4.5 | 6 | 2 | 5 | 3 |
+| Late republic | 6 | 5 | 7 | 5 | 4 | 3 |
+| Imperial founding | 5.5 | 4 | 7 | 3 | 3 | 3 |
+| Age of Glory | 3 | 4 | 2 | 5 | 4 | 3 |
+| Great Tower Revolt | 6.5 | 5 | 6 | 4 | 6 | 6 |
+| 78–288 AR | 4.5 | 5 | 5 | 6 | 4 | 3 |
+| Cassian to Vestian | 6 | 6 | 6.5 | 6 | 6.5 | 3 |
+| Long Frontier and the Covenant | 4.5 | 3.5 | 4.5 | 3 | 7.5 | 5 |
+| Fall and Reconquest | 3.5 | 3.5 | 4 | 3 | 6 | 5 |
+| Two Crowns | 6 | 6 | 7.5 | 6 | 8 | 6 |
+| High Noon | 5 | 5 | 6 | 6 | 3.5 | 4 |
+| Road to 1360 | 7 | 7 | 8 | 7 | 7.5 | 6 |
+| The 1360 board | 5.5 | 6 | 7 | 6 | 7 | 7 |
+| **Average** | **5.05** | **4.75** | **5.08** | **4.00** | **5.55** | **4.55** |
+
+"Overall" leaves names out. With names counted the average went from 5.18 to 4.78.
+
+**What it shows.**
+
+- **The clock and the names both fell by about a point.** The clock fell most before the Redeemer (4.5 to 2.8 across those ten sequences): the Gateway Wars from 6 to 2, the founding from 7 to 3, Eryndor from 6 to 3. Names fell wherever they were renamed, most on Cassian to Vestian (6.5 to 3).
+- **Overall predictability fell less, by about a third of a point,** and almost all of that is before the Redeemer (4.95 to 4.4). From the Age of Glory to 1360 it did not move (5.15 to 5.1).
+- **The skeleton is now what a specialist follows.** Where the overall score did not move, the readers scored the order of events and the fates at 7: Cassian to Vestian, Two Crowns, the road to 1360 and the siege and the returnings. A third bend of those four sequences is the lever that is left.
+- **What moved most:** Eryndor III (6 to 4), the imperial founding (5.5 to 4), the Great Tower Revolt (6.5 to 5), the Long Frontier (4.5 to 3.5), the late republic and the Eastern Sea Wars (6 to 5).
+- **What did not move, as record 13 predicted:** the road to 1360 (7), High Noon (5) and the 1360 board.
+- **Two Crowns kept its clock.** The reader set it by the four dates that could not move (993, 1017, 1019 and 1104, about 205 above), so moving Kaltfurt and Drossfeld did not change what the reader saw.
+
+**New things the readers found.**
+
+- **The first imperial house.** One reader paired the House of Thalion's reigns with the Julio-Claudians' and found them about 323 years apart by the sum of the two years (350 BR with 27 BC, 324 with AD 4, 286 with AD 37, 247 with AD 68). Record 13B paired the same reigns differently and found no line. This is why the Age of Glory's clock score rose from 2 to 5. It has not been checked by a researcher.
+- **78–288 AR sits close to the real calendar.** The reader matched 119 with 117, 233 with 235, 245 with 250 and 248 with 251. The 233 is Tervan's new accession year; the third century has an emperor every few years, so any year there lands near one.
+- **Fifteen possible contradictions between articles.** Five were real and are fixed: Mahdar is eight in 931, not six; the Celebrants hold the veiled Face from 245, not 247; Iltara did not direct a Qahuri intervention two generations before her time; the Queen's country is "most of a century" old at Samyra's accession; and Eclessian rule goes round the lake country, which is how the First Southern Crusade could pass south of it. None was caused by the date moves. The rest were loose wording or readings that hold.
+
+**Limits.**
+
+- One reader for each half, and not the readers of the second re-read.
+- The reader of the earlier half reported seeing commit titles that said sequences had been moved "off their clocks". The reader knew dates had moved, not which analogues were meant.
+- Two file names still carried old year ranges (292 to 316, 348 to 377). The reader was told to ignore years in file names.
 
 ## What remains
 
-- **Left by the date moves.** Three notes carry old dates in their file names and are the creator's to rename inside Obsidian, because *Current Focus Board* and the Vestian draft link two of them: `Cassian and the Four Sees - The Settlement of 292 to 316 AR` (now 292 to 307), `Astrion and the Road to Vestian - 348 to 377 AR` (now 340 to 377) and `After Cassian - The Succession of 316 and the Forty Flames` (now 307). The Vestian draft says "kin who had left after 70 AR"; canon now has the households leaving in 64 and 72. The blind re-read should be run again.
+- **Left by the date moves.** Three notes carry old dates in their file names and are the creator's to rename inside Obsidian, because *Current Focus Board* and the Vestian draft link two of them: `Cassian and the Four Sees - The Settlement of 292 to 316 AR` (now 292 to 307), `Astrion and the Road to Vestian - 348 to 377 AR` (now 340 to 377) and `After Cassian - The Succession of 316 and the Forty Flames` (now 307). The Vestian draft says "kin who had left after 70 AR"; canon now has the households leaving in 64 and 72.
+- **Skeletons are the lever now.** The third blind re-read scored the order of events and the fates at 7 on Cassian to Vestian, Two Crowns, the road to 1360 and the siege and the returnings, and their overall scores did not move. A third bend of those sequences would do more than any further change of date or name. The same re-read found a clock in the first imperial house (about 323 by the sum of the years) that no researcher has checked.
 - **Sequences still close to their analogues.** Two bends later the causes are native and most skeletons are broken. What a specialist can still predict is listed in the table above and in the [[Real-History Concordance]] under "Sequences still close to their analogues". Three kinds of thing remain:
   - *Clocks.* The anchor dates moved on 15 November (see above). Three clocks remain that dates cannot break: Darneth to the Unification (380–350 BR), the Eastern Sea Wars and the road to 1360. Two were left by decision: High Noon's landmark dates (1121, 1214 and 1225), and the run from Kellovar to Vestian's death (372–398), which waits on the Vestian draft. The [[Real-History Concordance]] gives the offsets as they now stand.
   - *Skeletons kept by a fixed point.* The House of Nerethan still runs as the last Ptolemies until its ending; Eryndor's itinerary is Alexander's; [[The Disputed Fourth Seal]] still opens as Karbala (that the dispute stays unresolved is a Locked Ruling; its incidents are not); the Reformation still runs conclave, grievances, trial, rising, council, peace.
