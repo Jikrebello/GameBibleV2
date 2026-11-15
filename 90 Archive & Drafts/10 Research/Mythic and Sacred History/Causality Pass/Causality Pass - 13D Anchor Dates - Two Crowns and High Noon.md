@@ -14,7 +14,8 @@ tags: [causality-pass, proposal, dates]
 # Causality Pass — 13D Anchor Dates: Two Crowns and High Noon
 
 > [!note] Status — 15 November 2026
-> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **Nothing on this page has been applied**; every date in the vault is as it was.
+> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **The tier that record 13 recommends was applied on 15 November 2026.** The tables below are the research as written, so their "old" columns show the dates before the move.
+> - **Applied:** rows 1 to 5 and row 9. Kaltfurt's cause was reworded: one canon article keeps the Covenant's field army in the north for decades after 957, so the text says only that the banners who broke the northern wells were raiding wherever a road lay open.
 > - 50 offsets in the tables below were reproduced by machine, and the sorted runs under "Clock after" were re-added by hand.
 > - **Record 13 recommends rows 1 to 5 and row 9, and leaves rows 6 to 8 as an option.** The High Noon line (1121, 1214, 1225) is three landmark dates a century apart; no three *successive* beats of that sequence share an offset. Breaking it moves Qarath's Well, halves the War of the Seal ("ten years in a monastery cell"), touches three present-day files, and has no year to spare. Record 13 sets the choice out for the creator.
 > - **Record 13 adds a re-spacing of the Nikandran reigns after 1225** (Nikandros I's death to 1249, Evandros's to 1296), which answers residual 5 and the first half of open question 7. The line this page found running on through 1263 and 1290 is where a reader can in fact date the next event.

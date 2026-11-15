@@ -44,7 +44,7 @@ A whole-history review of the World Egg's historical canon from the Age of Chain
 > - **Bent twice.** The sequences listed as close to their analogues were bent in two rounds (records 10A–10F and 11A1–11F). A blind re-read by two real-history specialists puts average predictability at about 5 out of 10, down from about 6 after the first round.
 > - **Renamed.** The creator approved sixty-seven renames from [[Causality Pass - 12 Rename Proposals]], and they were applied on 15 November. The text below keeps the names it was written with.
 > - **What still shows** is the spacing of the dates, and the names not yet renamed. Both are the creator's decision: see "The two bends" and "What remains" in [[Causality Pass - 00 Proposal Index]].
-> - **Dates.** The moves that would break the clocks are drafted in [[Causality Pass - 13 Anchor Date Proposals]] and wait on the creator. Nothing in that draft has been applied.
+> - **Dates.** The creator approved the recommended date moves in [[Causality Pass - 13 Anchor Date Proposals]], and they were applied on 15 November. The text below keeps the dates it was written with.
 
 ## The verdict
 

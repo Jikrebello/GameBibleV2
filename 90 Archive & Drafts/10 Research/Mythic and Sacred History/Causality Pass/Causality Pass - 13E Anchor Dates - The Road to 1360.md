@@ -14,7 +14,8 @@ tags: [causality-pass, proposal, dates]
 # Causality Pass — 13E Anchor Dates: The Road to 1360
 
 > [!note] Status — 15 November 2026
-> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **Nothing on this page has been applied**; every date in the vault is as it was.
+> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **The tier that record 13 recommends was applied on 15 November 2026.** The tables below are the research as written, so their "old" columns show the dates before the move.
+> - **Applied:** Minimal, plus the Nikandran reigns. "The Sanctum and Caldria are at war" was reworded: canon has Caldria fighting the Drusenwald march, with the Church courts claiming the relic.
 > - 74 offsets in the tables below were reproduced by machine.
 > - Record 13 recommends Minimal, as this page does, and repeats its verdict: on this stretch dates loosen the clock and do not break it.
 > - **1338 and 1343 were fixed in the instruction**, because the Grenzburg game is built on them. Record 13 puts that to the creator as a question, with the reason a free Accord date would still not clear the band.

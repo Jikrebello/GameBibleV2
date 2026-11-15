@@ -14,7 +14,8 @@ tags: [causality-pass, proposal, dates]
 # Causality Pass — 13B Anchor Dates: The Atherian West
 
 > [!note] Status — 15 November 2026
-> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **Nothing on this page has been applied**; every date in the vault is as it was.
+> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **The tier that record 13 recommends was applied on 15 November 2026.** The tables below are the research as written, so their "old" columns show the dates before the move.
+> - **Applied:** Minimal, with Rethmar at 402 BR and not 401, because 401 BC is Cunaxa.
 > - 121 offsets in the tables below were reproduced by machine.
 > - Record 13 recommends Minimal, as this page does, and records the run from Darneth to the Unification (380–350 BR) as a clock that dates cannot break.
 > - **Two things the first-war move needs that this page does not list.** *Wars of the Inheritance* has Caleran "already fighting the first of the Gateway Wars" about 650 BR, which becomes ten years after its peace. The peace of 660 would share its year with the consecration of Second Qiryath (c. 660); the two are unconnected.

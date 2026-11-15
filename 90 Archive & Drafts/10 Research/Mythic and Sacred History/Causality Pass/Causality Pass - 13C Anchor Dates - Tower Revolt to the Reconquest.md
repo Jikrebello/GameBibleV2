@@ -14,7 +14,8 @@ tags: [causality-pass, proposal, dates]
 # Causality Pass — 13C Anchor Dates: The Tower Revolt to the Reconquest
 
 > [!note] Status — 15 November 2026
-> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **Nothing on this page has been applied**; every date in the vault is as it was.
+> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **The tier that record 13 recommends was applied on 15 November 2026.** The tables below are the research as written, so their "old" columns show the dates before the move.
+> - **Applied:** Full, with the hearing at Halmenth at 305 AR and not 306 (AD 306 is the acclamation year of Cassian's analogue, and 305 leaves room before his death). The Dry Ford follows twelve harvests, not eighteen.
 > - 123 offsets in the tables below were reproduced by machine.
 > - Record 13 recommends Full, as this page does, and gives Minimal as the lighter choice. It leaves the four Vestian dates (377, 383, 385, 398) alone.
 > - **The three note titles are the creator's to rename.** *Current Focus Board* links `Cassian and the Four Sees - The Settlement of 292 to 316 AR` and `Astrion and the Road to Vestian - 348 to 377 AR` by their full titles, and so does the Vestian draft. This pass edits neither file, so a rename done by script would break those links. Renaming the notes inside Obsidian updates them.

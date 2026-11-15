@@ -14,7 +14,8 @@ tags: [causality-pass, proposal, dates]
 # Causality Pass — 13A Anchor Dates: The Ancient East
 
 > [!note] Status — 15 November 2026
-> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **Nothing on this page has been applied**; every date in the vault is as it was.
+> Research for [[Causality Pass - 13 Anchor Date Proposals]]. **The tier that record 13 recommends was applied on 15 November 2026.** The tables below are the research as written, so their "old" columns show the dates before the move.
+> - **Applied:** Full, rows 1 to 10. Canon gives Eryndor one age, which this page missed: he is thirty at the loan of 695, so he is sixteen at Pelatha and fifty-two at his death, not "about 20" and "about 56".
 > - 96 offsets in the tables below were reproduced by machine, with four alternates given in brackets.
 > - **Rows 11 and 12 of Full are dropped** (the invasion to 500 BR, the Narrows to 497). They were held until the neighbouring stretch reported. [[Causality Pass - 13B Anchor Dates - The Atherian West|13B]] moves neither Qarzeth's fall (520) nor the veterans' return (491), so the sea wars' line stays whatever is done inside it, and the two rows would only un-match intervals.
 > - **The first Gateway war** is proposed for c. 674–660 BR in 13B. Under Full it then opens the year before Eryndor dies (673). The Marenthe seat keeps c. 680–672 with the rewording in open question 3, and the sentence in *Wars of the Inheritance* that has Caleran "already fighting" that war about 650 needs rewording.

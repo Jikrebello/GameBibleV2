@@ -13,11 +13,43 @@ tags: [causality-pass, proposal, dates]
 ---
 # Causality Pass — 13 Anchor Date Proposals
 
-**Nothing on this page has been applied. Every date in the vault is as it was.**
+**The recommended package on this page was applied on 15 November 2026.** The next section says what went in and where it differs from the tables as first drafted. The lighter and optional rows that were not taken are unchanged.
 
 After the two bends and the renames, the clock is the last thing that points at the real analogues. Wherever an anchor date was kept, a sequence still sits a near-constant number of years from its source, so a reader who finds the distance can date the next event. This page proposes which dates to move, what each move costs and what it buys. It also says plainly where dates cannot help.
 
 Five researchers each took one stretch of the history. Their full tables are in [[Causality Pass - 13A Anchor Dates - The Ancient East|13A]], [[Causality Pass - 13B Anchor Dates - The Atherian West|13B]], [[Causality Pass - 13C Anchor Dates - Tower Revolt to the Reconquest|13C]], [[Causality Pass - 13D Anchor Dates - Two Crowns and High Noon|13D]] and [[Causality Pass - 13E Anchor Dates - The Road to 1360|13E]]. All 464 offsets in those tables were reproduced by machine. This page reconciles the dates the stretches share and makes one recommendation.
+
+## What was applied on 15 November 2026
+
+The creator answered "apply recommended", and the package went in the same day, one commit for each stretch.
+
+- **Text.** 1,057 exact replacements in 172 notes across canon, the stories and the research notes. Six writers produced them as patch files; each replacement was chosen by meaning, had to match its file exactly once, and was read over before anything was written.
+- **Decisions.** All eight were taken as recommended. Eryndor reigns thirty-six years; Cassian dies fifteen years after the ice and Astrion sits at Caleran for eleven; the funerals are in 1290; Kaltfurt is in 960. Qarath's Well, 1338, 1343 and the four Vestian dates stay.
+- **Two dates differ by one year from the tables as first drafted,** and the tables below now show the applied dates.
+  - *Rethmar is 402 BR, not 401.* 401 BC is Cunaxa, where another hired western army was lost in the same interior.
+  - *The hearing at Halmenth is 305 AR, not 306.* AD 306 is the acclamation year of Cassian's analogue, and 306 left only months before Cassian's death for the later petition he refuses.
+- **Three in-world reasons were reworded to fit canon.**
+  - *The nine quiet years before the synod.* The draft said "the Sanctum and Caldria are at war". Canon has Caldria fighting the Drusenwald march, with the Church courts claiming the relic. The text now says the Sanctum's legates were on that frontier until 1295.
+  - *Kaltfurt.* The draft had the Covenant's field army come off the grass in 957. One canon article keeps it in the north for decades after. The text now says only that the banners who broke the northern wells were raiding wherever a road lay open.
+  - *The Dry Ford.* Twelve harvests, not eighteen, since the Unsealing now begins in 574.
+- **Eryndor's age.** Canon does give one: he is thirty at the loan of 695. That makes him sixteen at Pelatha and fifty-two at his death.
+- **Order.** Chronology entries and tables were moved where a date changed, and the Chronology still reads in date order.
+
+Left for the creator:
+
+- **Three notes to rename inside Obsidian.** Their contents are updated; their file names are not, because *Current Focus Board* and the Vestian draft link two of them.
+  - `Cassian and the Four Sees - The Settlement of 292 to 316 AR` → `… 292 to 307 AR`
+  - `Astrion and the Road to Vestian - 348 to 377 AR` → `… 340 to 377 AR`
+  - `After Cassian - The Succession of 316 and the Forty Flames` → `… Succession of 307 …`
+- **One line in the Vestian draft.** It says "kin who had left after 70 AR". Canon now has the households leaving in 64 and in 72.
+
+Left as it was, and noted:
+
+- **Era labels "962–1104"** for Two Crowns. Kaltfurt now falls in 960.
+- **No Primarch is named between Alessior II (d. 1289) and Celestin IX (1317).** The gap was 1296–1317 before.
+- **Older research notes that never followed canon** keep their pre-bend dates (the revolt as "66–73 AR", the Gateway Wars as "c. 650–520").
+- **Not touched:** *Current Focus Board*, the Vestian draft, `02 Playable Settings`, the dated snapshots and the earlier records of this pass. The reader app's generated data shows old dates until it is rebuilt.
+- **Not measured.** The blind re-read has not been run since the renames or these moves.
 
 ## The short version
 
@@ -50,10 +82,10 @@ The researchers were asked to break every line. In three places that is arithmet
 
 ## Decisions for the creator
 
-Each has a recommendation. Answering "apply the recommended package" accepts all of them as recommended.
+Each has a recommendation. Answering "apply the recommended package" accepts all of them as recommended. The creator did so on 15 November.
 
 1. **Which package?** Recommended (about 850 lines), lighter (about 515), or a tier named stretch by stretch. *Recommended: the recommended package, applied one stretch at a time, the road to 1360 first.*
-2. **Eryndor's long reign (13A).** His clock breaks only if he reigns thirty-six years (709–673 BR). He spends seven years on the river throne with the images answering in his voice and four at the seep whose water "mended only those who stayed beside it", and dies in his fifties (canon gives him no birth year). His daughter Mehrava is eighteen at his death, not seven. *Recommended: yes. It removes the most recognisable fact about him, that he died young at the height of the conquest. Say no and the stretch falls back to three dates.*
+2. **Eryndor's long reign (13A).** His clock breaks only if he reigns thirty-six years (709–673 BR). He spends seven years on the river throne with the images answering in his voice and four at the seep whose water "mended only those who stayed beside it", and dies at fifty-two (canon has him thirty at the loan of 695, so he is sixteen at Pelatha). His daughter Mehrava is eighteen at his death, not seven. *Recommended: yes. It removes the most recognisable fact about him, that he died young at the height of the conquest. Say no and the stretch falls back to three dates.*
 3. **Cassian's fifteen years and Astrion's eleven (13C).** Cassian would die in 307, fifteen years after the ice, not twenty-four. Astrion would succeed in 340 and sit at Caleran for eleven years before the Cut of 351, not three. *Recommended: yes. The deathbed baptism a generation after the sign and the short reign of the emperor who restored the old rites are the two best-known facts in the sequence.*
 4. **The funerals in 1290 (13E).** The Blackwater funerals and the reading of the *Brenholt Margins* would move from 1297 to 1290, and Alessior II's death from 1296 to 1289. The present crisis would be seventy years old in 1360, and the label "1297–1360" would become "1290–1360" on 25 lines. *Recommended: yes. It is the only move that breaks the opening run (the reading, the book-trial, the rising).*
 5. **Adalmar's age (13D).** Moving Kaltfurt to 960 makes him seventy-six at his coronation in the ford and gives him a reign of fifty-eight years. Kaltfurt in 963 makes him seventy-three and clears the same lines by a narrower margin. *Recommended: 960.*
@@ -104,7 +136,7 @@ Smaller questions are listed at the end of each detail record. Unless told other
 | Tashqar killed at Erenost; peace | 601 | 604 | 604 is the year the next hostage cohort would have sailed. No ship leaves Qarzeth, and the Council Houses send him nothing | 400 → 403 |
 | The war of the closed chains begins | 469 | 476 | Velanthe's refusal comes first, and ten years of seizures and raised chains follow | 378 → 385 |
 | The first partnership | c. 396 | c. 405 | Casvilar joins at twenty-six on Ostar's money and needs fifteen years of bought offices | 336 → 345 |
-| Rethmar | 392 | 401 | Ostar's own venture fails first, nine years after he sold the corridor rebels north | 339 → 348 |
+| Rethmar | 392 | 402 | Ostar's own venture fails first, eight years after he sold the corridor rebels north | 339 → 349 |
 
 - **With them.** The dry springs (676–674), the blockade (c. 666), Verion's unreckoned years (c. 666–663), Tammur taken (663), eight hostage cohorts instead of six, and Pel's birth (418 → 424).
 - **Cost.** About 98 lines in 40 files.
@@ -119,9 +151,9 @@ Smaller questions are listed at the end of each detail record. Unless told other
 | Maruth's triumph | 68 | 76 | He comes home only when the search for the vessels is given up | −3 → +5 |
 | Tervan Marcellan accedes | 241 | 233 | A decade of mutinies before the Kept Lamps force the edict | −8 → −16 |
 | The Velos Concord | c. 296 | c. 302 | The sees refuse for ten winters to commemorate the augurs' entry | −17 → −11 |
-| The hearing at Halmenth | 297 | 306 | Halmenth's stewards hold out four winters with the hall locked | −17 → −8 |
+| The hearing at Halmenth | 297 | 305 | Halmenth's stewards hold out three winters with the hall locked | −17 → −9 |
 | Corlan Aster dies | c. 366 | c. 354 | With his marshal dead Lucar cannot hold both frontiers, and the stand-off of 355–357 follows | −9 → −21 |
-| The Dry Ford | 575 | 586 | After eighteen harvests the northern army's pay chest is empty and it rides out; the Saldanes fall the next year | −61 → −50 |
+| The Dry Ford | 575 | 586 | After twelve harvests the northern army's pay chest is empty and it rides out; the Saldanes fall the next year | −61 → −50 |
 | The Fever Week; Corvenas rides; Oswin's examination; Corvenas I recognised | 709; 710; 711; 713 | 698; 699; 700; 701 | A reign begun on a counterfeit kindling lasts seventeen years, not twenty-eight | −2, −4 → −13, −16 |
 | *The sealed answer; Torian ordained* | c. 309 | c. 304 | Torian asks two years after the Concord has put a crown book at Velos | −17 → −22 |
 | *Cassian baptised and dead* | 316 | 307 | He dies with restitution half done, which is why Sevrin's long reign is spent confirming it | −21 → −30 |
@@ -133,14 +165,14 @@ Smaller questions are listed at the end of each detail record. Unless told other
 - **Cost.** About 175 lines in about 60 files for the upper rows; about 140 more for the italic rows.
 - **What it buys.** The Tower Revolt runs eleven years (61–72) and meets the test outright, as does the Covenant's rise. A reader who re-sets the clock at every beat from Velos to Kellovar gets two of eleven right within three years; today it is eight.
 - **What you accept.** Decision 3.
-- **Order.** The sealed answer (c. 304) would come two years before the hearing at Halmenth (306); the two are independent. Corlan Aster would die before the stand-off of 355–357 and become its cause. Today his death (c. 366) is what lets Lucar's chaplains seize the ford-tokens two years later, and that link would stretch to fourteen years. 13C does not flag this; if the link matters more than the run it breaks, drop that row.
+- **Order.** The sealed answer (c. 304) would come a year before the hearing at Halmenth (305); the two are independent. Corlan Aster would die before the stand-off of 355–357 and become its cause. Today his death (c. 366) is what lets Lucar's chaplains seize the ford-tokens two years later, and that link would stretch to fourteen years. 13C does not flag this; if the link matters more than the run it breaks, drop that row.
 - **Not touched.** The run from Kellovar to Vestian's death (372–398) is the nearest to the real calendar in the whole history, at five years below to five above. Nothing outside 377, 383, 385 and 398 can break it, and those four are with the Vestian draft. 13C sets out what would work (the Profession to 388, Vestian's death to 406) and does not recommend it.
 
 ### Two Crowns and High Noon (13D)
 
 | Beat | Old (AR) | New (AR) | Why, in the world | Offset |
 |---|---|---|---|---|
-| The banner at Kaltfurt; Adalmar acclaimed | 974; 975 | 960; 961 | Once Caleran is retaken in 957 the banners that held the grass turn on the unwalled eastern roads within three years | +207 → +193 |
+| The banner at Kaltfurt; Adalmar acclaimed | 974; 975 | 960; 961 | The Grass-Tarkhan banners that broke the Covenant's northern wells in the Long Reach (951) are raiding wherever a road lies open by the end of the 950s | +207 → +193 |
 | The Blank Lot of Drossfeld | 1041 | 1027 | Adalmar's grandsons are grown at his death, and a war in which no banner is trusted burns out in six years | +198 → +184 |
 | Wolmar dies | 1050 | 1034 | He is past fifty at his accession and dies seven years after the lot | +210 → +194 |
 | The Impounding begins | 1029 | 1036 | Tamim's Audit of the South (1033) tells the amirs they are claimed but not defended; Meliton follows three years later | +214 → +221 |
@@ -161,7 +193,7 @@ Smaller questions are listed at the end of each detail record. Unless told other
 | Beat | Old (AR) | New (AR) | Why, in the world | Offset |
 |---|---|---|---|---|
 | Alessior II dies; seen at his desk | 1296 | 1289 | He dies in the first winter of the War of the Crimson Banner, when the Primarchal State can least pay Bartolo | −207 → −214 |
-| The Blackwater funerals; Ansgar drowns; the *Margins* read | 1297 | 1290 | The Sanctum and Caldria are at war until 1295 and the Chancery cannot read its own registers, so no legate comes to a hill funeral. The synod meets only in 1299 | −220 → −227 |
+| The Blackwater funerals; Ansgar drowns; the *Margins* read | 1297 | 1290 | Until 1295 the Sanctum's legates are on the Caldrian frontier, where the relic court presses its claim in the War of the Crimson Banner, and the Chancery cannot read its own registers, so no legate comes to a hill funeral. The synod meets only in 1299 | −220 → −227 |
 | Severin born | 1301 | c. 1312 | He "holds no office" because he is a young friar; he is thirty-four at the Pyre | −151 → −140 |
 | Taddeo Vetti born | 1289 | c. 1278 | Three foreign desks before the defaults is a forty-year career | −180 → −191 |
 | Meshalem dies | 1303 | c. 1316 | The Keepers let him sweep the outer court for a generation as a living warning | −373 → −360 |
@@ -213,13 +245,12 @@ Smaller questions are listed at the end of each detail record. Unless told other
 | 1338 and 1343 AR | Decision 7 |
 | The 1360 board | Fixed. Its dates on the −212 line are listed in 13E and in record 11F |
 
-## If approved: how it would be applied
+## How it was applied
 
-1. **One stretch at a time, one commit each.** The road to 1360 first, then Two Crowns, the Tower Revolt to the Reconquest, the Atherian west and the ancient east.
-2. **Each move is five kinds of edit:** the year, wherever it means that event; spans, headings and era labels; relative phrasing ("six years later", "in his nineteenth year"); ages and reign lengths in [[Named Figures of the Known World]] and the Chronology's sanity checks; and the registers (the Torque Register's dated headings, the Concordance's mappings and the examples under its rule 7).
-3. **A report of every changed line** is produced before anything is written, as it was for the renames.
-4. **Not touched:** *Current Focus Board*, the Vestian draft, `02 Playable Settings`, the dated snapshots and the earlier records of this pass. The reader app's generated data would show old dates until it is rebuilt.
-5. **Afterwards** the blind re-read should be run again, since neither the renames nor these moves have been scored.
+1. **One stretch at a time, one commit each:** the road to 1360, Two Crowns, the Tower Revolt to the Reconquest, the Atherian west, the ancient east.
+2. **Each move was five kinds of edit:** the year, wherever it means that event; spans, headings and era labels; relative phrasing ("six years later", "in his nineteenth year"); ages and reign lengths in [[Named Figures of the Known World]] and the Chronology's sanity checks; and the registers.
+3. **Nothing was written until it was checked.** Each writer produced a patch file of exact old-text and new-text pairs. A patch whose old text did not occur exactly once was refused. Number-only swaps were tallied against the approved pairs, and every change of wording was read.
+4. **After each stretch** the Chronology's date order, the links and the remaining mentions of each old year were checked.
 
 ## Method and limits
 
