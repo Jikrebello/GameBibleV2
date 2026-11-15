@@ -58,7 +58,7 @@ Weylan neither went back to the groves nor forgave the king. He was a baptized l
 
 - **1232-1247 AR:** the **Grey Sweat** emptied whole parish belts in the marches. Runaways from Virelia's bound villages, discharged soldiers, Folk families and later Freeflame exiles resettled the gaps under titles that contradicted one another, and the missing registers have kept the marches a refuge ever since.
 - **1258-1261 AR:** the **March of the Redeemer's Sword**. Southern lords whose estates the plague had emptied marched into the deep cold forest to take Folk captives as labour. Winter and the Grobi broke the march, and the clans count it among the few times the Grobi did them a service.
-- **1297-1343 AR:** Freeflame preachers reached the march villages and found Chapel-Folk listeners who liked a church without a distant bishop. After the Korrheim Accord the Sylvan Marches took in Unsworn congregations that every signatory hunted.
+- **1290-1343 AR:** Freeflame preachers reached the march villages and found Chapel-Folk listeners who liked a church without a distant bishop. After the Korrheim Accord the Sylvan Marches took in Unsworn congregations that every signatory hunted.
 - **1352 AR:** at **Vessing**, a hill parish of the southern marches, three people burying a runaway's child outside the churchyard wall saw a figure of banked fire in the sloe-field. The Sanctum has not ruled, and the clans have their own opinion of what walks in sloe-fields.
 
 ## Present Inheritance

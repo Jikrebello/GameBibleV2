@@ -26,7 +26,7 @@ Nikandros's death gave renewed force to those demanding a final campaign. The fr
 
 ## The Empty Interior
 
-The interior never recovered from the War of the Seal and the Sweat, which arrived by sea around 1234. Evandros the Sower spent his reign (1263–1290) resettling the districts Nikandros recovered and the villages the fever emptied, with veterans and Kedravan mountain families, and the work was never finished. Cities and fortified corridors grow while many villages shrink. Abandoned terraces, broken aqueduct branches, and unsafe roads surrender land to smugglers, local strongmen, and the dead. Resettlement schemes repeatedly underestimate how much infrastructure a village needs before families will stay.
+The interior never recovered from the War of the Seal and the Sweat, which arrived by sea around 1234. Evandros the Sower spent his long reign (1249–1296) resettling the districts Nikandros recovered and the villages the fever emptied, with veterans and Kedravan mountain families, and the work was never finished. Cities and fortified corridors grow while many villages shrink. Abandoned terraces, broken aqueduct branches, and unsafe roads surrender land to smugglers, local strongmen, and the dead. Resettlement schemes repeatedly underestimate how much infrastructure a village needs before families will stay.
 
 ## The Buried Empire
 

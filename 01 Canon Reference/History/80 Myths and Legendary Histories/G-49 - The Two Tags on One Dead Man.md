@@ -3,7 +3,7 @@ type: legend
 status: canon
 canon_level: local
 visibility: public
-era: ["1297–1360 AR; Reformation and unfinished present"]
+era: ["1290–1360 AR; Reformation and unfinished present"]
 region: ["known-world towns and Anchor-facing harbours"]
 culture: ["living townspeople and conflicting current witnesses"]
 related_factions: []
@@ -20,7 +20,7 @@ aliases: ["The Two Tags on One Dead Man"]
 
 ## Historical setting
 
-**1297–1360 AR; Reformation and unfinished present.** Known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
+**1290–1360 AR; Reformation and unfinished present.** Known-world towns and Anchor-facing harbours. This tradition belongs to [[The Age of Held Proofs]]; its cultural bearers are living townspeople and conflicting current witnesses.
 
 It is told in Reformation workhouse towns and, in 1360, among two families facing the consequences of an old exchange.
 

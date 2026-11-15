@@ -49,7 +49,7 @@ The post-Sweat Sending Houses worked where rites were sung, because intercession
 
 The four hundred thousand letters Alessior had sealed without charge in 1287 for Aurelia's plague dead were liens like any other unsung letter, and they are the largest single block of the Great Arrears. Parishes that stopped singing for their poor because the seal sufficed are the reason the dead walked again in the loyal south by the 1310s.
 
-Alessior's own Sending was sung. What the night clerks saw at the signing desk in 1296 was residue at a thin place, made in a room where hundreds of thousands of unsung promises over named souls had been sealed; the choir's singing closed it. The blank letters found on the desk in the mornings were written by living clerks, who had signed in his hand for years and were afraid to say so. Neither the Sanctum nor the Freeflame knows this.
+Alessior's own Sending was sung. What the night clerks saw at the signing desk in 1289 was residue at a thin place, made in a room where hundreds of thousands of unsung promises over named souls had been sealed; the choir's singing closed it. The blank letters found on the desk in the mornings were written by living clerks, who had signed in his hand for years and were afraid to say so. Neither the Sanctum nor the Freeflame knows this.
 
 ## The Ossuary Crown
 

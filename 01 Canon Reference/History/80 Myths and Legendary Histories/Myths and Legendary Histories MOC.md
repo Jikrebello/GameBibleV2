@@ -134,9 +134,9 @@ Two public surveys gather the strange and the holy across many tales and ages. E
 
 ## The Age of Held Proofs
 
-- [[G-17 - The Company with No Charter|The Company with No Charter]] — known-world towns and Anchor-facing harbours; 1297–1360 AR; Reformation and unfinished present.
-- [[G-23 - The Citizen Who Gave Away a Name|The Citizen Who Gave Away a Name]] — known-world towns and Anchor-facing harbours; 1297–1360 AR; Reformation and unfinished present.
-- [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]] — known-world towns and Anchor-facing harbours; 1297–1360 AR; Reformation and unfinished present.
+- [[G-17 - The Company with No Charter|The Company with No Charter]] — known-world towns and Anchor-facing harbours; 1290–1360 AR; Reformation and unfinished present.
+- [[G-23 - The Citizen Who Gave Away a Name|The Citizen Who Gave Away a Name]] — known-world towns and Anchor-facing harbours; 1290–1360 AR; Reformation and unfinished present.
+- [[G-49 - The Two Tags on One Dead Man|The Two Tags on One Dead Man]] — known-world towns and Anchor-facing harbours; 1290–1360 AR; Reformation and unfinished present.
 
 ## Distant Lands and Otherworld Histories
 

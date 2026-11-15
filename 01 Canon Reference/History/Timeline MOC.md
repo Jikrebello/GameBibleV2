@@ -46,7 +46,7 @@ tags: []
 - [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Founding of the Thalmyric Empire.md|The Founding of the Thalmyric Empire]]
 - [[The Great Split — Two Crowns, One Fire]] - 962–1104 AR.
 - [[High Noon and the Qarath Disaster]] - 1104–1290 AR.
-- [[The Age of Held Proofs]] - 1297–1360 AR.
+- [[The Age of Held Proofs]] - 1290–1360 AR.
 
 ## Reigns and Dynasties
 
