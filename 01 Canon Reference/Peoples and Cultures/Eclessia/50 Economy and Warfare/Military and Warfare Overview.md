@@ -3,7 +3,7 @@ type: reference
 status: canon
 canon_level: core
 visibility: public
-era: ["982-1360 AR", "Present Day"]
+era: ["985-1360 AR", "Present Day"]
 region: ["Eclessia"]
 culture: ["Eclessian"]
 related_factions: ["Eclessian Church", "Freeflame"]

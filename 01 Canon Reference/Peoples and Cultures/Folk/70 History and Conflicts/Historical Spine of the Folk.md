@@ -33,7 +33,7 @@ The Folk are related Orphaned peoples whose communities reassembled across the s
 ## Fall and Successor Frontiers
 
 - **905 AR onward:** the Fall removed the last common imperial frontier command. Clans reclaimed settlements and roads but lost dependable grain relief and coordinated winter defence.
-- **975-982 AR:** Adalmar's eastern consolidation turned the southern border into a program of settlement, baptism, and crown title. The eastern bishops' registers still listed the imperial frontier forts and estates abandoned after 905, and Adalmar granted them to his Markish lords. The Green March clans had held the same ground for three generations by seer-oath and grove boundary. The registers said one thing and the groves another.
+- **961-985 AR:** Adalmar's eastern consolidation turned the southern border into a program of settlement, baptism, and crown title. The eastern bishops' registers still listed the imperial frontier forts and estates abandoned after 905, and Adalmar granted them to his Markish lords. The Green March clans had held the same ground for three generations by seer-oath and grove boundary. The registers said one thing and the groves another.
 - **985-994 AR:** the **Folk Wars** combined settlement drives, forced baptism, clan civil war and missionary expansion. In **987** the Green March war-leader **Weylan** took baptism and entered his clans' fields in the bishops' register, and was named Oath-Bent.
 - **993 AR:** the **Drowning at Wolfsmere** killed four thousand oath-keepers and seers, called to the lake under safe-conduct to recite the grove boundaries. The lake became a standing leftward thin space.
 - **994 AR:** the **Standing of the Water**. The lake rose and took the Markish shore-fort.

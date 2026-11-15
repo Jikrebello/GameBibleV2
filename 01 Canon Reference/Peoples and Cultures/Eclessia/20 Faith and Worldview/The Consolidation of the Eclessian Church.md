@@ -24,7 +24,7 @@ The habit that most marked the later Sanctum began under Vestian. In 383 the bis
 
 The east had learned to govern itself long before 905. In 653 a Thalassian squall sank the fleet carrying the eastern tax grain to Caleran, and the court let the eastern bishops collect and spend the revenue at home "for one year". Nobody ever ended the year. Bishops who kept the revenue whichever way a relic test fell could afford to test honestly, and Aurelium kept the results in its **register of answered fire**: which relics answered, which never had and which clergy kindled. In 711 Bishop Oswin of Aurelium examined the Velos Standard, sent east to rally the provinces for a Caleran claimant, recorded it silent and held the eastern governors' oaths "in trust for the emperor who proves lawful". Corvenas I confirmed Aurelium's right of examination in 713. Eclessians call it **the Examiner's primacy**, and the oaths it held waited three centuries for their emperor. [[Eclessia During the Invasion]]
 
-## The Eastern Emergency, 905-974 AR
+## The Eastern Emergency, 905-960 AR
 
 The Fall of Caleran in 905 AR severed the eastern provinces from imperial command. The Stand at Crown Gate halted the Qahirid advance at Caldria, while bishops, fortified abbeys, town councils, and marcher lords organised food, defence, burial, and refugee settlement.
 
@@ -34,7 +34,7 @@ The **Council of Aurelia in 946 AR** regularised that emergency system. It confi
 
 **Orlan the Humble** (c. 920-986 AR), an abbot and relief organiser, chaired the council and refused a princely title. Later devotional histories call him the first Eclessian patriarch; contemporary documents call him only first among the emergency abbots. His administrative settlement mattered precisely because it preceded the claim later made from it.
 
-## Adalmar's Settlement, 975-1014 AR
+## Adalmar's Settlement, 961-1014 AR
 
 Adalmar the Great united the eastern kingdoms through conquest, marriage, and law. He protected the Aurellian hierarchy, used parish records to regularise taxation, and forced conversion during the Folk Wars. The Church gave his conquests a common legal and sacred language while inheriting responsibility for Wolfsmere and other coerced settlements.
 
@@ -50,7 +50,7 @@ After 1015, Eclessian bishops ceased treating Veridun as a higher court. Celibat
 
 ## From Crown to Custody, 1019-1104 AR
 
-Wolmar's silent banner and the blank lot of Drossfeld (1041) froze Adalmar's political inheritance into the realms that held the field that day. The Church outlived each successor because its dioceses, schools, courts, and registers crossed their borders.
+Wolmar's silent banner and the blank lot of Drossfeld (1027) froze Adalmar's political inheritance into the realms that held the field that day. The Church outlived each successor because its dioceses, schools, courts, and registers crossed their borders.
 
 In the Two Winters, Ermbold the Idle refused to carry the unworn Crown of Embers barefoot to the Sanctum for examination, and in 1102 sent it to the Primarch in a grain cart. No claimant could reunite the realm. In 1104 the kings and dukes left it there in trust "until the realm is worthy of one head." The Church thereby became keeper of an unrealised empire without becoming its monarch.
 

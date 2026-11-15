@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["905-975 AR"]
+era: ["905-961 AR"]
 region: ["Eclessia", "Caldria"]
 culture: ["Eclessian", "Atherian"]
 related_factions: ["Eclessian Church", "Ahl-e-Ahd"]
@@ -50,7 +50,7 @@ The difference became political before it became schism.
 
 ## Toward Adalmar
 
-Between 908 and 975 AR, emergency lordships hardened into principalities, and none could claim to be the whole empire. Grass-Tarkhan riders on the scattered imperial horse raided their roads. In 974 a march banner taken up by the miller's widow Hedwen kindled at Kaltfurt while she shielded a refugee column from one such raid, and the commander watching from the far bank, Adalmar, was acclaimed king of the eastern marches the next year. He conquered and married the principalities into a crown. When a Primarch crowned him emperor in 1017, standing in the ford where Hedwen had stood and two years after the churches had split, much of the east read it as the old episcopal trust over oaths made visible, and Veridun read it as usurpation.
+Between 908 and 961 AR, emergency lordships hardened into principalities, and none could claim to be the whole empire. Grass-Tarkhan riders on the scattered imperial horse raided their roads. In 960 a march banner taken up by the miller's widow Hedwen kindled at Kaltfurt while she shielded a refugee column from one such raid, and the commander watching from the far bank, Adalmar, was acclaimed king of the eastern marches the next year. He conquered and married the principalities into a crown. When a Primarch crowned him emperor in 1017, standing in the ford where Hedwen had stood and two years after the churches had split, much of the east read it as the old episcopal trust over oaths made visible, and Veridun read it as usurpation.
 
 ## Navigation
 
