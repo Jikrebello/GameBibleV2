@@ -254,7 +254,7 @@ At mass death, damaged thresholds, and intercepted soul routes, several powers m
 
 ### GP-III-03 — The Long Rent War
 
-- **Era and scale:** 612–884 AR Long Frontier; Egg White routes paralleling frontier roads, wells, translation houses, and caravan jurisdictions.
+- **Era and scale:** 612–884 AR Long Frontier; Egg White routes paralleling frontier roads, wells, charter-houses, and caravan jurisdictions.
 - **Principal actors:** Anchor-Lords, Giant Continuants, Driftkin refuges, crafted route systems, Ossuary Minds, stranded Menhir courtiers and Idol Masks, human institutions, and the Creditor's agents where already permitted by canon.
 - **Source grammar:** Tobit's journey; Daniel 10's delayed messenger; Aesir–Vanir exchange and hostage settlement; dangerous hospitality; modern planar-trade-war structure.
 - **Authorial substrate:** no single empire controls the frontier's Astral correspondences. “Long Rent War” is the later juristic name for many overlapping foreclosures, route contests and refuge crises, not one command or continuous front. Patrons fight over safe arrival, translation, water-memory, storage, and return tethers by buying one another's debts, stealing Current Shepherds, moving anchor reefs, and making rival refuge upkeep impossible.

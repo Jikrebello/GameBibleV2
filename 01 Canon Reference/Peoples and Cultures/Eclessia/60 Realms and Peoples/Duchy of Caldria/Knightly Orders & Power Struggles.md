@@ -19,7 +19,7 @@ Caldria's four chartered knightly orders grew from different frontiers, campaign
 
 ## Chartered Orders
 
-**Order of the Silver Cross** holds old Third Crusade fortresses and considers itself the duchy's doctrinal shield. It resists secular inspection of its relic armories.
+**Order of the Silver Cross** holds old fortresses of the Stand at Crown Gate and considers itself the duchy's doctrinal shield. It resists secular inspection of its relic armories.
 
 **Brotherhood of Stagfort** guards forest roads and southern approaches. Its practical cooperation with Folk guides makes it suspect to court traditionalists.
 

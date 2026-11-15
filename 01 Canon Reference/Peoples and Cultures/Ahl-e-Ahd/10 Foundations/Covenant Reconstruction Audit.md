@@ -75,12 +75,12 @@ This register records the disposition of every other active note matching the Co
 - `03 Stories & In-World Texts/Historical Accounts/10 Comparative Histories/World History.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Footsoldiers Account of the Retaking of Caleran.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Letter from Count Rhael Tovarin of Velos.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
-- `03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Soldiers Testament of the First Crusade.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
+- `03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Soldiers Testament of the War of the Seals.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/The Confession of Sir Renwalt of Dornheim.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/A sermon of Aqid Qalim ibn Haraz.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/Caedros and the Birth of Thalmyria.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 - `03 Stories & In-World Texts/In-World Texts/The Aquilan Epistles — Selected Passages.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
-- `03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
+- `03 Stories & In-World Texts/In-World Texts/Of Princes as Borrowers — Selected Maxims.md` - preserved under its existing reliability and viewpoint; not treated as authorial authority
 
 ## Intentionally Unchanged (108)
 

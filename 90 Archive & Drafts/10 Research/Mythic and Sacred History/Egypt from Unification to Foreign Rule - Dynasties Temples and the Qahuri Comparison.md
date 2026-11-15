@@ -66,7 +66,7 @@ These examples show that royal religion was neither static nor merely decorative
 
 Qahuri history should include a reign in which one crown attempts to reduce the Basin's many cults to a single royal celestial rite. The policy enriches a new capital, closes sanctuaries and provokes both principled opposition and elite resistance to lost property. The ruler dies without securing the settlement. Restorers reopen temples, punish officials and erase images. An Idol Mask formed around the royal cult may survive the political reversal; it remains distinct from the dead ruler and from any Menhir manifestation associated with the river.
 
-[[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] develops this comparison at household scale. It separates Tutankhamun's restoration from Horemheb's later erasure, gives Ithren's queen and young heir independent political roles, and proposes a Faceless Interval in which the restored dynasty removes reformers and restorers alike from official succession. Those additions remain author-only until reviewed.
+[[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] develops this comparison at household scale. It separates Tutankhamun's restoration from Horemheb's later erasure, gives Hesren's queen and young heir independent political roles, and proposes a Faceless Interval in which the restored dynasty removes reformers and restorers alike from official succession. Those additions remain author-only until reviewed.
 
 ### Third Intermediate and Late Periods
 

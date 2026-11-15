@@ -31,7 +31,7 @@ The cost structure holds throughout. Sanctity cannot be bought, so the court's p
 
 1. **Concealment (from c. 398).** Failed rites were entered in the palace calendar as *postponed*.
 2. **Substitution (from 447).** The first Sestaran Shell-fire cohorts were hired in the succession war of 447–452. By the sixth century licensed warlock fire was the standard imperial incendiary, and hired Ättar crews and Folk auxiliaries filled ranks a church-backed muster no longer filled.
-3. **Counterfeit (from 681).** Shell-fire was used at ceremonies to imitate a kindling. The first case to become public was **the Copper Lamp**: Leovar II's accession lamp in 681 was made to flare white by a Sestaran warlock hidden in the cathedral gallery with a brass fire-cup. In 683, unpaid for eighteen months, he sold the cup and a written account to a Covenant factor at Sermora. Counterfeit fire is fraud and "may create a breach" ([[The Holy Fire]]); the cup began the Covenant's file of counterfeit fire, which reached its fullest form in the record of Corvenas III's accession in 884.
+3. **Counterfeit (from 681).** Shell-fire was used at ceremonies to imitate a kindling. The first case to become public was **the Copper Lamp**: Tavoran II's accession lamp in 681 was made to flare white by a Sestaran warlock hidden in the cathedral gallery with a brass fire-cup. In 683, unpaid for eighteen months, he sold the cup and a written account to a Covenant factor at Sermora. Counterfeit fire is fraud and "may create a breach" ([[The Holy Fire]]); the cup began the Covenant's file of counterfeit fire, which reached its fullest form in the record of Corvenas III's accession in 884.
 
 **The surviving register.** One palace register of yields survives for 794–812. In thirty-one entries a later hand has changed *postponed* to *answered*. Eclessian historians have used it against Thalmyric claims since the eleventh century. It is genuine, and so are the alterations.
 
@@ -43,7 +43,7 @@ The cost structure holds throughout. Sanctity cannot be bought, so the court's p
 
 *Bent 14 November 2026 by [[Causality Pass - 10D Bending the Long Frontier and the Covenant]]: the Veil is no longer a figure spreading fire in the sky before a storm, and the Fall's 1453 furniture (the young conqueror at the walls, two weak points, three possible deaths, the great church sealed) is replaced below. Bent again the same day by [[Causality Pass - 11D Second Bend - Covenant Rise and the Fall]]: the Covenant's rise no longer follows prophet, four caliphs, dismissed general, river battle, protected-subject terms and martyred grandson; the engines come to the river dyke and not to a land wall; Idris is thirty-one and the "Conqueror" gloss is retired; the drowned heir of 446 and the dead heir of 709 both live; Qahir's rise has its step.*
 
-**After 905.** The office-church died with Caleran. The refuge leagues chose chaplains by service, and the march monasteries' living-witness rite became the model for the army chaplaincy. Most who fought the return fought to protect people, which is why the 950s produced the first documented battle manifestations. The reliability faded again once the restored empire re-endowed its church; the Ashfall Omen of the 980s is the same pattern in its second generation, and Leovar III's reading of it is his own.
+**After 905.** The office-church died with Caleran. The refuge leagues chose chaplains by service, and the march monasteries' living-witness rite became the model for the army chaplaincy. Most who fought the return fought to protect people, which is why the 950s produced the first documented battle manifestations. The reliability faded again once the restored empire re-endowed its church; the Ashfall Omen of the 980s is the same pattern in its second generation, and Tavoran III's reading of it is his own.
 
 ## The four houses
 
@@ -51,12 +51,12 @@ The cost structure holds throughout. Sanctity cannot be bought, so the court's p
 |---|---|---|---|---|
 | **Vestianic** | 398–447 | court bishops and paymasters | Vestian's son inherited the bishops who had made his father | the regency's bishops had tonsured the only heir as a boy; the old emperor died in 447 and the abbot would not leave his cloister |
 | **Saldane** | 452–587 | the southern fort-line army | the great sees acclaimed its commander in 447–452 and were paid in immunities | the Toll War debts, the famine requisitions and the loss of the north |
-| **Leovarid** | 587–709 | the remnant field army and the frontier bishops | they held the line while the Saldanes lost it | a palace fever killed Leovar II in nine days and left his son alive but unable to ride the marches within the year and a day (the Fever Week, 709) |
+| **Tavoranid** | 587–709 | the remnant field army and the frontier bishops | they held the line while the Saldanes lost it | a palace fever killed Tavoran II in nine days and left his son alive but unable to ride the marches within the year and a day (the Fever Week, 709) |
 | **Corvenid** | 713–905 | the marches, then the Caleran chancery | Corvenas I rode the marches in his sick brother-in-law's place, and the oaths stayed with the man who had knelt | the five pressures of 885–905 |
 
 Each change of house followed a change in who paid the army. Immunity sales moved provincial wealth into tax-free relic estates; the registers kept every lost northern province, because striking one off would concede the Covenant's ruling in writing, so over three centuries the legal claim became the budget. Gold stayed heavy for warlocks and foreign captains; soldiers' silver was debased in the eighth century and again after 878.
 
-Named rulers: Vestian's son (unnamed, r. 398–447); **Teomar Saldane** (r. 509–531); the Saldane emperor of the famine years, called *the Granary Thief* in the north (unnamed); **Leovar I** (r. 587–624); **Leovar II** (r. 681–709); **Corvenas I** (r. 713–746); **Corvenas II** (r. 861–884, abdicated); **Corvenas III** (r. 884–905). Leovar II's son, the bedridden emperor and Caleran claimant of 709–713, stays unnamed, as does Vestian's tonsured grandson, who lived on as an abbot until about 467.
+Named rulers: Vestian's son (unnamed, r. 398–447); **Teomar Saldane** (r. 509–531); the Saldane emperor of the famine years, called *the Granary Thief* in the north (unnamed); **Tavoran I** (r. 587–624); **Tavoran II** (r. 681–709); **Corvenas I** (r. 713–746); **Corvenas II** (r. 861–884, abdicated); **Corvenas III** (r. 884–905). Tavoran II's son, the bedridden emperor and Caleran claimant of 709–713, stays unnamed, as does Vestian's tonsured grandson, who lived on as an abbot until about 467.
 
 ## The kindled marches
 
@@ -72,7 +72,7 @@ This is why Corvenas I won in 713, why written orders could not lawfully move a 
 
 **What a service did.** The ruling bit through the town's own contracts. Garrison oaths, guild privileges and debts hung from the master charter, so when it fell the soldiers were released and the creditors panicked. The Covenant's terms were about grain, names and water: the town kept its walls, magistrates and altars; its householders were entered on the court's roll; it owed a measured share of each harvest, the Given; a bound keeper was set at its chief well to draw for the roll; and in a failed year the roll was to be fed from the Basin. Towns that refused were stormed, by men. The older list of terms (tribute, disarmament, restricted testimony, protected worship) is retired; the restrictions on arms and testimony in the present People of the Lamp status grew up later under the Banu Mizan compacts and the Qahirids.
 
-**Why the courts went north.** The Seal of Names bound the Covenant to feed every name on the roll in a failed year, and the bound carriers of the 4,444 lift only what has been given. When the flood came thin in 567 the roll was larger than the Basin's bread. The breach-courts existed to make northern grain a lawful gift. Mujalib neither blessed nor forbade them; both traditions put words in his mouth, and the line Ruqaiya's household kept is close to something he said.
+**Why the courts went north.** The Seal of Names bound the Covenant to feed every name on the roll in a failed year, and the bound carriers of the 4,444 lift only what has been given. When the flood came thin in 567 the roll was larger than the Basin's bread. The breach-courts existed to make northern grain a lawful gift. Mujalib neither blessed nor forbade them; both traditions put words in his mouth, and the line Rumaitha's household kept is close to something he said.
 
 **The Dry Ford, 575.** The northern commander believed a court unable to protect its escort could not lawfully sit. The law said no such thing. He won the fight, hanged the jurists and undid nothing they had sealed. His army then marched home through served towns in the dry season, and the bound keepers at their wells drew for the roll and for nobody else. The keepers acted within their instruments; they took nothing. The army sacked three of its own towns for their cisterns and broke up by autumn. Qatada lost the only pitched battle of the conquest. The people of the Clause later cited the Dry Ford as the first time a bound office's keeping had done an army's work.
 
@@ -82,14 +82,14 @@ This is why Corvenas I won in 713, why written orders could not lawfully move a 
 
 1. Charters re-sealed in the Fire could not be served, and the line of 612 lies roughly where they held.
 2. After 597 every service sat under a disputed seal.
-3. Qatada halted the northern army in 598 because he would serve no notice under a seal that might be overturned, and Uthar could not dismiss a marshal sealed by the Prophet's own hand. The halt ended the field war.
+3. Qatada halted the northern army in 598 because he would serve no notice under a seal that might be overturned, and Zuhayr could not dismiss a marshal sealed by the Prophet's own hand. The halt ended the field war.
 4. The Clause of the Given barred the 4,444 from conquest, and their number was finite: by about 610 every bound office was set at a well, on a road or in the oasis, and a town taken without a keeper had to be garrisoned and fed.
 5. Garrisons and famine country had to be fed, and the Covenant was dividing among caliphs, Qazmarid and the Banu Mizan.
 6. Each side held a proof it dared not test, and the Suspension wrote that fear into law.
 
 **Tamsar, 611.** The Covenant's ruling failed because Tamsar's charter had been re-sealed in the Fire in 607 by a hermit-bishop. Caleran's reliquary failed because it was carried to make a district submit (the Guttering). The plea of the disputed seal was a real legal weakness. All three failures were genuine; nobody staged anything. It is the first recorded deterrence by unopened proof, and the root of [[The Age of Held Proofs - Authorial Control|the Held Proofs]].
 
-**The Velian chests.** The Velian cities were served under Uthar's seal and took Banu Mizan protection c. 610 without surrendering their charters. If the Fourth Seal were proved forged, every service made in Uthar's name would fall and the Velian charters would revive. Qahirid interest in never opening the Seal is territorial as well as dynastic; Qazmarid has a standing interest in the chests. See [[The Fourth Seal - Authorial Truth]].
+**The Velian chests.** The Velian cities were served under Zuhayr's seal and took Banu Mizan protection c. 610 without surrendering their charters. If the Fourth Seal were proved forged, every service made in Zuhayr's name would fall and the Velian charters would revive. Qahirid interest in never opening the Seal is territorial as well as dynastic; Qazmarid has a standing interest in the chests. See [[The Fourth Seal - Authorial Truth]].
 
 ## Vashar and the Bread of the Bound
 
@@ -113,11 +113,11 @@ In 885–886 Qahir obtained from the college at Al-Qahur the **Ruling on Parties
 
 **Why not before 885.** Capturing Depth fauna needed route-registries of mapped Hell, compiled slowly through the Long Frontier by Banu Mizan scholars and breach-assessors together. The ruling needed a patron strong enough to force it. Until 884 the Suspension left a new weapon nothing it could lawfully be used against. Being party to nothing, the engines cannot be served either, so Atherian chanceries had no legal answer to them, only Vortharan counter-scripts.
 
-## The Velos Standard and Simeon
+## The Velos Standard and Oswin
 
 The **Velos Standard** is the battle standard the court held to have been carried at the Stone Bridge in 292. It is genuine. It is distinct from the Answered Standard of Astrion's 350 test.
 
-- **711.** The Caleran claimant in the War of the Two Oaths sent it east to rally the provinces. **Simeon of Aurelium** (bishop c. 694–731) examined it publicly and recorded it silent. It was silent because of the purpose it was sent for: a summons to civil war. Simeon's verdict was right in outcome and wrong in reasoning; the protocol tradition's founding verdict condemned a true relic for the wrong cause. Neither church could survive learning this.
+- **711.** The Caleran claimant in the War of the Two Oaths sent it east to rally the provinces. **Oswin of Aurelium** (bishop c. 694–731) examined it publicly and recorded it silent. It was silent because of the purpose it was sent for: a summons to civil war. Oswin's verdict was right in outcome and wrong in reasoning; the protocol tradition's founding verdict condemned a true relic for the wrong cause. Neither church could survive learning this.
 - **876.** Corvenas II carried it before Oronda to receive the Velian cities under a pretext. It was silent again, for the same kind of reason.
 - **884–905.** Corvenas III put it in the Ash Hall. On the last day of the siege he carried it onto the river dyke and it was silent a third time, for the same kind of reason: a call to keep what he held. It is the "object listed in Corvenas III's final inventory", the schedule of the Instrument of the Ash Hall, whose later fate is a Caleran campaign hook.
 
@@ -132,7 +132,7 @@ In the 860s floods and raiders drove the river marches' garrisons back from the 
 
 Caleran's clergy never recorded it: she was a woman, Velian-born, and she had refused the emperor. Aurelium entered it in the register of answered fire. The Covenant's border clerks recorded it in one line. This is why Thalmyric doctrine dates the first *documented* battle manifestations to the 950s: Caleran's church declined to document this one, and angels commanded by a saint are a different thing from bearers kindling the Fire in battle.
 
-Its consequence is the Second Crusade. Corvenas II believed Heaven had fought beside his army, believed it would do so again for a cause he thought better, and carried the Velos Standard into the belt to do what the saint had refused.
+Its consequence is the Reception. Corvenas II believed Heaven had fought beside his army, believed it would do so again for a cause he thought better, and carried the Velos Standard into the belt to do what the saint had refused.
 
 ## Oronda and the broken peace
 
@@ -154,11 +154,11 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 
 **The machine.** Capture companies on the routes into mapped Hell; name-cage foundries fed by a docket of breach-court death sentences; Shell extraction from Covenant-held anchors; coerced Ahdanite levies trained as engineers and foundry crews; Vault-sealed supply contracts; and the Surrender line, which in 905 meant only lesser engines and siege tables travelling with the breach-court train. They read each district's title and offered each district its own terms. The five great golems at the Fall were three Depth-Core and two Slave-Soul; no great Surrender frame existed until c. 944 (Pass 06).
 
-**The crusade prisoners.** The first name-cages held Second Crusade prisoners Caleran never ransomed, condemned under the 884 ruling. One of the two great Slave-Soul engines at the Fall held such a prisoner. Whether he is the soul released at Crown Gate in 907 is open. Thalmyric "martyr irons" is therefore literal.
+**The crusade prisoners.** The first name-cages held prisoners of the Reception whom Caleran never ransomed, condemned under the 884 ruling. One of the two great Slave-Soul engines at the Fall held such a prisoner. Whether he is the soul released at Crown Gate in 907 is open. Thalmyric "martyr irons" is therefore literal.
 
 **Qahir's rise.** Qahir (b. c. 848) commanded the northern horse in the Velian belt in 874–878. Neither the Banu Mizan regency nor the caliph at Al-Qahur could pay it, and he took the crusade's unransomed prisoners, about nine thousand, in place of wages. He entered them under his own name in a register at Iqashar, the first of his personal instruments and the beginning of the Vault's working halls there, worked them on the Chain Furnace yard and the Basin canals and paid his riders from the hire. In 881 the caliph gave him the Seal of the Roads, in the college's keeping since Qatada's death in 604, with the new title of Sultan. The Ruling of the Broken Suspension (884) also made his prisoners forfeit, which is why the first name-cages held them.
 
-**Idris's absence.** Idris (b. c. 871) acceded in 902 at thirty-one, with daughters and no son; Qahir's instruments named Qahir and then Idris and nobody after him. His jurists forbade him the field because his death would have widowed the whole army, the exact catastrophe of 931 averted in advance. He governed the campaign by courier from Iqashar and never saw Caleran. The city was taken by Qahir's engine-master **Barzin** (a Ruzhan horse-lord's son, in his sixties) and the chief jurist of the breach-court train. The epithet *al-Fattah* is a jurist's title, "the Opener", given for a city opened by reading. The Thalmyric gloss "the Conqueror" is retired by 11D; Thalmyric chroniclers call him the Letter-Caliph. He was the first of his house styled Sultan-Caliph. Ruzbeh's birth in 915 was followed by a two-year muster that wrote him in as successor-holder.
+**Idris's absence.** Idris (b. c. 871) acceded in 902 at thirty-one, with daughters and no son; Qahir's instruments named Qahir and then Idris and nobody after him. His jurists forbade him the field because his death would have widowed the whole army, the exact catastrophe of 931 averted in advance. He governed the campaign by courier from Iqashar and never saw Caleran. The city was taken by Qahir's engine-master **Barzin** (a Ruzhan horse-lord's son, in his sixties) and the chief jurist of the breach-court train. The epithet *al-Qari* is a jurist's title, "the Reader", given for a city opened by reading. The earlier epithet *al-Fattah*, with its glosses "the Opener" and "the Conqueror", is retired; Thalmyric chroniclers call him the Letter-Caliph. He was the first of his house styled Sultan-Caliph. Ruzbeh's birth in 915 was followed by a two-year muster that wrote him in as successor-holder.
 
 **Astaroth.** Barzin's engineers asked the Red Star where the Aurin dyke would fail under the load of the great engines, in the standing practice of builders and siege engineers ([[Imperial Founding - Authorial History and Integration Review|the Darneth precedent]]). Astaroth answered within his grammar: a field, a load, a price. He showed **one** length, the Star's share built into the dyke in the Age of Glory to break in the wardens' test and rebuilt after it; the rebuilt length was the dyke's weakest point, and it had never been tested again because the colleges that recorded it were dissolved in 383. The red light the watch saw on the water along the dyke's foot the night before the assault is the answer's visible edge. The price was a lesser engine frame broken under the test load. The Covenant also held a dead college's archive, bought at Sermora, that located the length; both claims are true, and the Star's answer confirmed the archive. The answer was structural knowledge and nothing more; it pronounced no verdict on Caleran. The Star that answered Astrion's test at Caleran in 350 answered Caleran's enemies in 904, and answered Qazem's engineers on the Caelmount road in 917 ([[The Covenant after Caleran - Authorial Truth]]). The engines came to the dyke and not to the land wall (11D): Depth-Core beasts go to water, and the three Depth-Core frames could stand in the flooded river where no army could.
 
@@ -178,13 +178,13 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 
 ## Interfaces
 
-- **Pass 04.** Needs Halmenth 411 with Nasriel's communion concentrated in the northern dry-margin cities (Qabir among them), a doctrine denying that any institution can summon the Fire, and mutual refusal of Orthodox and Velian clergy to witness each other's charters. Vestian's dates follow the Direction (377, 385, 398).
+- **Pass 04.** Needs Halmenth 411 with Qedrel's communion concentrated in the northern dry-margin cities (Qabir among them), a doctrine denying that any institution can summon the Fire, and mutual refusal of Orthodox and Velian clergy to witness each other's charters. Vestian's dates follow the Direction (377, 385, 398).
 - **Pass 06.** Idris (b. c. 871, r. 902–931) inherits the Ruling on Parties and its dissenters; he is sonless until 915 and never goes to Caleran (Pass 10D). His heir Ruzbeh refuses the instruments in 929 and is lodged in 932 (Pass 11D). The first great Surrender frame comes after 905. The Ember belonged to no instrument Idris's jurists could serve. Charters re-sealed in the Fire could not be voided in 905, so the occupation rewrote land through coerced consent. The Qahirids are a Ruzhan house. The Covenant formed its view that Atherian holy fire was spent during the Guttering, so refugee kindling in the 950s was a strategic surprise.
 
 ## What reader prose must not state
 
 - That nothing changed in the Flame, or any of the three causes above as fact.
-- That Simeon's relic or the Velos Standard was genuine.
+- That Oswin's relic or the Velos Standard was genuine.
 - That the Captain's host was HC-N09, or anything about her judgement.
 - That Corvenas III attempted the summons alone.
 - That the Creditor shaped the Clause or profits from the cages.
@@ -195,15 +195,15 @@ In 884 Qahir obtained the **Ruling of the Broken Suspension** from the Witnessed
 
 ## Names introduced by Pass 10D
 
-**Barzin** (Qahir's engine-master), the **Instrument of the Ash Hall**, and the reading of *al-Fattah* as "the Opener". Checked against the vault on 14 November 2026.
+**Barzin** (Qahir's engine-master), the **Instrument of the Ash Hall**, and the jurist's epithet for Idris, which is *al-Qari*, "the Reader", since the renames of 15 November 2026 (it was *al-Fattah*, "the Opener"). Checked against the vault on 14 November 2026.
 
 ## Names introduced by Pass 11D
 
-The **Three Seals** (of Water, Names and the Roads), **the Given**, the **kept wells**, the **Aurin dyke**, the **Letter-Caliph** (Thalmyric name for Idris), **charter-houses** (the Banu Mizan translation houses under their own name), the **Night of the Ovens** (Veridun's own name for the Mother's Veil), the **Breath of Askre** and **the Sleepers** (Caelmount). No person was named or renamed. Checked against the vault on 14 November 2026.
+The **Three Seals** (of Water, Names and the Roads), **the Given**, the **kept wells**, the **Aurin dyke**, the **Letter-Caliph** (Thalmyric name for Idris), **charter-houses** (the Banu Mizan houses, called "translation houses" in drafts before 15 November 2026), the **Night of the Ovens** (the only name since 15 November 2026; "the Mother's Veil" is retired), the **Breath of Askre** and **the Sleepers** (Caelmount). No person was named or renamed. Checked against the vault on 14 November 2026.
 
 ## Names introduced
 
-Checked against [[Named Figures of the Known World]] and a vault search on 14 November 2026: **Teomar Saldane**, the **Saldane** house, the **Leovarid** and **Corvenid** houses (names canon already implied), **Tamsar**, **Oronda**, the **Velos Standard**, **the Copper Lamp**, **the Dry Ford**, **the Fever Week**, **the Thin Floods**, **the yoke-sickness**, **the Captain of the Sacrificial Wind** (inventory epithet, shared with [[Saints and Sinners of the Chronicles]]), **Sarion the Pale** (restored from the superseded Prelude draft).
+Checked against [[Named Figures of the Known World]] and a vault search on 14 November 2026: **Teomar Saldane**, the **Saldane** house, the **Tavoranid** and **Corvenid** houses (names canon already implied), **Tamsar**, **Oronda**, the **Velos Standard**, **the Copper Lamp**, **the Dry Ford**, **the Fever Week**, **the Thin Floods**, **the yoke-sickness**, **the Captain of the Sacrificial Wind** (inventory epithet, shared with [[Saints and Sinners of the Chronicles]]), **Sarion the Pale** (restored from the superseded Prelude draft).
 
 ## Navigation
 

@@ -39,7 +39,7 @@ Three rulings shaped the Covenant's wars after the Long Frontier. The recited Co
 
 ## The Two Great Traditions
 
-[[The Witnessed Seal]] grounds authority in public attestation and the continuing community of jurists. [[The Sealed Blood]] grounds succession in Mujalib's household through Ruqaiya and the Veiled Wasiyin. They share scripture, pilgrimage, basic worship, and much law while disagreeing over legitimate authority and sacred history.
+[[The Witnessed Seal]] grounds authority in public attestation and the continuing community of jurists. [[The Sealed Blood]] grounds succession in Mujalib's household through Rumaitha and the Veiled Wasiyin. They share scripture, pilgrimage, basic worship, and much law while disagreeing over legitimate authority and sacred history.
 
 ## Institutions
 

@@ -62,10 +62,10 @@ This arrangement gives the conqueror something real to inherit. His army, treasu
 |---:|---|
 | c. 735–706 BR | Valeron II consolidates Ortheia, reforms military service and imposes a changing hegemony upon several Compact cities |
 | 706 BR | Valeron is assassinated; Eryndor III succeeds amid rival household claims |
-| 705–704 BR | Olyssar revolts; Eryndor storms the city, kills or enslaves much of its population and divides its territory |
+| 705–704 BR | Marenthe revolts; Eryndor storms the city, kills or enslaves much of its population and divides its territory |
 | 702 BR | Eryndor crosses the eastern inner sea under a war mandate accepted freely by some cities and under duress by others |
 | 701–697 BR | western Arqeshite armies are defeated; coastal cities negotiate, resist or change sides |
-| c. 697–695 BR | the siege of Terys gives the army its eastern fleet and leaves the harbour with mass graves, exiles and an altered shoreline |
+| c. 697–695 BR | the siege of Belyra gives the army its eastern fleet and leaves the harbour with mass graves, exiles and an altered shoreline |
 | 695 BR | Eryndor enters divided Qahur, recognises selected local crowns and consults a renowned desert or river-edge oracle |
 | 694–691 BR | alliance with Arezan Tiravan divides Arqesh's field armies from its Vashari and river subjects |
 | c. 690 BR | Arqesh falls through the coordinated campaigns of the upland conqueror, Arezan's coalition, rebellious governors and forced workers within the river cities |
@@ -176,7 +176,7 @@ Package B remains coherent after the following incorporated revisions:
 1. **Arqesh's fall:** replace a single Arezan-led conquest with the two-principal alliance and the existing internal revolts.
 2. **Arezan:** retain him as indispensable Vashari coalition leader and founder of the High-Road empire; make him the strongest regional Successor rather than the sole destroyer of Arqesh.
 3. **Mithara and Parena:** retain Mithara as Arezan's sister and senior organiser; make her daughter Parena Eryndor's wife and a political actor in the mixed court.
-4. **The last Ubar king:** Kassur III remains distinct from Neshkar II, whose sack of Qiryath occurred fifty-two years earlier.
+4. **The last Ubar king:** Kassur III remains distinct from Ilbarun II, whose sack of Qiryath occurred fifty-two years earlier.
 5. **The Decree of 684:** place it within the first succession settlement. It becomes both restoration policy and Arezan's claim to legitimate authority after the conqueror's death.
 6. **Second Qiryath:** preserve return, contested property and consecration around 660. Returned households now live through the Successor wars as well as the transfer from Arqesh to Vashar.
 7. **Vasharan government:** retain the road commands and varied provinces. Add institutions and marriages inherited from the joint conquest.
@@ -223,7 +223,7 @@ The effect upon Qahur, Delkos, House Nerethan and Samyra is assessed separately 
 If the placement is approved, the Package B canon pass should expand into four stages:
 
 1. **Research reconciliation:** completed across the five Package B histories and their final canon-readiness review.
-2. **Historical selection:** Ortheia, Valeron II, Eryndor III, Olyssar, Terys, Kassur III, Parena Tiravan and four principal Successors have been selected for the proposed history.
+2. **Historical selection:** Ortheia, Valeron II, Eryndor III, Marenthe, Belyra, Kassur III, Parena Tiravan and four principal Successors have been selected for the proposed history.
 3. **Canonical integration:** revise the existing canon destinations above and create substantial articles for the upland kingdom, conqueror, eastern campaign and Wars of the Inheritance. Add a separate article for the destroyed city only if its later history warrants one.
 4. **Legendary integration:** establish which cultures tell which conqueror romances. Their existence may become canon while their supernatural truth remains disputed.
 

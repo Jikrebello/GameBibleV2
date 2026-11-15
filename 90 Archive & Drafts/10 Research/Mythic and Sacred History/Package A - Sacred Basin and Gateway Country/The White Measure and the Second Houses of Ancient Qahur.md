@@ -115,9 +115,9 @@ This counterfeit protects the setting's central uncertainty at the level experie
 
 ## The Single Radiance and the hidden doors
 
-Ithren III coveted the wealth and disciplined networks of the House-Builders. He closed several independent mortuary sanctuaries and demanded that their public images acknowledge the Radiance Above the Reeds. Open Palm houses entered royal service. Closed Courtyard priests concealed bodies, anchor objects and door rites beneath workshops and ordinary family tombs.
+Hesren III coveted the wealth and disciplined networks of the House-Builders. He closed several independent mortuary sanctuaries and demanded that their public images acknowledge the Radiance Above the Reeds. Open Palm houses entered royal service. Closed Courtyard priests concealed bodies, anchor objects and door rites beneath workshops and ordinary family tombs.
 
-Some House-Builders funded opposition after confiscation threatened their estates. Others helped Ithren seize temple wealth and purchased land from dispossessed families. The conflict divided individual houses rather than producing one unified resistance.
+Some House-Builders funded opposition after confiscation threatened their estates. Others helped Hesren seize temple wealth and purchased land from dispossessed families. The conflict divided individual houses rather than producing one unified resistance.
 
 Nemeret's false house prospered during the crisis. Its Mask learned to wear both the financier's funerary image and the Radiance's approved face. It offered accurate memories to rival factions and acquired confiscated grave goods from both. When Queen Zaheret restored the temples, investigators exposed several coerced attendant burials. They did not identify the power speaking as Nemeret.
 

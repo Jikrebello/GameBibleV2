@@ -47,49 +47,49 @@ Trade continued throughout these tensions. Atherian captains bought Vashari hors
 
 The immediate crisis began with a succession dispute at Tasar. The harbour magistrate supervised the civic warehouses, assigned public berths and negotiated the ships and money owed to Vashar. Two civic households claimed the vacant office. Governor **Mazdan Aresh** supported the weaker claimant in exchange for an increased ship levy and the surrender of three hostages. Tasar's assembly rejected these terms. When Mazdan's soldiers entered the council house to install his candidate, fighting spread through the harbour quarter.
 
-**Liora of Tasar**, a magistrate from a ship-owning family, crossed to the Atherian port of **Velathene** and requested aid. She promised harbour access, timber and membership in a defensive league. The Caleran Senate authorised a limited expedition under **Eryon Telmar**, who already commanded ships left from the final Gateway campaigns. Several allied cities joined for their own reasons: Ilyessan pilots wanted protection from Avesh; merchants wanted access to the Ubar trade; veteran crews expected pay and captured goods.
+**Liora of Tasar**, a magistrate from a ship-owning family, crossed to the Atherian port of **Velanthe** and requested aid. She promised harbour access, timber and membership in a defensive league. The Caleran Senate authorised a limited expedition under **Eryon Telmar**, who already commanded ships left from the final Gateway campaigns. Several allied cities joined for their own reasons: Ilyessan pilots wanted protection from Avesh; merchants wanted access to the Ubar trade; veteran crews expected pay and captured goods.
 
 Telmar's fleet broke the royal blockade of Tasar in 513 BR. A combined force then seized the lower city of Avesh. Warehouses, government records and private homes burned together. Rebels killed Mazdan after he surrendered, despite Liora's promise that he would be taken alive. Vasharan families in Tasar were attacked, and several hundred people fled inland.
 
-Xarun I answered with the road-command armies. Pack trains brought grain from Arqesh; highland estates supplied horses; coastal subject cities provided ships. The Vasharan siege isolated Tasar by land while smaller vessels prevented regular Atherian resupply. Disease spread through the crowded city. Liora ordered household grain seized for the garrison, and poor districts suffered first.
+Kazren I answered with the road-command armies. Pack trains brought grain from Arqesh; highland estates supplied horses; coastal subject cities provided ships. The Vasharan siege isolated Tasar by land while smaller vessels prevented regular Atherian resupply. Disease spread through the crowded city. Liora ordered household grain seized for the garrison, and poor districts suffered first.
 
-The walls were breached in 508 BR. Xarun executed the principal leaders and sold many defenders and inhabitants. Neighbourhoods associated with the revolt were deported to the Ubar canals and eastern estates. Liora disappeared during the final fighting. Atherian sources place her death at the gate; a Tasaran family later claimed that she lived in exile. The conquest restored Vasharan administration but destroyed the belief that coastal privileges were secure under negotiated tribute.
+The walls were breached in 508 BR. Kazren executed the principal leaders and sold many defenders and inhabitants. Neighbourhoods associated with the revolt were deported to the Ubar canals and eastern estates. Liora disappeared during the final fighting. Atherian sources place her death at the gate; a Tasaran family later claimed that she lived in exile. The conquest restored Vasharan administration but destroyed the belief that coastal privileges were secure under negotiated tribute.
 
 ## The failed punitive voyage, 503 BR
 
-Xarun sought to punish the Atherian cities which had supported Tasar. He appointed **Daryat Vezh**, an Aveshan noble with experience in coastal levies, to lead a fleet against Velathene. The expedition assembled ships from several subject ports. Their hulls, rigging and crew practices differed, and the royal command had little experience directing them as one fleet.
+Kazren sought to punish the Atherian cities which had supported Tasar. He appointed **Zadran Vezh**, an Aveshan noble with experience in coastal levies, to lead a fleet against Velanthe. The expedition assembled ships from several subject ports. Their hulls, rigging and crew practices differed, and the royal command had little experience directing them as one fleet.
 
-Daryat planned to take water at **Cape Saren**, then strike the Atherian grain anchorage before the defenders could gather. A local pilot warned that the late-season wind made the cape dangerous. The admiral proceeded because delays were consuming food and pay. A storm separated the transports from their escorts. Ships wrecked along the cape, and surviving crews reached land without enough water or siege equipment.
+Zadran planned to take water at **Cape Saren**, then strike the Atherian grain anchorage before the defenders could gather. A local pilot warned that the late-season wind made the cape dangerous. The admiral proceeded because delays were consuming food and pay. A storm separated the transports from their escorts. Ships wrecked along the cape, and surviving crews reached land without enough water or siege equipment.
 
-Velathene's defenders attacked the scattered camps. Some Vasharan contingents surrendered; others were killed while trying to launch damaged vessels. Coastal allies accused Daryat of giving the safest berths to Vashari crews. He returned to Avesh with fewer than half his ships and was executed after a royal inquiry. His household lost its estates, although ship captains who had concealed stores escaped punishment by blaming the dead commander.
+Velanthe's defenders attacked the scattered camps. Some Vasharan contingents surrendered; others were killed while trying to launch damaged vessels. Coastal allies accused Zadran of giving the safest berths to Vashari crews. He returned to Avesh with fewer than half his ships and was executed after a royal inquiry. His household lost its estates, although ship captains who had concealed stores escaped punishment by blaming the dead commander.
 
-After the disaster, Xarun spent six years preparing another invasion. He built coastal stores, hired pilots, took hostages from subject ports and placed the land army and naval transports under separate commands. These measures addressed the failures in water, supply and local knowledge that had destroyed Daryat's expedition.
+After the disaster, Kazren spent six years preparing another invasion. He built coastal stores, hired pilots, took hostages from subject ports and placed the land army and naval transports under separate commands. These measures addressed the failures in water, supply and local knowledge that had destroyed Zadran's expedition.
 
-## Xarun's great invasion, 497–491 BR
+## Kazren's great invasion, 497–491 BR
 
-The second invasion aimed to break the Atherian alliance system. Xarun expected frightened cities to withdraw once a royal army stood on their land. His forces included Vashari cavalry and household troops, Arqeshite engineers, Qahuri and Ubar grain carriers, coastal marines, subject fleets and hired companies. The host moved west through Avesh while the fleet carried heavy stores and siege material.
+The second invasion aimed to break the Atherian alliance system. Kazren expected frightened cities to withdraw once a royal army stood on their land. His forces included Vashari cavalry and household troops, Arqeshite engineers, Qahuri and Ubar grain carriers, coastal marines, subject fleets and hired companies. The host moved west through Avesh while the fleet carried heavy stores and siege material.
 
 The Atherian response was organised through the **League of the Eastern Oar**, an alliance of Caleran commanders, island cities and threatened ports. Eryon Telmar held the land crossings. **Nerica Aven**, a ship-owner's daughter who had commanded convoy escorts during the last Gateway war, directed the combined fleet. League membership required ships or money. Cities which tried to withdraw faced confiscation, the dismantling of walls and the installation of friendly councils.
 
-Xarun won the early campaigns. His army burned two settlements which refused provisions and enslaved survivors from a fortified island taken after a short siege. Several cities submitted. Others supplied both sides while waiting for the outcome. Atherian accounts later presented a unanimous defence of liberty; surviving contribution lists reveal coercion, evasion and sharply unequal burdens.
+Kazren won the early campaigns. His army burned two settlements which refused provisions and enslaved survivors from a fortified island taken after a short siege. Several cities submitted. Others supplied both sides while waiting for the outcome. Atherian accounts later presented a unanimous defence of liberty; surviving contribution lists reveal coercion, evasion and sharply unequal burdens.
 
-The decisive struggle occurred around the **Narrows of Ilyessa** in 493 BR. Nerica used local pilots and smaller vessels to draw the royal fleet into divided channels. Fireships damaged the Vasharan supply line while storms prevented the heavier transports from regrouping. Xarun's land army survived the battle, but its regular food, replacements and messages had travelled with the defeated fleet.
+The decisive struggle occurred around the **Narrows of Ilyessa** in 493 BR. Nerica used local pilots and smaller vessels to draw the royal fleet into divided channels. Fireships damaged the Vasharan supply line while storms prevented the heavier transports from regrouping. Kazren's land army survived the battle, but its regular food, replacements and messages had travelled with the defeated fleet.
 
-Telmar avoided a general land engagement. His forces guarded wells, removed fodder and attacked foraging parties. Shortage and disease spread through the royal camps. Xarun ordered requisitions from towns which had submitted, causing some to revolt behind him. The main withdrawal began in 491 BR. Wounded soldiers and dependent camp families were abandoned when animals failed. Atherian pursuers killed stragglers and sold captives.
+Telmar avoided a general land engagement. His forces guarded wells, removed fodder and attacked foraging parties. Shortage and disease spread through the royal camps. Kazren ordered requisitions from towns which had submitted, causing some to revolt behind him. The main withdrawal began in 491 BR. Wounded soldiers and dependent camp families were abandoned when animals failed. Atherian pursuers killed stragglers and sold captives.
 
-Xarun retained Avesh and the roads east of it. The invasion had failed to conquer the Atherian leagues, yet it prevented them from taking the Vasharan western command. Both powers proclaimed victory over different parts of the outcome.
+Kazren retained Avesh and the roads east of it. The invasion had failed to conquer the Atherian leagues, yet it prevented them from taking the Vasharan western command. Both powers proclaimed victory over different parts of the outcome.
 
 ## The two liberations of Tasar
 
-Tasar's later civic calendar contained two liberation days. The older marked the expulsion of Mazdan's soldiers in 514 BR. The newer marked the reduction of royal control after Xarun's failed invasion. Political factions celebrated one and neglected the other.
+Tasar's later civic calendar contained two liberation days. The older marked the expulsion of Mazdan's soldiers in 514 BR. The newer marked the reduction of royal control after Kazren's failed invasion. Political factions celebrated one and neglected the other.
 
-The city's poorer families preserved a different account. They remembered grain seizure under Liora, deportation under Xarun and ship levies under the Atherian league. Their winter song names all three governments and asks which of them brought bread. In this tradition, a liberation earns its name when households can eat, return home and keep their children from another levy.
+The city's poorer families preserved a different account. They remembered grain seizure under Liora, deportation under Kazren and ship levies under the Atherian league. Their winter song names all three governments and asks which of them brought bread. In this tradition, a liberation earns its name when households can eat, return home and keep their children from another levy.
 
 Later tellers joined the two festivals, their rival processions and the winter song into the **Tale of the Two Liberations**. Families chose different heroes according to the quarter, fleet or exile community from which they descended. The tale preserves the divisions within Tasar after the banners of both great powers had left its streets.
 
 ## Orvaz I and the war of clients, 486–431 BR
 
-Xarun's successor **Orvaz I Tiravan** abandoned plans for a direct conquest of the principal Atherian leagues. He used money, grain, marriage and sanctuary to divide them. Exiled city rulers received houses at Avesh. Vasharan timber reached coalitions opposing Caleran leadership. Atherian commanders supported provincial rivals within the western road command.
+Kazren's successor **Orvaz I Tiravan** abandoned plans for a direct conquest of the principal Atherian leagues. He used money, grain, marriage and sanctuary to divide them. Exiled city rulers received houses at Avesh. Vasharan timber reached coalitions opposing Caleran leadership. Atherian commanders supported provincial rivals within the western road command.
 
 The League of the Eastern Oar survived the invasion that had brought it together. Caleran senators kept the fleet in service to protect trade and prevent another royal attack. Member cities increasingly paid ship money for decisions made at Caleran. A council that refused its assigned contribution could lose ships, walls or its chosen magistrates. The league consequently extended Atherian power over cities it had first defended.
 
@@ -99,7 +99,7 @@ No treaty settled the whole coast. Agreements recognised particular cities, retu
 
 ## Marovan Veyr and the eastern commands, 414–397 BR
 
-The later Atherian commander **Marovan Veyr** built his early reputation among ports whose alliances had been shaped by this older struggle. He secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere. His campaigns belong to the established history of the Caleran republic and remain distinct from Xarun's invasion.
+The later Atherian commander **Marovan Veyr** built his early reputation among ports whose alliances had been shaped by this older struggle. He secured winter harbours, suppressed raiding coalitions and established clients near the Vasharan sphere. His campaigns belong to the established history of the Caleran republic and remain distinct from Kazren's invasion.
 
 Veyr did not conquer the Vashari highlands or the Ubar basin. He strengthened Atherian influence among coastal settlements and over the routes approaching Velos. Vasharan governors accepted temporary boundaries when they needed freedom to deal with rival houses inland. Some coastal rulers held Atherian civic titles and Vasharan court ranks at the same time.
 
@@ -143,7 +143,7 @@ Pilots, translators, traders, hostages and road-house travellers carry knowledge
 
 Human rulers decide to revolt, invade, compel allies and execute prisoners. Supernatural powers influence particular beliefs and moments without directing the campaigns.
 
-The dependent Pride Mask called the **Witness of Dawn** exploits Vasharan royal imagery. Dreams of ordered nations around a radiant king strengthen Xarun's existing conviction that submission proves truth. Xarun and his commanders still choose the aims, routes and punishments of the invasion.
+The dependent Pride Mask called the **Witness of Dawn** exploits Vasharan royal imagery. Dreams of ordered nations around a radiant king strengthen Kazren's existing conviction that submission proves truth. Kazren and his commanders still choose the aims, routes and punishments of the invasion.
 
 Atherian crews dedicate weapons and campaign rites to the Menhir **Astaroth**. A genuine correspondence may reveal how force will travel through a particular hull, bridge or formation. Commanders use this knowledge as practical military information; the response supplies no judgement upon the justice of their war.
 
@@ -153,11 +153,11 @@ Coastal people tell of winds and channels answering older Menhir relationships. 
 
 | Person | Position | Principal choice and consequence |
 |---|---|---|
-| **Xarun I Tiravan** | Vasharan Great King | turns coastal suppression into a major invasion; preserves the western command but fails to conquer the leagues |
+| **Kazren I Tiravan** | Vasharan Great King | turns coastal suppression into a major invasion; preserves the western command but fails to conquer the leagues |
 | **Mazdan Aresh** | governor of Avesh | manipulates Tasar's succession for ships and hostages; his intervention begins the revolt |
 | **Liora of Tasar** | harbour magistrate | secures Atherian aid and loses control of violence committed by her coalition |
 | **Eryon Telmar** | Atherian commander | rescues Tasar, then helps build a league capable of coercing its own members |
-| **Daryat Vezh** | Vasharan admiral | ignores seasonal and local advice; dies after the failed voyage of 503 BR |
+| **Zadran Vezh** | Vasharan admiral | ignores seasonal and local advice; dies after the failed voyage of 503 BR |
 | **Nerica Aven** | Atherian fleet commander | preserves the sea alliance at Ilyessa and gains power over dependent cities |
 | **Orvaz I Tiravan** | Vasharan Great King | substitutes client war for invasion and breaks promised safe conduct during a provincial revolt |
 | **Rathava of Daryam** | teacher and estate holder | condemns royal perjury; survives while his household and labourers bear the punishment |
@@ -177,9 +177,9 @@ Vasharan inscriptions record the road commands and royal victories while omittin
 | c. 650–520 BR | Gateway Wars teach Caleran sustained naval mobilisation; Vasharan western stations expand |
 | 514 BR | Tasar revolts and receives Atherian aid |
 | 513 BR | rebels and Atherian forces take lower Avesh |
-| 508 BR | Xarun retakes Tasar; executions, deportation and enslavement follow |
-| 503 BR | Daryat Vezh's punitive voyage fails at Cape Saren |
-| 497 BR | Xarun begins the great invasion |
+| 508 BR | Kazren retakes Tasar; executions, deportation and enslavement follow |
+| 503 BR | Zadran Vezh's punitive voyage fails at Cape Saren |
+| 497 BR | Kazren begins the great invasion |
 | 493 BR | Vasharan fleet defeated in the Narrows of Ilyessa |
 | 491 BR | main royal army withdraws |
 | 486–431 BR | Orvaz I pursues client war and negotiated influence |

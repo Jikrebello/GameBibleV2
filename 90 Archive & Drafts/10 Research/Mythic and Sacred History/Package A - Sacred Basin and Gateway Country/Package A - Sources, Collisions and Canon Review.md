@@ -73,17 +73,17 @@ Polybius, Livy, Appian, Aristotle and archaeological evidence remain unequal sou
 |---|---|
 | Egyptian unification and repeated intermediate periods | several Qahuri crowns using the later Twin-Reed formula across different dynasties |
 | Hyksos and New Kingdom restoration | mixed Yasharet Delta house; Aramen is a former hostage who conquers his hosts and builds an empire |
-| Amarna | Ithren III's Single Radiance, a political cult exploited by a Pride Mask |
+| Amarna | Hesren III's Single Radiance, a political cult exploited by a Pride Mask |
 | Phoenician port networks | Gateway country of older shore people, proto-Ahdari migrants and later settlers |
-| Punic magistrates and military houses | Harbour Judges, Council of Houses, citizen assembly and Ordan overseas command |
-| Hannibalic invasion | Zamaret Ordan's mixed army attacks Caleran's alliances through different geography and relationships |
+| Punic magistrates and military houses | Quay Elders, Council of Houses, citizen assembly and Ordan overseas command |
+| Hannibalic invasion | Tashqar Ordan's mixed army attacks Caleran's alliances through different geography and relationships |
 | Carthaginian tophet debate | authorially fixed Qarzeth child collections with named internal opponents |
 | Roman destruction of Carthage | capital-only annihilation, actual organised salting and survival of the lesser towns |
 | Ptolemaic royal country | Nerethan kingdom develops after destruction through local towns, Atherian command and a junior Qahuri marriage |
 
 ### Post-promotion Single Radiance development
 
-[[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] returns to the Amarna comparison after Package A's canon promotion. It proposes a royal household around Ithren III, distinguishes a young heir's partial restoration from Zaheret's later erasure, develops the labour and domestic life of Aseret and names the resulting gap in official succession the **Faceless Interval**. Its queen, heir, widow, disputed co-ruler and foreign-prince episode remain exploratory. The original Package A ruling continues to control canon until those additions receive a separate review and promotion.
+[[Akhenaten Nefertiti and Tutankhamun - The Amarna Court and Qahur's Single Radiance]] returns to the Amarna comparison after Package A's canon promotion. It proposes a royal household around Hesren III, distinguishes a young heir's partial restoration from Zaheret's later erasure, develops the labour and domestic life of Meheret and names the resulting gap in official succession the **Faceless Interval**. Its queen, heir, widow, disputed co-ruler and foreign-prince episode remain exploratory. The original Package A ruling continues to control canon until those additions receive a separate review and promotion.
 
 ## Proposed geography
 
@@ -93,7 +93,7 @@ Polybius, Livy, Appian, Aristotle and archaeological evidence remain unequal sou
 - Qemaret occupies the lower fan and commands cart routes towards the Gateway country.
 - Sakhret controls the southern narrows, quarry approaches, pasture and mining roads.
 - Isethar lies between the principal crown centres and prospers through transport.
-- Aseret is an inland garrison and craft town enlarged by the Single Radiance court.
+- Meheret is an inland garrison and craft town enlarged by the Single Radiance court.
 
 The river's ancient proper name remains open. None of these placements fixes coordinates or modern borders.
 
@@ -118,7 +118,7 @@ The proposed map revision should add these relationships after canon promotion. 
 4. Claims of Ishkatari ancestry by human crowns do not create Giant continuity.
 5. The dead Qahuri rulers possess human souls. Tomb offices, copied personas, residues and Masks remain separate.
 6. The Bronze-Faced Provider is a dependent Gluttony Mask. Its destruction at Qarzeth ends one feeding architecture without destroying the Idol Throne.
-7. Ithren III's Radiance cult is exploited by a Pride Mask. It introduces no true Idol succession.
+7. Hesren III's Radiance cult is exploited by a Pride Mask. It introduces no true Idol succession.
 8. Flood and shore responses belong to existing Menhir relationships or court persons and prove only their actual operation.
 9. The Boatman remains the commissioned psychopomp and belongs to neither civilisation's pantheon.
 10. Hadrima's Qahuri relationship provides kinship, knowledge and prestige. It grants no title to Qahur.
@@ -135,7 +135,7 @@ The proposed map revision should add these relationships after canon promotion. 
 | Single Radiance | Common Sky settlement | coercive exclusive cult under one king; Common Sky remains a negotiated Caleran settlement among existing cults |
 | Qarzeth | High Harbour and Sarqen | republican capital in the Gateway country; High Harbour belongs to the southern heroic cycle and Sarqen is the spared royal port |
 | Rope Camp revolt | Company of the Broken Measure | military pay and subject-tax revolt after a maritime defeat; no liberation route or Giant estate measure |
-| Zamaret Ordan | Samyra Nerethan | republican commander and reforming magistrate centuries earlier; no royal succession or relationship with Atherian founders |
+| Tashqar Ordan | Samyra Nerethan | republican commander and reforming magistrate centuries earlier; no royal succession or relationship with Atherian founders |
 | child-rescue network | Midwives of the Unnumbered | late civic resistance to a particular sacrificial collection; no Giant birth decree or Unbinding network |
 | salting of Qarzeth | historical Carthage salting legend | an actual fictional policy with limited material extent, explicitly distinct from the unsupported Roman legend |
 | Spared Town League | Celestial Compact | a loose post-conquest recovery arrangement under supervision; no twelve-city Atherian religious compact |
@@ -148,13 +148,13 @@ The proposed map revision should add these relationships after canon promotion. 
 
 ### Qahuri strand
 
-1. Establish Tenaret, Qemaret, Sakhret, Isethar and Aseret as ancient basin towns through relational geography.
+1. Establish Tenaret, Qemaret, Sakhret, Isethar and Meheret as ancient basin towns through relational geography.
 2. Adopt the Years of Loose Water and the Senareth first crown.
 3. Adopt the first Twin-Reed division, Talmera's cross-crown supply history and Khevar II's violent reunification.
 4. Adopt Talzara Yasharet and the mixed Delta dynasty.
 5. Adopt Aramen's conquest, the massacre at Qemaret and the Qahuri imperial phase.
 6. Adopt the Tenaret workers' stoppage of 903 BR.
-7. Adopt Ithren III, the Single Radiance, Nehara and Zaheret's restoration.
+7. Adopt Hesren III, the Single Radiance, Nehara and Zaheret's restoration.
 8. Establish Arqeshite intervention and High-Road supremacy at the level permitted before Package B names the eastern dynasty.
 9. Establish a divided three-crown balance in 350 BR.
 
@@ -198,7 +198,7 @@ No existing Garden root is localised to Qahur or the Gateway country through thi
 - The workers' stoppage retains hunger and official beating as its cause.
 - The Single Radiance includes closure, killing, confiscation, forced conformity and retaliatory violence.
 - The Rope Camp revolt includes unpaid service, torture, execution, starvation, enslavement and rural reprisal.
-- Zamaret's victories kill, enslave and displace people; Celor's successful strategy sacrifices allied countryside.
+- Tashqar's victories kill, enslave and displace people; Celor's successful strategy sacrifices allied countryside.
 - Child sacrifice is stated directly. Victims possess families, names and unrealised lives.
 - The final sack includes rescue, murder, rape, enslavement and deliberate destruction.
 - Ending sacrifice remains a good act. It does not excuse the conquerors' crimes.
@@ -210,10 +210,10 @@ No existing Garden root is localised to Qahur or the Gateway country through thi
 | Senareth crown | failed floods → Neshara exchanges seed for labour → three channels and a river force → stable middle-basin supply → debt bondage and royal service → durable crown |
 | Khevar's reunification | divided crowns and ruined fields → treaty and dynastic marriage → joint entry into Qemaret → travel and calendar restored → protected rivals executed → lasting blood claim |
 | Aramen restoration | imperial extraction and southern rebellion → former hostage joins revolt → garrison betrayal opens Qemaret → Yasharet rule ends → massacre and reprisal → imperial southern house |
-| Single Radiance | political division and temple power → Ithren centralises worship → closures, confiscation and new capital → short royal concentration → deaths, lost livelihoods and erased art → violent restoration and surviving Mask |
+| Single Radiance | political division and temple power → Hesren centralises worship → closures, confiscation and new capital → short royal concentration → deaths, lost livelihoods and erased art → violent restoration and surviving Mask |
 | First Gateway War | Tammur factional dispute → two republics intervene → fleets, levies and blockade → Qarzeth loses port and pays settlement → wrecks, debt and captives → Rope Camp revolt |
-| Rope Camp | unpaid army and rural collection → rebels reject partial settlement → torture, blockade and divided negotiation → Meleq restores capital → execution, starvation and sale → hereditary military influence |
-| alliance-breaking invasion | Qarzeth needs to reverse settlement → Zamaret attacks allied loyalty → mixed army, defecting towns and sequential supply → great victories without political collapse → dead, captives and ruined allied farms → Oresh lost and Republic restricted |
+| Rope Camp | unpaid army and rural collection → rebels reject partial settlement → torture, blockade and divided negotiation → Teshun restores capital → execution, starvation and sale → hereditary military influence |
+| alliance-breaking invasion | Qarzeth needs to reverse settlement → Tashqar attacks allied loyalty → mixed army, defecting towns and sequential supply → great victories without political collapse → dead, captives and ruined allied farms → Oresh lost and Republic restricted |
 | Three Collections | defeat and fear → priesthood demands greater payment → official collectors and holding rooms → children hidden, taken and killed → families broken → internal resistance and foreign intervention |
 | destruction of Qarzeth | sacrifice, strategic fear and expansion interest → Caleran chooses removal → siege, breach, rescue and salting → capital and cult destroyed → murder, rape, enslavement and ruined ground → spared-town country |
 | Nerethan crown | postwar towns need defence and stable negotiation → local leaders back Arenes → hereditary recognition with conditions → Sarqen kingdom → unequal obligations and foreign dependence → Samyra's inherited state |

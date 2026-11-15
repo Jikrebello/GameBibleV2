@@ -25,7 +25,7 @@ _By Historian-Monk Elenmar of the Flamebound Athenaeum, written in the 3rd Year 
 
 ### **I. The Ashen Years**
 
-In the aftermath of the **Second Crusade**, the Atherian world burned.
+In the aftermath of the **Reception**, the Atherian world burned.
 
 The **Velian Campaign**, intended to reclaim the empire’s northern provinces, had ended in **utter catastrophe**. The legions were ill-supplied, poorly commanded, and fractured by rival noble houses. The **Ahl-e-Ahd**, far from defeated, had anticipated the offensive. Their counterattack was swift and absolute.
 
@@ -55,7 +55,7 @@ They called him **Ashwolf**, **Oathblade**, **General of the Forgotten**, and at
 
 ### **III. The Sword in the Fire**
 
-According to the oldest Thalmyric chronicles, in the weeks following the successful routing of Ahl-e-Ahd forces at **Dornheim** during the Third Crusade, Caedros received a vision beneath the shadow of **Mount Rhaset**, the highest peak of the Ashen Range. There, deep within a sealed vault once belonging to an Atherian order of mystic paladins, he uncovered an ancient weapon, long forgotten by both Church and Empire.
+According to the oldest Thalmyric chronicles, in the weeks following the successful routing of Ahl-e-Ahd forces at **Dornheim** during the Stand at Crown Gate, Caedros received a vision beneath the shadow of **Mount Rhaset**, the highest peak of the Ashen Range. There, deep within a sealed vault once belonging to an Atherian order of mystic paladins, he uncovered an ancient weapon, long forgotten by both Church and Empire.
 
 It was called **Soltirael**, the **Sword of White Flame**.
 

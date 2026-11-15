@@ -28,7 +28,7 @@ Esharat, Sarqen, Belqara and Hazreth sent representatives to seasonal meetings c
 
 Esharat's carriers organised the movement of seed and repaired tools inland. Belqara supplied food in exchange for reductions in war payment. Sarqen became the principal naval station because its harbour could receive large ships. Hazreth watched the outer coast and sheltered families avoiding confiscation.
 
-The league kept the old Harbour Judgeship in Sarqen and Hazreth as a municipal office. The Council of Houses dispersed. Some members died at Qarzeth, some entered exile and some joined town governments under new names. The citizen assembly of the former capital had no countrywide successor.
+The league kept the old Quay Eldership in Sarqen and Hazreth as a municipal office. The Council of Houses dispersed. Some members died at Qarzeth, some entered exile and some joined town governments under new names. The citizen assembly of the former capital had no countrywide successor.
 
 Public ceremonies began to commemorate rescue from the holding rooms and the towns which had hidden children. They also became occasions for reading people killed, enslaved or missing after the sack. Caleran officers disliked the second list and could not suppress it without damaging the cooperation they needed.
 
@@ -84,7 +84,7 @@ Thalion's annexation in 350 ended independent Nerethan rule. Sarqen, Esharat, Be
 
 | Inheritance | Origin | Form under Nerethan kings |
 |---|---|---|
-| Harbour Judges | Qarzeth republic | municipal officers at Sarqen and Hazreth |
+| Quay Elders | Qarzeth republic | municipal officers at Sarqen and Hazreth |
 | town elders and water households | pre-republic local communities | local government, property and cultivation |
 | sacrifice prohibition | opponents of the Qarzeth collections | accession oath and public royal claim |
 | autumn convoy market | older maritime exchange | crown-protected Sarqen festival and market |

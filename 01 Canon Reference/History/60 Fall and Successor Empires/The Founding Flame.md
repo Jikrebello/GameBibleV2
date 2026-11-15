@@ -35,7 +35,7 @@ Villages whose bought chaplains' lamps had stayed dark turned on the vessels tha
 
 The Covenant could exploit neither. During the Breaking its army stood idle at Iqashar from 1006 to 1011 while a lending house held the pledged true name of the Custodian of the Vault of Names. During the Impounding, Tamim the Auditor's treasury declared in 1033 that the southern amirates would be claimed and no longer defended, and the last relief army sent south dispersed at the wrong well in 1041.
 
-The Impounding ended when the crown lamp-houses were broken open in 1049 and found cold, their keepers having sold the oil. In 1052, at the Rekindling, every lamp in the empire was relit from one flame carried on foot from the Ember at Caleran, down the restored roads and into the recovered provinces. The last amirate surrendered to the armies of the emperor's daughter Theodosia that year. Occupation-born families who rejected return law and would not register at the water-courts went north with their deeds and the bronze water-tokens of their fields and became the Covenant's Southern Houses.
+The Impounding ended when the crown lamp-houses were broken open in 1049 and found cold, their keepers having sold the oil. In 1052, at the Rekindling, every lamp in the empire was relit from one flame carried on foot from the Ember at Caleran, down the restored roads and into the recovered provinces. The last amirate surrendered to the armies of the emperor's daughter Korinna that year. Occupation-born families who rejected return law and would not register at the water-courts went north with their deeds and the bronze water-tokens of their fields and became the Covenant's Southern Houses.
 
 ## The Incomplete Empire
 

@@ -44,7 +44,7 @@ The Aurin heartland contained dense roads, old city institutions and estates clo
 
 Sestaran harbours ranged from provincial cities to allied ports with negotiated privileges. The gateway country around Sarqen retained town relationships formed before annexation. In the south, military districts and client agreements met independent Folk communities. Northern roads ended among well kingdoms, caravan societies and mobile peoples the empire could influence more easily than rule.
 
-Jirahar communities included tower towns, diaspora households and quarters within imperial cities. Some possessed collective privileges; others depended on arrangements with a governor. From the late Serrat years the Qiryath charter protected the sacrifice, communal courts and burial grounds of the sanctuary and of the tower towns in its province, and kept every image out of the sanctuary courts. Their institutions remained their own, even where the surrounding province called every resident Atherian.
+Jirahar communities included tower towns, diaspora households and quarters within imperial cities. Some possessed collective privileges; others depended on arrangements with a governor. From the late Halreth years the Qiryath charter protected the sacrifice, communal courts and burial grounds of the sanctuary and of the tower towns in its province, and kept every image out of the sanctuary courts. Their institutions remained their own, even where the surrounding province called every resident Atherian.
 
 ## A family's experience
 

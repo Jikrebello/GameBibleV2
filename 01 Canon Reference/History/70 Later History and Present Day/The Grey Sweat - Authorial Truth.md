@@ -40,7 +40,7 @@ Aimery of Corvel died of the Sweat the night of his election, unsung. The figure
 ## Beyond Eclessia
 
 - **The Covenant (the Emptying of the Benches).** Every death of a bound person required a witnessed release in the Living Register. Deaths outran witnesses; unreleased names piled up; debts of the dead rolled onto heirs; garrison instruments were widowed and frontier forts opened. Custody without a name-cage does not touch routing, so the Unreleased were a bookkeeping catastrophe and not a soul trap. The Vault cannot know that, and its living and dead registers have never balanced since. Neither the Vault nor the relic courts knows that the other's books also fail to balance.
-- **Sestara.** The emptied Golden Book and the Medori clearing house. No special soul-road effect. The wax faces Fiorenzian families began to keep of their dead are ordinary likenesses; what spoke through some of them a century later is recorded in [[Causality Pass - 11F Second Bend - The Road to 1360]].
+- **Sestara.** The emptied Roll of Faces and the Medori clearing house. No special soul-road effect. The wax faces Fiorenzian families began to keep of their dead are ordinary likenesses; what spoke through some of them a century later is recorded in [[Causality Pass - 11F Second Bend - The Road to 1360]].
 - **The steppe.** Light mortality. Wind-speakers read death residue but cannot recall routed souls; their claim that the steppe's dead "go with the wind" is a belief, and the authorial record does not rule on it.
 
 ## The Sending and the Paper of the Dead

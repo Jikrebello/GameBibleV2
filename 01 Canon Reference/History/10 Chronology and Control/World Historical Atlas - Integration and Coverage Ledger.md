@@ -955,7 +955,7 @@ The authorised continuation completes the imperial history from 350 BR to 0 AR. 
 
 | Incorporated material | Canonical destinations | Authority |
 |---|---|---|
-| Thalion's established settlement and the Roman-imperial structural grammar | Later Thalion, House of Thalion, Four Eagles, House of Veloran and later dynasties | Ordinary rulers, deaths, wars and succession fixed through 0 AR; later lives remain Package 3 |
+| Thalion's established settlement and the Roman-imperial structural grammar | Later Thalion, House of Thalion, Painted Reign, House of Veloran and later dynasties | Ordinary rulers, deaths, wars and succession fixed through 0 AR; later lives remain Package 3 |
 | B3-01 and G-09 | [[The Companions Who Entered by the Low Door - Imperial History]]; existing received tale unchanged | Underlying company and culpability fixed; cultural variations preserved |
 | B3-02 | [[The Keeper of Borrowed Grain]] | Raveth relief, confiscation and debt servitude fixed |
 | B3-03 | [[The Crown of Olveth]] | Shelter object's bounded response fixed; no saintly or Menhir identity |

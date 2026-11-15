@@ -20,7 +20,7 @@ The Temple That Would Not Burn is an Underground-era tradition concerning a dama
 
 ### **Date**: c. 245–247 AR
 
-The enforcement years of Tervan Marcellan's Edict of Public Sacrifice, which required every household to put out the lamps it kept for its dead before the Stars and relight them from the college fire, after which they burned green on the colleges' oil.
+The enforcement years of Tervan Marcellan's Edict of Relit Lamps, which required every household to put out the lamps it kept for its dead before the Stars and relight them from the college fire, after which they burned green on the colleges' oil.
 
 ### **Location**:
 

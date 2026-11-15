@@ -9,7 +9,7 @@ culture: ["Thalmyric", "Atherian"]
 related_factions: ["Thalmyric Empire", "Thalmyric Church", "Ahl-e-Ahd"]
 appears_in: []
 needs: []
-aliases: ["The Caleran Campaign", "Fourth Crusade"]
+aliases: ["The Caleran Campaign", "The Descent"]
 tags: []
 ---
 # The Reclamation of Caleran
@@ -30,7 +30,7 @@ The timing was the Thalmyric army's great fortune. In 951 Grass-Tarkhan riders b
 
 ## The speaking engine, 956
 
-Iqashar sent Durayd one thing. In 955 its last Slave-Soul engine came south by sea, crewed by men sworn to the Covenant throne and not to the amir. It reached Caleran's outer works in 956 and met the war-lamps. The lamps opened its name-cage. People of the occupied parishes, watching from the walls, said the frame cried out once in a Caleran voice, then knelt where it stood and did not rise. Thalmyric clergy said a prisoner had gone on to judgement, and Caleran families believed he was one of the Second Crusade's captives whom the old court had never ransomed, condemned to the foundry before the Fall; the Thalmyric name "martyr irons" comes from that belief. The Covenant crew said only that the cage had failed. The parishes that saw it remembered that the Flame had come for one of their own.
+Iqashar sent Durayd one thing. In 955 its last Slave-Soul engine came south by sea, crewed by men sworn to the Covenant throne and not to the amir. It reached Caleran's outer works in 956 and met the war-lamps. The lamps opened its name-cage. People of the occupied parishes, watching from the walls, said the frame cried out once in a Caleran voice, then knelt where it stood and did not rise. Thalmyric clergy said a prisoner had gone on to judgement, and Caleran families believed he was one of the Reception's captives whom the old court had never ransomed, condemned to the foundry before the Fall; the Thalmyric name "martyr irons" comes from that belief. The Covenant crew said only that the cage had failed. The parishes that saw it remembered that the Flame had come for one of their own.
 
 Why the Fire answered a refugee army when it had failed the old palace was argued at once. Thalmyric preachers said it had left the palace for the refuge with the hermits and hospital keepers who never stopped kindling; Covenant jurists, who had kept a file of the old court's counterfeit kindlings for two centuries, had believed it gone altogether.
 

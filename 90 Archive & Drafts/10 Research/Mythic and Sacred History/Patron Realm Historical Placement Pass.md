@@ -223,7 +223,7 @@ After the founder dies or routes onward, no retained human soul rules the city. 
 
 ### Historical placement
 
-- **Era:** the Long Frontier, provisionally c. 680–850 AR, during translation-house, water-court, caravan, and border coexistence.
+- **Era:** the Long Frontier, provisionally c. 680–850 AR, during charter-house, water-court, caravan, and border coexistence.
 - **Material interface:** a route accessible through several Long Frontier cities but sovereign to none of them.
 - **Scale:** treaty port, route republic, and neutral market whose law protects exchange more reliably than people.
 - **Carrier:** compact clauses, multilingual witness seals, extradition precedents, port slang, and a fragmentary citizenship roll.

@@ -64,7 +64,7 @@ Surrender Engines are pure strategic constructs built to break organized resista
 **The foundry system, 885–902.** Qahir ibn Ruzbeh's foundry reforms between **885 and 902 AR** standardized the three lines on an industrial base:
 
 - capture companies working route-registries of mapped Hell, compiled through the Long Frontier by Banu Mizan scholars and breach-assessors;
-- name-cage foundries fed by a docket of breach-court death sentences. The first cages held Second Crusade prisoners Caleran never ransomed, condemned under the 884 Ruling of the Broken Suspension, which makes the Thalmyric *martyr irons* literal. One of the two great Slave-Soul engines at the Fall held such a prisoner;
+- name-cage foundries fed by a docket of breach-court death sentences. The first cages held prisoners of the Reception whom Caleran never ransomed, condemned under the 884 Ruling of the Broken Suspension, which makes the Thalmyric *martyr irons* literal. One of the two great Slave-Soul engines at the Fall held such a prisoner;
 - Shell extraction from Covenant-held anchors;
 - coerced Ahdanite levies trained as engineers and foundry crews;
 - supply contracts sealed in the Vault of Names.

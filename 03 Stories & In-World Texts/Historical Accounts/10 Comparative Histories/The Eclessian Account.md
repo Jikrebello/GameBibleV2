@@ -39,7 +39,7 @@ The **Jirahar**, who had not repented, were purged. Their **Tower-Towns** razed.
 
 ---
 
-### **III. Cracks in the Temple: The First Crusade and Eclessian Abandonment**
+### **III. Cracks in the Temple: The War of the Seals and Eclessian Abandonment**
 
 When the **Ahl-e-Ahd** struck the imperial west in a terrible wave of war-magic and infernal engines, the empire called for a **Crusade**—and it was our sons who were sent. **Caldria** in particular, with its armies of flaming steel and faith, marched westward to protect the capital.
 
@@ -63,11 +63,11 @@ Worse still, the **Folk**, wild and terrible, grew bolder. From the southern for
 
 ---
 
-### **V. The Third Crusade and the Blood-Soaked Miracle**
+### **V. The Stand at Crown Gate and the Blood-Soaked Miracle**
 
 When the **Ahl-e-Ahd** turned east, seeking to press beyond their northern holdings and into our fragmented heart, it was the **Duchy of Caldria** that stood alone.
 
-The **Third Crusade**, mounted from **Caldros**, gathered not kings but knights, not armies but oaths. They were joined, controversially, by warlocks from the **Citadel of Vorthara**—an unholy alliance to some, a necessary sin to others.
+The **Stand at Crown Gate**, mounted from **Caldros**, gathered not kings but knights, not armies but oaths. They were joined, controversially, by warlocks from the **Citadel of Vorthara**—an unholy alliance to some, a necessary sin to others.
 
 The battle at Caldria’s gates—where **siege golems shattered on Aurelian steel**—is spoken of in hushed tones as a second miracle. The **Valley Ambush** that followed crippled the Ahl-e-Ahd's retreat. And when the **Thalmyric rebels** rose in the west, marching to reclaim **Caleran**, it was **Eclessian blood** that bought them time to strike.
 

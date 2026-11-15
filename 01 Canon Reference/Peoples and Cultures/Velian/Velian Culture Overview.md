@@ -19,11 +19,11 @@ Their present country contains churches, irrigation works, vineyards, orchards, 
 
 ## Historical formation
 
-The condemnation of Bishop Nasriel of Qabir at the Council of Halmenth in 411 AR separated his communion from the imperial Church. Its followers did not go into exile. They gathered in the desert-margin cities that kept communion with Qabir, which the regency struck off its roll of recognised sees and then left alone, because their land, which no recognised cleric would certify as a relic estate, still paid its tax. Local congregations there preserved their worship and teaching. During the First Unsealing they negotiated protection from the Banu Mizan. Tribute, disarmament and restrictions on testimony secured the continued possession of churches and property, the appointment of clergy and the use of communal courts.
+The condemnation of Bishop Qedrel of Qabir at the Council of Halmenth in 411 AR separated his communion from the imperial Church. Its followers did not go into exile. They gathered in the desert-margin cities that kept communion with Qabir, which the regency struck off its roll of recognised sees and then left alone, because their land, which no recognised cleric would certify as a relic estate, still paid its tax. Local congregations there preserved their worship and teaching. During the First Unsealing they negotiated protection from the Banu Mizan. Tribute, disarmament and restrictions on testimony secured the continued possession of churches and property, the appointment of clergy and the use of communal courts.
 
 These arrangements helped communities endure conquest, while placing them in an unequal relationship with their protectors. Later Qahirid governments increased tribute, garrisons, bondage and custody over personal names. Town institutions persisted through these changes. Municipal officers, clergy, craftsmen and families continued to organise work and education under successive rulers.
 
-The failed Second Crusade and the Long Reconquest brought renewed danger. Thalmyric authorities frequently treated Velians as collaborators and heretics, although local choices had been made under widely differing pressures. Zanthir and the Velian States remained outside secure Thalmyric control. The [[Historical Atlas of the Velians]] follows these changes and the traditions associated with the frontier.
+The failed Reception and the Long Reconquest brought renewed danger. Thalmyric authorities frequently treated Velians as collaborators and heretics, although local choices had been made under widely differing pressures. Zanthir and the Velian States remained outside secure Thalmyric control. The [[Historical Atlas of the Velians]] follows these changes and the traditions associated with the frontier.
 
 ## Towns, households and work
 
@@ -35,9 +35,9 @@ The border economy also includes ransom, slavery and compulsory payments. Protec
 
 ## Faith and communal authority
 
-The [[The Velian Church|Velian Church]] follows Nasriel's teaching that Amaryah bore the perfect human vessel, upon whom the uncreated Fire descended at the opening of the Redeemer's ministry. Thalmyric and Eclessian theologians condemn this account as a division of the Redeemer's person. Velian theologians defend it as an affirmation of the Fire's transcendence.
+The [[The Velian Church|Velian Church]] follows Qedrel's teaching that Amaryah bore the perfect human vessel, upon whom the uncreated Fire descended at the opening of the Redeemer's ministry. Thalmyric and Eclessian theologians condemn this account as a division of the Redeemer's person. Velian theologians defend it as an affirmation of the Fire's transcendence.
 
-The Catholicos of Qabir heads the Church. Its clergy may marry; its churches are whitewashed, image-free and lit by a single lamp. The liturgy preserves the Jirahar dialect associated with the Redeemer's earthly life. It came from the baptised gateway congregations of Jirahar descent that named the Second Silence of 385, when the lamps of Vestian's compulsory professions failed to kindle. These practices give Velian congregations a recognisable character across political borders.
+The Lamp-Father of Qabir heads the Church. Its clergy may marry; its churches are whitewashed, image-free and lit by a single lamp. The liturgy preserves the Jirahar dialect associated with the Redeemer's earthly life. It came from the baptised gateway congregations of Jirahar descent that named the Second Silence of 385, when the lamps of Vestian's compulsory professions failed to kindle. These practices give Velian congregations a recognisable character across political borders.
 
 Church membership and ancestry overlap without being identical. Some members of the communion come from other peoples, and Velian families differ in observance and religious allegiance. Under Covenant rule, recognised congregations belong to [[The People of the Lamp]]. This status protects worship and communal institutions while imposing legal inferiority, levies and restrictions. Periodic persecution and changes of ruler can undermine its guarantees.
 

@@ -82,7 +82,7 @@ The Star Pantheon's authorial truth was removed from the public Atherian religio
 
 ### Age of Glory history articles
 
-- [[The Year of Four Eagles]], [[The Atherian Empire – Age of Glory]] and the other public Age of Glory articles tell the speaking portrait, the loan before the Face and the wardens' test through in-world witnesses. The rulings on what the Mask is and knows, on soul continuity, and on Astaroth's taboo behind the 326 fall and the custom of standing under are held in [[Age of Glory - Authorial History and Integration Review#Religion and supernatural identity]] and the author-only [[Star Religion and the Imperial Cult]].
+- [[The Painted Reign]], [[The Atherian Empire – Age of Glory]] and the other public Age of Glory articles tell the speaking portrait, the loan before the Face and the wardens' test through in-world witnesses. The rulings on what the Mask is and knows, on soul continuity, and on Astaroth's taboo behind the 326 fall and the custom of standing under are held in [[Age of Glory - Authorial History and Integration Review#Religion and supernatural identity]] and the author-only [[Star Religion and the Imperial Cult]].
 - [[The Later Reign of Aurelius Thalion]]: Thalion's daughter is "named Lysara after Thalion's mother", which settles the repeated name as a family custom.
 
 ## Causality Pass 10A, 14 November 2026
@@ -105,8 +105,8 @@ The founding articles were rewritten by [[Causality Pass - 10A Bending the Found
 - [[The Wars of the Atherian Succession]]: "one salted corpse looks much like another". The body was the right man's. Whether King Orvaz arranged the fall is open.
 - [[The Wars of the Atherian Succession]] and [[Aurelius Thalion]]: Venn's sword is "a blessing" to some and "a challenge" to others. He meant that Thalion could stand on the Field himself if he wanted it closed. No reader article says so.
 - [[Samyra Nerethan]]: "a hostage, an heir or a nephew". All three at different times; she never intended the boy's death, and the towns' counting would have caught it.
-- [[The Year of Four Eagles]]: the chief clerk "heard his own voice give the others". This is the dependent Pride Mask's intensified conformity to the represented office; it altered no tablet and knew no figure. The same holds for its answer to Daran.
-- [[The Year of Four Eagles]]: whether the cloak had slipped when Mott was found, and whether the Face answered him, is disputed in-world and open.
+- [[The Painted Reign]]: the chief clerk "heard his own voice give the others". This is the dependent Pride Mask's intensified conformity to the represented office; it altered no tablet and knew no figure. The same holds for its answer to Daran.
+- [[The Painted Reign]]: whether the cloak had slipped when Mott was found, and whether the Face answered him, is disputed in-world and open.
 - [[The Last Dynasties of the Age of Glory]]: the terrace guard "had been unable to turn their heads". They kept a standing order in the image's sight and no officer gave another. Nothing held them.
 - [[The Last Dynasties of the Age of Glory]]: "Hostile writers said Elian had bought the seat". Open.
 - [[The Keeper of Borrowed Grain]]: imperial histories credit Neriah with the estate. He opposed it; the credit is the court's later convenience and feeds the accusation against the Jirahar.

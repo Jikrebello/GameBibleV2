@@ -38,9 +38,9 @@ Sakhret guarded the southern narrows, quarry approaches and roads towards pastur
 
 The town's festivals included wrestling, boat-hauling contests and an evening meal for returning quarry crews. Royal accounts celebrated the stone brought home. Household songs remembered crushed hands, jokes played on overseers and companions who died on the road.
 
-### Aseret and Isethar
+### Meheret and Isethar
 
-Aseret began as a garrison and craft settlement where an old estate road came down to the middle river, and its soldiers kept their stores in the vaults of a buried Giant estate. Ithren III took that estate's seal from under the garrison yard around 840 BR, and the gilded procession called the Single Radiance went out from Aseret to strip the Basin's tombs and came back with their metal. Anything buried in the town with a bead of old bronze was dug up again, so its dead crossed the river at dusk in hired ferries. Ithren's son Deshren, who wore the seal, made the estate-house his necropolis, and from about 829 BR the town paid rent to the sealed palace's stewards. The gilded serpent lay coiled around the palace wall and its masked guards stood in the streets. Boatmen would not moor at Aseret after dark, and its children were dared to touch a guard's hand.
+Meheret began as a garrison and craft settlement where an old estate road came down to the middle river, and its soldiers kept their stores in the vaults of a buried Giant estate. Hesren III took that estate's seal from under the garrison yard around 840 BR, and the gilded procession called the Single Radiance went out from Meheret to strip the Basin's tombs and came back with their metal. Anything buried in the town with a bead of old bronze was dug up again, so its dead crossed the river at dusk in hired ferries. Hesren's son Deshren, who wore the seal, made the estate-house his necropolis, and from about 829 BR the town paid rent to the sealed palace's stewards. The gilded serpent lay coiled around the palace wall and its masked guards stood in the streets. Boatmen would not moor at Meheret after dark, and its children were dared to touch a guard's hand.
 
 Isethar lay between the strongest royal centres. Its boats and stores allowed the town to feed one crown while negotiating with another. Talmera's steering board, bearing rival seals, became a royal emblem of double-dealing and a boatman's emblem of practical courage.
 
@@ -92,11 +92,11 @@ The Boatman appeared under several Qahuri titles. Priests described him as a roy
 
 **Aramen of Sakhret** took Qemaret as the factor of a dead creditor, paying its garrison from the House of the Returning Cargo's stores, and married the sister of the king he walled into her vault. He let the massacre which followed run for months and stopped it only when the harvest was in danger. His heirs called him Liberator of the Reed; survivors called him the Factor.
 
-**Ithren III** set the gilded servants of a buried estate on the Basin's tombs and gave the cleared land to his soldiers. He hung the estate's seal on his six-year-old son. Garrison songs remember him as the king who paid in fields; temple-town songs, as the king who sent the old kings' serpent for their grandparents' lamps.
+**Hesren III** set the gilded servants of a buried estate on the Basin's tombs and gave the cleared land to his soldiers. He hung the estate's seal on his six-year-old son. Garrison songs remember him as the king who paid in fields; temple-town songs, as the king who sent the old kings' serpent for their grandparents' lamps.
 
-**Deshren**, the boy who wore the seal, wasted under it for eleven years, took the White Measure rite at about seventeen and died the landlord of everything his father had taken. He was never crowned, and Qahuri songs call him the king of Aseret because his father paid him rent.
+**Deshren**, the boy who wore the seal, wasted under it for eleven years, took the White Measure rite at about seventeen and died the landlord of everything his father had taken. He was never crowned, and Qahuri songs call him the king of Meheret because his father paid him rent.
 
-**Nehara of the Blue Hands** cut the Radiance's inventory tablets for Ithren III and later hid a small group of children's figures she had been ordered to enter. Later praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
+**Nehara of the Blue Hands** cut the Radiance's inventory tablets for Hesren III and later hid a small group of children's figures she had been ordered to enter. Later praise made that refusal the whole of her life. Her earlier obedience and the dead she could not save remained part of the history.
 
 **Zaheret of Tenaret** turned the boat households against the dead prince's stewards and was crowned on her father's grain barge by the crews and the soldier-farmers whose harvest they carried. The crowds that made her queen also killed the stewards and drove out their families.
 

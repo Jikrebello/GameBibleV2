@@ -9,12 +9,12 @@ culture: [Atherian, Provincial peoples]
 related_factions: [Atherian Empire]
 appears_in: []
 needs: []
-aliases: [Four Eagles Crisis]
+aliases: [Reign of the Face]
 tags: [world-historical-atlas, age-of-glory]
 ---
-# The Year of Four Eagles
+# The Painted Reign
 
-The Year of Four Eagles is Caleran's name for the vacancy that followed Olarion's death in 247 BR. It ended the House of Thalion, and it lasted two winters. Three commanders raised their standards that first year, in the western military districts, on the eastern fleet and in the river army that fed Caleran. The fourth eagle was the bronze one over the door of the palace audience hall, where the accession portrait answered questions in the voice the city expected of "the Emperor". A painting governed the capital through the magistrate Avaren Mott while its clerks counted grain that was not there, and soldiers carried it ahead of the grain searches into the poor districts. Samor Veloran of the river army ended it in 245 by throwing his cloak over the panel. His most famous acts were two refusals: he would not let the portrait speak to him, and he would not let the painters put his own face on it.
+The Painted Reign is Caleran's name for the vacancy that followed Olarion's death in 247 BR. It ended the House of Thalion, and it lasted two winters. Three commanders raised their standards that first year, in the western military districts, on the eastern fleet and in the river army that fed Caleran. The capital followed none of them. In the palace audience hall, under the bronze eagle over the door, the accession portrait answered questions in the voice the city expected of "the Emperor". A painting governed the capital through the magistrate Avaren Mott while its clerks counted grain that was not there, and soldiers carried it ahead of the grain searches into the poor districts. Samor Veloran of the river army ended it in 245 by throwing his cloak over the panel. His most famous acts were two refusals: he would not let the portrait speak to him, and he would not let the painters put his own face on it.
 
 From that year the portrait, called the Face, was kept veiled. It was uncovered only at an accession and on the founding anniversary, and always last, after the armies and the senate had already agreed.
 
@@ -24,7 +24,7 @@ Every emperor since Meren had been confirmed before the same painted panel at th
 
 Olarion was found dead on the floor of the hall in 247. Accounts variously blamed illness, poison and a frightened attendant, and no explanation became conclusive. He had allowed no heir's face to be painted. On the second night of the mourning, a chamberlain followed custom and addressed a question to the portrait about the funeral order. Witnesses in the hall said it answered in a dry, carrying voice, using the formulas of an emperor in audience. It went on answering.
 
-## The four eagles
+## Three standards and a painting
 
 Avaren Mott, senior magistrate at Caleran, never claimed the throne. He claimed that it was not empty. The senate and the palace guard recognised him as the magistrate governing in the Emperor's name, and the speaking portrait gave that claim a force no senate vote could match. Decrees were read before it. The guard swore in its presence. Within its sight obedience became fervent, and officials who had hesitated over his orders in the morning carried them out at a run in the afternoon.
 
@@ -64,7 +64,7 @@ Mott was not harmed that day. He had made no decision out of the portrait's sigh
 
 ## The settlement
 
-The senate and the principal commands recognised Samor as emperor that summer. He gave his dead rivals unequal funeral honours. Towns that had supplied him received charters and tax relief; those associated with his rivals supplied settlements for soldiers. He took Aren Cassar, a boy of ten and the last child of Cassara's line, into the river camp as his ward.
+The senate and the principal commands recognised Samor as emperor that summer. He gave his dead rivals unequal funeral honours. Towns that had supplied him received charters and tax relief; those associated with his rivals supplied settlements for soldiers. He took Aren Soreth, a boy of ten and the last child of Cassara's line, into the river camp as his ward.
 
 The painters came to the palace to put the new face over the old pose, as they had at every accession since Meren's. Samor sent them away. No face was painted for him then or afterwards, and under its cloth the Face kept Olarion's.
 
@@ -80,7 +80,7 @@ Temple writers held that the stars had preserved the imperial office through the
 
 ## Later memory
 
-The four eagles remained a common image for ambition feeding from one body. Plays made the claimants into recognisable types: the talkative magistrate, injured prince, proud admiral and patient soldier. Audiences knew the talkative magistrate was the one who had talked with the portrait. Provincial accounts retained the names of people whose grain and relatives had become part of the contest, and in the river quarter a closed door painted red was for generations a sign that a household would not kneel.
+The three standards and the painted face remained a common image for ambition feeding from one body. Plays made the claimants into recognisable types: the talkative magistrate, injured prince, proud admiral and patient soldier. Audiences knew the talkative magistrate was the one who had talked with the portrait. Provincial accounts retained the names of people whose grain and relatives had become part of the contest, and in the river quarter a closed door painted red was for generations a sign that a household would not kneel.
 
 ## Further reading
 

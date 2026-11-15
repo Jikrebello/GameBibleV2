@@ -50,7 +50,7 @@ tags: []
 
 ## Reigns and Dynasties
 
-- [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Year of Four Eagles]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]] - 350 BR–0.
+- [[The Later Reign of Aurelius Thalion]], [[The House of Thalion]], [[The Painted Reign]], [[The House of Veloran]] and [[The Last Dynasties of the Age of Glory]] - 350 BR–0.
 - [[The Companions Who Entered by the Low Door - Imperial History]] - c. 96–54 BR.
 - [[Atheria between Qiryath and Cassian - Emperors Wars and Revolts]] - 0–316 AR.
 - [[Cassian and the Four Sees - The Settlement of 292 to 316 AR]], [[The Reign of Sevrin]] and [[Astrion and the Road to Vestian - 348 to 377 AR]].

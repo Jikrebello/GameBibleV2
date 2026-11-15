@@ -42,7 +42,7 @@ A household may include several generations, apprentices, servants, freed depend
 
 Children learn recitation and sums, including the importance of understanding a document before signing it. Craftspeople organise through guild agreements, travellers through caravan associations and farmers through water councils. Most people encounter Covenant law in these everyday arrangements.
 
-Food follows local production. Desert travellers eat flatbread and herd products; Al-Qahur supplies grain, fish, dates and lentils; orchard foods and seafood are prominent around Qazmarid and Zanthir. Night markets, poetry, wrestling, horse and camel fairs, pilgrim feasts, weddings and funerals bring households into public life. The Mourning of the Wells preserves a more solemn communal memory. [[Households and Daily Life in the Covenant]] develops these differences.
+Food follows local production. Desert travellers eat flatbread and herd products; Al-Qahur supplies grain, fish, dates and lentils; orchard foods and seafood are prominent around Qazmarid and Zanthir. Night markets, poetry, wrestling, horse and camel fairs, pilgrim feasts, weddings and funerals bring households into public life. The Reading of the Wells preserves a more solemn communal memory. [[Households and Daily Life in the Covenant]] develops these differences.
 
 ## Trade, engineering and war
 

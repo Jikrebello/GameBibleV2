@@ -23,7 +23,7 @@ The [[The Ahdari|Ahdari]] descend from the later northern fission of the Near-Gl
 
 The [[The Iqashari|Iqashari]] inhabited northern escarpment towns and caravan cities before Qahirid rule. They became the bureaucratic and commercial core of Iqashar. The [[The Qahuri|Qahuri]] were cultivators, well guardians, and irrigation communities of the sacred basin; conquest and pilgrimage placed military households above institutions older than the caliphate.
 
-Across the western strait, the [[The Qazmari|Qazmari]] retained highland, fortress, and maritime identities. Ruqaiya's descendants found their strongest refuge among them, binding regional independence to the Sealed-Blood cause.
+Across the western strait, the [[The Qazmari|Qazmari]] retained highland, fortress, and maritime identities. Rumaitha's descendants found their strongest refuge among them, binding regional independence to the Sealed-Blood cause.
 
 ## Frontier Peoples
 

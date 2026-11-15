@@ -66,7 +66,7 @@ tags:
 
 - The invasion is swift and brutal, with the empire unprepared for Ahl-e-Ahd siege golems, bound devils, shock troops, and Ahdanite Guard formations. Several northern provinces fall to Covenant control. The **Emirate of Zanthir** is established in the far north of what used to be the Atherian Empire and establishes the **Velian States** as puppet regions across occupied southern provinces.
 
-- In response to the Ahl-e-Ahd invasion, the Atherian emperor calls for the first Crusade (Defensive) - which initially slows the advance and redirects vast resources, manpower, and military forces from the east to defend the western heartlands. This creates a power vacuum in the eastern provinces (modern **Eclessia** and the Sestaran Concord City States), which are now under-resourced and under-defended.
+- In response to the Ahl-e-Ahd invasion, the Atherian emperor calls the War of the Seals (defensive) - which initially slows the advance and redirects vast resources, manpower, and military forces from the east to defend the western heartlands. This creates a power vacuum in the eastern provinces (modern **Eclessia** and the Sestaran Concord City States), which are now under-resourced and under-defended.
 
 - As the Atherian Empire struggles to defend itself in the west, the eastern provinces begin to experience widespread instability. **Banditry**, **Enaidfae** incursions from the south, and internal rebellion break out, leading to the collapse of imperial control in the east. Local governments in these regions start to break away from the central empire, attempting to defend themselves without the help of the imperial legions.
 
@@ -74,7 +74,7 @@ tags:
 
 - The Atherian Empire begins to fracture. In the west, the empire is locked in a desperate struggle to prepare for a new war against the **Ahl-e-Ahd**, while in the east, local rulers start to declare autonomy from the empire. The eastern provinces fall into an **interregnum**, with various factions vying for control over the once-great empire’s territories. 
 
-- Second Crusade is called to retake the Velian States—**a disaster**.
+- The Reception is called to retake the Velian States—**a disaster**.
 
 - Ahl-e-Ahd seize the moment, marching all the way to **Caleran**, capital of Atheria in the west.
 
@@ -86,7 +86,7 @@ tags:
 
 - Atherian rebel general from a minor house leads a **guerrilla defense** in the southern mountains.
 
-- A smaller Third Crusade, led by Caldria and neighboring forces with controversial Vortharan aid, stops the Covenant advance. At the **Battle of the Shattered Engines (907 AR)**, Vortharan counter-scripts destroy two great siege golems and cripple a third while Caldria holds Crown Gate Pass.
+- The Stand at Crown Gate, a smaller effort led by Caldria and neighboring forces with controversial Vortharan aid, stops the Covenant advance. At the **Battle of the Shattered Engines (907 AR)**, Vortharan counter-scripts destroy two great siege golems and cripple a third while Caldria holds Crown Gate Pass.
 
 - The later **Battle of Caelmount (917 AR)**, remembered as the Valley Ambush, cripples a separate Covenant field force attempting to destroy the mountain resistance.
 
@@ -94,7 +94,7 @@ tags:
 
 - Rebel commander crowned as the **First Thalmyric Emperor**, officially rebranding themselves as **Thalmyria**, claiming continuity from the Atherian Empire.
 
-- The Thalmyric Redeemer Church-sanctions a fourth crusade (the Reconquest) led by Thalmyria, now with **weaponized Holy Flame**.
+- The Thalmyric Redeemer Church-sanctions the Descent (the Reconquest) led by Thalmyria, now with **weaponized Holy Flame**.
 
 - Siege of **Caleran** is won—city retaken, invaders and collaborators executed.
 

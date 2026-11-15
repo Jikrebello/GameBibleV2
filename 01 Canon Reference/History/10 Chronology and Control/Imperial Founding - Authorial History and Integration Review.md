@@ -67,7 +67,7 @@ Thalion's final seizure of Caleran remains around 350. His earlier presence as a
 ## Chronology and generations
 
 > [!note] Amended November 2026
-> Damar, Harod, Calvena, Velos, Veyr's death, the 370 killing, Velsar's 358 campaign and the 399 suppression are revised in [[#Causality Pass amendment (14 November 2026)]]. Everything from 370 to 318 BR is re-sequenced again in [[#Causality Pass 10A amendment (14 November 2026)]], which controls over both earlier tables. Darsil, Venn, Merath, Meren's infancy, Velsar's eastern march, Ardel, Varroth and the sea bargain are changed again in [[#Causality Pass 11A2 amendment (14 November 2026)]], which controls over all three.
+> Damar, Harod, Selvena, Velos, Veyr's death, the 370 killing, Velsar's 358 campaign and the 399 suppression are revised in [[#Causality Pass amendment (14 November 2026)]]. Everything from 370 to 318 BR is re-sequenced again in [[#Causality Pass 10A amendment (14 November 2026)]], which controls over both earlier tables. Darsil, Venn, Merath, Meren's infancy, Velsar's eastern march, Ardel, Varroth and the sea bargain are changed again in [[#Causality Pass 11A2 amendment (14 November 2026)]], which controls over all three.
 
 Dates narrow the researched bands where relationships need an order. They do not supply a day-by-day campaign calendar.
 
@@ -79,19 +79,19 @@ Dates narrow the researched bands where relationships need an order. They do not
 | 468–461 / 448 | Allied resistance and unequal admission / Harod's seizure and confiscations |
 | 457 / 434 / 408 | Royal recognition of Arenes / succession of Tavren / succession of Olymes |
 | 414–397 / 399 | Veyr's eastern campaigns / Ostar's crucifixion of defeated rebels |
-| 396–391 / 386 | Informal partnership / Calvena's marriage |
+| 396–391 / 386 | Informal partnership / Selvena's marriage |
 | 390–379 | Casvilar's principal southern command |
-| 385 / 383 / 381 / 380 | Coastal expedition / Kellovar / Rethmar / Darneth and Calvena's death |
-| 376–373 / 372 | First civil war and gateway intervention / Nethar's death and Amesar's birth |
+| 385 / 383 / 381 / 380 | Coastal expedition / Kellovar / Rethmar / Darneth and Selvena's death |
+| 376–373 / 372 | First civil war and gateway intervention / Nethar's death and Hadram's birth |
 | 370 / 368 | Casvilar's assassination / Tolm's death |
 | 367 / 366–363 | Public three-command government and proscriptions / defeat of republican armies |
 | 362–361 / 360 / 359 | Darsil revolt / Miretha's death / Evara's marriage |
 | 358 | Velsar's failed northern extension; execution of Merath |
 | 357 / 355 / 354 | Maritime agreement / sea-heir's defeat and Varroth's loss of military command / sea-heir's execution and royal titles |
 | 353–350 / 352 | Final war / defeat outside Sarqen and subsequent sea withdrawal |
-| 350 | Annexation, deaths, Amesar's execution, younger children's custody and Thalion's settlement |
+| 350 | Annexation, deaths, Hadram's execution, younger children's custody and Thalion's settlement |
 
-Casvilar is born 425 and dies 370, aged about fifty-five; Veyr 435–373, about sixty-two; Ostar 442–381, about sixty-one; Velsar 408–350, about fifty-eight. Samyra is born 392, enters joint rule at seventeen in 375 and is nineteen during Casvilar's intervention in 373. Amesar is born 372, when she is about twenty, and dies at twenty-two.
+Casvilar is born 425 and dies 370, aged about fifty-five; Veyr 435–373, about sixty-two; Ostar 442–381, about sixty-one; Velsar 408–350, about fifty-eight. Samyra is born 392, enters joint rule at seventeen in 375 and is nineteen during Casvilar's intervention in 373. Hadram is born 372, when she is about twenty, and dies at twenty-two.
 
 Thalion is born 390, inherits at twenty and establishes supreme rule at forty. Evara is born 393, marries Velsar at thirty-four and has Meren in 358 and Sovia in 356. Samyra's children by Velsar, Talven and Lethia, are born in 357 and 354; they are seven and four in 350. No encounter requires a magically extended human lifespan.
 
@@ -129,7 +129,7 @@ Precise coordinates, full modern identifications of ancient sites and every camp
 | Cleopatra | Samyra | A complete country, rival siblings, personally requested execution, alliances and death; spared-town ancestry removes inherited sacrificial guilt |
 | Lepidus | Varroth | Genuine resources, participation in murder, exclusion from military power and continuing sacred office |
 | Agrippa and the maritime opposition | Melvo and Ardel | Working expertise, refuge, forced shipping, defeated crews and captives; no copying of entire Roman naval itinerary |
-| Julia, Octavia and Livia | Calvena, Evara and Ilvara | Affection, childbirth loss, household authority and child custody; no hostile sexual allegation imported as fact |
+| Julia, Octavia and Livia | Selvena, Evara and Ilmara | Affection, childbirth loss, household authority and child custody; no hostile sexual allegation imported as fact |
 
 The public story does not reproduce ancient speeches, exact troop totals, dagger counts, Cleopatra's legendary snake or a Roman calendar. Roman testimony's uncertainty does not make the new fictional decisions uncertain. Conversely, the fictional salting and explicitly causal anti-sacrifice intervention must never be cited as evidence for real Carthage; the preceding research preserves that distinction.
 
@@ -199,22 +199,22 @@ Approved items 02.3, 02.4 and 02.5 of [[Causality Pass - 02 Gateway Wars and the
 | 489–487 / 486 | Damar's land bill for the Ilyessa veterans; the Long Month; the Noon Sighting at Sarven (488); the harvest rots; Damar killed in a bread crowd (487) / the Licensed Sighting | 495–491 land proposals and murder |
 | 466–c. 441 | Vespen Harod accepts the Red Field in person (466); troops into Caleran (448); dies of fever in his field tent, still Warden (c. 441) | Harod's resignation of exceptional command |
 | 399 | Captured rebels sold north in lots to the well trade; the Spire Pursuit at Vorthara; the Kept Doors | Crucifixion of defeated rebels along a supply road |
-| 386 | Calvena marries Veyr | unchanged |
-| 380 | Darneth; Calvena **lives** | Calvena's death in childbirth |
-| 379–377 / 377 | Casvilar's veterans claim the Noon Roll lands held by Veyr's leaseholding allies / Calvena publicly refuses her father's offer of divorce | — |
+| 386 | Selvena marries Veyr | unchanged |
+| 380 | Darneth; Selvena **lives** | Selvena's death in childbirth |
+| 379–377 / 377 | Casvilar's veterans claim the Noon Roll lands held by Veyr's leaseholding allies / Selvena publicly refuses her father's offer of divorce | — |
 | 376 | Casvilar dedicates arms at a frontier altar, names the senators, accepts the Red Field | the crossing as a plain advance |
 | 374 | Velos: neither army breaks; Veyr loses the sea when the Oar ports refuse him ship money; Arest Corven joins Veyr (no suicide) | Casvilar's victory at Velos; Corven's suicide |
-| 373 | The empty seat at Sarqen; Veyr turns back to sanctuary at Ilamar with Calvena and Corven; the towns rise for Samyra under the Table Oath; Vardek judged by the towns, executed by Casvilar's officers | Veyr's murder at a landing |
+| 373 | The empty seat at Sarqen; Veyr turns back to sanctuary at Ilamar with Selvena and Corven; the towns rise for Samyra under the Table Oath; Vardek judged by the towns, executed by Casvilar's officers | Veyr's murder at a landing |
 | 371 | Veyr dies of fever at Ilamar (dates now 435–371) | 373 murder |
 | 370 | Challengers entered in Tolm's arms register strike Casvilar on the muster ground below the river stores before the contest opens | Tolm's lure to an assembly hall |
 | 367 | Varroth, as First Celebrant, rules the Field open and unclaimed | — |
 | 358 | Velsar's failed campaign runs north-east into the Avesh approaches (Pass 03.6) | "northern extension" through defended water |
-| 357 | Calvena carries the terms of the agreement between Thalion and Ardel | — |
+| 357 | Selvena carries the terms of the agreement between Thalion and Ardel | — |
 | 355 | Marelith burned as "the harbour without a chain" | unchanged date |
 | 353 | Corven Ilar's accusation answered with the Table Oath and the names of the hostages of 609 | unchanged date |
 | 350 | Thalion stands at the muster ground with no named challenger living; the augurs declare the Field closed into his command | — |
 
-Ages remain ordinary. Veyr dies at about sixty-four. Calvena is born 405 and is alive at 350; her later life and death belong to the Age of Glory and are not fixed here.
+Ages remain ordinary. Veyr dies at about sixty-four. Selvena is born 405 and is alive at 350; her later life and death belong to the Age of Glory and are not fixed here.
 
 ### Source fidelity, revised rows
 
@@ -222,7 +222,7 @@ Ages remain ordinary. Veyr dies at about sixty-four. Calvena is born 405 and is 
 |---|---|
 | Pompey | Prior competence, clients, marriage and civil defeat are kept. Pharsalus becomes an indecisive Velos; the murder on landing becomes a table laid with an empty seat, refused, and a fever death in sanctuary at Ilamar. |
 | Cato at Utica | Arest Corven survives in exile at Ilamar and writes the history later used against Casvilar's heirs. |
-| Julia | Calvena lives. The break is caused by land (the Noon Roll grants) and fear of prosecution; her public refusal of divorce is its visible moment. |
+| Julia | Selvena lives. The break is caused by land (the Noon Roll grants) and fear of prosecution; her public refusal of divorce is its visible moment. |
 | Crassus | Predatory wealth, the son's death and Rethmar are kept. The crosses on the Appian Way are cut: the rebels are sold north, which explains his northern contacts and his misjudgement at Rethmar. |
 | Antony | The Parthian campaign no longer copies Rethmar: Velsar is beaten by Vasharan relay riders, the Dawn Road and snow in the Avesh approaches. |
 | Decimus Brutus and the Ides | The trusted officer keeps the arms register; the killers enter their names as lawful challengers and strike before the contest opens. |
@@ -251,14 +251,14 @@ Hesara's concealment of children moves from the Years of Three Collections (548�
 
 [[Teren Casvilar]], [[Marovan Veyr]], [[Lethren Ostar]], [[Darion Velsar]], [[Seluc Varroth]], [[Istran Melvo]], [[Households of the Imperial Founding]], [[The Wars of the Atherian Succession]], [[The Southern Campaigns of Teren Casvilar]], [[Samyra Nerethan]] and [[The House of Nerethan]]. [[Aurelius Thalion]] belongs to another writer and receives the 350 closure of the Field through the integration patch.
 
-*(Second bend 11A1, 14 November 2026.)* [[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic]] amends the rows above for events before 370. Damar is not killed (d. c. 457) and the Long Month follows the Noon Sighting (488). Harod never enters Caleran; "troops into Caleran (448)" is withdrawn and replaced by the nine senators counted as contestants in 452–449. The suppression of 399 moves to 410 and Ostar commands nothing in it. Rethmar moves to 392; Pel leads it, is captured and lives; Ostar stays in Caleran, is entered as a contestant in 379 and dies at Vorthara about 374. Calvena marries Veyr in 389. Casvilar is born in 431 and dies at sixty-one. He accepts the Red Field at the siege lines of Kellovar in 383 against Drenoc, not at a frontier altar in 376; ruling 1's sentence "Casvilar's acceptance in 376 was real and bound him" becomes "Casvilar's acceptance at Kellovar in 383 was real; in Astaroth's grammar it ended when Drenoc ceased to contest the ground, and the thirteen-year open Field was the augurs' reading". The acceptance of the seven's challenge in 370 was a new, real contest and is the one whose bounds were broken. Velos is 377, without Veyr. Ruling 5 (Darneth) stands, except that the frame showed the rampart's failure line and no water approach was altered. The analogue table's rows for Julia, Crassus, Sulla and the Gracchi are superseded by the 11A1 record. *(Inserted by the founding writer from 11A1's integration patch.)*
+*(Second bend 11A1, 14 November 2026.)* [[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic]] amends the rows above for events before 370. Damar is not killed (d. c. 457) and the Long Month follows the Noon Sighting (488). Harod never enters Caleran; "troops into Caleran (448)" is withdrawn and replaced by the nine senators counted as contestants in 452–449. The suppression of 399 moves to 410 and Ostar commands nothing in it. Rethmar moves to 392; Pel leads it, is captured and lives; Ostar stays in Caleran, is entered as a contestant in 379 and dies at Vorthara about 374. Selvena marries Veyr in 389. Casvilar is born in 431 and dies at sixty-one. He accepts the Red Field at the siege lines of Kellovar in 383 against Drenoc, not at a frontier altar in 376; ruling 1's sentence "Casvilar's acceptance in 376 was real and bound him" becomes "Casvilar's acceptance at Kellovar in 383 was real; in Astaroth's grammar it ended when Drenoc ceased to contest the ground, and the thirteen-year open Field was the augurs' reading". The acceptance of the seven's challenge in 370 was a new, real contest and is the one whose bounds were broken. Velos is 377, without Veyr. Ruling 5 (Darneth) stands, except that the frame showed the rampart's failure line and no water approach was altered. The analogue table's rows for Julia, Crassus, Sulla and the Gracchi are superseded by the 11A1 record. *(Inserted by the founding writer from 11A1's integration patch.)*
 
 ## Causality Pass 10A amendment (14 November 2026)
 
-[[Causality Pass - 10A Bending the Founding]] bends the founding sequence, which had kept the Second Triumvirate, Philippi, Perusia, Octavia, Naulochus, the Donations, Actium, Alexandria, Caesarion's death, the custody of Cleopatra's younger children and Augustus's settlement and succession in order. The 370, 367, 355 and c. 350 anchors, Velsar's 358 campaign, Ardel's execution in 354, Corven Ilar's speech in 353, Calvena's survival, Caelor's death and the wardens' test from 326, Meren's reign from 318 and the speaking portrait of 247 are kept. Where this section disagrees with the tables above, including the first Causality Pass amendment, this section controls. The earlier text stays as the record of earlier deliveries.
+[[Causality Pass - 10A Bending the Founding]] bends the founding sequence, which had kept the Second Triumvirate, Philippi, Perusia, Octavia, Naulochus, the Donations, Actium, Alexandria, Caesarion's death, the custody of Cleopatra's younger children and Augustus's settlement and succession in order. The 370, 367, 355 and c. 350 anchors, Velsar's 358 campaign, Ardel's execution in 354, Corven Ilar's speech in 353, Selvena's survival, Caelor's death and the wardens' test from 326, Meren's reign from 318 and the speaking portrait of 247 are kept. Where this section disagrees with the tables above, including the first Causality Pass amendment, this section controls. The earlier text stays as the record of earlier deliveries.
 
 > [!note] Superseded in part, 14 November 2026
-> [[#Causality Pass 11A2 amendment (14 November 2026)]] changes the following in this section: the date and place of Darsil in the sequence; the quartered winters and Miretha's death; Venn's fate; Merath's fate and Meren's infancy; Velsar's Avesh campaign; Calvena's terms; Ardel's fate; the date and outcome of Corven Ilar's speech; Talven's and Lethia's birth years; Varroth's fate; Tarsen's death; and the direction of the sea bargain. The rows, lists and rulings below stand as the record of 10A and are controlled by the later section.
+> [[#Causality Pass 11A2 amendment (14 November 2026)]] changes the following in this section: the date and place of Darsil in the sequence; the quartered winters and Miretha's death; Venn's fate; Merath's fate and Meren's infancy; Velsar's Avesh campaign; Selvena's terms; Ardel's fate; the date and outcome of Corven Ilar's speech; Talven's and Lethia's birth years; Varroth's fate; Tarsen's death; and the direction of the sea bargain. The rows, lists and rulings below stand as the record of 10A and are controlled by the later section.
 
 ### The engine
 
@@ -271,9 +271,9 @@ Varroth's ruling of 367 is read as everyone in Atheria read it: the Field of 370
 | 370 | Seven challengers kill Casvilar; Velsar claims the Field; Thalion arrives four days later and refuses it in the forum | Thalion claiming the Field as heir |
 | 369 | First of the seven killed at his own door in Caleran | — |
 | 368 | Tolm taken on the coast road and killed | unchanged |
-| 367 | Varroth's ruling; **the Four at the Stores** (Velsar, Thalion, Varroth and the speaker Belisar Venn) govern from the store-house above the muster ground; **the Writing-In** begins; Venn written in at Velsar's demand with Thalion's consent and killed on the muster ground with a borrowed practice sword; the river stores pass to Thalion; Iren Sallas reaches Ilamar | the three-command government by assembly commission; the proscriptions |
+| 367 | Varroth's ruling; **the Four at the Stores** (Velsar, Thalion, Varroth and the speaker Besral Venn) govern from the store-house above the muster ground; **the Writing-In** begins; Venn written in at Velsar's demand with Thalion's consent and killed on the muster ground with a borrowed practice sword; the river stores pass to Thalion; Iren Sallas reaches Ilamar | the three-command government by assembly commission; the proscriptions |
 | 367–364 | Writing-In; the war spreads; Varroth's pass garrisons burn the magazines at the head of the Aurin road (364); no names written in after 364 | Varroth's later attempt to claim surrendered forces |
-| 365 / 363 / 361 | Thalion marries Ilvara Deneth / Caelor born / Ilvara dies bearing Lysara | Ilvara's earlier marriage ended by agreement (cut) |
+| 365 / 363 / 361 | Thalion marries Ilmara Deneth / Caelor born / Ilmara dies bearing Lysara | Ilmara's earlier marriage ended by agreement (cut) |
 | 363 | Darsil: Velsar destroys the republican army; none of the seven present | Draven killed and Seneth's suicide at Darsil |
 | 362 | Seneth reaches Sarqen's landing and sits at the unranked table; one of the seven dies at Darneth (c. 362) | — |
 | 362–360 | The quartered winter at Darsil: rising (361); Tarsen hangs eleven organisers; Miretha's grain carts; Miretha dies of winter fever (360) | veteran-settlement revolt led by Miretha and Tarsen |
@@ -282,20 +282,20 @@ Varroth's ruling of 367 is read as everyone in Atheria read it: the Field of 370
 | 359 | Iren Sallas walks out of Ilamar's precinct to Thalion's men; Merath goes to Esharat | — |
 | 358 | Velsar's Avesh campaign; Tarsen dies in it; Meren born at Esharat; Merath executed at Samyra's request by Velsar's officers; the infant hidden in a grain bin and carried west | Meren born to Evara and Velsar |
 | 357 / 354 | Talven / Lethia born to Samyra and Velsar | unchanged |
-| 357 | Calvena's terms between Thalion and Ardel | unchanged |
+| 357 | Selvena's terms between Thalion and Ardel | unchanged |
 | 356 | One of the seven dies of age behind the Kept Doors; body sent down the pass | — |
 | 355 | Marelith held with Pyrassa's harbour chain and burned; Draven dies aboard; Ardel's force broken | Marelith's burning without the chain or Draven |
 | 354 | Avesh gives up Ardel and its fugitive of the seven; Velsar's officers execute both | Ardel alone; Velsar's titles for Samyra's children (cut) |
 | 353 | Velsar accepts **the Salt Field** on Sarqen's salt pans, naming Thalion and Melvo; Thalion does not come; Corven Ilar's speech (adds Seneth and Merath to the charge); Thalion stands while the 609 names are read | — |
 | 352 | Melvo closes Sarqen's outer anchorage; **the Fourth Collection**; bitten wax in the sealed jars of Esharat and Belqara | the royal fleet defeated outside Sarqen |
 | 351 | The sea bargain takes the royal galleys to Hazreth; the treasury fills the wounded's places; wounded left on the basin quay (Tobal of Hazreth among them) | the bargain during a withdrawal in 352–350 |
-| 350, spring | Amesar kills Seneth at the renewal; the towns put the house out and seat Tobal in the queen's seat; Amesar takes sanctuary on Ilamar | — |
+| 350, spring | Hadram kills Seneth at the renewal; the towns put the house out and seat Tobal in the queen's seat; Hadram takes sanctuary on Ilamar | — |
 | 350, early summer | Velsar's army scatters; Melvo walks onto the Salt Field; Velsar killed fighting | Velsar's suicide |
-| 350, summer | Samyra sits at the towns' table as a stranger with Talven and Lethia; Thalion eats and swears the Table Oath; Sarqen under a governor who swears at the landing each spring; Meren recognised as Merath's son; the next count finds the wax unbitten | Samyra's suicide; Amesar's execution; Evara's custody of Talven and Lethia |
+| 350, summer | Samyra sits at the towns' table as a stranger with Talven and Lethia; Thalion eats and swears the Table Oath; Sarqen under a governor who swears at the landing each spring; Meren recognised as Merath's son; the next count finds the wax unbitten | Samyra's suicide; Hadram's execution; Evara's custody of Talven and Lethia |
 | c. 350 | Thalion stands on the empty muster ground; Varroth refuses to declare the Field closed; the Red Star's priests declare it closed into his command | the augurs' declaration with Varroth assenting |
 | 350–346 | The great discharge onto the Noon Roll lands and the estates of the written-in | veteran settlement from 363 |
 | 333 | Samyra dies at Esharat | — |
-| c. 320 | Amesar dies on Ilamar, having finished Arest Corven's history | — |
+| c. 320 | Hadram dies on Ilamar, having finished Arest Corven's history | — |
 | 326 / 324 | Caelor under the untested hall / Caelor dies; Meren becomes heir | Meren adopted |
 | 318 | Thalion dies at the spring renewal on Sarqen's landing; Meren swears the oath there and succeeds | death at Caleran after prolonged illness; bodily-ascent stories (cut) |
 
@@ -303,7 +303,7 @@ No date in this table coincides with a BC year of the Roman analogue, and the an
 
 ### Births, deaths and ages
 
-Thalion 390–318, seventy-two at death; never ill for long, heavy, short-sighted. Ilvara Deneth died 361. Merath Nerethan 394–358. Caelor 363–324. Lysara the younger born 361. Meren 358–286. Evara 393, unmarried; her death belongs to the Age of Glory. Samyra 392–333. Amesar 372–c. 320. Velsar 408–350. Miretha 407–360. Tarsen died 358. Seneth born c. 418, killed 350. Venn killed 367. Iren Sallas killed 359. Draven died 355. Varroth (born 414) and Melvo (born 391) are alive in 350; their deaths belong to the Age of Glory. Talven and Lethia's later lives are open beyond Talven's harbour post under Meren and Lethia's house at Esharat. Sovia is cut. Every interval is an ordinary human life.
+Thalion 390–318, seventy-two at death; never ill for long, heavy, short-sighted. Ilmara Deneth died 361. Merath Nerethan 394–358. Caelor 363–324. Lysara the younger born 361. Meren 358–286. Evara 393, unmarried; her death belongs to the Age of Glory. Samyra 392–333. Hadram 372–c. 320. Velsar 408–350. Miretha 407–360. Tarsen died 358. Seneth born c. 418, killed 350. Venn killed 367. Iren Sallas killed 359. Draven died 355. Varroth (born 414) and Melvo (born 391) are alive in 350; their deaths belong to the Age of Glory. Talven and Lethia's later lives are open beyond Talven's harbour post under Meren and Lethia's house at Esharat. Sovia is cut. Every interval is an ordinary human life.
 
 ### Source fidelity, replacement rows
 
@@ -319,10 +319,10 @@ Thalion 390–318, seventy-two at death; never ill for long, heavy, short-sighte
 | Donations of Alexandria | Cut. Velsar instead accepts the Salt Field, naming Thalion and Melvo |
 | Actium | No decisive sea battle. A blockade, the Fourth Collection, the bitten wax and the basin bargain |
 | Alexandria: Antony's and Cleopatra's suicides | Velsar, bound to his field, is killed fighting Melvo on it. Samyra is put out by the towns' oath and saves herself and her younger children by sitting at the same towns' table as a stranger; she lives seventeen years |
-| Caesarion | Amesar kills his father's last murderer at the table, is put out by the towns, takes sanctuary on Ilamar and finishes the hostile history |
+| Caesarion | Hadram kills his father's last murderer at the table, is put out by the towns, takes sanctuary on Ilamar and finishes the hostile history |
 | Selene and Helios with Octavia | Talven and Lethia raised by their mother at Esharat as guests of the towns |
 | Augustus: restored republic, adoption, apotheosis | Thalion rules openly from the store-house and leaves the senate the city's business; his heir is his own son by a Nerethan princess; he dies at the unranked table on Sarqen's landing. His painted war board becomes the accession portrait |
-| Livia | Ilvara dies in 361; no earlier marriage, no influence over the succession |
+| Livia | Ilmara dies in 361; no earlier marriage, no influence over the succession |
 
 Cleopatra's grammar survives only where the World Egg needs it: a complete country, a rival sister killed at her request, an Atherian alliance and its children. Caesar's heir survives as Thalion's role, not his character.
 
@@ -337,7 +337,7 @@ All named humans have complete human souls. No saint, damned office, returning a
 5. **Marelith's chain (355).** The founding covenant forbade a permanent anchorage. Held fast by Pyrassa's chain, the bearer broke the covenant's terms and fought free, tearing the city apart while the sea-fire burned it. The bearer's fate remains uncertain. The chain held the city; it shut no harbour. The ruling in [[Package E - Island and Vorthara Canon Integration Review]] stands: no wound opened and the Shoreless King did not stir.
 6. **Sarqen's sea bargain** keeps its nature (a local manifestation within Thalassor's sea ecology; surrendered cargo; a flooded disused galley basin; no permanent binding). It moves to 351 and serves to take the royal galleys past Melvo's line to Hazreth. The officers' choice of treasury over wounded is human.
 7. **The closing of 350.** The 370 contest ended when its last named party died and the failure clause had run its course; the spared towns' judgment of the Nerethan house in the spring of 350 was the last faction proving itself. Seneth's death at the table carries no supernatural consequence of its own. Thalion's standing, Varroth's refusal and the Red Star priests' declaration are human readings of an ended contest; none of them binds Astaroth.
-8. **The painted board.** Standardised imagery of an absent ruler, oaths sworn before it and praise offered to it are early feeding architecture for the dependent Pride Mask that answers in 247. Nothing in it responds before 247. The board that hangs in the audience hall from 350 is the accession portrait of [[The Year of Four Eagles]]. Thalion's soul is untouched by it.
+8. **The painted board.** Standardised imagery of an absent ruler, oaths sworn before it and praise offered to it are early feeding architecture for the dependent Pride Mask that answers in 247. Nothing in it responds before 247. The board that hangs in the audience hall from 350 is the accession portrait of [[The Painted Reign]]. Thalion's soul is untouched by it.
 
 ### Collisions and protected histories
 
@@ -362,13 +362,13 @@ All named humans have complete human souls. No saint, damned office, returning a
 | Darsil | 363, after the Four and the Writing-In | **369**, the war's second year and before Varroth's ruling; the victor is then told that his victory closed nothing |
 | Why no army disbands | the Field "stands open", as Harod's had for two generations | Harod's Field lay **vacant** after 441: its Warden died with his named enemies still at Avesh, and nothing was owed on it. Casvilar's is **fouled**. Two companies paid off after Darsil carry the war home to the upper Aurin and re-enlist; no commander discharges a company afterwards |
 | The quartered winters | 362–360; rising 361; Miretha dies 360 | 369–366; rising in spring **366**; Miretha brings carts every autumn for ten years and dies at Darsil in **356** |
-| Belisar Venn | written in 367 and killed | written in in the winter of **366** at Velsar's demand with Thalion's consent; stands with the practice sword; the first soldier goes down and the squad walks off; "stood" is written against his name. He keeps the river stores, feeds Thalion's companies and leaves Velsar short of barges. In 350 he answers Thalion's request to close the Field by sending the sword. Dies 348 |
+| Besral Venn | written in 367 and killed | written in in the winter of **366** at Velsar's demand with Thalion's consent; stands with the practice sword; the first soldier goes down and the squad walks off; "stood" is written against his name. He keeps the river stores, feeds Thalion's companies and leaves Velsar short of barges. In 350 he answers Thalion's request to close the Field by sending the sword. Dies 348 |
 | Merath | executed 358 at Samyra's request by Velsar's officers | brought to Samyra's palace with her newborn in 358 by the queen's own officers; lives seven years behind a guarded stair; dies of fever in the blockade winter of **351** |
 | Meren's infancy | hidden in a grain bin and carried west | kept in Samyra's household 358–350 on Esharat's condition that he be shown at the landing every spring (*no child for the table*); first meets his father at the table in 350 |
 | The partnership, 358–353 | unexplained after Merath's death | held together by the hostages, by soldiers unwilling to fight fellow avengers, and by Venn's bread; it ends when Velsar names Thalion on the salt |
 | Velsar's eastern march | 358; lost convoys, early snow, a plundered ally; Tarsen dies | **354**; a march on Avesh to seize the fugitive of the seven. The Dawn Road's relays carry the man ahead of him all summer. No battle, no losses, no plunder; Tarsen rides with him and lives |
 | The Avesh fugitive | given up with Ardel and executed in 354 | dies at a relay station; Orvaz sends the salted body to the Salt Field in the winter of **352** |
-| Calvena's terms | 357, before Marelith; broken within a season | **353**, at Pyrassa, after Marelith; they hold |
+| Selvena's terms | 357, before Marelith; broken within a season | **353**, at Pyrassa, after Marelith; they hold |
 | Ardel Veyr | flees to Avesh; executed 354 | reaches Pyrassa with eleven hulls and Marelith's survivors and is admitted under the Chain Peace. Melvo refuses to take a guest from his own city's quay, his first quarrel with Thalion. Ardel lives out his life on the mole; the survivors' sheds become the Burnt Quarter |
 | Corven Ilar's speech | 353; the assembly votes for war | **354**; the towns' envoys read the names of 609, Thalion stands, and the assembly does not vote. The war with the queen begins with Velsar's Salt Field |
 | Talven / Lethia | born 357 / 354 | born **353 / 351**, after Miretha's death |
@@ -388,13 +388,13 @@ All named humans have complete human souls. No saint, damned office, returning a
 | 366 | Darsil rises (spring); Tarsen's gallows; Miretha's first carts (summer); Venn's stand (winter) |
 | 364 | Varroth's garrisons burn the magazines; no names written afterwards |
 | 362 | Seneth at Sarqen's table; the Darneth fugitive dies (c.) |
-| 361 / 360 | Ilvara dies / Thalion marries Merath |
+| 361 / 360 | Ilmara dies / Thalion marries Merath |
 | 359 | Sallas walks out of Ilamar; Merath goes to Esharat |
 | 358 | Meren born; mother and child taken to the palace at Sarqen |
 | 356 | The Kept Doors' fugitive dies; Miretha dies at Darsil |
 | 355 | Marelith burned; Draven dies; Ardel and the survivors admitted at Pyrassa |
 | 354 | Corven Ilar's motion fails; Velsar is outrun on the Dawn Road |
-| 353 | Calvena's terms at Pyrassa; Talven born; the Salt Field (autumn); Varroth goes east with the register |
+| 353 | Selvena's terms at Pyrassa; Talven born; the Salt Field (autumn); Varroth goes east with the register |
 | 352 | Melvo closes the anchorage; the Fourth Collection; the bitten wax; the body from Avesh; the sixth name struck |
 | 351 | The sea bargain and the poured grain; the basin quay; Lethia born; Merath dies |
 | 350 | Seneth killed (spring); the house put out; Velsar, Tarsen and Varroth killed on the salt (early summer); the table at the landing (summer); Thalion on the muster ground, Venn's sword and the Red Star's declaration (autumn) |
@@ -403,7 +403,7 @@ Births, deaths and ages where changed: Merath 394–351. Miretha 407–356. Tars
 
 ### Clock
 
-No date coincides with a BC year of the analogue, and no two paired events keep the same distance from their source: 370/44 (326), Darsil 369/42 (327), the Four 367/43 (324), the Darsil rising 366/41 (325), Venn 366/43 (323), Miretha 356/40 (316), Merath taken 358/41 (317), Marelith 355/36 (319), Ilar 354/32 (322), the Dawn Road 354/36 (318), Calvena's terms 353/39 (314), Talven 353/40 (313), the blockade 352/31 (321), Lethia 351/36 (315), the end 350/30 (320). Order is broken as well: the great battle now precedes the collective government, the sea-heir's terms follow his defeat, and the speech against the queen precedes the eastern march and fails. The Salt Field (353) and Thalion's second marriage (360) have no source event. Three earlier dates outside this pass (Samyra's restoration 373, Amesar's birth 372 and Veyr's death 371) still sit at 326, 325 and 323 and coincide with offsets used here; they belong to the late-republic pass.
+No date coincides with a BC year of the analogue, and no two paired events keep the same distance from their source: 370/44 (326), Darsil 369/42 (327), the Four 367/43 (324), the Darsil rising 366/41 (325), Venn 366/43 (323), Miretha 356/40 (316), Merath taken 358/41 (317), Marelith 355/36 (319), Ilar 354/32 (322), the Dawn Road 354/36 (318), Selvena's terms 353/39 (314), Talven 353/40 (313), the blockade 352/31 (321), Lethia 351/36 (315), the end 350/30 (320). Order is broken as well: the great battle now precedes the collective government, the sea-heir's terms follow his defeat, and the speech against the queen precedes the eastern march and fails. The Salt Field (353) and Thalion's second marriage (360) have no source event. Three earlier dates outside this pass (Samyra's restoration 373, Hadram's birth 372 and Veyr's death 371) still sit at 326, 325 and 323 and coincide with offsets used here; they belong to the late-republic pass.
 
 ### Source fidelity, replacement rows
 
@@ -437,7 +437,7 @@ The blend holds at about half: the fouled Field, the government it forces, the W
 
 ### Alignment with the late-republic bend (11A1)
 
-[[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic]] was written the same day and changes what stands behind 370. The founding articles follow it: Casvilar had carried a Field since Kellovar (383) against Drenoc, who was never produced, and it died with him; the fouled contest of 370 is the seven's. The seventh name was entered as Drenoc's son, and he is the fugitive who dies at Darneth about 362. Seneth commanded the river line at Kellovar and fought for the senate at Velos; Draven is a ruined ship-owner; Tolm is quartermaster of the muster ground, and his complicity is disputed. The Writing-In starts from an augurs' book that already held counted contestants and the pardoned of 371 with a line through their names. The Kept Doors are dated 410. Calvena married in 389. Veyr came to Sarqen in 373 for grain, not as a beaten fugitive. Harod killed two senators on his Field, so the 11A2 contrast is between a vacant Field and a fouled one, not between blood and no blood. Casvilar's veterans held their Noon Roll plots undischarged, and the companies Velsar pays off after Darsil are the first soldiers discharged since Kellovar. Pyrassa's wardens had sworn at the Chain Peace never to raise their chain against a vessel in distress, and had lent it to Melvo. One point runs the other way: 11A1's note that the names of 609 were read "in 353" should read 354.
+[[Causality Pass - 11A1 Second Bend - Gateway Wars and Late Republic]] was written the same day and changes what stands behind 370. The founding articles follow it: Casvilar had carried a Field since Kellovar (383) against Drenoc, who was never produced, and it died with him; the fouled contest of 370 is the seven's. The seventh name was entered as Drenoc's son, and he is the fugitive who dies at Darneth about 362. Seneth commanded the river line at Kellovar and fought for the senate at Velos; Draven is a ruined ship-owner; Tolm is quartermaster of the muster ground, and his complicity is disputed. The Writing-In starts from an augurs' book that already held counted contestants and the pardoned of 371 with a line through their names. The Kept Doors are dated 410. Selvena married in 389. Veyr came to Sarqen in 373 for grain, not as a beaten fugitive. Harod killed two senators on his Field, so the 11A2 contrast is between a vacant Field and a fouled one, not between blood and no blood. Casvilar's veterans held their Noon Roll plots undischarged, and the companies Velsar pays off after Darsil are the first soldiers discharged since Kellovar. Pyrassa's wardens had sworn at the Chain Peace never to raise their chain against a vessel in distress, and had lent it to Melvo. One point runs the other way: 11A1's note that the names of 609 were read "in 353" should read 354.
 
 ### Collisions and protected histories, amended
 

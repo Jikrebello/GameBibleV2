@@ -186,7 +186,7 @@ This should be the movement's most culpable period. Prisoners and enslaved famil
 
 ### Crisis and concealment, c. 842–800 BR
 
-Ithren III's Single Radiance attacks rival mortuary wealth while courting useful financiers. Some White Measure houses surrender images and serve the new capital. Others hide their deepest chambers or fund resistance. The destruction of public sanctuaries creates an opportunity to move illicit bodies and treasure beneath ordinary burial work.
+Hesren III's Single Radiance attacks rival mortuary wealth while courting useful financiers. Some White Measure houses surrender images and serve the new capital. Others hide their deepest chambers or fund resistance. The destruction of public sanctuaries creates an opportunity to move illicit bodies and treasure beneath ordinary burial work.
 
 After the Radiance falls, surviving temples expose several abuses without ending the movement. A few necropolises are opened and their coerced attendants reburied. Others purchase protection by financing restoration. Greed Masks exploit both the old doctrine and the new market in confiscated tomb goods.
 

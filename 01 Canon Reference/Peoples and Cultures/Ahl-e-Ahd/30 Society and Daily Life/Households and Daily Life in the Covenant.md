@@ -25,7 +25,7 @@ Children learn recitation, sums, signatures, and the danger of signing unread te
 
 ## Food and Festival
 
-Daily food follows geography: flatbread and herd products on desert roads; grain, fish, dates, and lentils in Al-Qahur; orchard foods and seafood around Qazmarid and Zanthir. Public life includes night markets, poetry, wrestling, horse and camel fairs, pilgrim feasts, weddings, funerals, and the solemn Mourning of the Wells.
+Daily food follows geography: flatbread and herd products on desert roads; grain, fish, dates, and lentils in Al-Qahur; orchard foods and seafood around Qazmarid and Zanthir. Public life includes night markets, poetry, wrestling, horse and camel fairs, pilgrim feasts, weddings, funerals, and the solemn Reading of the Wells.
 
 ## The Unequal Burden
 

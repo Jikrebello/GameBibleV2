@@ -26,11 +26,11 @@ He would not be painted. The painters who came to put his face over Olarion's we
 
 Samor reorganised the central river army into commands supplied from different districts. No single commander would control every approach to Caleran, and no successor could be agreed without all of them. The arrangement made another rapid seizure more difficult and required greater coordination from the palace.
 
-His only son had died fighting Halven's fleet at the river ports, leaving a child, Orent, born after his father's death. Samor's daughter Tessa managed correspondence and supply for her father's household and never married. The old house had left one child, Aren Cassar, ten years old in 245 and a great-grandson of Cassara. Samor took him into the river camp as a ward and as a hostage against the western districts that had risen for Daran. Aren grew up among the wardens, loading spans and standing under them.
+His only son had died fighting Halven's fleet at the river ports, leaving a child, Orent, born after his father's death. Samor's daughter Tessa managed correspondence and supply for her father's household and never married. The old house had left one child, Aren Soreth, ten years old in 245 and a great-grandson of Cassara. Samor took him into the river camp as a ward and as a hostage against the western districts that had risen for Daran. Aren grew up among the wardens, loading spans and standing under them.
 
 ## Aren I, 229–203 BR
 
-Samor died in 229. His grandson Orent was seventeen and had never held a command. The river commanders met at the Aurin camp, as Samor's law required, and could agree on none of their own number. They agreed on the hostage. Aren Cassar was twenty-six. He had served in every one of their districts and belonged to none of them, and he carried the blood the western veterans still honoured. He stood under the new span of the camp bridge, the Face was unveiled last, and the house Samor had displaced came back to the audience hall in the person of a man Samor had brought up. Tessa Veloran kept the court's correspondence under him as she had under her father, and the two worked together for twenty years.
+Samor died in 229. His grandson Orent was seventeen and had never held a command. The river commanders met at the Aurin camp, as Samor's law required, and could agree on none of their own number. They agreed on the hostage. Aren Soreth was twenty-six. He had served in every one of their districts and belonged to none of them, and he carried the blood the western veterans still honoured. He stood under the new span of the camp bridge, the Face was unveiled last, and the house Samor had displaced came back to the audience hall in the person of a man Samor had brought up. Tessa Veloran kept the court's correspondence under him as she had under her father, and the two worked together for twenty years.
 
 Aren's government built bridges and cisterns, supported survey schools and negotiated agreements setting the obligations of provincial towns. Tessa brought reports of shortages from municipal households into court correspondence. Aren heard governors and town representatives together before confirming assessments.
 
@@ -70,7 +70,7 @@ Later histories called the Veloran period the Peace of the Open Roads. Merchants
 
 ## Further reading
 
-- [[The Year of Four Eagles]]
+- [[The Painted Reign]]
 - [[The Two Roads of Arcelon]]
 - [[The Last Dynasties of the Age of Glory]]
 - [[Schools, Arts and Imperial Magic]]

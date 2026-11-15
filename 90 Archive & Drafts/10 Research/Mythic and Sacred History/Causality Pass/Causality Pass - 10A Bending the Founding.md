@@ -263,7 +263,7 @@ Before "At Caleran every emperor from Meren onwards was confirmed before one acc
 
 > The accession portrait began as one of the painted boards of Thalion's face that his companies carried and swore to during the succession wars, while he refused to take the field in person. It hung in the audience hall from 350.
 
-**[[The Year of Four Eagles]].** After "Each new reign added a new face over the old pose." insert (optional; the article is already consistent):
+**[[The Painted Reign|The Year of Four Eagles]].** After "Each new reign added a new face over the old pose." insert (optional; the article is already consistent):
 
 > The panel had begun as one of the painted boards Thalion's companies carried to war in his place.
 

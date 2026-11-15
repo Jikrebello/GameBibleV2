@@ -84,7 +84,7 @@ No imperial rite creates a god, saint or immortal human continuity. Menhir respo
 ## Further reading
 
 - [[The House of Thalion]]
-- [[The Year of Four Eagles]]
+- [[The Painted Reign]]
 - [[The Last Dynasties of the Age of Glory]]
 - [[Names of the Menhir, Masks of the Idols]]
 - [[The Image, Soul, and Creaturely Continuity]]

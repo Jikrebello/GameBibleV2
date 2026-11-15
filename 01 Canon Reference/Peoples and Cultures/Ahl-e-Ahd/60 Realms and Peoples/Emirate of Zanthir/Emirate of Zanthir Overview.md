@@ -26,7 +26,7 @@ Zanthir's divided tribute is older than Badis, and it follows the emirate's geog
 
 ## People and Faith
 
-The [[The Zanthiri|Zanthiri]] are a mixed frontier people, not simply an occupying caste. Qabir contains Witnessed-Seal schools, the Catholicos of the [[The Velian Church|Velian Church]], Sealed-Blood congregations, Jirahar quarters, Thalmyric exile monasteries, foreign factors, enslaved people, and freed households.
+The [[The Zanthiri|Zanthiri]] are a mixed frontier people, not simply an occupying caste. Qabir contains Witnessed-Seal schools, the Lamp-Father of the [[The Velian Church|Velian Church]], Sealed-Blood congregations, Jirahar quarters, Thalmyric exile monasteries, foreign factors, enslaved people, and freed households.
 
 The ancient Banu Mizan protection compact makes Velian Redeemer-faithful unusually secure by Covenant standards. Their security remains unequal, taxable, and politically revocable.
 

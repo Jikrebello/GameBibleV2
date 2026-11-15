@@ -46,7 +46,7 @@ Sareth returned to Thesra with her children after Avren killed Caleth. She conti
 
 Tarsenna brought Thesran learning and family connections into her joint reign with Ilaron. Her public settlement gave inland teachers an influential place in Caleran, but Thesran houses retained disagreements about the use of their ancestral objects and ceremonies. The city's contribution to Astratheon continued through these arguments.
 
-Thesra held a Compact seat as keeper of festival order. In 606 BR Celor Marath held the approaches below the town against Zamaret Ordan, using its olive terraces and ancestor tombs as breastworks; Thesran house-books count that stand a draw Thesra paid for. Thesra refused the Oar's ship money in 469; under the Chain Peace of 461 it paid in silver and sent no more sons. [[The Gateway Wars]]
+Thesra held a Compact seat as keeper of festival order. In 606 BR Celor Marath held the approaches below the town against Tashqar Ordan, using its olive terraces and ancestor tombs as breastworks; Thesran house-books count that stand a draw Thesra paid for. Thesra refused the Oar's ship money in 469; under the Chain Peace of 461 it paid in silver and sent no more sons. [[The Gateway Wars]]
 
 ## Olveth
 

@@ -57,7 +57,7 @@ A cook could become a commander without the kitchen children becoming free; a ho
 
 The Star Pantheon provided civic ritual and a language of cosmic hierarchy. Imperial cults also standardised the dead ruler's face. Some ceremonies were theatre and some concealed fraud. Temple accounts treated answering portraits as proof that the stars preserved the imperial office; some provincial traditions avoided naming a deceased ruler before his image.
 
-In 247 BR the accession portrait at Caleran answered in the Emperor's voice while no emperor lived, and a magistrate governed through it until soldiers carrying it before them killed hungry demonstrators in its sight. Samor Veloran covered it with a soldier's cloak, and it stayed veiled for the rest of the age. Its copies in governors' courts, town halls and army standards did not. Eastern citizens swore before them, and in famine-struck Raveth debtors who swore before the image gave up their farms with a meekness their neighbours never showed. [[The Year of Four Eagles]] and [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|the Emperor after the Emperor]] follow the portrait and its copies.
+In 247 BR the accession portrait at Caleran answered in the Emperor's voice while no emperor lived, and a magistrate governed through it until soldiers carrying it before them killed hungry demonstrators in its sight. Samor Veloran covered it with a soldier's cloak, and it stayed veiled for the rest of the age. Its copies in governors' courts, town halls and army standards did not. Eastern citizens swore before them, and in famine-struck Raveth debtors who swore before the image gave up their farms with a meekness their neighbours never showed. [[The Painted Reign]] and [[The Atherian Empire – Age of Glory#The Emperor after the Emperor|the Emperor after the Emperor]] follow the portrait and its copies.
 
 The Red Star's priests gained a second duty after an emperor's heir was crushed under an untested hall in 326 BR. Every public work was loaded before the Red Star until its weakest stone cracked, and the official who opened it stood under the arch. Quarrymen killed for refusing to cut "stone for the Star to break" in 274 belong among the age's victims, with the labourers of the Arcelon embankment and the spectators drowned, with the emperor among them, when Velen I's untested festival banks gave way.
 
@@ -76,7 +76,7 @@ Modern Thalmyrics and Eclessians inherited different regions, imperial layers, c
 - [[Legendary Histories]]
 - [[Historical Atlas of the Atherian Age of Glory]]
 - [[The House of Thalion]]
-- [[The Year of Four Eagles]]
+- [[The Painted Reign]]
 - [[The House of Veloran]]
 - [[The Last Dynasties of the Age of Glory]]
 - [[Provinces and Municipal Life in Imperial Atheria]]

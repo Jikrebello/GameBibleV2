@@ -69,7 +69,7 @@ The siege works and destruction cut off access to the burial slope where Isfir h
 
 ## The empty litters
 
-Maruth held his triumph at Caleran the year after the city fell. The sanctuary's carrying-litters went through the streets empty, each behind a painted board showing what the inventory said it had held. The crowd counted the boards and laughed, and a street song about the general who conquered a cupboard outlived him. When the Othran succession failed, the eastern army put Maruth forward, and the ports preferred a supply officer. He never ruled.
+Maruth held his triumph at Caleran the year after the city fell. The sanctuary's carrying-litters went through the streets empty, each behind a painted board showing what the inventory said it had held. The crowd counted the boards and laughed, and a street song about the general who conquered a cupboard outlived him. When the Odrun succession failed, the eastern army put Maruth forward, and the ports preferred a supply officer. He never ruled.
 
 Among the Road Companies there is a hard saying about the two towers: *Shahar sent its children; Qiryath sent its cups.* The Keepers answer that no bench offered Qiryath's children a door. Where the vessels went, no Keeper has ever said. In the towers a thing long expected and not arrived is said to be on the road with the vessels.
 

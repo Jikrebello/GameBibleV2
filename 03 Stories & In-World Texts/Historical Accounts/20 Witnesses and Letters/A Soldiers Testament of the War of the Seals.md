@@ -58,7 +58,7 @@ _“You are the reinforcements.”_
 
 ---
 
-For twenty years after, we held what we could and lost the rest a town at a time. When the **First Crusade** was called, it was done with urgency—not ceremony. There was no grand anointing, no procession of holy relics. Only the order:  
+For twenty years after, we held what we could and lost the rest a town at a time. When the **War of the Seals** was called, it was done with urgency—not ceremony. There was no grand anointing, no procession of holy relics. Only the order:  
 _“All legions west of the Thalassian Spine—march.”_
 
 We burned our own crops so they wouldn’t feed the invaders. We left villages empty, cities hollow, so that we might concentrate what remained. The legions from the east—**good men, faithful men**—were pulled from their posts, their provinces abandoned. I remember meeting a captain from the **eastern provinces**—a boy, really. Seventeen. They’d sent him with a hundred barely-armed recruits.

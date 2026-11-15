@@ -22,7 +22,7 @@ Casvilar belonged to a civic family with old connections in Caleran and too litt
 
 He enjoyed conversation, public occasions and the chance to make an opponent look foolish without raising his voice. His speeches explained what a measure would put on the listener's table before asking anyone to trust the man proposing it. He could forgive a former enemy when forgiveness bought him room to move.
 
-His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Calvena married Marovan Veyr in 389 BR. The match bound a partnership already seven years old and grew into real affection, and for some years Calvena was the one person who could speak privately to both men.
+His sister Lysara managed the family's friendships and debts. Her son Thalion knew Casvilar chiefly as a famous patron and commander. Casvilar's daughter Selvena married Marovan Veyr in 389 BR. The match bound a partnership already seven years old and grew into real affection, and for some years Selvena was the one person who could speak privately to both men.
 
 ## Partnership and conquest
 
@@ -44,7 +44,7 @@ Casvilar's veterans began coming home in 379 BR, and he promised them land. The 
 
 He could give his soldiers land. He could not give them their discharge. While the Field stood open the Warden could not lay down his command, his army could not be released from its oath, and no court could summon him. In 379 Lethren Ostar tried. The supply of captives had ended with the war, and the banker sued for his loans. Casvilar's augurs ruled that a man who summoned a Warden from his field had set himself against it, and they entered Ostar's name as a contestant. Ostar fled to Vorthara. His ledgers were forfeit to the Field, and Casvilar burned the pages that named himself, his officers and several thousand small debtors of the city.
 
-The leaseholding houses demanded that he produce Drenoc or lay down his arms. Early in 377 he offered Calvena a divorce from Veyr. She refused in public, before her father's own clients, and went east with her husband's household. That spring the senate declared the Field at Kellovar void and named another man to the southern command. Casvilar's augurs entered every senator who had sealed the decree as a contestant, with Veyr first among them, and Casvilar marched on Caleran.
+The leaseholding houses demanded that he produce Drenoc or lay down his arms. Early in 377 he offered Selvena a divorce from Veyr. She refused in public, before her father's own clients, and went east with her husband's household. That spring the senate declared the Field at Kellovar void and named another man to the southern command. Casvilar's augurs entered every senator who had sealed the decree as a contestant, with Veyr first among them, and Casvilar marched on Caleran.
 
 ## The civil war
 
@@ -52,7 +52,7 @@ Caleran opened its gates. The senators he had named raised an army in the east f
 
 In 373 Veyr sailed for the gateway kingdom to secure that grain and turned back from a royal table laid with an empty seat, taking sanctuary at Ilamar. Casvilar did not storm the island: the grain certificates that fed his armies were issued by its custodians' court. Veyr died there of fever in 371.
 
-At Sarqen the spared towns rose against the minister Vardek, whose table had been laid to kill a guest. Casvilar needed Esharat's grain and backed the side that already held it, the cause of the young queen Samyra Nerethan. Their son Amesar was born in 372. Samyra's throne rested on her towns as much as on his soldiers. With the gateway grain in Casvilar's hands the eastern army broke up, and its senators came to Caleran for pardon.
+At Sarqen the spared towns rose against the minister Vardek, whose table had been laid to kill a guest. Casvilar needed Esharat's grain and backed the side that already held it, the cause of the young queen Samyra Nerethan. Their son Hadram was born in 372. Samyra's throne rested on her towns as much as on his soldiers. With the gateway grain in Casvilar's hands the eastern army broke up, and its senators came to Caleran for pardon.
 
 ## Rule after the civil war
 
@@ -62,11 +62,11 @@ Meanwhile at Ilamar the senator Arest Corven, who had followed Veyr into sanctua
 
 ## Assassination and inheritance
 
-Any Warden had to receive a challenger in person on the muster ground below the river stores. In 370 BR seven men entered their names in the arms register kept by Deceran Tolm, quartermaster of the muster ground. Mavren Seneth had commanded the river line at Kellovar and had watched Drenoc go into the ford. Corial Draven was a ship-owner ruined when Ostar's ledgers burned. The seventh name belonged to a young man from the river halls, entered as the son of Drenoc of Kellovar.
+Any Warden had to receive a challenger in person on the muster ground below the river stores. In 370 BR seven men entered their names in the arms register kept by Dervan Tolm, quartermaster of the muster ground. Mavren Seneth had commanded the river line at Kellovar and had watched Drenoc go into the ford. Corial Draven was a ship-owner ruined when Ostar's ledgers burned. The seventh name belonged to a young man from the river halls, entered as the son of Drenoc of Kellovar.
 
 Casvilar ordered his augurs to accept it. A Warden who beat his named enemy's son could close the Field before the whole city, and he was sixty-one and had waited thirteen years. Tolm fixed the hour. When Casvilar came down bareheaded to receive the challengers' arms, the seven stabbed him before the contest had been opened. The augurs said the Field had been fouled. Seneth said he had closed it the only way it could be closed.
 
-Casvilar had designated Thalion as his civic heir. Amesar's royal parentage gave him a different claim, grounded in Samyra's country. Neither settled the allegiance of armies, and Darion Velsar commanded loyalties that no testament could transfer. While any of the seven killers lived, no commander dared disband an army, and the hunt for them lasted twenty years. The last of them, Mavren Seneth, was killed in 350 at the spared towns' table in Sarqen by Casvilar's own son.
+Casvilar had designated Thalion as his civic heir. Hadram's royal parentage gave him a different claim, grounded in Samyra's country. Neither settled the allegiance of armies, and Darion Velsar commanded loyalties that no testament could transfer. While any of the seven killers lived, no commander dared disband an army, and the hunt for them lasted twenty years. The last of them, Mavren Seneth, was killed in 350 at the spared towns' table in Sarqen by Casvilar's own son.
 
 Later imperial honours joined Casvilar's victories to Thalion's foundation. Southern communities remembered lost fields, men without hands and the autumn of hunger on the hill at Kellovar.
 

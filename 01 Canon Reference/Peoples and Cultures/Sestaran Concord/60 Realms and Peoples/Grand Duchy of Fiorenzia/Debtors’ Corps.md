@@ -23,7 +23,7 @@ Not every debtor owes the Medori Bank, but Medori offices purchase and administe
 
 ## Law and Abuse
 
-A lawful service instrument states the principal, permitted charges, wage share, term ceiling, dependants' protection, and discharge conditions. Fiorenzian advocates can challenge fraudulent arithmetic. Completed service restores ordinary civil standing, though it does not create Golden Book eligibility.
+A lawful service instrument states the principal, permitted charges, wage share, term ceiling, dependants' protection, and discharge conditions. Fiorenzian advocates can challenge fraudulent arithmetic. Completed service restores ordinary civil standing, though it does not create Roll of Faces eligibility.
 
 The system remains coercive. Creditors steer dangerous work toward people with little bargaining power; commanders add disputed costs; foreign charters weaken oversight; and some debtors discover that injury has generated new obligations. Illegal instruments use pain clauses, hostage terms, or name-binding. These are crimes under Fiorenzian law even when compromised officials conceal them.
 

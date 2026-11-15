@@ -27,8 +27,8 @@ The process is less juridical than Eclessian canonization and no less vulnerable
 
 - **Amaryah the Fire-Bearer:** Mother of refuge memory and the Church's supreme model of faithful custody.
 - **Caedros I the Returning:** founder-emperor glorified after his death at the Pillar; his status remains the central dispute with Eclessia.
-- **Ioan of Velia:** defender of the vessels and theologian of the Uncreated Kindling, the Velian-born potter-monk whose forty *Sayings for the Foot of a Lamp* were stamped on clay lamps at Keramion, under the Breakers' noses, and outlived the Breaking in the rubble.
-- **Theodosia the Kindler:** the emperor's daughter who walked to the Ember with the families whose lamps had died in the crown's lamp-houses, came back with a list of the people killed on the road, and took the last amirate so that the roads could be joined for the Rekindling of 1052. She reigned afterwards, from 1055 to 1076.
+- **Dovrin of Velia:** defender of the vessels and theologian of the Uncreated Kindling, the Velian-born potter-monk whose forty *Sayings for the Foot of a Lamp* were stamped on clay lamps at Keramion, under the Breakers' noses, and outlived the Breaking in the rubble.
+- **Korinna the Kindler:** the emperor's daughter who walked to the Ember with the families whose lamps had died in the crown's lamp-houses, came back with a list of the people killed on the road, and took the last amirate so that the roads could be joined for the Rekindling of 1052. She reigned afterwards, from 1055 to 1076.
 - **Saint Naris of Halmenth:** drowned coast saint whose cult serves sailors and families of the lost.
 - **Saint Gavrin of the Halter:** the bound farrier of the steppe camps, glorified in the 1290s, whose blessing on a dying black colt is held to have renewed the horse-grace.
 - **The Twelve Companions:** shared foundation of the faith, interpreted through Thalmyric patronage and liturgy.

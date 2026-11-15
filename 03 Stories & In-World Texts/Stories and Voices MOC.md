@@ -22,7 +22,7 @@ The existence of each document is canonical at its stated authority level. Its c
 - [[03 Stories & In-World Texts/Historical Accounts/10 Comparative Histories/The Eclessian Account.md|The Eclessian Account]] — a devotional history of the eastern Church and its inheritance.
 - [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Footsoldiers Account of the Retaking of Caleran.md|A Footsoldier's Account]] — a conscript's remembrance of war and return.
 - [[03 Stories & In-World Texts/In-World Texts/The Aquilan Epistles — Selected Passages.md|The Aquilan Epistles]] — selections from a disputed early saintly correspondence.
-- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — a bank factor's maxims on lending to princes, kept on the private shelves of the rulers who ban them.
+- [[03 Stories & In-World Texts/In-World Texts/Of Princes as Borrowers — Selected Maxims.md|Of Princes as Borrowers]] — a bank factor's maxims on lending to princes, kept on the private shelves of the rulers who ban them.
 - [[03 Stories & In-World Texts/Historical Accounts/Reliability Register.md|Reliability Register]] — the authority and limitations of the source collection.
 
 ## Competing histories
@@ -40,7 +40,7 @@ Personal testimony brings great events into the experience of soldiers, landhold
 
 - [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Footsoldiers Account of the Retaking of Caleran.md|A Footsoldier's Account of the Retaking of Caleran]] — a farmer-conscript remembers the march and the cost of restoration.
 - [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Letter from Count Rhael Tovarin of Velos.md|The Letter of Count Rhael Tovarin]] — a disputed defence written by an Atherian count who served the occupying government.
-- [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Soldiers Testament of the First Crusade.md|A Soldier's Testament of the First Crusade]] — an exiled commander recalls the collapse of a provincial defence.
+- [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/A Soldiers Testament of the War of the Seals.md|A Soldier's Testament of the War of the Seals]] — an exiled commander recalls the collapse of a provincial defence.
 - [[03 Stories & In-World Texts/Historical Accounts/20 Witnesses and Letters/The Confession of Sir Renwalt of Dornheim.md|The Confession of Sir Renwalt]] — a knight's account of battle, loss and religious warfare.
 
 ## Sermons and sacred testimony
@@ -50,14 +50,14 @@ Sacred speech interprets political action through providence, judgement and inhe
 - [[03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/A sermon of Aqid Qalim ibn Haraz.md|The Broken Contract and the Sword of the Faithful]] — a Covenant sermon delivered on the eve of an Unsealing.
 - [[03 Stories & In-World Texts/Historical Accounts/30 Sermons and Sacred Testimony/Caedros and the Birth of Thalmyria.md|Caedros and the Birth of Thalmyria]] — a monastic foundation narrative written under imperial patronage.
 - [[03 Stories & In-World Texts/In-World Texts/The Aquilan Epistles — Selected Passages.md|The Aquilan Epistles]] — passages attributed to Saint Aquilan, preserved in rival collections and annotations.
-- [[03 Stories & In-World Texts/In-World Texts/The Hundred Grievances — Selections.md|The Hundred Grievances]] — Frater Ansgar's psalter margins on the sale of routing assurances, read over the Blackwater drowned.
+- [[03 Stories & In-World Texts/In-World Texts/The Brenholt Margins — Selections.md|The Brenholt Margins]] — Frater Ansgar's psalter margins on the sale of routing assurances, read over the Blackwater drowned.
 
 ## Laws, safe-conducts and political counsel
 
 Some texts acquired significance through the uses made of them. A safe-conduct can become a memorial of betrayal; a banned handbook can circulate among the rulers who denounce it.
 
-- [[03 Stories & In-World Texts/In-World Texts/The Bir Qassim Safe-Conduct — Annotated.md|The Bir Qassim Safe-Conduct]] — the instrument under which Husan ibn Raiq and his household travelled to arbitration, with rival traditions of annotation.
-- [[03 Stories & In-World Texts/In-World Texts/The Mirror for Sovereigns — Selected Maxims.md|The Mirror for Sovereigns]] — Nicanor Vetti's maxims for lenders on reading a sovereign.
+- [[03 Stories & In-World Texts/In-World Texts/The Bir Qassim Safe-Conduct — Annotated.md|The Bir Qassim Safe-Conduct]] — the instrument under which Hilal ibn Raiq and his household travelled to arbitration, with rival traditions of annotation.
+- [[03 Stories & In-World Texts/In-World Texts/Of Princes as Borrowers — Selected Maxims.md|Of Princes as Borrowers]] — Taddeo Vetti's maxims for lenders on reading a sovereign.
 
 ## Travellers' guides
 

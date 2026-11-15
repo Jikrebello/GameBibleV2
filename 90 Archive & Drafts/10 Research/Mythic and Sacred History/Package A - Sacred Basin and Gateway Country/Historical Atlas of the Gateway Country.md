@@ -40,7 +40,7 @@ The association survived because it offered real advantages: safer shipping, sha
 
 ## The Republic, c. 1050–650 BR
 
-By about 1050 BR, Qarzeth possessed the institutions later called the Gateway Republic. Two **Harbour Judges** conducted public business for fixed terms. The **Council of Houses** gathered established land, shipping and cult patrons. An assembly of recognised citizens voted upon war, taxation and selected appointments. Commanders held separate commissions and could build personal followings through pay, booty and client relationships.
+By about 1050 BR, Qarzeth possessed the institutions later called the Gateway Republic. Two **Quay Elders** conducted public business for fixed terms. The **Council of Houses** gathered established land, shipping and cult patrons. An assembly of recognised citizens voted upon war, taxation and selected appointments. Commanders held separate commissions and could build personal followings through pay, booty and client relationships.
 
 The government rewarded argument, calculation and public display. Election feasts, boat races and household patronage formed part of political life. Successful captains hung broken oars or captured prows outside their homes. Satirical singers compared ambitious judges to gulls fighting over a fish while the tide carried the boat away.
 
@@ -60,9 +60,9 @@ The Provider was a dependent Gluttony Mask whose local presence fed upon the civ
 
 The war began at Tammur after a quarrel between its Gateway garrison and local households. One faction expelled the garrison and appealed to an Atherian port; another asked Qarzeth to restore the old arrangement. Both republics sent forces in the language of protection.
 
-Harbour Judge **Qelmar Suthar** organised Qarzeth's response. He expected a short expedition supported by established dues. Caleran's **Aster Vey**, a senator from a ship-financing family, assembled hulls from several Atherian cities and imposed new service on allied ports. Neither side possessed enough experienced crews at the outset. Storms, disease and wrecks killed heavily while carpenters and rowers learned through failure.
+Quay Elder **Qedran Suthar** organised Qarzeth's response. He expected a short expedition supported by established dues. Caleran's **Aster Vey**, a senator from a ship-financing family, assembled hulls from several Atherian cities and imposed new service on allied ports. Neither side possessed enough experienced crews at the outset. Storms, disease and wrecks killed heavily while carpenters and rowers learned through failure.
 
-The conflict spread from Tammur to anchorages, supply fields and the approaches to Qarzeth. Gateway raiders burned Atherian stores. Caleran seized island harbours and sold captives. Qelmar delayed one payment to dependent troops in order to repair the fleet, beginning the grievance that later consumed the Republic.
+The conflict spread from Tammur to anchorages, supply fields and the approaches to Qarzeth. Gateway raiders burned Atherian stores. Caleran seized island harbours and sold captives. Qedran delayed one payment to dependent troops in order to repair the fleet, beginning the grievance that later consumed the Republic.
 
 Caleran won after a Gateway relief fleet broke apart in a storm and Atherian squadrons blocked the surviving ships from Qarzeth. The settlement stripped the Republic of Tammur, restricted its fleet and imposed a large payment. Aster returned to public honours. Allied Atherian towns inherited ship levies and debts which the victory did not discharge.
 
@@ -72,29 +72,29 @@ Qarzeth summoned its returning army to the **Rope Camp** outside the city and of
 
 Council rivals disrupted negotiations and seized a rebel delegation. Damen's followers tortured captured officials and killed men who urged compromise. Government commanders cut food to the camp and executed prisoners along the road. Yasra tried to protect the rural coalition from the soldiers' reprisals; she later authorised the killing of loyalist households accused of hiding grain.
 
-**Meleq Ordan**, a commander from a modest Qarzeth shipping house, restored the government through alternating truce and betrayal. He secured cavalry and grain from **King Harzun of Hadrath**, an inland border kingdom, and married Harzun's daughter **Sapha**. Meleq separated several local contingents with payment, trapped Damen's remaining army and starved the Rope Camp. Damen was killed. Yasra was captured and executed after refusing to identify Belqara families which had supported her.
+**Teshun Ordan**, a commander from a modest Qarzeth shipping house, restored the government through alternating truce and betrayal. He secured cavalry and grain from **King Harzun of Hadrath**, an inland border kingdom, and married Harzun's daughter **Sapha**. Teshun separated several local contingents with payment, trapped Damen's remaining army and starved the Rope Camp. Damen was killed. Yasra was captured and executed after refusing to identify Belqara families which had supported her.
 
-The revolt left farms burned, prisoners mutilated and dependants sold by both sides. Meleq also cancelled part of Belqara's arrears and rebuilt its water stores because Qarzeth required the next harvest. His victory made the Ordan household indispensable and gave Hadrath land and marriage claims along the inland border.
+The revolt left farms burned, prisoners mutilated and dependants sold by both sides. Teshun also cancelled part of Belqara's arrears and rebuilt its water stores because Qarzeth required the next harvest. His victory made the Ordan household indispensable and gave Hadrath land and marriage claims along the inland border.
 
 ## Oresh and the Ordan commanders, c. 619–600 BR
 
-The Council sent Meleq to Oresh with authority to obtain revenue, secure metals and recruit troops. He negotiated with local rulers, conquered resistant districts and settled veterans near the principal harbour. Oresh prospered under protected shipping while losing land and political freedom.
+The Council sent Teshun to Oresh with authority to obtain revenue, secure metals and recruit troops. He negotiated with local rulers, conquered resistant districts and settled veterans near the principal harbour. Oresh prospered under protected shipping while losing land and political freedom.
 
-Meleq and Sapha raised their children between Qarzeth, Hadrath and Oresh. Their daughter **Zamaret Ordan** learned the languages used among their troops and suppliers. She inherited command after the deaths of two brothers and won the Council's approval by delivering revenue when other commanders failed.
+Teshun and Sapha raised their children between Qarzeth, Hadrath and Oresh. Their daughter **Tashqar Ordan** learned the languages used among their troops and suppliers. She inherited command after the deaths of two brothers and won the Council's approval by delivering revenue when other commanders failed.
 
-The Ordan following contained Qarzeth citizens, Hadrathi riders, Oreshi infantry, paid companies, subject levies and allied contingents. Their obligations differed. Zamaret could promise release from Caleran dues to Atherian allies; she could not assume that every soldier wanted Qarzeth to rule the resulting country.
+The Ordan following contained Qarzeth citizens, Hadrathi riders, Oreshi infantry, paid companies, subject levies and allied contingents. Their obligations differed. Tashqar could promise release from Caleran dues to Atherian allies; she could not assume that every soldier wanted Qarzeth to rule the resulting country.
 
 ## The alliance-breaking invasion, c. 600–580 BR
 
-Zamaret's war aimed to dissolve Caleran's alliance system. Her army crossed the upland approaches from an allied landing, carrying grain by ship and pack animal until it could use successive harvests. She offered lighter obligations to towns willing to defect and returned captured local leaders who accepted her terms.
+Tashqar's war aimed to dissolve Caleran's alliance system. Her army crossed the upland approaches from an allied landing, carrying grain by ship and pack animal until it could use successive harvests. She offered lighter obligations to towns willing to defect and returned captured local leaders who accepted her terms.
 
-The invasion destroyed several Atherian armies. At the **Red Fords**, Zamaret drew a larger force into broken ground and cut its retreat to water. Prisoners were ransomed, recruited or sold. Communities which resisted lost stores and inhabitants. Several allies abandoned Caleran; others feared their local rivals or distrusted promises dependent upon a distant victory.
+The invasion destroyed several Atherian armies. At the **Red Fords**, Tashqar drew a larger force into broken ground and cut its retreat to water. Prisoners were ransomed, recruited or sold. Communities which resisted lost stores and inhabitants. Several allies abandoned Caleran; others feared their local rivals or distrusted promises dependent upon a distant victory.
 
-The Atherian commander **Celor Marath** refused the decisive battle his opponents demanded. He protected the core army, burned forage ahead of Zamaret and allowed exposed allied districts to suffer. His strategy preserved Caleran and ruined households whose protection had justified the alliance.
+The Atherian commander **Celor Marath** refused the decisive battle his opponents demanded. He protected the core army, burned forage ahead of Tashqar and allowed exposed allied districts to suffer. His strategy preserved Caleran and ruined households whose protection had justified the alliance.
 
-Meanwhile **Dema Varin** attacked Oresh. She took local allies, exploited resentment against Ordan settlements and cut the revenue sustaining Zamaret's army. A Caleran expedition then crossed to the Gateway homeland with support from Hadrath's new king, who sought territory promised to his mother Sapha's rivals. Zamaret returned too late to prevent defeat.
+Meanwhile **Dema Varin** attacked Oresh. She took local allies, exploited resentment against Ordan settlements and cut the revenue sustaining Tashqar's army. A Caleran expedition then crossed to the Gateway homeland with support from Hadrath's new king, who sought territory promised to his mother Sapha's rivals. Tashqar returned too late to prevent defeat.
 
-The peace restricted Qarzeth's fleet and foreign campaigns. Zamaret later became a Harbour Judge and attacked the use of public credit by a small group of houses. Her reforms recovered money and created powerful enemies. She died in exile at an eastern court around 566 BR, refusing a Caleran demand for surrender.
+The peace restricted Qarzeth's fleet and foreign campaigns. Tashqar later became a Quay Elder and attacked the use of public credit by a small group of houses. Her reforms recovered money and created powerful enemies. She died in exile at an eastern court around 566 BR, refusing a Caleran demand for surrender.
 
 ## Recovery and the child collections, c. 580–525 BR
 
@@ -124,7 +124,7 @@ The Gluttony Mask lost its sanctuary, public offerings and civic protection. Its
 
 Esharat, Sarqen, Belqara and several minor ports survived. Their reasons differed. Some had opposed the collections, some surrendered early and some supplied the besiegers. Caleran also needed their grain and harbours. Survival brought garrisons, reparations and confiscations rather than freedom from all consequence.
 
-Refugees returned to occupied houses. Freed captives discovered that their fields had new owners. Former Qarzeth officials lived beside families whose children they had failed to protect. Harbour Judges in two towns retained municipal duties, while the old Council of Houses ceased to govern the country.
+Refugees returned to occupied houses. Freed captives discovered that their fields had new owners. Former Qarzeth officials lived beside families whose children they had failed to protect. Quay Elders in two towns retained municipal duties, while the old Council of Houses ceased to govern the country.
 
 An alliance of spared towns managed food, refugees and damaged routes under Atherian supervision. Sarqen grew because its harbour could be enlarged without rebuilding Qarzeth. Esharat supplied cultivated produce and carrying families. The old capital remained a salted ruin whose stones were prohibited in public buildings.
 
@@ -151,8 +151,8 @@ Samyra's independent rule ended with Thalion's conquest in 350 BR. Sarqen surviv
 | c. 1050–650 BR | mature Gateway Republic and overseas expansion |
 | c. 650–625 BR | First Gateway War |
 | c. 625–619 BR | Rope Camp payment and subject revolt |
-| c. 619–600 BR | Meleq Ordan's Oresh command |
-| c. 600–580 BR | Zamaret Ordan's alliance-breaking invasion |
+| c. 619–600 BR | Teshun Ordan's Oresh command |
+| c. 600–580 BR | Tashqar Ordan's alliance-breaking invasion |
 | c. 580–525 BR | recovery, Hadrathi encroachment and intensified child collections |
 | c. 525–520 BR | final war, sack and salting of Qarzeth |
 | c. 520–457 BR | alliance of spared towns and growth of Sarqen |

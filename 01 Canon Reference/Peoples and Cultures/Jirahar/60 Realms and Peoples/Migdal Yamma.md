@@ -37,7 +37,7 @@ The gate lies above the tide chambers. It cannot connect to ships at sea. Fleet 
 
 ## Present Conflict
 
-Halmenth wants naval inspection rights in the lower docks, while fleet captains fear that one foreign search will become permanent control. The quarrel is older than any charter: in 411 the fleet captains refused the regency's officers a search of these docks for Bishop Nasriel, whom Halmenth's own ferrymen had rowed out to them.
+Halmenth wants naval inspection rights in the lower docks, while fleet captains fear that one foreign search will become permanent control. The quarrel is older than any charter: in 411 the fleet captains refused the regency's officers a search of these docks for Bishop Qedrel, whom Halmenth's own ferrymen had rowed out to them.
 
 ## Navigation
 

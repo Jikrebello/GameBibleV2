@@ -18,7 +18,7 @@ The Velian States are a belt of cities, river districts, estates, churches, fort
 
 ## People and Formation
 
-The [[Velian Culture Overview|Velians]] are an Atherian-descended people whose institutions developed through the Velian Church, municipal law, Covenant protection compacts, translation houses, water courts, and six centuries of mixed rule. Later Qahirid governments hardened tribute, garrisons, bondage, and name custody without erasing local institutions.
+The [[Velian Culture Overview|Velians]] are an Atherian-descended people whose institutions developed through the Velian Church, municipal law, Covenant protection compacts, charter-houses, water courts, and six centuries of mixed rule. Later Qahirid governments hardened tribute, garrisons, bondage, and name custody without erasing local institutions.
 
 ## Rule
 

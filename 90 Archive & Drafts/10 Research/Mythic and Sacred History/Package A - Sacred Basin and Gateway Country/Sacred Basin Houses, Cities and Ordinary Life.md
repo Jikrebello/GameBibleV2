@@ -38,9 +38,9 @@ Sakhret guarded the southern narrows, quarry approaches and roads towards pastur
 
 Sakhret festivals included wrestling, boat-hauling contests and an evening meal for returning quarry crews. Royal accounts celebrated the stone they brought home; household songs more often remember crushed hands, jokes played on overseers and the names of companions who died on the road.
 
-### Aseret
+### Meheret
 
-Aseret began as a garrison and craft settlement. Ithren III made it the capital of the Single Radiance and diverted labour and temple property towards its ceremonial way. After his dynasty fell, the great sanctuary was dismantled. Workshops, houses and a military post continued around the abandoned foundations.
+Meheret began as a garrison and craft settlement. Hesren III made it the capital of the Single Radiance and diverted labour and temple property towards its ceremonial way. After his dynasty fell, the great sanctuary was dismantled. Workshops, houses and a military post continued around the abandoned foundations.
 
 ### Isethar
 
@@ -131,7 +131,7 @@ Aramen grew up among the court he later overthrew. He used its friendships to op
 
 ### Nehara of the Blue Hands
 
-Nehara erased images for Ithren III and eventually concealed a small group she had been ordered to destroy. Later praise made this final refusal the whole of her life. Her story retains the years of obedience, the workers she protected and the dead whose images she did not save.
+Nehara erased images for Hesren III and eventually concealed a small group she had been ordered to destroy. Later praise made this final refusal the whole of her life. Her story retains the years of obedience, the workers she protected and the dead whose images she did not save.
 
 ### Lemara, Tazirun and Hesara
 

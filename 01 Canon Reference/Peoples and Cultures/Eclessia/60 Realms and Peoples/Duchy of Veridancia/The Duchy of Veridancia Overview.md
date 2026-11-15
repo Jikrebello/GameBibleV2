@@ -29,7 +29,7 @@ The plague emptied vineyard villages and shattered parish titles. Surviving work
 
 ## Reformation and Accord
 
-Veridancian scholars circulated Ansgar's arguments even while condemning revolt, and the reformers' own order, *The Order of the Open Flame*, was written at the university of Veridance about 1313 by the Sanctum canonist Lucian Ferro as the first half of a refutation he never finished. The Council of Veridance, 1319-1324, sat in the guild-hall at Veridance with Ferro as its unvoting witness; it abolished assurances, codified relic tests, rebuilt seminaries, and chartered the Order of the Lantern from the night-singers of Saint-Leon, whose dead priest Ivo had been Ferro's student. Ferro died at Veridance in 1339 and lies in the university's own yard. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
+Veridancian scholars circulated Ansgar's arguments even while condemning revolt, and the reformers' own order, *The Order of the Open Flame*, was written at the university of Veridance about 1313 by the Sanctum canonist Lucian Ferro as the first half of a refutation he never finished. The Council of Veridance, 1319-1324, sat in the guild-hall at Veridance with Ferro as its unvoting witness; it abolished assurances, codified relic tests, rebuilt seminaries, and chartered the Order of the Lantern from the night-singers of Saint-Leon, whose dead priest Anselin had been Ferro's student. Ferro died at Veridance in 1339 and lies in the university's own yard. The Accord fixes the duchy as old-Church territory but cannot prevent its presses from supplying every side.
 
 ## Government and Faith
 

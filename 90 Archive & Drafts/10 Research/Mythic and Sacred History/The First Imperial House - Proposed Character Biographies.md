@@ -14,7 +14,7 @@ tags: [research, author-only, imperial-expansion, biography, first-imperial-hous
 ---
 # The First Imperial House Proposed Character Biographies
 
-Thalion and his first three successors governed Atheria from 350 to 247 BR. The structural proposal of this page is simple: good government and the southern occupation built the stores, roads, fleets and paid commands that later funded the Four Eagles. By 247 several men could assemble the money, transport and soldiers needed to claim an empire. Canon facts are in [[The House of Thalion]], [[The Later Reign of Aurelius Thalion]] and [[Age of Glory - Authorial History and Integration Review]]; [[The First Imperial House - Sources and Development Review|the development review]] lists what here is proposal.
+Thalion and his first three successors governed Atheria from 350 to 247 BR. The structural proposal of this page is simple: good government and the southern occupation built the stores, roads, fleets and paid commands that later funded the Painted Reign. By 247 several men could assemble the money, transport and soldiers needed to claim an empire. Canon facts are in [[The House of Thalion]], [[The Later Reign of Aurelius Thalion]] and [[Age of Glory - Authorial History and Integration Review]]; [[The First Imperial House - Sources and Development Review|the development review]] lists what here is proposal.
 
 > [!important] Proposed history for author review
 > Cut to one page on 14 November 2026 under Causality Pass 03. Private characterisation and most new names were removed. Narrative confidence here does not promote an addition to canon.
@@ -31,11 +31,11 @@ Meren extended government across additional southern districts through local all
 
 **The Ossen failure, c. 305 BR.** An attempt to compel the Ossen route communities to provide passage beyond their agreements failed when guides withdrew and thaw broke the raised paths. The column exhausted its dry fuel and fodder, killed transport animals for food and withdrew with the wounded the boats could carry. Prisoners came back by exchange; people seized and sold by imperial auxiliaries mostly did not. Thereafter campaigns stayed on routes that could feed a garrison, and the slower advances of c. 303–296 BR turned garrisoned towns into assessed districts.
 
-## Valeran I and Cassara, 286–263 BR
+## Varelan I and Cassara, 286–263 BR
 
-Valeran, a harbour officer adopted as Meren's heir, and Cassara, Meren's daughter, who knew where the Aurin accounts showed shortages first, spent c. 285–276 BR joining the districts Meren had taken: raised approaches, bridges, granaries and river landings that let garrisons stay supplied through winter. Dovren shipping households sold carriage and repair on terms they could enforce at their own ports and refused to let harbour obligations spread to neighbouring farms.
+Varelan, a harbour officer adopted as Meren's heir, and Cassara, Meren's daughter, who knew where the Aurin accounts showed shortages first, spent c. 285–276 BR joining the districts Meren had taken: raised approaches, bridges, granaries and river landings that let garrisons stay supplied through winter. Dovren shipping households sold carriage and repair on terms they could enforce at their own ports and refused to let harbour obligations spread to neighbouring farms.
 
-Every new work carried the Star's share, and the quarries could not cut the extra stone in the working season. The strike of 274 BR over "stone for the Star to break" was put down by troops. Cassara pressed for the removal of two managers; Valeran dismissed them, kept the labour assessment and kept the test. Cassara's own judgement was that the works served towns whose water could not wait. Her death date is left open; she may have outlived Valeran.
+Every new work carried the Star's share, and the quarries could not cut the extra stone in the working season. The strike of 274 BR over "stone for the Star to break" was put down by troops. Cassara pressed for the removal of two managers; Varelan dismissed them, kept the labour assessment and kept the test. Cassara's own judgement was that the works served towns whose water could not wait. Her death date is left open; she may have outlived Varelan.
 
 ## Olarion, 263–247 BR
 
@@ -48,7 +48,7 @@ By 247 the inherited southern frontier had become governed districts with cultiv
 ## Related reading
 
 - [[Aurelius Thalion]] and [[The Later Reign of Aurelius Thalion]]
-- [[The House of Thalion]] and [[The Year of Four Eagles]]
+- [[The House of Thalion]] and [[The Painted Reign]]
 - [[The Folk before Atheria]] and [[Historical Atlas of the Southern Cold World]]
 - [[350 BR to 0 AR - Three Imperial Expansion Routes]]
 - [[The First Imperial House - Sources and Development Review]]

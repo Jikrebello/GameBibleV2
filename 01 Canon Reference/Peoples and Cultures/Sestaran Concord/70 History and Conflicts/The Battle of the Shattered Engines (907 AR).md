@@ -3,7 +3,7 @@ type: event
 status: canon
 canon_level: core
 visibility: public
-era: ["907 AR", "Third Crusade"]
+era: ["907 AR", "Stand at Crown Gate"]
 region: ["Vortharan Range", "Caldria", "Crown Gate Pass"]
 culture: ["Vortharan", "Eclessian", "Ahl-e-Ahd"]
 related_factions: ["Citadel of Vorthara", "Duchy of Caldria", "Qahirid Armies"]

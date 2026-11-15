@@ -22,7 +22,7 @@ Kelarion was an early Atherian harbor on the eastern Thalassian coast, south of 
 - flooded warehouses, council chambers, and rescue stairs occupy different depths after collapse;
 - the sealed chamber beneath the breakwaters is not a lair in the biological sense but the bounded wound of [[The Shoreless King]].
 
-Velathene's pilots learned the keepers' Roll; it became the refuge custom of the League of the Eastern Oar (497 BR). In the gale of 466, pilots steering for the refuge fire survived Pyrassa's closed harbour. In 493 Velathene's wardens admitted Xarun's deserting crews under the same Roll.
+Velanthe's pilots learned the keepers' Roll; it became the refuge custom of the League of the Eastern Oar (497 BR). In the gale of 466, pilots steering for the refuge fire survived Pyrassa's closed harbour. In 493 Velanthe's wardens admitted Kazren's deserting crews under the same Roll.
 
 The site remains absent from the public Gazetteer. Coastal stories preserve several names for the drowned harbor without identifying its exact reef.
 

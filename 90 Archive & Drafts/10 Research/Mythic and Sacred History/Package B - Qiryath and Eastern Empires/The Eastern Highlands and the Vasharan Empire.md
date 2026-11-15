@@ -49,7 +49,7 @@ The Arqeshite succession war beginning around 706 BR gave Arezan an opportunity 
 
 Arezan presented the coalition as a restoration of roads and truthful rule. Its members pursued different aims. Nemeru wanted freedom from Arqeshite tax officers. Tarkhan leaders wanted animals, pasture and the destruction of remount stations. Qahuri crowns wanted their eastern approaches returned. Vashari houses sought land, office and vengeance.
 
-The western invasion of **Eryndor III of Ortheia** changed the scale of the war. Eryndor had inherited an Atherian-speaking upland kingdom and a hegemony imposed upon several city leagues. After crossing the eastern sea in 702 BR, he defeated Arqeshite coastal armies and took the fortified harbour of Terys. He entered divided Qahur in 695 BR, where rival crowns supplied his army and sought his recognition.
+The western invasion of **Eryndor III of Ortheia** changed the scale of the war. Eryndor had inherited an Atherian-speaking upland kingdom and a hegemony imposed upon several city leagues. After crossing the eastern sea in 702 BR, he defeated Arqeshite coastal armies and took the fortified harbour of Belyra. He entered divided Qahur in 695 BR, where rival crowns supplied his army and sought his recognition.
 
 Arezan and Eryndor met in 694 BR. They agreed to destroy House Ubar while retaining separate commands. Arezan controlled the highland roads, provincial alliances and eastern approaches; Eryndor brought the larger siege army, fleet and treasury. The agreement was reinforced when Eryndor married **Parena Tiravan**, the adult daughter of Mithara. The marriage gave Eryndor a place within the Tiravan household and gave Arezan influence at the western king's court. Parena accompanied the royal household east and became an intermediary for Vashari officers, Ortheian commanders and Arqeshite families seeking terms.
 
@@ -73,17 +73,17 @@ The **Wars of the Inheritance**, fought from 684 to about 650 BR, divided Eryndo
 
 Demeran eventually imprisoned Parena and her child and ordered their deaths. Vasharan accounts treated the killings as proof of western treachery; Ortheian histories blamed Arezan for withholding the forces that might have rescued them. Mithara preserved Parena's attendants and arranged marriages for two surviving members of her household. Their descendants carried rival accounts of Eryndor's final days into Vashari and maritime courts.
 
-## Daryav I and imperial organisation, 671–625 BR
+## Tavrad I and imperial organisation, 671–625 BR
 
-Arezan's eldest surviving son, **Daryav I Tiravan**, inherited a coalition held together by his father's relationships. Several provinces revolted at the succession. Daryav defeated the largest rising at Nemeru, executed its military leaders and deported neighbourhoods associated with the river fleet. He pardoned officials who delivered stores before the siege.
+Arezan's eldest surviving son, **Tavrad I Tiravan**, inherited a coalition held together by his father's relationships. Several provinces revolted at the succession. Tavrad defeated the largest rising at Nemeru, executed its military leaders and deported neighbourhoods associated with the river fleet. He pardoned officials who delivered stores before the siege.
 
-After victory, Daryav divided the empire into **road commands**, each governed from a fortified city on a principal route. A road commander collected tribute, raised soldiers, supplied relay stations and guarded the royal family against provincial revolt. Village assemblies, city councils and subject rulers continued to govern local affairs beneath him. The crown appointed the commanders, usually from House Tiravan or the families that had supported Arezan.
+After victory, Tavrad divided the empire into **road commands**, each governed from a fortified city on a principal route. A road commander collected tribute, raised soldiers, supplied relay stations and guarded the royal family against provincial revolt. Village assemblies, city councils and subject rulers continued to govern local affairs beneath him. The crown appointed the commanders, usually from House Tiravan or the families that had supported Arezan.
 
 The **Dawn Road** connected Kavresh, Daryam, Durqesh, Arqesh and the western coast. Relay stations maintained horses, food, sleeping rooms and repair yards. Messengers could cross the core rapidly; merchants travelled more slowly and paid at bridges and stations. The road brought markets and news to some towns while exposing them to tax collectors and requisition.
 
-Daryav funded the rebuilding of Qiryath and confirmed its sanctuary estate. In return, road houses supplied interpreters, maintained selected stations and carried recognised correspondence. The king's officials also used Jirahar household knowledge to assess communities that had previously escaped provincial counting.
+Tavrad funded the rebuilding of Qiryath and confirmed its sanctuary estate. In return, road houses supplied interpreters, maintained selected stations and carried recognised correspondence. The king's officials also used Jirahar household knowledge to assess communities that had previously escaped provincial counting.
 
-At Kavresh, Daryav began a ceremonial terrace where delegations carried soil, tools, textiles, animals and vessels representing their provinces. The art described the empire as willing cooperation around the king. Tribute records, garrison letters and accounts of suppression reveal the force behind that procession.
+At Kavresh, Tavrad began a ceremonial terrace where delegations carried soil, tools, textiles, animals and vessels representing their provinces. The art described the empire as willing cooperation around the king. Tribute records, garrison letters and accounts of suppression reveal the force behind that procession.
 
 ## Religion and royal legitimacy
 
@@ -91,15 +91,15 @@ Vasharan kings adopted the language of Right Order and tended light. A royal fla
 
 Three traditions later claimed that a sacred flame had accompanied Arezan's conquest. Daryam remembered a household lamp carried on a mule. An Arqeshite relief showed a royal brazier taken from Kassur's palace. Qiryath remembered a lamp lit when the return decree was read. Later writers fused these separate objects into one travelling relic called the **Threefold Fire**.
 
-The three fires were ordinary lamps and braziers with separate histories. During Daryav's reign, an Idol Mask began to imitate the radiance of the royal ceremony. It appeared in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn**. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
+The three fires were ordinary lamps and braziers with separate histories. During Tavrad's reign, an Idol Mask began to imitate the radiance of the royal ceremony. It appeared in mirrors, polished armour and dreams of a king surrounded by kneeling nations. Court diviners called it the **Witness of Dawn**. Its visions encouraged rulers to treat obedience as proof that their subjects recognised the truth.
 
-Some priests resisted. **Mazhara of Daryam**, active under Daryav, taught that a king's lie remained a lie when carved in three languages. After she condemned the killing of surrendered rebels, the crown confiscated her family's orchards and sold their bonded workers. Mazhara remained alive and continued teaching in another household. Court histories later cited her survival as proof of royal tolerance and omitted the punishment inflicted upon her workers.
+Some priests resisted. **Mazhara of Daryam**, active under Tavrad, taught that a king's lie remained a lie when carved in three languages. After she condemned the killing of surrendered rebels, the crown confiscated her family's orchards and sold their bonded workers. Mazhara remained alive and continued teaching in another household. Court histories later cited her survival as proof of royal tolerance and omitted the punishment inflicted upon her workers.
 
 Highland springs and passes sometimes answered through established Menhir relationships or the actions of individual court persons. The songs of the White-Haired Fosterling describe an enormous bird, although they disagree about its home and purpose. Its identity as a court person, a Patron visitor or a poetic addition remains unknown.
 
 ## Kavran I and the western road, 625–584 BR
 
-**Kavran I Tiravan**, Daryav's grandson, inherited a stable core and a contentious western coast. The coast contained mixed cities whose inhabitants spoke local, Vashari, Arqeshite and Atherian languages. Their ships connected the empire to the inner sea. Royal governors supported friendly rulers and demanded ships, taxes and soldiers.
+**Kavran I Tiravan**, Tavrad's grandson, inherited a stable core and a contentious western coast. The coast contained mixed cities whose inhabitants spoke local, Vashari, Arqeshite and Atherian languages. Their ships connected the empire to the inner sea. Royal governors supported friendly rulers and demanded ships, taxes and soldiers.
 
 Kavran concentrated upon the road between Arqesh, Qahur and the coastal commands. He replaced two rebellious governors, established permanent grain stations west of the Ubar and sent royal surveyors into districts whose customary pasture and canal rights were poorly understood at Kavresh. Resistance followed. Villages concealed stores, herders drove animals beyond the stations and one canal district drowned a tax camp by cutting its own embankment.
 
@@ -115,21 +115,21 @@ She also confirmed Qiryath's internal courts after a governor attempted to appoi
 
 Mithara's treaties, tax agreements and marriages reduced the number of provinces that had to be held by a royal army. Provincial families entered the royal service, while Vashari officials married Arqeshite, coastal and Qahuri houses. Children of these unions governed cities and estates, although the oldest families at Kavresh continued to treat many of them as social inferiors.
 
-## Xarun I and the eastern sea wars, 536–486 BR
+## Kazren I and the eastern sea wars, 536–486 BR
 
-**Xarun I Tiravan** inherited when the destruction of Qarzeth had released Caleran ships and commanders from the western Gateway struggle. The city of **Tasar** became the centre of revolt after Governor **Mazdan Aresh** intervened in the choice of a new harbour magistrate and increased the city's naval service. The magistrate **Liora of Tasar** sought aid from Atherian leagues in 514 BR. Atherian ships helped the rebels capture the lower city of **Avesh**, the western road-command capital, and burn its storehouses.
+**Kazren I Tiravan** inherited when the destruction of Qarzeth had released Caleran ships and commanders from the western Gateway struggle. The city of **Tasar** became the centre of revolt after Governor **Mazdan Aresh** intervened in the choice of a new harbour magistrate and increased the city's naval service. The magistrate **Liora of Tasar** sought aid from Atherian leagues in 514 BR. Atherian ships helped the rebels capture the lower city of **Avesh**, the western road-command capital, and burn its storehouses.
 
-Vasharan forces recovered the coast by 508 BR. Tasar's walls were breached; leaders were executed; inhabitants were deported or enslaved. The city survived and supplied ships again within a generation. Xarun concluded that Atherian leagues would continue encouraging revolt while the coastal marches remained contested.
+Vasharan forces recovered the coast by 508 BR. Tasar's walls were breached; leaders were executed; inhabitants were deported or enslaved. The city survived and supplied ships again within a generation. Kazren concluded that Atherian leagues would continue encouraging revolt while the coastal marches remained contested.
 
 A first punitive expedition in 503 BR failed after poor reconnaissance and a storm separated its supply ships. A second, much larger invasion began in 497 BR. Subject fleets, coastal allies and road-command armies advanced by several routes. They won battles, burned resistant settlements and compelled neutral cities to choose sides.
 
-The invasion failed to establish permanent rule over the principal Atherian leagues. Naval defeat in the **Narrows of Ilyessa** in 493 BR cut the army from regular sea supply. Atherian and allied forces held the crossings while disease and shortage spread through Xarun's camps. The king withdrew the main army in 491 BR, leaving garrisons and clients along the eastern coast.
+The invasion failed to establish permanent rule over the principal Atherian leagues. Naval defeat in the **Narrows of Ilyessa** in 493 BR cut the army from regular sea supply. Atherian and allied forces held the crossings while disease and shortage spread through Kazren's camps. The king withdrew the main army in 491 BR, leaving garrisons and clients along the eastern coast.
 
-Vasharan tradition remembers the campaign as the defence of order against oath-breaking cities. Atherian tradition makes every city a willing defender of freedom. Several Atherian cities submitted, supplied Xarun or waited to join the winning side. Subject peoples within the Vasharan army pursued their own interests.
+Vasharan tradition remembers the campaign as the defence of order against oath-breaking cities. Atherian tradition makes every city a willing defender of freedom. Several Atherian cities submitted, supplied Kazren or waited to join the winning side. Subject peoples within the Vasharan army pursued their own interests.
 
 ## Later kings and provincial power, 486–431 BR
 
-**Orvaz I Tiravan**, ruling from 486 BR, used money and grain more often than invasion. Atherian maritime alliances expanded after Xarun's defeat. They collected ship money, dismantled the walls of cities attempting to leave and installed friendly councils. Vasharan governors supported exiles from those same cities. Western governors recruited local troops and foreign mercenaries; families changed allegiance to preserve ships, estates or political enemies.
+**Orvaz I Tiravan**, ruling from 486 BR, used money and grain more often than invasion. Atherian maritime alliances expanded after Kazren's defeat. They collected ship money, dismantled the walls of cities attempting to leave and installed friendly councils. Vasharan governors supported exiles from those same cities. Western governors recruited local troops and foreign mercenaries; families changed allegiance to preserve ships, estates or political enemies.
 
 Orvaz financed rival Atherian leagues, hosted exiled rulers and offered naval timber to coalitions willing to recognise Vasharan coastal claims. Provincial governors acquired semi-hereditary influence, although the crown formally appointed them.
 
@@ -175,10 +175,10 @@ These are relational placements. Coordinates and modern borders remain open.
 | Ruler | Proposed reign | Principal development |
 |---|---:|---|
 | Arezan I Tiravan | 704–671 BR | coalition against Arqesh; Decree of Roads and Houses |
-| Daryav I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation |
+| Tavrad I Tiravan | 671–625 BR | road commands, royal stations and provincial reorganisation |
 | Kavran I Tiravan | 625–584 BR | western road consolidation and Qahuri relations |
 | Mithara I Tiravan | 584–536 BR | dynastic settlement, fiscal repair and negotiated coast |
-| Xarun I Tiravan | 536–486 BR | coastal suppression and major western invasion |
+| Kazren I Tiravan | 536–486 BR | coastal suppression and major western invasion |
 | Orvaz I Tiravan | 486–431 BR | diplomacy, provincial revolt and royal perjury |
 | Tiraz III Tiravan | 431–403 BR | growing western-governor autonomy and Veyr's arrival |
 | Orvaz II Tiravan | 403–after 350 BR | Caleran civil wars and proposed settlement with Thalion |

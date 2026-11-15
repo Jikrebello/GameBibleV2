@@ -42,9 +42,9 @@ Between the erasure and the collapse of the archive-valley came **the loose year
 - **the war rolls of Qarzeth's sack**, sent up from the siege for entry in the Compact's archive; and
 - **the founders' genealogies** Caleran was then recasting into a common ceremonial order of member cities.
 
-Both came out with their attributions cut. Caleran's rolls of the sack name no officer for the sale of rescued children after the breach. Esharat's ransom registers name Atherian officers whom no Caleran roll places at the siege. Founder lines carry names without cities, and cities without founders. Meleq Ordan's fate is lost from Caleran's rolls of the sack by the same cause. The two sets of records cannot be reconciled, and the cause lies in the archive, not in scribal error; in-world historians blame copyists, censorship or Caleran's pride.
+Both came out with their attributions cut. Caleran's rolls of the sack name no officer for the sale of rescued children after the breach. Esharat's ransom registers name Atherian officers whom no Caleran roll places at the siege. Founder lines carry names without cities, and cities without founders. Teshun Ordan's fate is lost from Caleran's rolls of the sack by the same cause. The two sets of records cannot be reconciled, and the cause lies in the archive, not in scribal error; in-world historians blame copyists, censorship or Caleran's pride.
 
-The Worm did not reach the charter rolls of the League of the Eastern Oar, which were kept at Velathene.
+The Worm did not reach the charter rolls of the League of the Eastern Oar, which were kept at Velanthe.
 
 ## Aftermath
 

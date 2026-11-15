@@ -20,7 +20,7 @@ aliases: ["The Houses Unhoused before the Gate Turns"]
 
 **c. 800–350 BR; Age of Stars.** Atherian roads and city leagues. This tradition belongs to [[Age of Stars]]; its cultural bearers are Atherian workers and later provincial inheritors.
 
-Its historical core is the inner-gulf city of the turned gate, which purged its registered guests and fell around 608 BR, during Zamaret Ordan's invasion in the second of [[The Gateway Wars]]. The city's name is disputed. The tale is told in civic threshold rites whose oldest form may reach from the Age of Stars into later imperial use.
+Its historical core is the inner-gulf city of the turned gate, which purged its registered guests and fell around 608 BR, during Tashqar Ordan's invasion in the second of [[The Gateway Wars]]. The city's name is disputed. The tale is told in civic threshold rites whose oldest form may reach from the Age of Stars into later imperial use.
 
 ## The tale
 

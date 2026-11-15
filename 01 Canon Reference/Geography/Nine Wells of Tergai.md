@@ -28,7 +28,7 @@ Covenant pilgrimage calls them the **Wells of First Submission**. Official accou
 
 ## Conquest of the Wells
 
-In 558 AR, the worst year of the dry-country drought that outlasted the Thin Floods, the guard of the Covenant's oasis wells, under its captain Uthar ibn Qays, seized the wells by violence. Defenders were killed, expelled, bound to draw water only on the conquerors' terms or absorbed under military rule. The tradition of voluntary submission grew up afterwards, and the conquerors' preachers made it holy.
+In 558 AR, the worst year of the dry-country drought that outlasted the Thin Floods, the guard of the Covenant's oasis wells, under its captain Zuhayr ibn Qays, seized the wells by violence. Defenders were killed, expelled, bound to draw water only on the conquerors' terms or absorbed under military rule. The tradition of voluntary submission grew up afterwards, and the conquerors' preachers made it holy.
 
 Qahirid rule at Tergai therefore stands on an old dispossession, and the pilgrims' witness stones rise among Tarkhan graves. Pilgrims and frontier families inherited very different relationships to that history, and many arrived long after the conquest.
 

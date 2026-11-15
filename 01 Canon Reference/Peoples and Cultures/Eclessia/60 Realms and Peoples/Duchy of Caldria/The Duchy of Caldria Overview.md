@@ -15,7 +15,7 @@ tags: []
 ---
 # The Duchy of Caldria Overview
 
-Caldria is Eclessia's northwestern fortress duchy: a Latinate-Markish frontier society shaped by the Third Crusade, military estates, order compounds, and a court that treats readiness as a religious duty. Grand Duke Alric IV remains old Church while modernizing against Ironvale artillery and warlock scripts.
+Caldria is Eclessia's northwestern fortress duchy: a Latinate-Markish frontier society shaped by the Stand at Crown Gate, military estates, order compounds, and a court that treats readiness as a religious duty. Grand Duke Alric IV remains old Church while modernizing against Ironvale artillery and warlock scripts.
 
 ## Historical Formation
 

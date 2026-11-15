@@ -59,7 +59,7 @@ Survivors, rival harbor crews, and defecting guards sealed the King beneath the 
 2. **The Roll of Refused Hulls:** the names of the denied ships and known dead remain separately preserved.
 3. **The Refuge Fire:** a shore beacon is maintained for vessels in distress even though its keepers no longer know the full reason.
 
-The seal weakens when refuge is knowingly refused, the dead are erased, and the old chain is treated as legitimate sovereign regalia. It strengthens when refuge is opened in a genuine crisis, even to an enemy: Velathene's wardens admitted Xarun's deserting hulls in 493.
+The seal weakens when refuge is knowingly refused, the dead are erased, and the old chain is treated as legitimate sovereign regalia. It strengthens when refuge is opened in a genuine crisis, even to an enemy: Velanthe's wardens admitted Kazren's deserting hulls in 493.
 
 **Recorded recurrence, 466 BR.** When Pyrassa closed its chain against rebel hulls on Caleran's order, the King partly recurred under its breakwater: the harbour admitted no one, its own grain ships circled on one wave and the signals contradicted one another. Pyrassa's wardens cut their chain and the recurrence ended. The Chain Peace of 461 made refuge law for any vessel in distress and laid a copy of the Roll at Ilamar. See [[The Refusal at Kelarion#The Roll's Later Descent]].
 

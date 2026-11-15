@@ -64,7 +64,7 @@ Following its conversion, the Empire turned inward. It had faith—but not visio
 
 When the **Ahl-e-Ahd** rose, they did so like a storm—terrible and sudden. Their **Unsealing** into the west brought **siege golems**, **demonic pacts**, and **enslaved spirits of war**. Whole provinces were lost in days. The **Velian States** fell. The capital trembled.
 
-The **First Crusade** stemmed the tide, but only barely. Legions were drawn from the east, leaving **Eclessia** defenseless. There, bandits, heretics, and the Enaidfae descended. The imperial grasp faltered. Provinces declared autonomy. Rebellion brewed.
+The **War of the Seals** stemmed the tide, but only barely. Legions were drawn from the east, leaving **Eclessia** defenseless. There, bandits, heretics, and the Enaidfae descended. The imperial grasp faltered. Provinces declared autonomy. Rebellion brewed.
 
 Then came the worst blow of all: the **fall of Caleran**.
 
@@ -86,7 +86,7 @@ One by one, the great siege golems fell. The desert juggernaut had overreached. 
 
 With Caleran retaken and **the Holy Flame restored**, the rebel general was crowned as the **First Emperor of Thalmyria**, and the world knew: Atheria had not died. It had been reborn.
 
-The **Fourth Crusade**, sanctioned by the **Thalmyric Redeemer Church**, swept through the lands like divine wildfire. Collaborators were purged. Betrayers hanged. But it was not vengeance that drove them—it was **restoration**.
+The **Descent**, sanctioned by the **Thalmyric Redeemer Church**, swept through the lands like divine wildfire. Collaborators were purged. Betrayers hanged. But it was not vengeance that drove them—it was **restoration**.
 
 Thalmyria, though smaller than old Atheria, is purer, sharper. Where once Atheria grew decadent, Thalmyria is forged by necessity, by sacrifice, by flame. It retains Atherian knowledge, Atherian roads, Atherian spirit—but tempered by trial.
 

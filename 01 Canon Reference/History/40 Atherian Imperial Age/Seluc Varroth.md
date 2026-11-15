@@ -28,7 +28,7 @@ He also held something neither of them could seize. As First Celebrant of the Co
 
 ## The Four at the Stores
 
-Varroth joined Velsar, Thalion and the senate's speaker Belisar Venn in the store-house above the muster ground, where the four divided the country by what it could feed. His garrisons held the magazines along the passes while Velsar fought the eastern armies and Thalion paid the Aurin companies.
+Varroth joined Velsar, Thalion and the senate's speaker Besral Venn in the store-house above the muster ground, where the four divided the country by what it could feed. His garrisons held the magazines along the passes while Velsar fought the eastern armies and Thalion paid the Aurin companies.
 
 Tolm's register of challengers lay with Varroth's augurs. When Velsar proposed writing the partners' enemies into it, so that killing them would count as war on the fouled Field, Varroth's clerks wrote the names. Families paid his augurs to keep a name out and rivals paid to put one in, and his college grew rich and hated that winter. He consented to the writing-in of a cousin whose household had sheltered one of the seven, and to Venn's. When Venn walked down to the muster ground with a practice sword in 366 and the soldiers would not kill him, it was Varroth's clerk who wrote *stood* against the name, and Varroth who let the word remain.
 

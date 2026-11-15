@@ -13,7 +13,7 @@ needs: []
 tags:
   - in-world-source
 ---
-# The Hundred Grievances — Selections
+# The Brenholt Margins — Selections
 
 *Scholar's apparatus: the marginal notes of Frater Ansgar of Brenholt, chaplain of the Brenholt Sending House, written in his psalter between about 1290 and the spring of 1297 AR. They stand beside the names of the dead he sang without fee and the tally he kept of more than ten letters sold for every rite sung, which is called Ansgar's Count. He drowned in the Blackwater pit in the late spring of 1297 with forty-one miners. At their funeral the tally-keeper Irmel read the notes aloud in place of the rite, the crowd answering each with Saint Gerlind's saying, "named, not bought", and chalked them on the board where the shifts were counted. The board held a hundred; the psalter is said to hold more, and nobody outside the Sanctum has seen it since 1299. The Ironvale printing of c. 1299 follows her board, and the bargemen's sung version of the Weiss differs from it in eleven places. The First Grievance answers Lord Primarch Alessior II's Bull of the Sufficient Seal (1283). Possession was a burning offense in four duchies until the Korrheim Accord; it is now merely a career-ending one in six, and singing it at a graveside is still a flogging offense in Aurelia. The tally board is a Freeflame relic — an irony their theology forbids them to enjoy and their congregations enjoy anyway. Selections follow the Ironvale printing; the response is omitted.*
 

@@ -42,7 +42,7 @@ Carthage was governed through annually elected suffetes or judges, aristocratic 
 
 The Gateway version should possess:
 
-- two annually chosen **Harbour Judges** who preside over civic business and sacred obligations;
+- two annually chosen **Quay Elders** who preside over civic business and sacred obligations;
 - a **Council of Houses** drawn from leading landholding, shipping and temple families;
 - a larger assembly of recognised citizens which elects commanders and decides contested measures;
 - military captains holding broad authority overseas but vulnerable to recall, trial or execution;
@@ -121,7 +121,7 @@ The following continuities make the later royal country possible:
 - hostility towards both the old sacrificial establishment and the conquerors;
 - memories of citizens enslaved or scattered after the siege.
 
-The old constitution does not survive intact. Harbour Judges in two spared towns retain municipal functions. The Council of Houses fragments. Former subject communities refuse restoration of the capital's privileges. Caleran governors rule unevenly and often depend upon local brokers.
+The old constitution does not survive intact. Quay Elders in two spared towns retain municipal functions. The Council of Houses fragments. Former subject communities refuse restoration of the capital's privileges. Caleran governors rule unevenly and often depend upon local brokers.
 
 ## From spared towns to the queen's kingdom
 

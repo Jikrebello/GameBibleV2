@@ -13,7 +13,7 @@ tags: []
 ---
 # The Qazmari
 
-The Qazmari are a western-strait people of fortified ports, dry highlands, orchard valleys, sailors, and mountain clans. Their allegiance to Ruqaiya's descendants turned regional independence into sacred history and made the Sealed Blood central to public identity.
+The Qazmari are a western-strait people of fortified ports, dry highlands, orchard valleys, sailors, and mountain clans. Their allegiance to Rumaitha's descendants turned regional independence into sacred history and made the Sealed Blood central to public identity.
 
 Household memory is kept through maternal and paternal lines, with particular honor given to families that sheltered the Veiled Wasiyin. Mourning poetry, communal kitchens, dark woven cloth, citrus and olive orchards, hill cavalry, and seaborne trade distinguish Qazmari life. Lineage matters, but service to a shrine, fortress, or ship can create adopted kinship.
 

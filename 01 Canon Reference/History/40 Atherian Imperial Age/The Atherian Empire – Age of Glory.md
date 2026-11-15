@@ -29,7 +29,7 @@ The supreme command needed more than descent. Thalion's soldiers had sworn to a 
 
 A professional bureaucracy maintained census rolls, property surveys, water rights, courts, road stations and grain distribution. Modern Thalmyric and Eclessian law still cites surviving Atherian registers, sometimes to resolve a dispute and sometimes to resurrect one.
 
-The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Year of Four Eagles]] ended in 245 with Samor Veloran, a warden-general of the river army, standing under a grain bridge at Caleran's water gate, and the unpainted emperors of [[The House of Veloran|his century]] governed through 151. The Serrat rulers, first seated by the towns of Sarqen in a fever year, and the later Othran household carried the empire to the Redeemer's lifetime. [[Provinces and Municipal Life in Imperial Atheria]] explains the cities and local officers through whom each house governed.
+The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Painted Reign]] ended in 245 with Samor Veloran, a warden-general of the river army, standing under a grain bridge at Caleran's water gate, and the unpainted emperors of [[The House of Veloran|his century]] governed through 151. The Halreth rulers, first seated by the towns of Sarqen in a fever year, and the later Odrun household carried the empire to the Redeemer's lifetime. [[Provinces and Municipal Life in Imperial Atheria]] explains the cities and local officers through whom each house governed.
 
 ## The age in motion
 
@@ -41,9 +41,9 @@ The [[The House of Thalion|first imperial house]] ruled until 247 BR. [[The Year
 
 **Roads east, c. 190–151 BR.** Orent I drove the Arcelon road through the eastern mountains to match Vashar's Dawn Road. Its embankment passed its test in the dry season and slid onto the labourers in the rains, which gave the road crews their phrase for a promise made in fair weather: "tested in the dry". The road pulled Raveth's river towns away from Vasharan tribute, and they joined the empire by negotiation late in Orent II's reign.
 
-**Fever, oath and famine, 151–113 BR.** A summer fever killed Orent II in 151 without an heir and filled the river camps with sick men. The commanders talked instead of marching. The spared towns of Sarqen laid their boards out of season and put their governor, Elian Serrat, in the emperor's empty seat; the eastern cities stood behind him for citizenship, and the commanders required each new citizen to swear before the emperor's image. From 119 Raveth starved. Relief came as debt, the court turned the debt into a crown estate over its own administrator's resignation, and where debts were sworn before the image, families walked their animals to the estate offices without being asked.
+**Fever, oath and famine, 151–113 BR.** A summer fever killed Orent II in 151 without an heir and filled the river camps with sick men. The commanders talked instead of marching. The spared towns of Sarqen laid their boards out of season and put their governor, Elian Halreth, in the emperor's empty seat; the eastern cities stood behind him for citizenship, and the commanders required each new citizen to swear before the emperor's image. From 119 Raveth starved. Relief came as debt, the court turned the debt into a crown estate over its own administrator's resignation, and where debts were sworn before the image, families walked their animals to the estate offices without being asked.
 
-**Qiryath and the last emperors, c. 85–0 BR.** A Vasharan civil war, the War of the Two Dawns, let Atheria take the Jirahar sanctuary of Qiryath under a charter that kept every image out of its courts. Velen I unveiled the Face at his river spectacles, exempted their banks from the test and in 61 drowned with his audience while his guard stood facing the portrait. Doran, supplied by former servants who had risen from a riot at Lacaris, re-veiled the Face and had his officers enter their commands by a low door instead of swearing before the image. Isfir was born in a Jirahar tower town under Othran I in 33 BR.
+**Qiryath and the last emperors, c. 85–0 BR.** A Vasharan civil war, the War of the Two Dawns, let Atheria take the Jirahar sanctuary of Qiryath under a charter that kept every image out of its courts. Velen I unveiled the Face at his river spectacles, exempted their banks from the test and in 61 drowned with his audience while his guard stood facing the portrait. Doran, supplied by former servants who had risen from a riot at Lacaris, re-veiled the Face and had his officers enter their commands by a low door instead of swearing before the image. Isfir was born in a Jirahar tower town under Odrun I in 33 BR.
 
 ## The Emperor after the Emperor
 
@@ -98,6 +98,6 @@ In the Thalmyric heartland, imperial stone remains part of ordinary life. Houses
 - [[Food, Trade and Enslavement in Imperial Atheria]]
 - [[Schools, Arts and Imperial Magic]]
 - [[Overview of the Astratheon Religion]]
-- [[The Year of Four Eagles]]
+- [[The Painted Reign]]
 - [[The Last Dynasties of the Age of Glory]]
 - [[Saints and Sinners of the Chronicles]]

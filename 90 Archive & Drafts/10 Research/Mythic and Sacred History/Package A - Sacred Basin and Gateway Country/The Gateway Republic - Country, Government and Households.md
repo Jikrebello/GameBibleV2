@@ -24,7 +24,7 @@ These communities acquired real benefits from the association and bore unequal c
 
 ## Civic institutions
 
-Two Harbour Judges served at the head of public government. They received foreign envoys, supervised financial decisions and placed measures before the assembly and Council of Houses. Their terms limited formal office. Wealth, family clients and religious patronage allowed some judges to remain influential for decades.
+Two Quay Elders served at the head of public government. They received foreign envoys, supervised financial decisions and placed measures before the assembly and Council of Houses. Their terms limited formal office. Wealth, family clients and religious patronage allowed some judges to remain influential for decades.
 
 The Council of Houses represented established property and cult interests. Its membership changed as new families bought land, financed fleets or entered through marriage. The citizen assembly elected magistrates and approved major wars, taxes and settlements. Its recognition rules excluded much of the adult population. Citizens living far from Qarzeth also found participation costly.
 
@@ -32,7 +32,7 @@ Military command existed beside civic office. A commander received defined autho
 
 ## Households, women and inheritance
 
-Households owned land, ships, workshops, debts and enslaved people. Marriage joined commercial networks and could settle a political rivalry for a generation. Elite women managed estates and credit, inherited property and funded sanctuaries. Sapha of Hadrath's marriage to Meleq Ordan brought cavalry, grain and a disputed border claim into the family's power.
+Households owned land, ships, workshops, debts and enslaved people. Marriage joined commercial networks and could settle a political rivalry for a generation. Elite women managed estates and credit, inherited property and funded sanctuaries. Sapha of Hadrath's marriage to Teshun Ordan brought cavalry, grain and a disputed border claim into the family's power.
 
 Women outside elite houses worked in fields, markets, fishing, sailmaking, pottery, food preparation and household service. Widows often continued a spouse's workshop or carrying agreement. Their legal independence varied by town. Esharat recognised several maternal inheritance customs which Qarzeth judges treated as provincial exceptions.
 
@@ -52,7 +52,7 @@ Gateway armies combined citizens, subject levies, allies, paid companies and tro
 
 Fleets required rowers, sailors, marines, pilots, shipwrights and shore crews. War losses extended beyond battle. Storm, contaminated water, disease and delayed pay could destroy a force. Replacing ships increased demands upon timber country and workshops.
 
-The Republic recruited effectively because its commanders understood difference. Zamaret Ordan addressed contingents through their own officers and made separate promises to allied towns. Those arrangements also limited her power. A force assembled against Caleran could disintegrate when pay failed or a local objective had been achieved.
+The Republic recruited effectively because its commanders understood difference. Tashqar Ordan addressed contingents through their own officers and made separate promises to allied towns. Those arrangements also limited her power. A force assembled against Caleran could disintegrate when pay failed or a local objective had been achieved.
 
 ## Religion beyond the Provider
 

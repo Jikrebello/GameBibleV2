@@ -35,9 +35,9 @@ Water required cooperation across political boundaries. A city could open a chan
 
 **Teluq**, an older city above Durqesh, dominated the eastern approaches during the sixteenth and fifteenth centuries BR. Its decline followed the Breaking of the Bronze Roads. Highland suppliers withheld metal, palace households fought over dwindling transport and an abandoned canal changed the course of one distributary. Teluq survived as a temple and market town, but later Arqeshite kings appropriated much of its royal history.
 
-The most famous stolen tradition concerns **Saruq of Teluq**, whose uncertain birth is placed around 1370 BR. One account calls his mother a junior royal daughter; another names an enslaved brewer; a third says only that a canal gardener found him in a pitch-sealed basket among cut reeds. Saruq entered palace service by measuring field water. He later overthrew a ruler who had transferred upstream villages, their taxes and their labour to military creditors, and joined three canal districts under one levy.
+The most famous stolen tradition concerns **Irduq of Teluq**, whose uncertain birth is placed around 1370 BR. One account calls his mother a junior royal daughter; another names an enslaved brewer; a third says only that a canal gardener found him in a pitch-sealed basket among cut reeds. Irduq entered palace service by measuring field water. He later overthrew a ruler who had transferred upstream villages, their taxes and their labour to military creditors, and joined three canal districts under one levy.
 
-His government restored cultivation and conscripted the same villages for ambitious building. Teluq songs remember the gardener who taught him to read the river. Arqeshite royal lists later made Saruq an ancestor of House Ubar and moved his victories to Arqesh. The contradictory birth accounts remained useful because every dynasty could claim that greatness had chosen him without ordinary inheritance.
+His government restored cultivation and conscripted the same villages for ambitious building. Teluq songs remember the gardener who taught him to read the river. Arqeshite royal lists later made Irduq an ancestor of House Ubar and moved his victories to Arqesh. The contradictory birth accounts remained useful because every dynasty could claim that greatness had chosen him without ordinary inheritance.
 
 ## Arqesh before empire, c. 1100–960 BR
 
@@ -89,7 +89,7 @@ Arqeshite armies reached the eastern approaches of Qahur during a period of divi
 
 Qiryath occupied a different strategic position. Its route houses could move goods and messages around formal provincial stations. Its sanctuary attracted people from districts Arqesh wanted to govern separately. Early treaties secured tribute and guides. Later kings demanded hostages from protector and priestly families.
 
-**Neshkar II Ubar**, who ruled from 758 to 728 BR in this proposal, inherited a wealthy empire troubled by provincial refusal. His elder sister **Iltara Ubar** had governed Khalbar and directed the Qahuri intervention. She argued that Qiryath could be controlled through merchants and rival protector houses. Neshkar believed visible submission was necessary after revolts elsewhere.
+**Ilbarun II Ubar**, who ruled from 758 to 728 BR in this proposal, inherited a wealthy empire troubled by provincial refusal. His elder sister **Iltara Ubar** had governed Khalbar and directed the Qahuri intervention. She argued that Qiryath could be controlled through merchants and rival protector houses. Ilbarun believed visible submission was necessary after revolts elsewhere.
 
 In 746 BR he demanded twelve priestly hostages and installation of his image within Qiryath's upper sanctuary. The city increased its tribute but refused those terms. Unauthorised negotiations and the killing of an Arqeshite envoy ended the remaining peace.
 
@@ -97,7 +97,7 @@ In 746 BR he demanded twelve priestly hostages and installation of his image wit
 
 The Arqeshite army approached through Khalbar with infantry, subject archers, cavalry, engineers and labour levies. Grain moved by river to a fortified depot; pack animals carried it up to the Reqa shelf. The siege required an earth ramp, timber frames and diversion of one spring channel. Captive workers and requisitioned villagers built under guard.
 
-Qiryath fell after two harvests. Imperial reliefs later showed an orderly assault watched by Neshkar from a raised chair. The city's accounts remember hunger, the expulsion of foreigners, bodies at blocked passages and soldiers fighting through houses below the tower.
+Qiryath fell after two harvests. Imperial reliefs later showed an orderly assault watched by Ilbarun from a raised chair. The city's accounts remember hunger, the expulsion of foreigners, bodies at blocked passages and soldiers fighting through houses below the tower.
 
 Arqeshite troops killed defenders and civilians, stripped the sanctuary and destroyed the upper tower. Executed leaders were displayed without burial. Deportation officers selected households by skill, wealth and political standing. Families were divided among royal workshops, estates and agricultural settlements. Soldiers and officials received captives as rewards.
 
@@ -109,7 +109,7 @@ The victory displayed Arqesh at its greatest extent. Tribute entered from the Qa
 
 The enlarged empire became expensive to hold. Garrisons required grain during poor floods, provinces concealed harvests and highland horse suppliers changed allegiance. The crown reassigned canal water to estates serving the army, driving small farmers into debt or from their land. When revenue fell, the royal court increased its assessments and deepened the same shortages.
 
-Neshkar died in 728 BR after illness during a northern campaign. His son **Belatar II** executed two uncles and married a cousin from Iltara's line. He relied upon military households—families whose estates and status came from service in the royal army—while Nemeru and Khalbar sought greater control of local revenue. Iltara died in 719, removing the relative most capable of negotiating among them.
+Ilbarun died in 728 BR after illness during a northern campaign. His son **Belatar II** executed two uncles and married a cousin from Iltara's line. He relied upon military households—families whose estates and status came from service in the royal army—while Nemeru and Khalbar sought greater control of local revenue. Iltara died in 719, removing the relative most capable of negotiating among them.
 
 ## Succession war and coalition conquest, c. 706–690 BR
 
@@ -117,7 +117,7 @@ Belatar's death without an adult son divided House Ubar. **Kassur III**, support
 
 Provincial revolts followed. Nemeru withheld boats. Qahuri rulers expelled isolated garrisons. Tarkhan and other open-country leaders attacked remount stations. Vashari highland houses united behind **Arezan Tiravan**, who promised to preserve submitting cities and break the Ubar monopoly.
 
-The second great enemy came from the western sea. **Eryndor III of Ortheia**, later called the Far-Road King, had inherited an Atherian-speaking upland kingdom and a coerced hegemony over several city leagues. He crossed the eastern inner sea in 702 BR with Ortheian infantry, cavalry, Compact levies, engineers and allied ships. His first victories broke the field armies defending the coast. At **Terys**, a fortified harbour which refused him entry, his engineers joined the offshore stronghold to the mainland with a causeway. The final assault ended in massacre and enslavement.
+The second great enemy came from the western sea. **Eryndor III of Ortheia**, later called the Far-Road King, had inherited an Atherian-speaking upland kingdom and a coerced hegemony over several city leagues. He crossed the eastern inner sea in 702 BR with Ortheian infantry, cavalry, Compact levies, engineers and allied ships. His first victories broke the field armies defending the coast. At **Belyra**, a fortified harbour which refused him entry, his engineers joined the offshore stronghold to the mainland with a causeway. The final assault ended in massacre and enslavement.
 
 Eryndor entered divided Qahur in 695 BR. Selected crown houses supplied grain and boats in return for recognition against their rivals. He then made a treaty with Arezan. Arezan's command held the highland roads, coordinated provincial defections and attacked Durqesh and Khalbar. Eryndor's command supplied the principal siege army, fleet and treasury. Neither ruler became the other's subordinate.
 
@@ -146,13 +146,13 @@ Arqesh remained a large city under its successors. Its workshops supplied the ne
 | Date | Proposed development |
 |---|---|
 | c. 1750–1325 BR | Ubar canal cities participate in the Bronze Roads |
-| c. 1370–1320 BR | Saruq of Teluq's remembered rule |
+| c. 1370–1320 BR | Irduq of Teluq's remembered rule |
 | c. 1100–960 BR | Arqesh gains control of the principal canal junction |
 | c. 958 BR | Merod I Ubar takes the throne |
 | c. 918–879 BR | Kassur I develops the provincial and deportation system |
 | c. 836–798 BR | Merod II expands towards Qahur; Ashkur's death in 814 becomes a grievance of conquest |
 | c. 820–760 BR | expansion towards Qahur, Qiryath and the highlands |
-| 758–728 BR | proposed reign of Neshkar II |
+| 758–728 BR | proposed reign of Ilbarun II |
 | 746 BR | demand for Qiryath's hostages and royal image |
 | 742 BR | destruction and deportation of First Qiryath |
 | c. 706–702 BR | Ubar succession war and provincial revolt; Eryndor secures the Ortheian throne and Atherian hegemony |

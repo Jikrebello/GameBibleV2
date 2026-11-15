@@ -18,7 +18,7 @@ Alexander's literary life became much larger than his empire. Greek and Roman re
 
 The World Egg can preserve that abundance without granting equal historical truth to every story. The recommended arrangement gives several famous adventures a real incident beneath them. Each incident occurs during **Eryndor III of Ortheia's** eastern campaign of c. 702–685 BR. No second world tour is required. Later cultures separate the incidents from their original military setting, combine them with local heroes and move them to the edges of their own maps.
 
-The resulting cycle concerns a king who repeatedly tries to extend royal power into a realm it cannot possess. Eryndor descends below the sea during the siege of Terys, rises into the upper air to inspect an enemy position, demands knowledge of his death from a speaking grove, seeks water that might preserve life and closes a mountain road against a surviving horror. Each marvel is real in a limited sense. None makes him a prophet, saint, Menhir child or divinely appointed ruler.
+The resulting cycle concerns a king who repeatedly tries to extend royal power into a realm it cannot possess. Eryndor descends below the sea during the siege of Belyra, rises into the upper air to inspect an enemy position, demands knowledge of his death from a speaking grove, seeks water that might preserve life and closes a mountain road against a surviving horror. Each marvel is real in a limited sense. None makes him a prophet, saint, Menhir child or divinely appointed ruler.
 
 ## The growth of the Romance
 

@@ -33,7 +33,7 @@ The best-trained parish clergy in Eclessia (the Council's reforms began here): s
 
 ## The Criminal
 
-Book-running is the signature trade: banned Freeflame texts north, banned Vetti south, the *Mirror for Sovereigns* under every third counter. The censors' index is, as everywhere, the underworld's bestseller list. Otherwise: silk-theft rings, license-forgery, and the gray trade in seminary examination places, which the Lantern hunts with special fury because it strikes at their one honest door.
+Book-running is the signature trade: banned Freeflame texts north, banned Vetti south, *Of Princes as Borrowers* under every third counter. The censors' index is, as everywhere, the underworld's bestseller list. Otherwise: silk-theft rings, license-forgery, and the gray trade in seminary examination places, which the Lantern hunts with special fury because it strikes at their one honest door.
 
 ## The Strange-Dose
 

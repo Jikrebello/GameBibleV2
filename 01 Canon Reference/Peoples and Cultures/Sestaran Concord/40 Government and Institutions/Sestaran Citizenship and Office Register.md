@@ -17,7 +17,7 @@ Citizenship is a scarce political property, not a synonym for residence. Every c
 
 | City | Franchise | Senior office |
 |---|---|---|
-| Fiorenzia | One vote per registered citizen household, exercised by its recognized head of either sex | Golden Book houses; Medori admitted by purchase in 1238 |
+| Fiorenzia | One vote per registered citizen household, exercised by its recognized head of either sex | Roll of Faces houses; Medori admitted by purchase in 1238 |
 | Sermora | Male guild masters and ship-share citizens; widows retain inherited house votes | Houses of the First Mooring elect the Doge and senior Admiralty |
 | Aversia | Citizenship earned through recognized civic or military service by men or women | Shield Houses hold magistracies; House Soran seized the princely title |
 | Vorthara | No common citizenship or citywide vote; faction and ward membership provide protection | No common office; Pass-Keeper holds only the external seal |

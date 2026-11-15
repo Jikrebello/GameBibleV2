@@ -41,7 +41,7 @@ Trade includes timber, medicines, metalwork, amber, fish, furs, whale products, 
 
 ## Velians
 
-The Velian Church preserves Isfir's Jirahar speech in worship. Its dialect came from the baptised congregations of Jirahar descent in Qabir and the gateway ports, whose families named the Second Silence of 385 and lodged their sworn accounts of it in the Jirahar hearing house at Raveth before a crowd burned it about 389. Bishop Nasriel, condemned at Halmenth in 411, was one of them, and it was a Sea Fleet ship, crewed by his mother's people, that carried him home from Halmenth when the regents' officers came for him. That intimacy makes theological disagreement sharper. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls. [[Vestian Persecutions and the Long Diaspora]]
+The Velian Church preserves Isfir's Jirahar speech in worship. Its dialect came from the baptised congregations of Jirahar descent in Qabir and the gateway ports, whose families named the Second Silence of 385 and lodged their sworn accounts of it in the Jirahar hearing house at Raveth before a crowd burned it about 389. Bishop Qedrel, condemned at Halmenth in 411, was one of them, and it was a Sea Fleet ship, crewed by his mother's people, that carried him home from Halmenth when the regents' officers came for him. That intimacy makes theological disagreement sharper. Mixed towns contain Jirahar, Velian, Thalmyric-rite, and Covenant courts within the same walls. [[Vestian Persecutions and the Long Diaspora]]
 
 ## Navigation
 

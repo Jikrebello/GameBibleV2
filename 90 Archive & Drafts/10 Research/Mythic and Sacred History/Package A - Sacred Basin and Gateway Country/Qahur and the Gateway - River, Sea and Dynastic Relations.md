@@ -34,7 +34,7 @@ The House of Aramen's imperial campaigns reached selected Gateway ports between 
 
 Qarzeth avoided permanent incorporation by supporting rival port coalitions and bargaining with Qemaret officials. Sarqen and Esharat experienced periods of Qahuri garrisoning. Mixed families remained after the soldiers withdrew. Later Gateway writers remembered this period as foreign occupation; Qahuri victory lists treated the ports as eternal possessions.
 
-The contraction of Aramen power helped Qarzeth consolidate its association. Institutions developed in response to local needs and the memory of external rule. The Harbour Judges' limits upon continuous office were partly intended to prevent a successful commander from becoming a coastal king. The later Ordan household exposed the limits of that protection.
+The contraction of Aramen power helped Qarzeth consolidate its association. Institutions developed in response to local needs and the memory of external rule. The Quay Elders' limits upon continuous office were partly intended to prevent a successful commander from becoming a coastal king. The later Ordan household exposed the limits of that protection.
 
 ## Religion across the routes
 
@@ -50,7 +50,7 @@ The Boatman appeared in both regions under local names. He accepted no ownership
 
 Qahur never entered the Gateway Wars as a single state. Rival crowns sold grain, hired soldiers and received envoys from both republics. Qemaret merchants profited from Qarzeth's need. Tenaret temples ransomed captives taken by Caleran fleets. Sakhret officers served abroad and returned with money, injuries and foreign households.
 
-During Zamaret Ordan's invasion, one Qahuri crown allowed recruiters to pass while another supplied Caleran through intermediaries. High-Road supervisors attempted to tax both arrangements. These divided interests prevented either belligerent from treating the Basin as a dependable ally.
+During Tashqar Ordan's invasion, one Qahuri crown allowed recruiters to pass while another supplied Caleran through intermediaries. High-Road supervisors attempted to tax both arrangements. These divided interests prevented either belligerent from treating the Basin as a dependable ally.
 
 The destruction of Qarzeth sent refugees and enslaved people into Qahuri markets. Basin families sheltered some and purchased others. Temple records praising ransom coexist with household accounts of human sale. Qahuri involvement therefore includes generosity, profit and complicity.
 

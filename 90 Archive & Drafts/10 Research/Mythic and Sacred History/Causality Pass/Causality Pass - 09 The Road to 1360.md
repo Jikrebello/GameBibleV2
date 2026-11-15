@@ -548,7 +548,7 @@ No Locked Ruling changes. Every 1360 ruler, state and relationship is kept.
 | [[The Kingdom of Virelia Overview]] | Second serfdom through the bond of the clean village. | Native cause. |
 | [[Historical Spine of the Covenant]] | Expand "Present Settlement, 1304-1360" (and the tail of "Suhrab and the Black Wind"): the Guard bench and the Pageless Prince (1243–1252); Tahmur and Marzuq I paying the Black Wind; Marzuq II hiring the Iron Horde and losing Zehrim; the 1326 ruling on Zehrim's bound; the unsigned frontier peace; the Cull of 1349. Optionally add the cause of the son's oath-taking (holding widowed garrisons in the Emptying). | Covenant 1243–1360 is two sentences. |
 | [[Covenant Government and Imperial Suzerainty]], [[The Qahirid Suzerainty and Iqashar]], [[Al-Qahur and the Sacred Basin]], [[Covenant Armies and the Tarkhan Frontier]] | The Guard's officer bench as witness of accessions since 1243; Qaydar the Pageless as the event behind the Cull's turn to the knife; the military households' expired leases and the Pageless revolt; Iron Horde companies hired from 1304 for horses that stand beside bound things. | Consistency with the seam writer's lodging account. |
-| [[The Hundred Grievances — Selections]] | Optional apparatus line: Ansgar's Count preceded the posting. | Context. |
+| [[The Brenholt Margins — Selections|The Hundred Grievances — Selections]] | Optional apparatus line: Ansgar's Count preceded the posting. | Context. |
 
 ### Errors found
 

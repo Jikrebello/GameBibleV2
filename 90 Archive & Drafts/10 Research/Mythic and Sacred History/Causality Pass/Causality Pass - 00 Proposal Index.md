@@ -225,18 +225,22 @@ Scores are predictability out of 10. Lower is better; 5 means a specialist guess
 - Causes are now the best-disguised part of every sequence. The readers' own "what broke my prediction" lists are the bends: Zamaret lynched at the store doors with no great battle, the cast of the late republic outliving their death scenes, Astrion living on as a rival emperor for twenty years, the legate drawing the blank at Drossfeld, Ansgar drowning before his theses are read.
 - Qiryath's kings, the Age of Glory, 78–288 AR and the late republic moved most. Eryndor, High Noon and the road to 1360 did not move.
 - **The clock is now the weakest disguise.** Where anchor dates were kept, a sequence still sits at a near-constant distance from its original, and a specialist who finds the distance can date the next event. The road to 1360 is the clearest case: bought conclave 1274, the *Grievances* 1297, the council 1319 and the Accord 1343 all sit 212 to 226 years below their originals, which makes 1360 read as about 1578.
-- **Names are the second.** They add half a point to a point wherever a ruler's name carries the original's sound. [[Causality Pass - 12 Rename Proposals]] gathers the proposals.
+- **Names are the second.** They add half a point to a point wherever a ruler's name carries the original's sound. [[Causality Pass - 12 Rename Proposals]] gathers the proposals; the rows marked Apply went in on 15 November, after this re-read.
 - Some of what remains is deliberate and stays: the Isfir and Companions parallels to the Gospels and Acts, which carry the First Church article, and the Jirahar parallels in the Exodus and returnings cycles.
 - The re-read also reported twelve small contradictions between articles. Ten were real and are fixed (the siege of Qarzeth begins in 525, Saint Naris is a man, the marriage at the store-house falls in 92, and so on). Two were not contradictions: one misread BR dating, and one took an acclamation for a coronation.
+
+## The renames (15 November)
+
+The creator approved the rows marked Apply in [[Causality Pass - 12 Rename Proposals]], and sixty-seven went in the same day: about 2,100 replacements in 226 notes, 53 sentences fixed by hand and four notes renamed ([[The Painted Reign]], [[A Soldiers Testament of the War of the Seals]], [[The Brenholt Margins — Selections]] and [[Of Princes as Borrowers — Selected Maxims]]). Two suggestions were already in use and were replaced: the Year of Four Eagles became the Painted Reign, and Neral Vardun became Garen Vardun. The old and new names are paired in the [[Real-History Concordance]] under "Renames applied on 15 November 2026". Record 12 says what was left alone. The table above was scored before the renames, so its "including names" column describes the old names.
 
 ## What remains
 
 - **Sequences still close to their analogues.** Two bends later the causes are native and most skeletons are broken. What a specialist can still predict is listed in the table above and in the [[Real-History Concordance]] under "Sequences still close to their analogues". Three kinds of thing remain:
   - *Clocks.* Near-constant offsets survive wherever anchor dates were kept: about +150 on the Qiryath exile, +360 on Eryndor, +400 on the Gateway Wars, +325 on the late republic and founding, +200 on Two Crowns, +144 on High Noon and −218 on the road to 1360. Breaking them means moving anchor dates, which is the creator's decision. Grenzburg cites 905, 957, 1338, 1343 and 1352.
   - *Skeletons kept by a fixed point.* The House of Nerethan still runs as the last Ptolemies until its ending; Eryndor's itinerary is Alexander's; [[The Disputed Fourth Seal]] still opens as Karbala (that the dispute stays unresolved is a Locked Ruling; its incidents are not); the Reformation still runs conclave, grievances, trial, rising, council, peace.
-  - *Names.* See the next item.
-- **Names.** [[Causality Pass - 12 Rename Proposals]] gathers every analogue-revealing name from the second bend with a recommendation on each; nothing in it is applied. The older items are:
-  - *Real-world leaks:* the Golden Book, "von Caldria" and "de Braxford".
+  - *Names.* The loudest were renamed on 15 November. See the next item for the rest.
+- **Names.** The rows marked Optional or Keep in [[Causality Pass - 12 Rename Proposals]] still wait on the creator (Aurelius Thalion, Seluc Varroth, Elian, Velen, the Great Tower Revolt, the Forty Flames, Fire-Bearer and Man-Bearer, the amirates, Casvilar, the Medori, the Long Reconquest and others). Two lines in the Caleran playable setting still say "Saint Ioan Outer Fort". The older items are:
+  - *Real-world leaks:* "von Caldria" and "de Braxford".
   - *Collisions:* Arest Corven and Corven Ilar; Ardel Veyr and Miretha Ardel; Merath and Celor Marath; Aster Vey and Veyr; Hadrath, Hazreth and Harzun; Tamim and Tahmur; Ilarion and Ilaron; Neram bar Elior and Elior bar Hadan; Orthea and Ortheia (renaming Orthea to Ambreth is recommended); Thalion's two Lysaras.
   - Rename in Obsidian so links update.
 - **Visibility.**

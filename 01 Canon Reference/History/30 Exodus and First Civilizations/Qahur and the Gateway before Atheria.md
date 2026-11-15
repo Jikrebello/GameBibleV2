@@ -48,7 +48,7 @@ The Bronze-Faced Provider acquired Qahuri titles in lists compiled during the fi
 
 Qahur never entered the wars as a united state. Rival crowns sold grain, hired soldiers and received envoys from both republics. Qemaret merchants profited from Qarzeth's need. Tenaret temples ransomed captives taken by Atherian fleets. Sakhret officers served abroad and returned with foreign households as well as money and injuries.
 
-During Zamaret Ordan's invasion, c. 612–601 BR, one Basin crown allowed recruitment while another supplied Caleran through intermediaries. Vasharan supervisors taxed both arrangements. These divided interests prevented either belligerent from treating Qahur as a dependable ally.
+During Tashqar Ordan's invasion, c. 612–601 BR, one Basin crown allowed recruitment while another supplied Caleran through intermediaries. Vasharan supervisors taxed both arrangements. These divided interests prevented either belligerent from treating Qahur as a dependable ally.
 
 Qarzeth's destruction sent refugees and enslaved people into basin markets. Some Qahuri families sheltered survivors; others purchased them. Accounts praising ransom existed beside evidence of sale.
 

@@ -60,9 +60,9 @@ In Sestara, wealthy port-cities grew increasingly independent. Trade flourished,
 
 When the **Ahl-e-Ahd Caliphates** emerged, their armies were unlike anything the Empire had seen. Backed by **contract-bound sorcery**, **siege golems**, **bound devils**, and elite **Janissary troops**, their **Unsealing** erupted into the Empire’s western heartlands. The invasion was catastrophic. Provinces fell. The **Velian States** were established as puppet client regimes under the **Emirate of Zanthir**.
 
-A desperate **First Crusade** was declared, rerouting forces from the eastern provinces. This proved a fatal error. With legions stripped from the east, **Eclessia** and **Sestara** plunged into chaos—beset by **banditry**, **Enaidfae incursions**, and independence movements.
+A desperate **War of the Seals** was declared, rerouting forces from the eastern provinces. This proved a fatal error. With legions stripped from the east, **Eclessia** and **Sestara** plunged into chaos—beset by **banditry**, **Enaidfae incursions**, and independence movements.
 
-The **Second Crusade** to retake the Velians failed miserably. In its aftermath, the Ahl-e-Ahd launched a campaign of annihilation against the imperial capital itself. **Caleran** was taken. Its emperor executed. Its holy sites desecrated. The old empire, in every sense that mattered, had died.
+The **Reception** to retake the Velians failed miserably. In its aftermath, the Ahl-e-Ahd launched a campaign of annihilation against the imperial capital itself. **Caleran** was taken. Its emperor executed. Its holy sites desecrated. The old empire, in every sense that mattered, had died.
 
 ---
 
@@ -70,7 +70,7 @@ The **Second Crusade** to retake the Velians failed miserably. In its aftermath,
 
 The fall of Caleran triggered a wave of **refugees** fleeing into the **volcanic highlands** to the south. There, among the impassable ridges and smoking peaks, a resistance took root—led by a minor noble house, once unremarkable, now remembered in legend.
 
-Meanwhile, **Sestara** declared full independence, forming the **Concord of Sestara**, a federation of city-states bound by commerce and mutual defense. Eclessia, bereft of aid, collapsed into feudal infighting. In the west, Ahl-e-Ahd forces attempted to advance into the east but were **halted at the Duchy of Caldria**, thanks to a controversial Third Crusade involving **Vortharan warlocks** and local militias.
+Meanwhile, **Sestara** declared full independence, forming the **Concord of Sestara**, a federation of city-states bound by commerce and mutual defense. Eclessia, bereft of aid, collapsed into feudal infighting. In the west, Ahl-e-Ahd forces attempted to advance into the east but were **halted at the Duchy of Caldria**, thanks to a controversial stand at Crown Gate involving **Vortharan warlocks** and local militias.
 
 A decisive **ambush in the Valley of Dremund** destroyed one of the Ahl-e-Ahd’s elite divisions. At **Virelos**, the last siege golem was destroyed. These events turned the tide of war. The resistance crowned its leader as the **First Thalmyric Emperor**, founding the **Thalmyric Empire**.
 
@@ -78,7 +78,7 @@ A decisive **ambush in the Valley of Dremund** destroyed one of the Ahl-e-Ahd’
 
 ### VII. Reconquest and the Modern Order
 
-With the sanction of the **Thalmyric Redeemer Church**, the **Fourth Crusade**—known as the **Reconquest**—was launched. Armed with **weaponized Holy Flame**, Thalmyric forces retook **Caleran**, purged collaborators, and re-established their legitimacy.
+With the sanction of the **Thalmyric Redeemer Church**, the **Descent**—known as the **Reconquest**—was launched. Armed with **weaponized Holy Flame**, Thalmyric forces retook **Caleran**, purged collaborators, and re-established their legitimacy.
 
 Other uprisings flared across the continent. Some succeeded, others were crushed. Nevertheless, the world had changed. The Atherian vision was no longer singular.
 

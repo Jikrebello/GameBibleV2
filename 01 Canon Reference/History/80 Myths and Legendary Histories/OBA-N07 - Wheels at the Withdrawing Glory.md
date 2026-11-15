@@ -16,7 +16,7 @@ source_id: OBA-N07
 
 **c. 610–570 BR.** This fixes the local human history and the explicitly described commission, not the identity of every later claimant or relic. The title is a received epithet rather than an additional heavenly rank.
 
-Placed c. 608 BR, during Zamaret Ordan's invasion (Causality Pass 02). The besiegers are Zamaret's allies; the city, households and number killed remain unknown. Reader prose calls it the city of the turned gate ([[Age of Stars]], [[G-38 - The Houses Unhoused before the Gate Turns|G-38]]).
+Placed c. 608 BR, during Tashqar Ordan's invasion (Causality Pass 02). The besiegers are Tashqar's allies; the city, households and number killed remain unknown. Reader prose calls it the city of the turned gate ([[Age of Stars]], [[G-38 - The Houses Unhoused before the Gate Turns|G-38]]).
 
 ## Historical aperture
 

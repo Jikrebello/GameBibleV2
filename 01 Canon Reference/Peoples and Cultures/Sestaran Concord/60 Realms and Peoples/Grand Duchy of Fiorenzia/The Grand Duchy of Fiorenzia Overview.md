@@ -22,7 +22,7 @@ The river city predates Atheria. Imperial rule preserved its municipal houses wh
 
 ## Government and Citizenship
 
-Duke **Gaius Medori** rules beside the patrician senate. Registered citizen households cast one vote through a recognized head of either sex. Senior office belongs to families in the Golden Book. The Medori converted financial dominance into formal ancestry by purchasing admission in 1238, when the Grey Sweat had left nearly half the Book's houses without a head and the senate sold seats to keep a quorum; older houses still call the transaction a counterfeit genealogy. The ducal chair was the senate's to fill until 1349, when the citizen households voted it hereditary in the Medori line over the senate's head.
+Duke **Gaius Medori** rules beside the patrician senate. Registered citizen households cast one vote through a recognized head of either sex. Senior office belongs to families in the Roll of Faces. The Medori converted financial dominance into formal ancestry by purchasing admission in 1238, when the Grey Sweat had left nearly half the Book's houses without a head and the senate sold seats to keep a quorum; older houses still call the transaction a counterfeit genealogy. The ducal chair was the senate's to fill until 1349, when the citizen households voted it hereditary in the Medori line over the senate's head.
 
 ## Society and Faith
 
@@ -36,7 +36,7 @@ The Bank has clients on opposing sides of wars, but it does not control every co
 
 ## Present Tensions
 
-Golden Book resentment, Severin's memory, debts that never amortize, tenant volatility, foreign defaults, Medori succession, and the question of whether culture remains patronage when one family owns the patrons.
+Roll of Faces resentment, Severin's memory, debts that never amortize, tenant volatility, foreign defaults, Medori succession, and the question of whether culture remains patronage when one family owns the patrons.
 
 ## Navigation
 
