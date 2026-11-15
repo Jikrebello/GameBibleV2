@@ -32,13 +32,13 @@ This is Church of Grenzburg quest 1. It belongs to the Admission movement and is
 
 ## Hook and Immediate Stake
 
-A refugee bread queue and an unrecorded burial trench collide when a cart overturns outside Mercy Hospital. Caestus asks the player to restore names before weather closes the camp.
+A refugee bread queue and an unrecorded burial trench collide when a cart overturns outside Mercy Hospital. Caestus asks the player to restore names before weather closes the camp. The trench is also a deadline: Freeflame preachers work the winter camps, their elders will bury anyone, and under the Korrheim Accord a yard whose dead lie unsent for a year and a day is forfeit to the other rite.
 
 Open the Church line through service that matters without requiring a doctrinal crisis.
 
 ## Player Actions
 
-Distribute food, identify bodies, stop ration theft, escort a burial reader, and decide how to record unknown dead.
+Distribute food, identify bodies, stop ration theft, escort a burial reader, and decide how to record unknown dead. The burial reader is a priest of the diocese: since the plague years the old rite has let no lay person send the dead without a priest present.
 
 ## Opposition and Institutional Pressure
 

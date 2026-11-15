@@ -118,7 +118,7 @@ No variable player outcome becomes future-setting canon in this pass.
 ## Moral and Ontological Rules
 
 - Human grievance may explain violence but does not excuse murder, kidnapping, slavery, civilian attack, or predation.
-- Specific Folk and Grobi groups retain distinct responsibility; neither people becomes a moral collective.
+- Specific Folk groups retain distinct responsibility, and specific Grobi bands retain distinct interests. Grobi have no moral conscience to hold guilty, so restraint toward them rests on what humans owe: kept terms, no cruelty, and no punishment of one band for another's raid. Neither people is treated as a collective.
 - The Emerald Drake cannot speak, bargain, consent, or reveal prophecy.
 - Residue may copy voice, posture, and memory without containing a routed soul.
 - The Medium's imprints and Muster formations are not captured people.

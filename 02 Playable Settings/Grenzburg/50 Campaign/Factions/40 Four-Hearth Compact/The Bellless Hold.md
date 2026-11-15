@@ -32,7 +32,7 @@ This is Four-Hearth Compact quest 5. It belongs to the Service movement and is a
 
 ## Hook and Immediate Stake
 
-Occupation-era mechanisms in Bellless Hold reactivate, and Jorund uses the danger to demand attacks on nearby settler households.
+Bellless Hold is an old registered imperial fort, regranted to a Markish lord in the 980s and garrisoned to watch the approaches to Wolfsmere. It was abandoned after the Standing of the Water (994), and its bell was taken down under the charters of the Peace of the Bent Oak (999). Its imperial mechanisms reactivate, and Jorund uses the danger to demand attacks on nearby settler households.
 
 Clear a major ruin, recover testimony of old wrongs, and refuse inherited civilian guilt.
 
@@ -46,7 +46,7 @@ Atherian mechanisms, winter terrain, and Jorund's fighters create distinct threa
 
 ## Information Paths
 
-Hold inscriptions, delver testimony, and Moss-Crown memory establish the occupation history and present innocence.
+Hold inscriptions, delver testimony, and Moss-Crown memory establish the Markish garrison's history in the Folk Wars and present innocence.
 
 At least two routes establish every required fact. Social skill, cultural familiarity, background knowledge, and prior faction work change cost or interpretation rather than deciding whether the story continues.
 

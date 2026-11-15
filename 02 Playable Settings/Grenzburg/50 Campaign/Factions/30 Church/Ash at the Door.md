@@ -42,7 +42,7 @@ Examine ash marks, track the actual dangerous object, protect households from a 
 
 ## Opposition and Institutional Pressure
 
-A place-bound hazard is real; one household concealed it to avoid seizure; Ignatius expands guilt by association.
+A place-bound hazard is real; one household concealed it to avoid seizure; Ignatius expands guilt by association. Chapel-Folk households are not all of one rite, and some hear the Freeflame preachers as well as the diocese's priests; that feeds his suspicion and is evidence of nothing.
 
 ## Information Paths
 

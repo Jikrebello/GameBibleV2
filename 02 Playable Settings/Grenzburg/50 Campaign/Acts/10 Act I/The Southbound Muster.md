@@ -78,7 +78,7 @@ No outcome grants Harek permission to murder civilians. No outcome gives the Duk
 
 Near the Upper Grenz, a disciplined Grobi probe attacks the rear wagons while smaller goblins rush the food carts. Their purpose is to measure response time and identify valuable loads. Captured markings connect them to Ghor's emerging Bloody-Sun Host, but the force withdraws before a decisive fight.
 
-The player holds the road, rescues separated carriers, and protects or abandons one delayed wagon. A fast response can capture a horn-token showing three southern routes.
+The player holds the road, rescues separated carriers, and protects or abandons one delayed wagon. A fast response can capture an ash-marked token showing three southern routes.
 
 The convoy enters Fort Tannbruck at dusk. Captain Hedda Rann receives the column, assigns the Blackjacks quarters in Service Row, and immediately identifies the broken Watch Hill signals as the next priority.
 
@@ -91,7 +91,7 @@ The convoy enters Fort Tannbruck at dusk. Captain Hedda Rann receives the column
 
 ## Information Paths
 
-Survey stakes, the stone's root scar, and a road worker establish that the boundary moved. Burial cloth, household testimony, and old wheel ruts establish the narrower legitimate claim. The Grobi purpose is read through withdrawal discipline, copied wagon marks, or the horn-token.
+Survey stakes, the stone's root scar, and a road worker establish that the boundary moved. Burial cloth, household testimony, and old wheel ruts establish the narrower legitimate claim. The Grobi purpose is read through withdrawal discipline, copied wagon marks, or the ash-marked token.
 
 ## Choices and State Changes
 
@@ -107,7 +107,7 @@ Survey stakes, the stone's root scar, and a road worker establish that the bound
 - A failed timber rescue costs one carrier and forces a lighter convoy; Timberfalls remains accessible.
 - If Harek escapes, his road-raiders appear in MQ-06 and MQ-07.
 - If the convoy camps, the Grobi attack occurs at night with more stealth and fewer civilians exposed.
-- If the horn-token is lost, Tannbruck scouts later recover partial route evidence at greater cost.
+- If the token is lost, Tannbruck scouts later recover partial route evidence at greater cost.
 
 ## Companion Intersections
 
@@ -122,7 +122,7 @@ Ducal service supplies engineers; Folk trust supplies a neutral household witnes
 
 ## Cutoff and Unlocks
 
-Arrival opens Fort Tannbruck, Timberfalls travel, Upper Grenz jobs, Ylva as a full companion, [[A Signal Shared]], and [[Fort Tannbruck Main Quest|Fort Tannbruck]]. It does not advance the season.
+Arrival opens Fort Tannbruck, Timberfalls travel, Upper Grenz jobs, Ylva as a full companion, [[A Signal Shared]], and [[Fort Tannbruck Main Quest|Fort Tannbruck]]. Arrival also begins **Open Autumn**; the season itself does not change.
 
 ## Navigation
 

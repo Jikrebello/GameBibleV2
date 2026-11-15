@@ -29,7 +29,7 @@ main_sequence: 11
 story_gate: open
 estimated_hours: 1.5
 gameplay_pillars: [hunt, investigation, traversal, combat]
-required_states: ["winter_strands_open"]
+required_states: ["winter_strands_open", "western_breach_state"]
 optional_state_inputs: ["southwood_early_warning", "autumn_road_support", "root_witness_boundary", "warlock_hall_opinion", "dismas_act1_result"]
 ---
 # The Emerald Trail
@@ -40,7 +40,7 @@ This chapter teaches the Emerald Drake through signs, ecology, and territory bef
 
 ## Trigger and Commitment
 
-Ashfield Lodge sends word that the Drake's silence belt now crosses the winter supply trail. The quest can be pursued before or after MQ-10. Its field investigations are open and may be left between sites; entering the final range survey is a closed operation.
+Ashfield Lodge sends word that the Drake's silence belt now crosses the winter supply trail. The quest opens once MQ-10 is complete. Its field investigations are open and may be left between sites; entering the final range survey is a closed operation.
 
 ## Hook and Immediate Stake
 
@@ -66,7 +66,7 @@ Three sites establish the cause:
 - **Split Pine Ravine:** ducal-authorized logging widened a route without understanding that the heart-oak line was territorial.
 - **First Snow Cairn:** Grobi war fires burned the last continuous root corridor south of the range.
 
-No one actor planned the displacement. Officials and cutters remain responsible for ignored warnings; Ghor's fighters remain responsible for deliberate fire; none created or controlled the Drake.
+No one actor planned the displacement. Officials and cutters remain responsible for ignored warnings; Ghor's fighters set their fires deliberately, as a method of war; none created or controlled the Drake.
 
 At each site the player can secure one preparation:
 

@@ -24,7 +24,7 @@ faction_branch: ""
 
 ## Core Concept
 
-The diocese's pastoral prelate, responsible for hospitals, formation, burial, and relief under Konrad.
+The diocese's pastoral prelate, responsible for hospitals, formation, burial, and relief under Konrad. Bishop-Prelate is a Grenzburg office, the bishop's prelate for pastoral works: Caestus holds it from Konrad, and it is not a second bishopric.
 
 ## Conviction and Blind Spot
 

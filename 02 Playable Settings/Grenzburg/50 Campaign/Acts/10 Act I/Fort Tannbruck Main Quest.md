@@ -13,7 +13,7 @@ aliases: ["Fort Tannbruck Quest"]
 tags: [game-ready]
 quest_class: main
 act: act-1
-availability_window: ["Early Autumn", "Open Autumn"]
+availability_window: ["Open Autumn"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["watch_hill_signals", "tann_bridge_winch", "smuggler_route_state", "ghor_route_intelligence"]
@@ -66,7 +66,7 @@ The player can enter through Watch Hill, a drainage outlet, or the Service Row s
 
 ## End: The Measured Bridge
 
-At the gallery's southern mouth, Bale meets a mixed Grobi party carrying food and a Bloody-Sun horn-token. The traders attempt to flee when Ghor's armed observer orders the route sketches seized.
+At the gallery's southern mouth, Bale meets a mixed Grobi party carrying food and a Bloody-Sun ash-marked token. The traders attempt to flee when Ghor's armed observer orders the route sketches seized.
 
 The player may ambush the meeting, separate Bale from the observer, or follow the scouts to their viewing position. Bale can surrender after the repair workers and measurements are secured. He knowingly sold military material, but evidence shows the first trades were for food rather than allegiance.
 
@@ -82,7 +82,7 @@ Returning the shutters restores Watch Hill. Repairing the winch requires choosin
 
 ## Information Paths
 
-Grease, duty rolls, and Service Row witnesses point to Bale. Trade scratches, discarded food wrappings, and the horn-token distinguish early barter from Ghor's later coercion. Bridge measurements, a scout sketch, and the overlook prove military reconnaissance.
+Grease, duty rolls, and Service Row witnesses point to Bale. Trade scratches, discarded food wrappings, and the ash-marked token distinguish early barter from Ghor's later coercion. Bridge measurements, a scout sketch, and the overlook prove military reconnaissance.
 
 ## Choices and State Changes
 
@@ -111,7 +111,7 @@ Ducal service grants a patrol for the overlook. Blackjack equipment state provid
 
 ## Cutoff and Unlocks
 
-Completion opens **Open Autumn**, [[Roads Worth Saving]], full public access to Longlake and Highlake, and optional negotiated entry toward Wolfsmere and Southwood. The quest displays which fort systems were restored and how they will function if Tannbruck is attacked.
+Completion opens [[Roads Worth Saving]], full public access to Longlake and Highlake, and optional negotiated entry toward Wolfsmere and Southwood. Open Autumn itself began when the convoy arrived in [[The Southbound Muster]]. The quest displays which fort systems were restored and how they will function if Tannbruck is attacked.
 
 ## Navigation
 

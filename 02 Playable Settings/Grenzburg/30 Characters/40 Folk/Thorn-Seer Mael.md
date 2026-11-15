@@ -32,7 +32,7 @@ Mael neither worships the lake nor treats its demands as moral. He accepts prude
 
 ## Narrative Function
 
-He controls no compact seat by himself but determines what Wolfsmere knowledge can be shared safely.
+He holds no compact seat of his own; his standing across the clans is a Lakekeeper's, and it lets him determine what Wolfsmere knowledge can be shared safely.
 
 ## Outcome Range
 

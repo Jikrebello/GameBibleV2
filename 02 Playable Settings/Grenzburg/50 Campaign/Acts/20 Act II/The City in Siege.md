@@ -53,7 +53,7 @@ Their immediate goals are the Blackjack Yard, the Lake Gate interior, and a rout
 The player reaches Quarry Steps as the wall gives way. The opening battle has three objectives:
 
 - hold the stair long enough for civilians below it to escape;
-- stop a hobgoblin horn-team from directing later waves;
+- stop a hobgoblin drum-team from directing later waves;
 - reach the wall cap and lower an emergency barrier.
 
 Success contains the first wave. Failure moves the defense line to Debtors' Row and increases fire spread rather than ending the game.
@@ -79,7 +79,7 @@ Once civilians and fire are stabilized enough to move, Liese forms a counteratta
 - Quarry Gallery infiltration beneath the occupied wall;
 - rooftop attack using the Market Roofline and emergency ladders.
 
-The party destroys the breach horn, defeats the Grobi breach-captain, and drives the surviving force back through the wall gap or onto the ice. The player then holds the exterior while engineers raise a timber-and-earth closure.
+The party destroys the breach drum, defeats the Grobi breach-captain, and drives the surviving force back through the wall gap or onto the ice. The player then holds the exterior while engineers raise a timber-and-earth closure.
 
 Restoration is part of the quest, not an off-screen promise. The player carries braces, defends workers, and chooses whether scarce forge stock creates a stronger gate or preserves material for later siege engines. The final city walk shows fire crews, cleared streets, and a visibly repaired but scarred wall.
 
@@ -92,11 +92,11 @@ Restoration is part of the quest, not an off-screen promise. The player carries 
 - breach-captain boss and exterior hold;
 - repair defense under bombardment.
 
-Grobi stages remain legible: goblins loot and infiltrate, hobgoblins coordinate, orcs lead shock groups, and larger forms attack structures. Their food pressure does not absolve the chosen assault.
+Grobi stages remain legible: goblins loot and infiltrate, hobgoblins coordinate, orcs lead shock groups, and larger forms attack structures. Their food pressure explains the migration; the assault on the city is a chosen tactic, not a necessity.
 
 ## Information Paths
 
-Wall damage, sapper tools, and observed river tracks prove the breach method. Horn relays, marked objectives, and captured sketches establish the assault plan. No human traitor is required. Later evidence in MQ-13 concerns exploitation of the damaged city, not the cause of this breach.
+Wall damage, sapper tools, and observed river tracks prove the breach method. Drum relays, marked objectives, and captured sketches establish the assault plan. No human traitor is required. Later evidence in MQ-13 concerns exploitation of the damaged city, not the cause of this breach.
 
 ## Choices and State Changes
 
@@ -135,7 +135,7 @@ Ilyana can establish obscuring fog, shared weapon cadence, and audible casualty 
 
 ## Cutoff and Unlocks
 
-Completion restores open city play in its damaged winter state, opens related repair jobs, and makes [[Knives Behind the Walls]] available after MQ-11 is completed. It advances no season and leaves the Drake and military strands open.
+Completion restores open city play in its damaged winter state, opens related repair jobs, and makes [[The Emerald Trail]] and [[Knives Behind the Walls]] available. It advances no season and leaves the Drake and military strands open.
 
 ## Navigation
 

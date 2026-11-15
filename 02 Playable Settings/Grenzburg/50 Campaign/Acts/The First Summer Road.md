@@ -48,7 +48,7 @@ After the memorial, Liese asks the protagonist to travel with the first public r
 
 ## Beginning: Through the Funnel
 
-Every version leaves Grenzburg through the Grenz Lowlands. The convoy passes repaired, ruined, or occupied traces of the opening campaign: Funnel Camp, the Three Mills road, Broken Tollworks, and the Black Road approach.
+Every version begins north of the city in the Grenz Lowlands, where the convoy musters at the Funnel to load crews and material arriving by the Black Road. Gathering it, the player passes repaired, ruined, or occupied traces of the opening campaign: Funnel Camp, the Three Mills road, Broken Tollworks, and the Black Road approach. The loaded convoy then enters Grenzburg by North Gate and leaves by the gate of its chosen corridor.
 
 A compact gameplay problem establishes the summer tone. Depending on state, the player clears a collapsed bridge, settles a returning household dispute, escorts released prisoners, drives off ordinary predators, or recovers a missing supply cart. The world no longer waits for apocalypse, but action still matters.
 

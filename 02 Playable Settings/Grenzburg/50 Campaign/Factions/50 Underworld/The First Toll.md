@@ -32,7 +32,7 @@ This is Grenzburg Underworld quest 7. It belongs to the Alignment movement and i
 
 ## Hook and Immediate Stake
 
-Ivo asks the player to approve the Black Bell's first planned killing: an official protected from trial but not currently posing immediate lethal danger.
+Ivo asks the player to approve the Black Bell's first planned killing as a standing tribunal: an official protected from trial but not currently posing immediate lethal danger. Whatever was done to Vey or to siege prisoners was done before the Bell claimed a permanent jurisdiction.
 
 Choose the Black Bell branch with full knowledge that this creates private punishment, not merely self-defense.
 
@@ -74,7 +74,7 @@ The warning screen names affected quests, leaders, services, and political-settl
 
 ## Rewards and Return Value
 
-Locks the Black Bell branch and fixes whether its founding act is killing or coerced trial.
+Locks the Black Bell branch and fixes whether its founding act as a standing tribunal is killing or coerced trial.
 
 Rewards include a faction rank or stance change, service access, equipment or training, and a visible world-state consequence. Exact numerical values remain provisional.
 

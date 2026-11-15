@@ -40,7 +40,7 @@ The Emerald Drake is animal court-fauna displaced by logging, refugee fuel-cutti
 
 ## Grobi Contract
 
-Ghor knowingly chooses conquest. Uru's dependents, Grakka's Stone-Tooth fighters, Skiv's traders, prisoners, and scattered bands remain distinct. Protecting noncombatants or accepting bounded withdrawal does not make predation harmless; defeating raiders does not authorize collective punishment.
+Ghor chooses conquest as a tactic, without a moral conscience to hold guilty. Uru's dependents, Grakka's Stone-Tooth fighters, Skiv's traders, prisoners, and scattered bands remain distinct in their interests. Protecting noncombatants or accepting bounded withdrawal does not make predation harmless; defeating raiders does not authorize collective punishment, because cruelty and broken terms degrade the humans who commit them.
 
 ## Open-World Windows
 

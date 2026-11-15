@@ -24,7 +24,7 @@ faction_branch: ""
 
 ## Core Concept
 
-A severe deacon responsible for militant protection and investigation during frontier emergencies.
+A severe deacon of the Ashen Commandery, a commandery of the Knights of Saint Aveline, responsible for militant protection and investigation during frontier emergencies.
 
 ## Conviction and Blind Spot
 

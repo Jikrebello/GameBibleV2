@@ -38,7 +38,7 @@ Prove what the object is without implying that a false relic makes the faith fal
 
 ## Player Actions
 
-Test the object, trace its sale, protect witnesses, and present findings before Church and civic audiences.
+Test the object, trace its sale, protect witnesses, and lay the evidence before a relic court, the Church body that tests sanctified objects, which gives its finding in a hearing open to Church and civic audiences.
 
 ## Opposition and Institutional Pressure
 
@@ -46,7 +46,7 @@ A relic custodian knowingly exaggerated provenance; desperate patients fear losi
 
 ## Information Paths
 
-Warlock Hall measurements, sale records, and saint-register absence prove false provenance. Patient outcomes show ordinary heat aided care.
+Warlock Hall measurements, sale records, and saint-register absence give the relic court proof of false provenance. Patient outcomes show ordinary heat aided care.
 
 At least two routes establish every required fact. Social skill, cultural familiarity, background knowledge, and prior faction work change cost or interpretation rather than deciding whether the story continues.
 

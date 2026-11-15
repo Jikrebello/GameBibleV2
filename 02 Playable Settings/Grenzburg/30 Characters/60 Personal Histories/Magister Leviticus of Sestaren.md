@@ -20,7 +20,7 @@ relationship_theme: ""
 faction_line: "secondary-delvers"
 faction_branch: ""
 ---
-# Magister Leviticus of Sestaren
+# Magister Leviticus of Sermora
 
 Leviticus is a Sermoran-trained antiquarian and licensed ruin assessor working from the Delvers' Arcade. He identifies Atherian civil works, prices salvage, teaches field notation, and irritates nearly everyone by distinguishing what an object is from what its owner hopes it is.
 

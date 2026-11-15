@@ -40,7 +40,7 @@ The opening teaches character creation, shared movement, combat, rescue, interac
 
 ## Trigger and Commitment
 
-The game begins inside a northbound debtor convoy on [[The Black Road]]. Character creation occurs through the player's intake card, issued equipment, conversations during a walking halt, and a short supervised combat drill. The convoy then descends toward the old quarry crossing at [[Old Coach Burn]]. No content exists before the crisis and no warning is required.
+The game begins inside a southbound debtor convoy on [[The Black Road]]. Character creation occurs through the player's intake card, issued equipment, conversations during a walking halt, and a short supervised combat drill. The convoy then descends toward the old quarry crossing at [[Old Coach Burn]]. No content exists before the crisis and no warning is required.
 
 ## Hook and Immediate Stake
 

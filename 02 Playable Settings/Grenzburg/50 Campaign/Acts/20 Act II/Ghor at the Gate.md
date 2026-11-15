@@ -74,7 +74,7 @@ The Blackjacks and the surviving marcher force reach Ghor's command ground outsi
 - a **massed** host retains coordinated bodyguards, reserve beasts, and a camp assault;
 - a **strained** host loses one reserve phase;
 - a **fractured** host contains fighting withdrawals, abandoned standards, and competing chiefs;
-- Uru, Grakka, Skiv, and Ruk states add or remove specific forces without changing Ghor's culpability.
+- Uru, Grakka, Skiv, and Ruk states add or remove specific forces without changing Ghor's command of the assault.
 
 Ghor-Maw fights as a war-chief who made migration into conquest. He uses captured signals, heavy polearms, bodyguard rotations, and prepared retreat lanes; he has no patron, prophecy, or supernatural invulnerability. He rejects surrender after his command collapses and is killed by the player and party.
 
@@ -92,7 +92,7 @@ The Bloody-Sun standard is cast down, organized assault ceases, and surviving Gr
 
 ## Information Paths
 
-Ghor's deployment is read through Skiv's chart, captured horn schedules, Watch Hill intelligence, ducal scouts, or direct wall observation. Missing optional intelligence replaces advance warning with a reconnaissance encounter; it never makes the assault incomprehensible.
+Ghor's deployment is read through Skiv's chart, captured tallies of the horn's calls, Watch Hill intelligence, ducal scouts, or direct wall observation. Missing optional intelligence replaces advance warning with a reconnaissance encounter; it never makes the assault incomprehensible.
 
 ## Choices and State Changes
 

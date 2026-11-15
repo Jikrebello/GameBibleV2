@@ -44,7 +44,7 @@ This is the first ordinary ducal assignment and the model for Grenzburg's ground
 
 ## Hook and Immediate Stake
 
-No flour convoy has arrived from [[Three Mills Reach]] for six days. The last returning carter reports that armed people have occupied the [[Broken Tollworks]], while a different group has marked the west bank with Shattered-Tusk warnings. If the road stays closed, the mills cannot send flour north and Grenzburg must begin drawing reserve grain before winter.
+No flour convoy has arrived from [[Three Mills Reach]] for six days. The last returning carter reports that armed people have occupied the [[Broken Tollworks]], while a different group has marked the west bank with Shattered-Tusk warnings. If the road stays closed, the mills cannot send flour south and Grenzburg must begin drawing reserve grain before winter.
 
 ## Beginning: The Empty Flour Road
 

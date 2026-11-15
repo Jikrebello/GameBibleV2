@@ -36,7 +36,7 @@ optional_state_inputs: ["autumn_road_support", "tannbruck_material", "folk_compa
 
 ## Chapter Function
 
-This chapter converts knowledge and regional relationships into a military offensive. The player must destroy Ghor's command-horn position, but may first separate three groups whose interests are not identical to his. The operation makes the final siege shorter or harsher without turning Grobi into one moral or political bloc.
+This chapter converts knowledge and regional relationships into a military offensive. The player must destroy Ghor's command-horn position, but may first separate three groups whose interests are not identical to his. The operation makes the final siege shorter or harsher without turning Grobi into one political bloc.
 
 ## Trigger and Commitment
 
@@ -44,7 +44,7 @@ The Drake is dead, the human strike cell has been stopped, and Pierre has locate
 
 ## Hook and Immediate Stake
 
-Ghor-Maw has assembled a frame of hide, horn, and captured signal metal above the upland road. Its calls coordinate bands that otherwise move at different speeds and obey different chiefs. If it survives, the next assault reaches Grenzburg as one army.
+Ghor-Maw has assembled a frame of hide, horn, and captured signal metal above the upland road. Its calls coordinate bands that otherwise move at different speeds and obey different chiefs. The Southern Horn is Ghor's break with drum law: Grobi bands signal by drum, each on a measure kept by its own drum keepers, and one horn sounding over every band's drums answers to none of them, which is why rival chiefs resent it. If it survives, the next assault reaches Grenzburg as one army.
 
 The Blackjacks are sent as a specialist shock unit, not as army commanders. Liese holds the withdrawal road; ducal soldiers can exploit an opening but cannot climb the horn position unseen.
 
@@ -62,7 +62,7 @@ Grakka's Stone-Tooth fighters occupy the lower redoubt. They can be separated by
 
 ### Skiv's Last Chart
 
-Skiv's trader-captains move stores over a frozen branch channel. The player can seize the flotilla, buy one truthful chart while exposing Skiv's double sales, or raid his ledgers. The evidence confirms Ghor's resupply line and the approach used by the Cinder Knives. Skiv remains a profiteer whether he cooperates, flees, or dies.
+Skiv's trader-captains move stores over a frozen branch channel. The player can seize the flotilla, buy one truthful chart while exposing Skiv's double sales, or raid his barter tallies. The evidence confirms Ghor's resupply line and the approach used by the Cinder Knives. Skiv remains a profiteer whether he cooperates, flees, or dies.
 
 ## Middle: The Relay Climb
 
@@ -93,7 +93,7 @@ Ghor's host begins to move before the party returns. The army is now massed, str
 
 ## Information Paths
 
-Captured horn schedules, Skiv's charts, Watch Hill observations, and Folk upland scouts independently reveal relay timing. Uru and Grakka's positions can be learned through direct reconnaissance even if the player has no prior Grobi contacts.
+Captured tallies of the horn's calls, Skiv's charts, Watch Hill observations, and Folk upland scouts independently reveal relay timing. Uru and Grakka's positions can be learned through direct reconnaissance even if the player has no prior Grobi contacts.
 
 ## Choices and State Changes
 

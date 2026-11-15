@@ -58,7 +58,7 @@ If [[Ilyana Veshkar]] is present, she can build a voluntary breathing and stretc
 
 ## Fail-Forward Results
 
-If the rite cannot occur, hard rescue still saves many at greater injury. If it occurs, the bearer suffers exhaustion and no institution gains automatic jurisdiction.
+If the rite cannot occur, hard rescue still saves many at greater injury. If it occurs, the bearer suffers exhaustion and no institution gains automatic jurisdiction, whether over the civil courts or over the Freeflame preachers of the winter camps.
 
 Failure changes casualties, evidence, access, services, institutional stance, or the next mission. It never deletes the faction line without an authored result.
 

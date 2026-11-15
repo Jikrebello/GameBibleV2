@@ -40,7 +40,7 @@ This chapter changes the game's enemy language from living armies to organized r
 
 ## Trigger and Commitment
 
-Three days after Ghor's rout, a spring melt opens Highlake's lower haulage route. The **Ninth Shift**, twenty-six miners and two surveyors, fails to return from [[Cold-Iron Deeps]]. Highlake's normal rescue crew enters and sends back one impossible message: the missing workers are continuing their shift under the names of soldiers dead for centuries.
+Three days after Ghor's rout, a spring melt opens Highlake's lower haulage route. The **Ninth Shift**, twenty-six miners and two surveyors, fails to return from [[Cold-Iron Deeps]]. Highlake's normal rescue crew enters and sends back one impossible message: the missing workers are continuing their shift under the names of soldiers dead for thousands of years.
 
 Accepting the descent begins a closed mine expedition. It does not close other Early Spring content.
 

@@ -14,7 +14,7 @@ tags: [game-ready]
 ---
 # Grobi Host Fragmentation Matrix
 
-Ghor turns migration into conquest. His culpability does not erase the distinct interests of dependents, traders, rival chiefs, and fighters who may abandon him. The player cannot join Grobi as one faction and cannot negotiate Ghor out of his chosen war.
+Ghor turns migration into conquest. That choice is tactical, made without a moral conscience, and it does not erase the distinct interests of dependents, traders, rival chiefs, and fighters who may abandon him. The player cannot join Grobi as one faction and cannot negotiate Ghor out of his chosen war.
 
 | Thread | Starting state | Player leverage | Siege effect | Aftermath effect |
 |---|---|---|---|---|

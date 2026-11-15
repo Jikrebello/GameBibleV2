@@ -13,7 +13,7 @@ aliases: []
 tags: [game-ready]
 quest_class: main
 act: act-2
-availability_window: ["Deep Winter"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["winter_knives_state", "granary_culvert_state", "counterattack_route"]

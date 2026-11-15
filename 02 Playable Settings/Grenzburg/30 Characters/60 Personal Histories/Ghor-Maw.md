@@ -22,7 +22,7 @@ faction_branch: ""
 ---
 # Ghor-Maw
 
-Ghor-Maw is the war-chief who turns a hard southern migration into the Bloody-Sun conquest of Grenzburg. Hunger, displaced routes, and competition among Grobi bands explain why a host can form; they do not require Ghor to target civilians, hold dependents close to his army, promise plunder, or demand one crown over groups that do not owe him obedience.
+Ghor-Maw is the war-chief who turns a hard southern migration into the Bloody-Sun conquest of Grenzburg. Hunger, displaced routes, and competition among Grobi bands explain why a host can form; they do not require Ghor to target civilians, hold dependents close to his army, promise plunder, or demand one crown over bands that follow other chiefs; those are his tactical choices.
 
 ## Public Character
 
@@ -41,7 +41,7 @@ The host remains internally plural:
 
 ## Moral Ruling
 
-Ghor has full moral agency. Conditions may make migration necessary; they do not make conquest, hostage-taking, civilian attack, or slavery necessary. He cannot be negotiated into a good ruler of Grenzburg and will not surrender once his final command collapses.
+Ghor has every tactical choice and no moral conscience. Conditions may make migration necessary; they do not make conquest, hostage-taking, or civilian attack necessary, and he chooses each as a method. Human captives in his host are provisions for the march, not slaves. The moral weight of the war falls on the humans who fight it: what they owe prisoners, withdrawing dependents, and bands that leave him. He cannot be negotiated into a good ruler of Grenzburg and will not surrender once his final command collapses.
 
 ## Campaign Arc
 
@@ -52,7 +52,7 @@ Ghor has full moral agency. Conditions may make migration necessary; they do not
 
 ## Combat Identity
 
-Ghor is a physical war-chief: heavy polearm, captured shield work, bodyguard rotations, horn signals, retreat lanes, and personal endurance. He has no patron, prophecy, spell of invulnerability, connection to the Emerald Drake, or role in the Deep Muster.
+Ghor is a physical war-chief: heavy polearm, captured shield work, bodyguard rotations, drum signals, retreat lanes, and personal endurance. He has no patron, prophecy, spell of invulnerability, connection to the Emerald Drake, or role in the Deep Muster.
 
 ## Navigation
 

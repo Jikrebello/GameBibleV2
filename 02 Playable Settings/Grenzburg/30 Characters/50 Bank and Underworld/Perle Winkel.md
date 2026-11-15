@@ -26,7 +26,7 @@ She exists to be woundable. Everyone else in Elara's orbit is too dignified, too
 
 ## Manner
 
-Perle talks the way water finds a drain: constantly, without malice, and by whatever route is available. Her subjects are her pigeons, her nephew's letters from the Fiorenzian coast, the state of everyone's knees, and the soup bone of 1349, which was famous.
+Perle talks the way water finds a drain: constantly, without malice, and by whatever route is available. Her subjects are her pigeons, her nephew's letters from the Fiorenzian hills, the state of everyone's knees, and the soup bone of 1349, which was famous.
 
 She is not witless. Her digressions arrive at true observations — reliably, and always one clause after the last listener has escaped. This is her structural joke and her structural function: she is the Yard's institutional memory, and nobody can bear listening long enough to consult it.
 

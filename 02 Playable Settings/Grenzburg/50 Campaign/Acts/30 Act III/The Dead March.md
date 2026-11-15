@@ -79,7 +79,7 @@ The player's order changes exhaustion, losses, and which emergency grows while t
 
 ## End: The Road South
 
-After the third intervention, the remaining formations receive one recall and withdraw toward the Deep Muster. The player may pursue immediately to preserve surprise or pause for one bounded recovery scene. `final_assault_strength` is calculated from:
+After the third intervention, the remaining formations receive one recall and withdraw toward the Deep Muster, and the closed sequence ends. The player may pursue immediately to preserve surprise or first use the open Muster Crisis interval: Grenzburg and the surviving hubs stay reachable under crisis conditions until the MQ-21 commitment, anchor operations stay closed, and the faction and companion quests windowed for the Muster Crisis are played here. `final_assault_strength` is calculated from:
 
 - three front states;
 - number of destroyed anchors;
@@ -130,7 +130,7 @@ Each principal faction can hold one kind of pressure: marcher line defense, Blac
 
 ## Cutoff and Unlocks
 
-Completion closes remaining anchor operations and begins [[The Deep Muster Main Quest|The Deep Muster]]. The player receives one final equipment, party, and route-selection opportunity at Last Hearth before descent.
+Completion closes remaining anchor operations and makes [[The Deep Muster Main Quest|The Deep Muster]] available. Open play continues inside the Muster Crisis until the player commits at Last Hearth, where the final equipment, party, and route selection takes place before descent.
 
 ## Navigation
 

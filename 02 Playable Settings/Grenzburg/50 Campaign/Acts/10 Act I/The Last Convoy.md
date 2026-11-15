@@ -40,7 +40,7 @@ This is the player-controlled Late Autumn gate. It converts autumn preparation i
 
 ## Trigger and Commitment
 
-After three autumn operations, Liese reports that Ghor's scouts have crossed the southern marker in force. Pierre orders the frontier stores and exposed households pulled north. Accepting displays every unfinished Open Autumn quest and its stated cutoff result. Once confirmed, the operation runs continuously until the convoy reaches Tannbruck.
+After three autumn operations, Liese reports that Ghor's scouts have crossed the southern marker in force. Pierre orders the frontier stores and exposed households pulled north. Accepting displays every unfinished Open Autumn quest and its stated cutoff result. Once confirmed, the operation runs continuously until the last wagons are clear of Tannbruck.
 
 ## Hook and Immediate Stake
 
@@ -54,7 +54,7 @@ The baseline network can fully protect one column and partly protect another. Ev
 
 ## Beginning: Divide the Road
 
-At Tann Crossing Farms, the player assigns routes and escorts:
+At Tann Crossing Farms, the fortified farm belt on the fort road north of the crossing, the player assigns routes and escorts for the withdrawal north:
 
 - the central Upper Grenz road is fastest but watched by Ghor;
 - the eastern Tuskway route is defensible but exposed to Shattered-Tusk raiders;
@@ -74,9 +74,9 @@ Delegated routes resolve visibly from their assigned leader, road states, suppli
 
 ## End: The Gates of Tannbruck
 
-The columns converge outside Fort Tannbruck as the first hard frost closes the southern road. A final Grobi probe tries to seize the last wagons before the lower gate shuts. The player holds the farm lane and decides whether damaged wagons are dragged inside, stripped at the gate, or burned.
+With its column through, the party returns to Fort Tannbruck, where the last wagons of all three columns are still loading in the farm belt as the first hard frost closes the southern road. A final Grobi probe tries to seize them before the lower gate shuts. The player holds the farm lane and decides whether damaged wagons are dragged inside, stripped at the gate, or burned.
 
-Ghor's distant horns answer from more than one corridor. Hedda closes the fort, Pierre rides north to prepare Grenzburg, and Gerhold remains to command the initial defense. The player is given one open fort interval to speak with survivors and prepare before starting [[Tannbruck Falls]].
+Ghor's distant drums answer from more than one corridor. Hedda closes the fort, Pierre rides north to prepare Grenzburg, and Gerhold remains to command the initial defense. The player is given one open fort interval to speak with survivors and prepare before starting [[Tannbruck Falls]].
 
 ## Encounters and Opposition
 

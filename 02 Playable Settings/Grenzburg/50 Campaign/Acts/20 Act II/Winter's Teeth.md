@@ -68,7 +68,7 @@ The player defends two of three fronts directly while Liese or an assigned compa
 - the store park;
 - the gate winch and outer barrier.
 
-Tannbruck route intelligence reveals the signal pattern early. Without it, the player reads the attack from horns and scout movement after the first rush.
+Tannbruck route intelligence reveals the signal pattern early. Without it, the player reads the attack from drums and scout movement after the first rush.
 
 ## End: Three Winter Fronts
 
@@ -78,7 +78,7 @@ After the field is cleared, Pierre conducts a short map briefing at the Marcher 
 - the displaced Emerald Drake has closed a needed Southwood winter corridor;
 - scarcity and damage inside Grenzburg are creating opportunities for criminals and abusive authority.
 
-The player is not asked to solve all three immediately. [[The City in Siege]] and [[The Emerald Trail]] open in parallel, while faction, companion, local, and training content receives its Early Winter states. Military patrol jobs and Grobi-band leads also open.
+The player is not asked to solve all three immediately. [[The City in Siege]] opens first and [[The Emerald Trail]] opens when it is complete, while faction, companion, local, and training content receives its Early Winter states. Military patrol jobs and Grobi-band leads also open.
 
 ## Encounters and Opposition
 
@@ -89,7 +89,7 @@ The player is not asked to solve all three immediately. [[The City in Siege]] an
 
 ## Information Paths
 
-Survivor rolls, material wagons, and visible field conditions establish intake needs. Scout reports, captured food sacks, and horn patterns establish that Ghor is investing rather than launching the final siege. The three campaign strands are introduced through concrete requests rather than lore exposition.
+Survivor rolls, material wagons, and visible field conditions establish intake needs. Scout reports, captured food sacks, and drum patterns establish that Ghor is investing rather than launching the final siege. The three campaign strands are introduced through concrete requests rather than lore exposition.
 
 ## Choices and State Changes
 
@@ -114,7 +114,7 @@ Autumn faction work changes intake staff, shelters, stores, passage, and covert 
 
 ## Cutoff and Unlocks
 
-Completion opens **Early Winter**, the winter city and regional states, [[The City in Siege]], [[The Emerald Trail]], winter faction quests through their valid stages, and post-Tannbruck companion reactions. No real-time siege clock runs during the open interval.
+Completion opens **Early Winter**, the winter city and regional states, [[The City in Siege]], winter faction quests through their valid stages, and post-Tannbruck companion reactions. [[The Emerald Trail]] opens when MQ-10 is complete. No real-time siege clock runs during the open interval.
 
 ## Navigation
 

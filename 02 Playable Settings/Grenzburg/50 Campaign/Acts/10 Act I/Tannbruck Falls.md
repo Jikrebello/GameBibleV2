@@ -40,7 +40,7 @@ This is Act I's fixed defeat and first major military set piece. The player cann
 
 ## Trigger and Commitment
 
-Gerhold convenes a final defense briefing after the convoy arrives. Scouts confirm attacks on the Upper Grenz, Tuskway, and Fenn corridors. The fort will hold long enough to evacuate, not await relief that cannot arrive.
+Gerhold convenes a final defense briefing after the convoy has gone north. Scouts confirm attacks on the Upper Grenz, Tuskway, and Fenn corridors. The fort will hold long enough to evacuate, not await relief that cannot arrive.
 
 The start warning closes Late Autumn content, advances weather during the operation, and names every fort service or person that may transform. The player chooses three active companions and cannot change party until the withdrawal reaches Tann Field.
 
@@ -64,7 +64,7 @@ Back at the fort, three crises become active:
 - stores and military fittings must be loaded or destroyed;
 - Horn-Captain Ruk's fighters reach the bridge machinery through the smuggler route or a direct wall breach.
 
-The player moves between the lower gate, Service Row, and bridge winch. Strong convoy and fort states provide enough people to perform parallel tasks. Weak states force delegation or loss.
+The player moves between the lower gate, Service Row, and bridge winch. Strong convoy and fort states leave enough hands free to perform parallel tasks. Weak states force delegation or loss.
 
 The bridge outcome depends on MQ-05:
 
