@@ -30,7 +30,7 @@ Safeguards, rulings and exact figures moved out of public Atherian, island and V
 - *(Causality Pass 02, 14 November 2026)* Reader link to the author-only [[Unknown Histories - Authorial Accounts]] removed from the G-64 paragraph; the account remains there and in UH-03.
 - *(Causality Pass 02, 14 November 2026)* The city of the turned gate is [[OBA-N07 - Wheels at the Withdrawing Glory]], dated c. 608 inside Tashqar's war. The Lord commissioned a high-order choir to withdraw the refuge covenant's protection; the siege, executions and exile stay human acts, and Tashqar's allies were not made righteous. The city's name stays unknown.
 - *(Causality Pass 02, 14 November 2026)* "The highland league of nine valleys" is Orthea's Nine-Valley League; the vanished allied soldiers are the witnesses killed in [[The Erasure of Orthea]].
-- *(Causality Pass 02, 14 November 2026)* The noon hour of 488 was answered by a noon-bound place-mind of [[Father Sun]]; the rot was the failure of the "bear without limit" request. The 466 apparition at Pyrassa was a partial recurrence of [[The Shoreless King]].
+- *(Causality Pass 02, 14 November 2026)* The noon hour of 488 was answered by a noon-bound place-mind of [[01 Canon Reference/Cosmology/30 Menhir/10 Second Circle/Father Sun.md|Father Sun]]; the rot was the failure of the "bear without limit" request. The 466 apparition at Pyrassa was a partial recurrence of [[The Shoreless King]].
 
 ## [[Arkenan and Saronikan Cities before the Empire]]
 
@@ -45,7 +45,7 @@ Safeguards, rulings and exact figures moved out of public Atherian, island and V
 
 - Early civic rites incorporated practices actually associated with Menhir and with Idol remnants, often misunderstanding the powers involved. Reader prose now says only "Giant courts and older cults".
 
-## [[Road, Tower, River and Highland Life]]
+## [[01 Canon Reference/History/30 Exodus and First Civilizations/Road, Tower, River and Highland Life.md|Road, Tower, River and Highland Life]]
 
 - Springs, shore powers and Masks remained separate actors even when worshippers used similar language for water, fire or ancestors.
 

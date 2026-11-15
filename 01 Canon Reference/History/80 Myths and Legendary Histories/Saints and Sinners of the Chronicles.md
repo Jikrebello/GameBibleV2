@@ -184,7 +184,7 @@ In another retreat of the same decades, a cult carrying a black, dripping banner
 
 ## The Fall and the Reconquest (905–1015 AR)
 
-Caleran fell to the armies of Idris al-Qari in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[The Reclamation of Caleran]].
+Caleran fell to the armies of Idris al-Qari in 905, and for a century the Atherian world was refugee camps, occupied towns, mountain resistance and returning claimants. Its sinners rebuilt the world as they wanted to remember it; its saints were remembered for opening doors. See [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]], [[The Fall and the Long Reconquest]] and [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]].
 
 ### The Saint at the Last Door of the Borrowed Temple (c. 905–907 AR)
 
@@ -216,7 +216,7 @@ Soldiers of a much later siege swore that a one-handed warden appeared on their 
 
 ### The Wardens of Caelmount (917 AR)
 
-The cave-wardens of Caelmount kept the refuge's grain in galleries where the mountain's breath killed rats, mould and men alike, and kept the upper galleries sweet by opening stone doors in the vents. On the night before a Covenant column reached the caves they shut every door. They knew that the column would sleep there, that their own granary would be a year in airing, and whose bread lay in the low galleries. Eleven hundred men were drawn out dead in the spring, and the valley went hungry for years, because nobody would eat grain that had wintered among them. The founding sermons give the victory to Caedros, who was two days away. The wardens' families keep a fast on that night, and nobody in the valley has ever called it a feast. See [[The Battle of Caelmount]].
+The cave-wardens of Caelmount kept the refuge's grain in galleries where the mountain's breath killed rats, mould and men alike, and kept the upper galleries sweet by opening stone doors in the vents. On the night before a Covenant column reached the caves they shut every door. They knew that the column would sleep there, that their own granary would be a year in airing, and whose bread lay in the low galleries. Eleven hundred men were drawn out dead in the spring, and the valley went hungry for years, because nobody would eat grain that had wintered among them. The founding sermons give the victory to Caedros, who was two days away. The wardens' families keep a fast on that night, and nobody in the valley has ever called it a feast. See [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/The Battle of Caelmount.md|The Battle of Caelmount]].
 
 ### The Prince of the Clause (929 AR)
 
@@ -236,7 +236,7 @@ Her sentence named a throne. Oaths since have been sworn to the Sublime Threshol
 
 ### The Eleven Keepers (957 AR)
 
-The third generation of the Covenant keepers who held the Eternal Ember as a deposit for the final audit had been born in occupied Caleran, and their names stood pledged that the lamp would be neither divided, removed nor put out. When their own amir's guard came in the second week of the funeral revolt to carry the lamp to his ships, they barred the basilica, and eleven died at the lamp before the funeral crowds came up. The survivors would not open the forum precinct to the Thalmyric army until it had heard terms for the garrison families their amir had shut out of the harbour fort. Caleran's clergy pray for them by name each spring; Iqashar counts them among its honest dead; Thalmyric zealots have never forgiven the clergy for praying for unbelievers. See [[The Reclamation of Caleran]].
+The third generation of the Covenant keepers who held the Eternal Ember as a deposit for the final audit had been born in occupied Caleran, and their names stood pledged that the lamp would be neither divided, removed nor put out. When their own amir's guard came in the second week of the funeral revolt to carry the lamp to his ships, they barred the basilica, and eleven died at the lamp before the funeral crowds came up. The survivors would not open the forum precinct to the Thalmyric army until it had heard terms for the garrison families their amir had shut out of the harbour fort. Caleran's clergy pray for them by name each spring; Iqashar counts them among its honest dead; Thalmyric zealots have never forgiven the clergy for praying for unbelievers. See [[01 Canon Reference/History/60 Fall and Successor Empires/The Reclamation of Caleran.md|The Reclamation of Caleran]].
 
 ### Hedwen of Kaltfurt (960 AR; d. c. 1010)
 
@@ -266,7 +266,7 @@ In 1009 a fever was in the hospice at Sarmene, and a Breaker band came to put th
 
 ## Two Crowns and High Noon (1015–1290 AR)
 
-The Great Split of 1015 gave the Known World two churches with two calendars, and every saint who had lived before it became something to own. High Noon brought prosperity, mines, Qarath, the Grey Sweat and the Black Wind. See [[The Great Split — Two Crowns, One Fire]], [[High Noon and the Qarath Disaster]] and [[The Grey Sweat]].
+The Great Split of 1015 gave the Known World two churches with two calendars, and every saint who had lived before it became something to own. High Noon brought prosperity, mines, Qarath, the Grey Sweat and the Black Wind. See [[The Great Split — Two Crowns, One Fire]], [[High Noon and the Qarath Disaster]] and [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 
 ### The Saint of the Two Ferries (c. 996–1035 AR)
 
@@ -326,7 +326,7 @@ In Vlastrava, around 1220, in the War of the Seal that followed Qarath, an agent
 
 ### Aubert of Corvel, the Ferryman Primarch (1240–1251 AR)
 
-In 1240 the plague-thinned conclave elected Aimery of Corvel, who sickened that evening and died before dawn, before he had sung a single rite. Under the quarantine rule the conclave would have been sealed in with the fever. His twin Aubert buried him in the conclave garden without a rite, put on his ring and came out to the loggia in his place, and for twenty months reigned as his brother. His Ferry Rule of 1241 let any baptised person who knew the names of the dead sing the funeral where no priest lived, and thousands of parishes buried their dead by it. In the spring of 1242 sacristans saw a cardinal in red at the garden wall at night, with the Primarch's face; one said the name *Aimery* and sang, and the figure went. Aubert confessed, the two colleges split over whether his acts stood, and families who had buried by the Ferry Rule did not know whether their dead had been sent. Gelasin II confirmed the Rule for the plague years only, and Aubert died in a Brauvalis abbey in 1251. Aurelian canonists call him the Usurper of the Ring; Brauvalis abbeys and the Freeflame call him the Ferryman Primarch. See [[The Grey Sweat]].
+In 1240 the plague-thinned conclave elected Aimery of Corvel, who sickened that evening and died before dawn, before he had sung a single rite. Under the quarantine rule the conclave would have been sealed in with the fever. His twin Aubert buried him in the conclave garden without a rite, put on his ring and came out to the loggia in his place, and for twenty months reigned as his brother. His Ferry Rule of 1241 let any baptised person who knew the names of the dead sing the funeral where no priest lived, and thousands of parishes buried their dead by it. In the spring of 1242 sacristans saw a cardinal in red at the garden wall at night, with the Primarch's face; one said the name *Aimery* and sang, and the figure went. Aubert confessed, the two colleges split over whether his acts stood, and families who had buried by the Ferry Rule did not know whether their dead had been sent. Gelasin II confirmed the Rule for the plague years only, and Aubert died in a Brauvalis abbey in 1251. Aurelian canonists call him the Usurper of the Ring; Brauvalis abbeys and the Freeflame call him the Ferryman Primarch. See [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 
 ### The Rider of the Benches (d. 1241 AR)
 
@@ -344,7 +344,7 @@ Thalmyria canonised him in the 1290s as Saint Gavrin of the Halter, a martyr of 
 
 Gerlind was a miller's daughter of Lindenfurt, a ford-and-mill town on a tributary of the upper Weiss. In 1236 the Sweat killed the parish priest, her mother and her two brothers, and her mother was seen at the mill-race for nine nights. On the tenth, eight years old, Gerlind made the neighbours say aloud the names of their dead and sang the one funeral hymn she knew, and her mother was not seen again. From about 1248 she walked to parishes whose priests had died and whose dead still walked, named every dead person by the people who had known them, then sang. She took bread and refused coin: *the dead are named, not bought.* She was flogged at a Virelian magnate's gate in 1257 for burying bond-folk, and in 1266 a Sanctum relic court whose own observers had watched a thin place close at her singing acquitted her narrowly, on condition that she sing only with a priest present. She brought whatever priest she could find. She died of a winter fever in 1279 and was buried by the mill-race.
 
-Her death made her useful. Alessior II canonised her in 1284 with unusual speed, and his Chancery printed her face on its assurance letters; the Gerlind seal outsold every other. Her grave was enclosed in a Sending House chapel that charged pilgrims, her bones went to the Sanctum in 1290, and in 1285 an apparition of Gerlind herself was seen condemning the Saint-Leon singers who sang the dead out for nothing, before a riot burned their quarter. The Sanctum honours her as the obedient saint who sang with a priest present; the Freeflame claim her as the first of their elders and quote her saying against every Sending. The boy who held the chaplain's book for her at Brenholt in 1267 was Ansgar, and Brenholt miners say a woman's voice joined his night singing in the 1280s. Lindenfurt people still go to the mill-race to say names. See [[The Grey Sweat]].
+Her death made her useful. Alessior II canonised her in 1284 with unusual speed, and his Chancery printed her face on its assurance letters; the Gerlind seal outsold every other. Her grave was enclosed in a Sending House chapel that charged pilgrims, her bones went to the Sanctum in 1290, and in 1285 an apparition of Gerlind herself was seen condemning the Saint-Leon singers who sang the dead out for nothing, before a riot burned their quarter. The Sanctum honours her as the obedient saint who sang with a priest present; the Freeflame claim her as the first of their elders and quote her saying against every Sending. The boy who held the chaplain's book for her at Brenholt in 1267 was Ansgar, and Brenholt miners say a woman's voice joined his night singing in the 1280s. Lindenfurt people still go to the mill-race to say names. See [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 
 ## Held Proofs and the Present (1290–1360 AR)
 
@@ -391,11 +391,11 @@ In one Eclessian jurisdiction, laundresses, guards, clerks, a physician and grav
 - [[The Ember Underground]]
 - [[The Conversion of the Empire]]
 - [[The Long Frontier and the First Unsealing]]
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[The Fall and the Long Reconquest]]
 - [[The Great Split — Two Crowns, One Fire]]
 - [[High Noon and the Qarath Disaster]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[Qarayel and the Black Wind]]
 - [[Freeflame Reformation]]
 - [[The Age of Held Proofs]]

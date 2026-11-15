@@ -123,7 +123,7 @@ The porters' story went through both camps, and in the spring of 1027, six years
 
 Under the terms each man held what he held that day, until a banner answered. None ever has. Aldwin held the south with Aurelium and the keeping of the crown, Hartwin the eastern march, and Gervin the middle march with its dukes, abbots and order-captains, who had banners of their own and soon stopped asking his leave. The clerks wrote the holdings down on the field on wax tablets, and the tablet for the middle march was smudged along its eastern line before anyone copied it. Every border dispute in Eclessia cites Drossfeld the way lawyers cite scripture, because every border in Eclessia is a truce line from that afternoon, and the middle march's disputes all begin with what the smudge covered. Aldwin's chaplain swore to his death that the legate had felt for the blank. Eclessians call any choice that settles nothing a Drossfeld lot.
 
-Wolmar died in 1034 in Aldwin's house, seven years after the lot, a guest in the kingdom he had never been allowed to call an empire. Hartwin was killed at the Orzva fords in 1047 by the Grass-Tarkhan riders he had gone east to stop, and left no heir; his lords swore to nobody for seventeen years. Gervin's and Aldwin's men fought over the smudged line until 1049. [[The Rise of the Eclessian Duchies and Kingdoms]]
+Wolmar died in 1034 in Aldwin's house, seven years after the lot, a guest in the kingdom he had never been allowed to call an empire. Hartwin was killed at the Orzva fords in 1047 by the Grass-Tarkhan riders he had gone east to stop, and left no heir; his lords swore to nobody for seventeen years. Gervin's and Aldwin's men fought over the smudged line until 1049. [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/The Rise of the Eclessian Duchies and Kingdoms.md|The Rise of the Eclessian Duchies and Kingdoms]]
 
 ## The lamp-houses, 1012–1049
 
@@ -204,7 +204,7 @@ By 1104 the two crowns had become one crown in Thalmyria and one crown in a box.
 ## Historical articles in this age
 
 - [[The Coronation at Virelos]]
-- [[The Rise of the Eclessian Duchies and Kingdoms]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/The Rise of the Eclessian Duchies and Kingdoms.md|The Rise of the Eclessian Duchies and Kingdoms]]
 - [[Historical Spine of the Folk]]
 
 ## Local tales and surviving memories

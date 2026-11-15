@@ -29,7 +29,7 @@ The Saldanes ruled from the southern fort-line for 135 years, through Ättar sea
 
 Every march oath had to be renewed within a year and a day of a new reign, in person, by the emperor kneeling at the march's own gate. The new emperor spent that year in his bed and then in a litter, holding the capital, the fleet and the court clergy. **Corvenas**, who commanded the march facing the Velian belt and had married Tavoran II's daughter, rode the frontier in his brother-in-law's place and at first in his name. He spent 699 in the saddle. At march after march he knelt while a frontier monk read the old oath over him, and the lamps took the Fire. The marches held that their oaths lay with the man who had knelt. They chose him, and after three years of the War of the Two Oaths he entered Caleran as **Corvenas I** (r. 701–746). His **Corvenid** descendants ruled until the Fall.
 
-Wary of the marches that had made them, the later Corvenids built a counterweight in the capital: a chancery of sworn jurists called the Sealing Office, baptised Ättar crews who held the harbour and the Kedravan coast and swore to the emperor's own ships, and gold contracts with Sestaran and Vortharan warlock guilds. **Corvenas II** (r. 861–884) launched the Reception and was forced to abdicate. **Corvenas III** (r. 884–905) inherited the result; his last years are told in [[Prelude to Collapse]].
+Wary of the marches that had made them, the later Corvenids built a counterweight in the capital: a chancery of sworn jurists called the Sealing Office, baptised Ättar crews who held the harbour and the Kedravan coast and swore to the emperor's own ships, and gold contracts with Sestaran and Vortharan warlock guilds. **Corvenas II** (r. 861–884) launched the Reception and was forced to abdicate. **Corvenas III** (r. 884–905) inherited the result; his last years are told in [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]].
 
 ## The Guttering
 
@@ -157,7 +157,7 @@ In 884 Qahir obtained from the Witnessed-Seal college a ruling that by marching 
 
 For three centuries the 4,444 had dug, lifted, carried, kept and guarded, and never marched. Their recited covenant says the bound "shall take nothing that is not given", and the Witnessed-Seal jurists read that **Clause of the Given** as barring them from conquest. In 885–886 Qahir obtained from the college at Al-Qahur a ruling that the Clause binds parties and not powers. A beast captured in mapped Hell was party to nothing. A condemned man's name was forfeit by his sentence, or so the jurists claimed. A construct had no name at all.
 
-Qahir's capture companies went down the routes into Hell that Banu Mizan scholars and breach-assessors had been mapping for generations. His foundries hammered name-cages and fed them from the breach-courts' death sentences. Coerced Ahdanite levies learned to be engineers and foundry crews. A minority of jurists, remembered as the people of the Clause, argued that a covenant of provision could not be honoured by conquering with what it never named. They lost, and their argument is still taught at Al-Qahur. Qahir died in 902 with the engines built. [[The Invasion and the Fall]] follows what his successor Idris did with them.
+Qahir's capture companies went down the routes into Hell that Banu Mizan scholars and breach-assessors had been mapping for generations. His foundries hammered name-cages and fed them from the breach-courts' death sentences. Coerced Ahdanite levies learned to be engineers and foundry crews. A minority of jurists, remembered as the people of the Clause, argued that a covenant of provision could not be honoured by conquering with what it never named. They lost, and their argument is still taught at Al-Qahur. Qahir died in 902 with the engines built. [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]] follows what his successor Idris did with them.
 
 ## How the age is remembered
 
@@ -174,9 +174,9 @@ Thalmyria remembers the Guttering and draws the lessons of its refuge from it: t
 - [[The Velian Church]]
 - [[The Disputed Fourth Seal]]
 - [[Towns and Wars of the Long Frontier]]
-- [[Prelude to Collapse]]
-- [[The Invasion and the Fall]]
-- [[Eclessia During the Invasion]]
+- [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
 - [[Saints and Sinners of the Chronicles]]
 - [[The Hunger Wars]]
 

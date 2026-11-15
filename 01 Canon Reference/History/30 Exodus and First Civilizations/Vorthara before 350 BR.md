@@ -71,6 +71,6 @@ The official description was convenient to both parties. Atheria could watch the
 
 - [[Historical Atlas of the Elmaric Sea before 350 BR]]
 - [[Vortharan Working Precincts before 350 BR]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]
 - [[Ancient Qahur and the Twin-Reed Crowns]]
 - [[Atherian Imperial Age]]

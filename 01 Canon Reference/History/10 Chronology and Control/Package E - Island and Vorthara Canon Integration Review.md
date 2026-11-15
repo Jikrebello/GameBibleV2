@@ -25,7 +25,7 @@ This delivery ends at **350 BR**. [[Package E - Sestaran City Origins and Imperi
 - [[Shoal and Lagoon Islands before 350 BR]], [[Near-Mainland Harbour Islands before 350 BR]], [[Gateway-Facing Outer Approaches before 350 BR]] and [[Eastern Channels before 350 BR]] — functional geographies whose exact individual island charts remain open.
 - [[Caelovar]], [[Marelith]] and [[Black Reef]] — three distinct places or forms, not aliases for one Atlantis event.
 - [[Vorthara before 350 BR]] and [[Vortharan Working Precincts before 350 BR]] — refuge-city formation, Qahuri death-working roots, cult courts and overlapping working areas.
-- [[The Pale Hand before 350 BR]] — public institutional history of the early death-working faction; the present [[The Pale Hand|secret faction file]] remains restricted.
+- [[The Pale Hand before 350 BR]] — public institutional history of the early death-working faction; the present [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Pale Hand.md|secret faction file]] remains restricted.
 
 [[The Wars of the Atherian Succession]], [[Istran Melvo]], the master [[Chronology of the Known World (AR Dating)|chronology]], Sestaran foundations, present regional overviews and the main culture entrances now carry summary links. The pre-existing 355 BR defeat of Ardel remains **one linked central-anchorage operation**, with his eastern escape and 354 BR execution intact.
 

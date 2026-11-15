@@ -120,7 +120,7 @@ An Ättar upland settlement facing the Grobi lost its winter caravan. Strangers 
 
 For forty years a weeping Lady appeared at Bruckmoor in Eclessia, and pilgrims walked to her from three countries with offerings, sick children and the names of the dead. In its last decade the apparition fed on the grief of the Grey Sweat, when whole parishes were dying and the Ash-Walker processions carried their ash from town to town. In 1243 the Inquisition of Saint Malveris proved the shrine an Idol-feeding operation, a harvest of the desperate kept in the shape of Envy, and its keepers part of the network later known as the Weeping Courts. The site was burned and salted.
 
-Bruckmoor changed Eclessian piety more than any genuine wonder of its century. The relic courts' modern procedure descends from it: witness grilles, separate offering chests, inspection doors and court seals, so that no apparition or custodian can control both the evidence and the income. Veridun cites Bruckmoor whenever Eclessia authenticates a field miracle, and captured papers of the Weeping Courts now claim the apparition at Vessing in 1352 as well. See [[The Grey Sweat]].
+Bruckmoor changed Eclessian piety more than any genuine wonder of its century. The relic courts' modern procedure descends from it: witness grilles, separate offering chests, inspection doors and court seals, so that no apparition or custodian can control both the evidence and the income. Veridun cites Bruckmoor whenever Eclessia authenticates a field miracle, and captured papers of the Weeping Courts now claim the apparition at Vessing in 1352 as well. See [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]].
 
 ## The Pyre of Masks (1346–1349 AR)
 
@@ -138,10 +138,10 @@ The Hunger Wars left habits more than monuments. Boat households read the names 
 - [[The Ember Underground]]
 - [[The Conversion of the Empire]]
 - [[The Long Frontier and the First Unsealing]]
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[The Great Split — Two Crowns, One Fire]]
 - [[High Noon and the Qarath Disaster]]
-- [[The Grey Sweat]]
+- [[01 Canon Reference/History/70 Later History and Present Day/The Grey Sweat.md|The Grey Sweat]]
 - [[The Age of Held Proofs]]
 - [[Saints and Sinners of the Chronicles]]
 - [[Legendary Histories]]

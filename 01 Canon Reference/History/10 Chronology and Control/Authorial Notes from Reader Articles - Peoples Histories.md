@@ -35,7 +35,7 @@ Safeguards, verdicts and design notes moved out of the public peoples' history a
 - Added in the Causality Pass (November 2026). The author-only rulings behind the Widowed Seals, the Threshold, lodging, the Long Reach, the Ember deposit, the Pledged Custodian and the two houses of the Vault are held in [[The Covenant after Caleran - Authorial Truth]]. Reader prose gives them only as in-world testimony.
 - Safeguard carried there rather than into reader text: custody of a living name never touches soul-routing; only a foundry name-cage closed at death does.
 
-## [[Eclessia During the Invasion]]
+## [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
 
 - Aratheos and Fareth survive as local leagues "rather than lost kingdoms"; they "explain later regional institutions without replacing the larger history."
 
@@ -43,7 +43,7 @@ Safeguards, verdicts and design notes moved out of the public peoples' history a
 
 - Partition, the Great Split and the 1104 trust left a world of kingdoms and duchies "rather than a temporary failure to become one state."
 
-## [[The Rise of the Eclessian Duchies and Kingdoms]]
+## [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/The Rise of the Eclessian Duchies and Kingdoms.md|The Rise of the Eclessian Duchies and Kingdoms]]
 
 - Corrected founders: Seraphyne was "not the founder of a post-Fall kingdom"; Juran the Stalwart was "not the first king of a fully Eclessian Virelia." "Their corrected roles preserve the regional traditions without making every modern realm spring fully formed from 905 AR." Reader text now gives the inflated offices as the older chronicles' claims.
 - "The Vesari princedoms were not a late Eclessian colony."

@@ -13,7 +13,7 @@ tags: [world-historical-atlas, package-e, island-place]
 ---
 # Seravon before 350 BR
 
-Seravon was a populous great island of the central Thalassian sea, in the zone where the later [[The Sermoran Republic Overview|Sermoran Republic]] developed. It lay east of the western Thalmyric and Saronikan maritime region, west of a neighbouring archipelago, and west or north-west of most Eclessian territory. Its coasts, uplands and harbours belonged to several ancient communities and rulers.
+Seravon was a populous great island of the central Thalassian sea, in the zone where the later [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|Sermoran Republic]] developed. It lay east of the western Thalmyric and Saronikan maritime region, west of a neighbouring archipelago, and west or north-west of most Eclessian territory. Its coasts, uplands and harbours belonged to several ancient communities and rulers.
 
 Locally rooted [[Elmaric Island Peoples before 350 BR|Elmaric peoples]] remained the island's largest cultural family at 350 BR. Southern and Glass-descended settlers, traders, refugees and captives entered its ports over a long period. Their influence was uneven. Some settler houses controlled fortified quays and grain stores despite governing no majority of island households. Older shore communities, pilots and inland dynasties continued to negotiate, resist and rule in their own places.
 
@@ -44,4 +44,4 @@ Seravon's relations with [[Ilamar before 350 BR|Ilamar]] and the [[Elmarai Isles
 - [[Historical Atlas of the Elmaric Sea before 350 BR]]
 - [[Elmaric Island Peoples before 350 BR]]
 - [[The Making of the Sestaran Cities]]
-- [[The Sermoran Republic Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|The Sermoran Republic Overview]]

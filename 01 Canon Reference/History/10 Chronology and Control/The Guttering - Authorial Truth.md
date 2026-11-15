@@ -15,7 +15,7 @@ tags: [causality-pass, authorial-control]
 
 This page holds the authorial truth behind the history of 398–905 AR, approved from [[Causality Pass - 05 The Guttering, 400 to 905 AR|Causality Pass 05]] on 14 November 2026 under [[Causality Pass - Direction]]. Reader articles tell these events through what people saw and claimed; this page says what was actually happening. Nothing here may be stated as fact in public prose.
 
-Reader homes: [[The Long Frontier and the First Unsealing]], [[Towns and Wars of the Long Frontier]], [[The Velian Church]], [[Historical Atlas of the Velians]], [[The Disputed Fourth Seal]], [[Prelude to Collapse]], [[The Invasion and the Fall]], [[Eclessia During the Invasion]]. Author-only neighbours: [[The Fourth Seal - Authorial Truth]], [[Covenant Siege Golems]].
+Reader homes: [[The Long Frontier and the First Unsealing]], [[Towns and Wars of the Long Frontier]], [[The Velian Church]], [[Historical Atlas of the Velians]], [[The Disputed Fourth Seal]], [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Prelude to Collapse.md|Prelude to Collapse]], [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]], [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]. Author-only neighbours: [[The Fourth Seal - Authorial Truth]], [[Covenant Siege Golems]].
 
 ## The Guttering
 
@@ -31,7 +31,7 @@ The cost structure holds throughout. Sanctity cannot be bought, so the court's p
 
 1. **Concealment (from c. 398).** Failed rites were entered in the palace calendar as *postponed*.
 2. **Substitution (from 447).** The first Sestaran Shell-fire cohorts were hired in the succession war of 447–452. By the sixth century licensed warlock fire was the standard imperial incendiary, and hired Ättar crews and Folk auxiliaries filled ranks a church-backed muster no longer filled.
-3. **Counterfeit (from 681).** Shell-fire was used at ceremonies to imitate a kindling. The first case to become public was **the Copper Lamp**: Tavoran II's accession lamp in 681 was made to flare white by a Sestaran warlock hidden in the cathedral gallery with a brass fire-cup. In 683, unpaid for eighteen months, he sold the cup and a written account to a Covenant factor at Sermora. Counterfeit fire is fraud and "may create a breach" ([[The Holy Fire]]); the cup began the Covenant's file of counterfeit fire, which reached its fullest form in the record of Corvenas III's accession in 884.
+3. **Counterfeit (from 681).** Shell-fire was used at ceremonies to imitate a kindling. The first case to become public was **the Copper Lamp**: Tavoran II's accession lamp in 681 was made to flare white by a Sestaran warlock hidden in the cathedral gallery with a brass fire-cup. In 683, unpaid for eighteen months, he sold the cup and a written account to a Covenant factor at Sermora. Counterfeit fire is fraud and "may create a breach" ([[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/20 Faith and Worldview/The Holy Fire.md|The Holy Fire]]); the cup began the Covenant's file of counterfeit fire, which reached its fullest form in the record of Corvenas III's accession in 884.
 
 **The surviving register.** One palace register of yields survives for 794–812. In thirty-one entries a later hand has changed *postponed* to *answered*. Eclessian historians have used it against Thalmyric claims since the eleventh century. It is genuine, and so are the alterations.
 
@@ -208,6 +208,6 @@ Checked against [[Named Figures of the Known World]] and a vault search on 14 No
 ## Navigation
 
 - [[The Long Frontier and the First Unsealing]]
-- [[The Invasion and the Fall]]
+- [[01 Canon Reference/History/60 Fall and Successor Empires/The Invasion and the Fall.md|The Invasion and the Fall]]
 - [[Causality Pass - 05 The Guttering, 400 to 905 AR]]
 - [[The Divergence Pass — Torque Register]]

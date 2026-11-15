@@ -72,7 +72,7 @@ Origin traditions remembered recovered harbours, foreign mothers, storms and vic
 
 ## The boundary at 350 BR
 
-By 350 BR Elmaric islanders remained numerous in the central sea and were the largest cultural family in the Seravon zone. Their settlements also met older Atherian-speaking port worlds on the Saronikan side. [[Arkenan and Saronikan Communities before 350 BR]] describes those mixed eastern harbours. Neither the later [[The Sermoran Republic Overview|Sermoran Republic]] nor the [[The Maritime Kingdom of Saronika Overview|Saronikan kingdom]] yet existed.
+By 350 BR Elmaric islanders remained numerous in the central sea and were the largest cultural family in the Seravon zone. Their settlements also met older Atherian-speaking port worlds on the Saronikan side. [[Arkenan and Saronikan Communities before 350 BR]] describes those mixed eastern harbours. Neither the later [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Sermoran Republic/The Sermoran Republic Overview.md|Sermoran Republic]] nor the [[The Maritime Kingdom of Saronika Overview|Saronikan kingdom]] yet existed.
 
 The drowned remains of [[Caelovar]] and the burned [[Black Reef]] were hazards and memories within this wider sea. The island network entered Atheria's imperial age divided, dependent on outside supplies and capable of resisting or bargaining through its many ports.
 

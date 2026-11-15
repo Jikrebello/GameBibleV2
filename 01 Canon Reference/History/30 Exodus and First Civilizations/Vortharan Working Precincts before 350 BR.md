@@ -47,4 +47,4 @@ The first line anyone swore along that fault was drawn in 410 BR. When an Atheri
 
 - [[Historical Atlas of the Elmaric Sea before 350 BR]]
 - [[Vorthara before 350 BR]]
-- [[The Citadel of Vorthara Overview]]
+- [[01 Canon Reference/Peoples and Cultures/Sestaran Concord/60 Realms and Peoples/Citadel of Vorthara/The Citadel of Vorthara Overview.md|The Citadel of Vorthara Overview]]

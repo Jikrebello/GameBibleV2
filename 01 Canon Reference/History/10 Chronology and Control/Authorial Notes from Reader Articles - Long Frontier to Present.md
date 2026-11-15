@@ -67,7 +67,7 @@ The reader articles for 1225–1360 were rewritten from [[Causality Pass - 09 Th
 - The Medori's Covenant ancestry and the Creditor connection stay unstated in public prose ([[Medori Family - Authorial Truth]]). The registers taken in 1289 are public; their use as instruments of the family's inherited contract craft is not.
 - The Held Breath crossing of 1328 is told as an occurrence; its return-lag is reported, not explained.
 
-### [[Challenges and Future Tensions]] and [[Present-Day Courts and Crowns (1360 AR)]]
+### [[01 Canon Reference/Peoples and Cultures/Thalmyric Empire/70 History and Conflicts/Challenges and Future Tensions.md|Challenges and Future Tensions]] and [[Present-Day Courts and Crowns (1360 AR)]]
 
 - The emperor's flame-silences are undecided under the Forward Rule: kindling, grief or illness.
 - Orinel's watered oil and the songs' bird of fire are both left standing.

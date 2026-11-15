@@ -82,4 +82,4 @@ Covenant government secured ports, aqueducts, roads, archives, and productive es
 - [[The Fall and the Long Reconquest]]
 - [[The Battle of the Shattered Engines (907 AR)]]
 - [[The Long Frontier and the First Unsealing]]
-- [[Eclessia During the Invasion]]
+- [[01 Canon Reference/Peoples and Cultures/Eclessia/70 History and Conflicts/Eclessia During the Invasion.md|Eclessia During the Invasion]]
