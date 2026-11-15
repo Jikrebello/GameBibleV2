@@ -27,7 +27,7 @@ This register audits the eight companion campaigns against [[Companion Debt and 
 | CMP-05 | [[Bernard Valeon]] | Froststep compensation account and Long Watch order | none; Petra, Matej, and Radena remain remote | compliant |
 | CMP-06 | [[Dismas Raben]] | Korrheim criminal sentence and road victims | none; Sella remains remote and unreachable | compliant |
 | CMP-07 | [[Tavio Meran]] | [[Lio Varcen]] and Red Brass liability holders | Lio enters under the sole named exception | compliant via the Lio Clause |
-| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and Iqashari law-house judgement | none; Samira supplies no counter-script | compliant |
+| CMP-08 | [[Zafir ibn Samad]] | [[Samira bint Nahal]] and the Court of Breaches' judgement at Iqashar | none; Samira supplies no counter-script | compliant |
 
 ## Compliance Rule
 

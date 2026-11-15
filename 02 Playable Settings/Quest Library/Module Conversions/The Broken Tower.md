@@ -66,7 +66,7 @@ Outside a great city stand the ruined siege-castles of old wars, long picked ove
 
 ### Replace
 
-- The reptile-folk druid must not import a foreign species and a "conquer the surface" cult. He becomes a [[The Folk Clans|Ghost-Foot]] exile with a small, human-scale grievance the setting already prices.
+- The reptile-folk druid must not import a foreign species and a "conquer the surface" cult. He becomes a [[Folk Clans, Confederacies, and Feud-Law|Ghost-Foot]] exile with a small, human-scale grievance the setting already prices.
 - The society-of-explorers captive becomes a [[The Medori Bank|Bank]] surveyor, which roots the rescue in the delver-trade economy instead of an outside adventurer guild.
 - The ruin becomes an [[The Kestrel Tower|Atherian-Eclessian frontier fort near Dornwatch]] — canonically three changes of ownership and three layers of dead — so its residue is native Tier One, not invented.
 - The tower's long-dead become [[The Mundane Layer — Residue, Vermin, and the Delver Trade|Tier One residue]]: rattle-bones, barrow-shades, a harridan flock — handleable evil, sexton-work, no theology.

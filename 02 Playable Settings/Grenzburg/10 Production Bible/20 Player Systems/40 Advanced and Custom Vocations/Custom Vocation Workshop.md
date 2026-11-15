@@ -71,7 +71,7 @@ The first controlled package is [[Elara Delver-Duelist Package]]:
 - [[A House Fed by Bones]] unlocks compatible rapier, compact pick, and prepared-dart parts;
 - [[No Lady of Velescar]] unlocks the saved **Delver-Duelist** blueprint on Elara's resolved or compromised outcome;
 - the blueprint uses Slayer-derived movement and growth but preserves Elara's mark, armour-break, counter, dart, and exit language;
-- unlocking it does not alter the player's authored [[Slayer]] or create a ninth vocation.
+- unlocking it does not alter the player's authored [[Slayer]] or create a tenth vocation.
 
 Later companion packages must state whether they grant individual parts, a coherent blueprint, or both.
 

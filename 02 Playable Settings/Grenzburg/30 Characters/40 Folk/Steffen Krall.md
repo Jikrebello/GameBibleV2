@@ -27,7 +27,7 @@ He is the fear Tavio's campaign never staged: somebody younger, wearing his styl
 
 His kit is the campaign's own loose thread come home.
 
-The centrepiece is the private demonstration gauntlet that left the Old Market auction during [[The Signed Measure]] — the one the quest notes "returns through the field inspection chain in Act III." This is that return. Around it are knockoff Red Brass rings from the recalled endorsement batches, bought cheap from a Hammer Ward fence precisely *because* they carry a Meran signature that the sellers still think means quality.
+The centrepiece is the private demonstration gauntlet that left the Old Market auction during [[The Signed Measure]] — the one the quest notes "returns through the field inspection chain in Act III." This is that return. Around it are knockoff Red Brass rings from the recalled endorsement batches, bought cheap from a Hammer Ward fence precisely *because* they carry a Meran signature that the sellers still think means quality. If the auction piece did not leave the room intact and unrecorded in Act I, the centrepiece is instead another gauntlet from the same recalled batches, bought from the same fence.
 
 Tavio's name made this trusted. Tavio's legend is now a safety hazard with a fan club.
 

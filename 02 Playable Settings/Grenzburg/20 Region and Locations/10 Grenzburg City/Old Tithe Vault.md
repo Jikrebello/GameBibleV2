@@ -32,7 +32,7 @@ The vault is the principal dungeon of [[No Lady of Velescar]]. It is not a secre
 
 Grenzburg once stored seized toll goods and disputed estate records here while river cases were heard. Repeated flooding and the construction of the Iron Ledger Counting-House made the chambers obsolete. Legal access remained fragmented among customs, the Bank, and old quay leases.
 
-Vardek cutouts rented a sealed section during the winter relief delegation. They moved the decisive Velescar cache into Grenzburg so estate options, title instruments, and burial claims could be cleared through the same commercial network handling the relief warrants.
+The decisive Velescar cache came here with Elara's debt: Medori shipped the pledged paper to the branch as collateral and put it in the overflow cellar. Vardek cutouts rented a sealed section beside it under an old quay lease before the siege closed the roads, so estate options, title instruments, and burial claims could be cleared through the same commercial network handling the relief warrants.
 
 ## Access Routes
 

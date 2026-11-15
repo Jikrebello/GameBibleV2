@@ -47,7 +47,7 @@ Experience cannot purchase knowledge the character has never encountered. Traini
 | [[Warlock]] | [[Hammer Ward#Anchor Locations|Warlock Hall]] | [[Old River Arsenal]], [[Cold-Iron Deeps]], licensed field engineers | regulated elemental scripting |
 | [[Medium]] | Blackjack Yard's clandestine cell | [[Grenzburg Underways]], residue investigators, discreet field practitioners | mostly prohibited imprint craft under narrow warrant |
 | [[Paladin]] | [[Bernard Valeon]] | credible White-Flame custodians after unlock | sacred trust joined to physical instruction |
-| [[Binder]] | [[Zafir the Bound Chainmaster|Zafir]] | recovered name traditions and consent-tested covenants after unlock | exact relation, release, and anti-coercion discipline |
+| [[Binder]] | [[Zafir ibn Samad|Zafir]] | recovered name traditions and consent-tested covenants after unlock | exact relation, release, and anti-coercion discipline |
 | [[Bard]] | [[Ilyana Veshkar]] | Sermoran performers, signal crews, instrument makers, and recovered scores after unlock | harmonic Shellcraft, ensemble judgement, and consent-bound support |
 | [[Lancewright]] | [[Tavio Meran]] during [[The Fair Defeat]] and [[Proof-Mistress Hella Dorn]] afterward | Great Forge, Warlock Hall, Vortharan proof manuals, road-inspection sites | spear marks, gauntlet catches, filed loads, and safe Yield |
 

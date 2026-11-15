@@ -41,7 +41,7 @@ It is not an upgraded Fighter. The Fighter controls a line through trained arms 
 
 [[The Open Hospice]] supplies the vocation's **Last Ember** capstone and the Long Watch custom blueprint. Neither unlock requires the player to make the Church politically supreme, and neither establishes that private feeling is always purer than institution.
 
-The first account unlock must occur through the player's direct participation in Bernard's story. If [[Embers Without Excuse]] resolves autonomously, Bernard may still kindle genuine White Flame, but neither the current-playthrough nor account unlock occurs. **Embers After Snow** cannot restore that missed reward. After the first personal completion, Paladin may be selected at supported vocation-change points in future new games as an earned metagame option; the new campaign does not pretend Bernard has already taught that protagonist in its fiction.
+The first account unlock must occur through the player's direct participation in Bernard's story. If [[Embers Without Excuse]] resolves autonomously, Bernard may still kindle genuine White Flame, but neither the current-playthrough nor account unlock occurs. **Embers After Snow**, the witnessed field-service test inside **Ashes in the Storebook**, can still earn it in spring, because the player takes part in it directly. After the first personal completion, Paladin may be selected at supported vocation-change points in future new games as an earned metagame option; the new campaign does not pretend Bernard has already taught that protagonist in its fiction.
 
 ## Native Kit
 

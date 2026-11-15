@@ -14,7 +14,7 @@ tags: [module-conversion, game-ready]
 ---
 # Torvald Ghost-Foot
 
-Torvald Ghost-Foot is the living "master" of the [[The Kestrel Tower]] in [[The Broken Tower]] — an exile of the [[The Folk Clans|Ghost-Foot]] clan holding a [[The Medori Bank|Bank]] surveyor hostage. He is not a warlord and not a monster. He is a wronged man doing a wrong thing, and the whole adventure turns on the party discovering that the captor they were sent to stop has the better claim.
+Torvald Ghost-Foot is the living "master" of the [[The Kestrel Tower]] in [[The Broken Tower]] — an exile of the [[Folk Clans, Confederacies, and Feud-Law|Ghost-Foot]] clan holding a [[The Medori Bank|Bank]] surveyor hostage. He is not a warlord and not a monster. He is a wronged man doing a wrong thing, and the whole adventure turns on the party discovering that the captor they were sent to stop has the better claim.
 
 ## The Wrong Done to Him
 

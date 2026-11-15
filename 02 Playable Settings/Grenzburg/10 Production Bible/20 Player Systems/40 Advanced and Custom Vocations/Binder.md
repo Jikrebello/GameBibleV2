@@ -33,7 +33,7 @@ Its strongest play does not come from owning more servants. It comes from unders
 
 ## In the World
 
-`Binder` is a gameplay umbrella for one field discipline that [[Zafir the Bound Chainmaster|Zafir]] can teach during his Act II finale. Its instruments draw on Ahl-e-Ahd legal metaphysics, but the player form is shaped by Zafir's confrontation with coercion and the inversion of his own craft.
+`Binder` is a gameplay umbrella for one field discipline that [[Zafir ibn Samad|Zafir]] can teach during his Act II finale. Its instruments draw on Ahl-e-Ahd legal metaphysics, but the player form is shaped by Zafir's confrontation with coercion and the inversion of his own craft.
 
 The vocation's existence does not vindicate Covenant slavery, the Creditor's architecture, patron ownership, or the proposition that formally stated predation becomes moral. [[Contract Magic and True Names]] controls the metaphysics; real consent and objective moral limits control responsible use.
 

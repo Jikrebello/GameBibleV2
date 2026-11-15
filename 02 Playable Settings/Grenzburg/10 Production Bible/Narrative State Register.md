@@ -657,7 +657,7 @@ Duplicate implementation keys across these authorities are prohibited unless one
 | `tavio_worker_consent_roster` | companion preparation | Tavio Meran | 0 | [[Tavio Companion Campaign]] |
 | `steffen_state` | companion / local | Tavio Meran | 4 | [[Meran-Style]] — examiner-apprentice / licensed / injured / estranged |
 | `pit_gear_state` | district | Tavio Meran | 4 | [[Meran-Style]] — recalled / partly-recalled / circulating |
-| `tavio_declined_challenge` | companion milestone | Tavio Meran | 4 | [[Meran-Style]] — **true in every route, played or autonomous** |
+| `tavio_declined_challenge` | companion milestone | Tavio Meran | 4 | [[Meran-Style]] — **true in every tracked route, played or autonomous; not written when the campaign is never tracked** |
 | `tavio_campaign_tracked` | companion | Tavio Meran | 1 | [[The False Ring]] |
 | `tavio_fifth_ring_evidence` | companion preparation | Tavio Meran | 1 | [[The False Ring]] |
 | `tavio_cheating_admitted` | companion | Tavio Meran | 1 | [[The False Ring]] |
