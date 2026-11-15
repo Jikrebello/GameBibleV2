@@ -50,7 +50,7 @@ The hour estimate is a first-play production target rather than a speedrun promi
 | Exterior permanent population | ~17,050 across the seven regions |
 | Lakewatch, Highlake, and Timberfalls combined | 4,800 |
 | People permanently south of Fort Tannbruck | fewer than 2,000 |
-| Maximum emergency shelter before disease spirals | ~38,000 |
+| Maximum emergency shelter before disease spirals even with clean water | ~38,000 |
 
 ### City Distribution
 
@@ -88,7 +88,7 @@ The hour estimate is a first-play production target rather than a speedrun promi
 | Fish and smoked stores from Lakewatch | 15-20% of winter protein if secured |
 | Timberfalls fuel contribution | 30-40% of emergency heating fuel |
 | Highlake ore output | enough to maintain arms, hinges, nails, and wall hardware, not enough for major expansion during siege |
-| Disease threshold | sustained crowding above 35,000 plus bad water for two weeks |
+| Disease threshold | sustained crowding above 35,000 plus bad water for two weeks; above ~38,000, crowding alone |
 
 ## Military Scale
 

@@ -142,7 +142,7 @@ After most major chapters, the player receives an open window to pursue parallel
 |---|---:|---|
 | Main | 21 | Two prologue, six Act I, seven Act II, six Act III. |
 | Aftermath | 2 | Required summer consequence and reopening quests. |
-| Faction | 40-50 | Five lines of eight to ten quests. |
+| Faction | 48 authored; 45 playable in one run | Four nine-quest lines plus six shared and two exclusive three-quest underworld branches. |
 | Companion | 88 authored; up to 74 playable in one run | Eleven authored pieces per companion, with separate mutually exclusive romance and bond episodes, excluding 8-12 embedded opportunities each. |
 | Marquee | 24 | Distributed across city and all seven exterior subregions. |
 | Local | 36 | Finite authored problems and discoveries. |

@@ -69,7 +69,7 @@ flowchart TB
 ## Gates and Exterior Roads
 
 - **North Gate:** east-bank entry from the Grenz Lowlands and the Black Road.
-- **Tann Gate:** east-bank southern road to Timberfalls, Tannbruck, and the military frontier.
+- **Tann Gate:** east-bank southern road to Timberfalls, Tannbruck, and the military frontier, and the Tuskway east to Highlake.
 - **Lake Gate:** west-bank road to Lakewatch and Longlake country.
 - **Mill Gate:** west-bank service road to mills, charcoal tracks, Southwood trailheads, and outer camps.
 - **River booms:** paired fortified towers control upstream and downstream boat passage.

@@ -91,7 +91,7 @@ These uses preserve each anchor's public and campaign functions. Ilyana's perfor
 | CC-1 | Cathedral Close | Cathedral of the Redeemer | worship, public rites, legitimacy, sanctuary |
 | CC-2 | Cathedral Close | Mercy Hospital | healing, triage, plague pressure, moral choices |
 | CC-3 | Cathedral Close | Chancery House | records, doctrine, licences, ecclesiastical politics |
-| CC-4 | Cathedral Close | Ashen Commandery | militant Church operations and internal conflict |
+| CC-4 | Cathedral Close | Ashen Commandery | commandery of the Knights of Saint Aveline; militant Church operations and internal conflict |
 | CC-5 | Cathedral Close | Paupers' Cloister | alms, lodging, burial lists, hidden witnesses |
 | OM-1 | Old Market | Great Market | commerce, rumor, public events, prices |
 | OM-2 | Old Market | Hall of Measures | guild courts, weights, charters, labor disputes |
@@ -115,7 +115,7 @@ These uses preserve each anchor's public and campaign functions. Ilyana's perfor
 | HW-5 | Hammer Ward | Labor Hall | wages, mutual aid, strikes, worker politics |
 | LW-1 | Longlake Ward | Fish Market | winter protein, Lakewatch trade, ordinary life |
 | LW-2 | Longlake Ward | Bent Oak Chapel | Chapel-Folk faith, interpretation, local mediation |
-| LW-3 | Longlake Ward | Lake Gate | western traffic, carts, patrols, refuge control |
+| LW-3 | Longlake Ward | Lake Gate | western traffic, carts, patrols, refuge control, and Folk-facing gate politics |
 | LW-4 | Longlake Ward | Ferry Yard and Icehouse Steps | lake-road carriers, sleds, boat crews, travel service, and winter evacuation receiving point |
 | LW-5 | Longlake Ward | West Refuge Hall | shelter, clan delegates, displaced families, and the outcome-dependent [[Open Lamp Hospice]] |
 | LA-1 | Lantern Ward | Blackjack Yard | player base, equipment, debt service, party reorganization |
@@ -132,7 +132,7 @@ These uses preserve each anchor's public and campaign functions. Ilyana's perfor
 | X-2 | Bridgehold | Bridge Market | cross-bank trade and public encounter space |
 | X-3 | Bridgehold | Chain House | river defence and lower-pier access |
 | X-4 | Wall circuit | North Gate | prologue arrival and northern road control |
-| X-5 | Wall circuit | Lake Gate | western road and Folk-facing gate politics |
+| X-5 | Wall circuit | Mill Gate | west-bank service road, Southwood trailheads, and outer-camp access |
 | X-6 | Wall circuit | River Boom Towers | boat control and siege traversal |
 | X-7 | Underways | Old Granary Culvert | food infrastructure and covert east-bank route |
 | X-8 | Underways | Bridge Vaults | cross-river hidden movement and structural danger |

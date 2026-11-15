@@ -35,7 +35,7 @@ It is not an upgraded Fighter. The Fighter controls a line through trained arms 
 
 ## In the World
 
-`Paladin` is a gameplay umbrella for several Eclessian, Thalmyric, and marcher traditions of armed White-Flame service. It does not designate one universal knightly order, theology, or Church office. Western orders commonly frame their discipline through sworn chivalric service and relic custody. Thalmyric orders more often join ascetic obedience, hospital service, prayer ropes, imperial memory, and the suffering witness of holy fire.
+`Paladin` is a gameplay umbrella for several Eclessian, Thalmyric, and marcher traditions of armed White-Flame service. It does not designate one universal knightly order, theology, or Church office. Eclessian orders commonly frame their discipline through sworn chivalric service and relic custody. Thalmyric orders more often join ascetic obedience, hospital service, prayer ropes, imperial memory, and the suffering witness of holy fire.
 
 [[Bernard Valeon]] teaches the player the [[Bernard Long Watch Greatsword Package|Long Watch field form]] during a personally completed [[Embers Without Excuse]], after the player has confronted the difference between holy purpose, public office, and self-excusing piety. Bernard is a lay knight, not an ordained priest. His prayer rope focuses attention and freely offered prayer; it does not store or command the White Flame.
 

@@ -220,7 +220,7 @@ The Grey Sweat carries the Black Death's place and little of its furniture: a fi
 
 **Triangle (Eclessia, present):** GOOD — reformers and old-Church saints who each sincerely serve the Redeemer; BAD — princes on both confessions using doctrine as a land-grab; UGLY — the reunification party, for whom the Thalmyric schism *and* the Reformation are both merely obstacles to a restored imperial church, by force if needed.
 
-The Church's reunification mandate is now recursive comedy and tragedy at once: it must reunify with schismatic Thalmyria, reabsorb its own reformed duchies, and police heresy on the frontier — simultaneously, with less money than the Medori and less fire than Veridun. Grenzburg's Bishop/Inquisitor/Reliquarian triangle plugs into this directly. The duchy is officially Sanctum-loyal; its villages combine old-Church observance, Folk practice, and a growing Freeflame presence among migrants.
+The Church's reunification mandate is now recursive comedy and tragedy at once: it must reunify with schismatic Thalmyria, reabsorb its own reformed duchies, and police heresy on the frontier — simultaneously, with less money than the Medori and less fire than Veridun. Grenzburg's Church leaders plug into this directly: Bishop Konrad von Ehrenfeld, Bishop-Prelate Caestus, Deacon Ignatius and Sister Marcellina dispute what spiritual danger permits the institution to search, judge, conceal and punish ([[Church of Grenzburg]]). The duchy is officially Sanctum-loyal; its villages combine old-Church observance, Folk practice, and a growing Freeflame presence among migrants.
 
 ### The Present → the 1550s–1580s Cold War
 

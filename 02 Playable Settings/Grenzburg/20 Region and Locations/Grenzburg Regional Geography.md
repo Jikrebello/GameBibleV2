@@ -90,7 +90,7 @@ Longlake spreads west of the city and Lowlands. Lakewatch anchors public trade; 
 
 ### Wolfsmere Woods
 
-Wolfsmere is a substantial optional exploration pillar, not a single faction grove. Its outer roads permit cautious traffic; deeper movement depends upon custom, witnesses, and readable place-law. The sacred inner boundary has no convenient waystone terminus. The region supports sanctuary disputes, hunting, local courts, old occupation ruins, and Menhir pressure without making every event supernatural.
+Wolfsmere is a substantial optional exploration pillar, not a single faction grove. Its outer roads permit cautious traffic; deeper movement depends upon custom, witnesses, and readable place-law. The sacred inner boundary has no convenient waystone terminus. The region supports sanctuary disputes, hunting, local courts, the ruined forts of the Folk Wars (985–994), and Menhir pressure without making every event supernatural.
 
 ### Southwood Barrowlands
 

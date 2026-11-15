@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Old River Arsenal
 
-The Old River Arsenal is an Atherian military store, repair yard, lock, and fortified river gallery cut into the gorge between Timberfalls and Tannbruck. It supported ordinary imperial movement and is not a branch of the Deep Muster.
+The Old River Arsenal is an Atherian military store, repair yard, lock, and fortified river gallery cut into the gorge between Timberfalls and Tannbruck. It supported ordinary imperial movement; a separate Qianglong Replacement Forge lies beneath the Atherian works without making the whole Arsenal a Muster construction.
 
 ## Production Role
 
@@ -44,8 +44,11 @@ Human salvagers or occupiers, flood, machinery, stored hazards, [[Atherian Ward 
 
 Opening, sealing, stripping, or repairing the Arsenal changes Upper Grenz transport, Tannbruck salvage, and summer reconstruction. It does not reset after clearance.
 
+[[The Land Reclaimed]] opens the River Arsenal anchor operation against the Replacement Forge, one of the Muster's five regional anchors. While active, the forge rebuilds siege equipment and conducts dead artillery crews. The anchor does not make the Atherian works above it Qianglong infrastructure.
+
 ## Navigation
 
 - [[Upper Grenz]]
 - [[Timberfalls]]
 - [[Fort Tannbruck]]
+- [[Muster Anchor Matrix]]

@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Tuskway
 
-The Tuskway climbs from Grenzburg's eastern road fan through [[Highlake Uplands]], meets the Tannbruck spur, and continues as a harsher ancient military corridor toward the eastern Frostfenn. Broad sections can move organized warbands; its crags and side paths support Ghost-Foot movement and ambush.
+The Tuskway leaves Grenzburg by Tann Gate and climbs east through [[Highlake Uplands]], meets the Tannbruck spur, and continues as a harsher ancient military corridor toward the eastern Frostfenn. Broad sections can move organized warbands; its crags and side paths support Ghost-Foot movement and ambush.
 
 ## Physical Contract
 

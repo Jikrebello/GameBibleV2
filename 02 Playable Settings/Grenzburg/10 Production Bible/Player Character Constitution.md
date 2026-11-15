@@ -58,7 +58,7 @@ The nine background fields are Wilderness, Underworld, Military, Nobility, Schol
 
 [[Character Creation and Identity]] controls the full sequence and presentation.
 
-Every origin culture receives approximately ten meaningful campaign uses, every background eight, and every starting vocation eight. A meaningful use changes access, risk, price, trust, information, traversal, encounter behavior, or quest method. Recognition includes both opportunity and friction while preserving a critical-path workaround.
+Every origin culture receives at least ten meaningful campaign uses, every background at least eight, and every starting vocation at least eight. A meaningful use changes access, risk, price, trust, information, traversal, encounter behavior, or quest method. Recognition includes both opportunity and friction while preserving a critical-path workaround.
 
 ## Statistics and Social Resolution
 

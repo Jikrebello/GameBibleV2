@@ -36,7 +36,7 @@ The Upper Grenz follows the river south through falls, timber country, military 
 
 - [[Timberfalls]]: industrial settlement and river transport hub.
 - [[Fort Tannbruck]]: recurring Act I hub, fixed fall, winter ruin, and spring reclamation space.
-- [[Old River Arsenal]]: buried Atherian military-river complex independent of the Deep Muster.
+- [[Old River Arsenal]]: buried Atherian military-river complex with a separate Qianglong forge beneath it, one of the Muster's five regional anchors.
 - **Fellwater Camps:** medium logging and labor landscape.
 - **Tann Crossing Farms:** medium vulnerable settlement belt around the fort road.
 

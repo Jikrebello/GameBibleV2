@@ -43,7 +43,7 @@ The road remains physically present after Tannbruck falls. Enemy control, wrecka
 
 ## Production Use
 
-Use the road for supply defense, withdrawals, engineering, patrols, worker rescue, fixed military loss, and later return through changed ground. [[Old River Arsenal]] is its major independent military-industrial space.
+Use the road for supply defense, withdrawals, engineering, patrols, worker rescue, fixed military loss, and later return through changed ground. [[Old River Arsenal]] is its major military-industrial space.
 
 ## Navigation
 

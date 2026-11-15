@@ -59,7 +59,7 @@ Every act finale sets `duo_finale_state` to staged before dismissing the other a
 | CMP-03 | [[Ylva Winter-Track]] | woman | [[Hunter]] - Rescue Scout package |
 | CMP-04 | [[Ashira bath Melan]] | woman | [[Medium]] |
 | CMP-05 | [[Bernard Valeon]] | man | [[Paladin]] |
-| CMP-06 | [[Dismas Raben]] | man | [[Hunter]] |
+| CMP-06 | [[Dismas Raben]] | man | [[Hunter]] - Quarry-Wise variant |
 | CMP-07 | [[Tavio Meran]] | man | [[Lancewright]] |
 | CMP-08 | [[Zafir ibn Samad]] | man | [[Binder]] |
 

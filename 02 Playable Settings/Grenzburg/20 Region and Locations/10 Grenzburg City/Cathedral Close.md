@@ -37,7 +37,7 @@ Cathedral Close lies between Crown Heights and Tannward. Its cathedral, hospital
 - **Cathedral of the Redeemer:** public worship, great rites, legitimacy, and sanctuary.
 - **Mercy Hospital:** triage, plague pressure, healing, and difficult allocation.
 - **Chancery House:** ecclesiastical records, licences, trials, and policy.
-- **Ashen Commandery:** militant discipline, frontier zeal, and internal Church conflict.
+- **Ashen Commandery:** a commandery of the Knights of Saint Aveline; militant discipline, frontier zeal, and internal Church conflict.
 - **Paupers' Cloister:** alms, lodging, burial lists, and witnesses overlooked elsewhere.
 
 ## Seasonal States

@@ -33,7 +33,7 @@ This register controls content placement below the regional-hub level. A name in
 | Cross-city anchors | 12 | Bridge, walls, underways, riverworks, roofs, and camps; controlled by [[Grenzburg City Anchor Register]] |
 | Exterior major spaces | 9 | Regional signature spaces and campaign-scale sites |
 | Exterior medium sites | 14 | Two authored quest or dungeon spaces per region |
-| Exterior minor landmarks | 49 | Seven navigation, encounter, story, or job anchors per region |
+| Exterior minor landmarks | 53 | Seven to nine navigation, encounter, story, or job anchors per region |
 
 Named dungeons retain a cleared, occupied, damaged, sealed, or transformed state. Only sites explicitly marked **renewable** may repopulate for hunts, camps, or jobs.
 
@@ -59,7 +59,7 @@ Main ownership does not consume a whole site. Side content may reuse accessible 
 |---|---|---|---|---|---|
 | GR-1-D1 | [[Grenz Lowlands]] | [[Broken Tollworks]] | major | public | grounded civil ruin and early dungeon language |
 | GR-2-D1 | [[Longlake Country]] | [[Sunken Causeway]] | major | restricted | flooded Atherian infrastructure and seasonal traversal |
-| GR-3-D1 | [[Wolfsmere Woods]] | [[Bellless Hold]] | major | restricted | occupation ruin under place-law pressure |
+| GR-3-D1 | [[Wolfsmere Woods]] | [[Bellless Hold]] | major | restricted | ruined Atherian fort, garrisoned in the Folk Wars, under place-law pressure |
 | GR-4-D1 | [[Southwood Barrowlands]] | [[Emerald Drake Range]] | major | restricted | hunt territory and winter lair complex |
 | GR-4-D2 | [[Southwood Barrowlands]] | [[Barrow of the First Chieftain]] | major | hidden | optional high-level Heart-Stone site; never critical path |
 | GR-5-D1 | [[Highlake Uplands]] | [[Cold-Iron Deeps]] | major | restricted | vertical mine complex and industrial frontier |

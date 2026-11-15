@@ -127,7 +127,7 @@ The base-game atlas contains Grenzburg city and seven exterior regions. [[Birchc
 - [[Residue Dead Overview]] controls corpse residue and the rule that souls have routed onward.
 - [[Qianglong Caste Recurrences]] controls Giant legacy forms used by the Muster.
 - [[The Unending Muster]] controls the historical and metaphysical source of Act III.
-- [[The General Below]] is the unique true dragon and final sovereign horror.
+- [[The General Below]] is a unique true dragon and the final sovereign horror.
 
 Pale-Skins remain wider-setting canon but have no role in Grenzburg's active main campaign.
 

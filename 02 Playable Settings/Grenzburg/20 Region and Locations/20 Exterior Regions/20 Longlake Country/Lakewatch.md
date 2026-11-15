@@ -31,7 +31,7 @@ Ferries, winter sleds, fish and preserved food, boats, marsh guides, basic craft
 
 ## Place Character
 
-Raised timber walks, smokehouses, net yards, low stone storehouses, ice ramps, communal halls, and a weathered lake watchtower create a practical waterside hub.
+Raised timber walks, smokehouses, net yards, low stone storehouses, ice ramps, communal halls, and a weathered lake watchtower create a practical waterside hub. The town is named for that tower and its watch over Long Lake. It is not the Lake Watch, the fort Adalmar built on the shore of Wolfsmere, which that lake took in the Standing of the Water (994).
 
 ## Seasonal Role
 

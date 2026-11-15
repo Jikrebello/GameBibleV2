@@ -23,9 +23,9 @@ The Four-Hearth Compact is a temporary Grenzburg alliance, not a Folk state and 
 - **Moss-Crown and Wolfsmere:** [[Runa Moss-Crown]] handles field negotiation, [[Anya Moss-Crown]] speaks for household survival, and [[Thorn-Seer Mael]] guards restricted Lakekeeper truth.
 - **River-Clan households:** ferry, fishing, drowned-name, and passage obligations are voiced by local speakers rather than a permanent chief.
 - **Chapel-Folk refuges:** [[Elof Bent-Oak]] represents shelter, burial, worship, and the limits of sanctuary at Bent-Oak and connected road houses.
-- **Wolfsmere and Ghost-Foot delegates:** hunters, path custodians, and upland households share a crisis seat without surrendering local authority.
+- **Ghost-Foot delegates:** hunters, path custodians, and upland households share a crisis seat without surrendering local authority.
 
-[[Jorund Shattered-Tusk]] organizes a total-war following that targets civilians. His grievance against occupation is real; his chosen method is evil. The line must separate him from households that reject murder rather than treating all Folk resistance as one army.
+[[Jorund Shattered-Tusk]] organizes a total-war following that targets civilians. His grievance over broken treaties is real; his chosen method is evil. The line must separate him from households that reject murder rather than treating all Folk resistance as one army.
 
 ## People and Services
 

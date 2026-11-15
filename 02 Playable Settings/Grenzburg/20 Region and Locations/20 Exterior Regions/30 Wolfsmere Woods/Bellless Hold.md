@@ -3,9 +3,9 @@ type: place
 status: canon
 canon_level: local
 visibility: restricted
-era: ["Folk Wars", "Present Day"]
+era: ["Atherian Imperial Age", "Folk Wars", "Present Day"]
 region: ["Grenzburg", "Wolfsmere Woods"]
-culture: ["Eclessian", "Folk"]
+culture: ["Atherian", "Eclessian", "Folk"]
 related_factions: ["Moss-Crown", "Lakekeepers", "Church of the Redeemer"]
 appears_in: ["Grenzburg"]
 needs:
@@ -23,7 +23,7 @@ tags: [game-ready]
 ---
 # Bellless Hold
 
-Bellless Hold is a ruined Eclessian occupation fort built to watch the approaches to Wolfsmere after the Folk Wars. Its chapel tower was deliberately stripped of its bell when the garrison discovered that sound carried wrongly toward the lake.
+Bellless Hold is a ruined Atherian frontier fort, one of the old registered imperial forts, regranted to a Markish lord in the 980s and garrisoned to watch the approaches to Wolfsmere. It was abandoned after the Standing of the Water (994), when the lake took the Markish shore-fort and no Markish army crossed the lake country again. The bell of its chapel tower was taken down under the charters of the Peace of the Bent Oak (999), which forbid any bell within hearing of Wolfsmere.
 
 ## Production Role
 

@@ -59,6 +59,7 @@ The shared rules prevent monster climbing from becoming a Slayer-only game. Spec
 | [[Lancewright]] | mark-directed lunges, spear vaults, aerial descents, and large-monster repositioning |
 | [[Paladin]] | armoured interposition, ally boosts, and stable descents under load |
 | [[Binder]] | temporary cord anchors and assistance from an eligible bound form |
+| [[Bard]] | breath-step repositioning and short fog-covered evasions |
 
 ## Worldspace Rule
 

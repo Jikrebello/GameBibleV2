@@ -35,7 +35,7 @@ Wolfsmere Woods begin beyond the western lake roads and deepen toward the Lake T
 ## Major and Supporting Sites
 
 - [[Moss-Crown Mootground]]: conditional service hub and political meeting place.
-- [[Bellless Hold]]: ruined Eclessian occupation fort under place-law pressure.
+- [[Bellless Hold]]: ruined Atherian fort, garrisoned by a Markish lord in the Folk Wars, under place-law pressure.
 - **Grey-Withy Crossing:** medium neutral exchange and route-custodian station.
 - **Drowned Roll Paths:** medium memorial landscape approaching Wolfsmere's taboo boundary.
 
@@ -45,7 +45,7 @@ No boat, bell, or iron crosses Wolfsmere's inner law. No convenience waystone st
 
 ## Campaign Use
 
-Wolfsmere carries the game's deepest optional Folk history, Menhir route play, occupation wounds, and place-bound mysteries. It need not explain the Grobi siege, Emerald Drake, or Deep Muster to matter.
+Wolfsmere carries the game's deepest optional Folk history, Menhir route play, the wounds of the Folk Wars, and place-bound mysteries. It need not explain the Grobi siege, Emerald Drake, or Deep Muster to matter. Those Folk Wars wounds date from 985–994, when Markish lords held the old imperial forts against the Green March kindreds; the Peace of the Bent Oak struck the grants south of the lake from the register in 999.
 
 ## Return Reasons
 

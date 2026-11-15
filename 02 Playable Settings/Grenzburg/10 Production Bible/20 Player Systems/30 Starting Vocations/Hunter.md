@@ -10,7 +10,6 @@ related_factions: ["Blackjack Corps", "Folk kindreds"]
 appears_in: ["Grenzburg"]
 needs:
   - replace direct source-derived skill and augment names before implementation-ready status
-  - reassess Dismas Raben's vocation during CMP-06 without changing Hunter until that pass
 system_family: player
 player_system: vocation
 vocation_tier: starting
@@ -112,9 +111,9 @@ Completing [[The Last Marker]] unlocks **Winter-Track Fieldcraft**, an account-w
 ## Companion Expressions
 
 - **Ylva Winter-Track:** rescue scout, warning network, field arrows, and extraction coordination.
-- **Dismas Raben:** ambush tracker, quarry reader, and irregular approach under the current design.
+- **Dismas Raben:** Quarry-Wise counter-scout, reversible traps, pursuit disruption, and rapid withdrawal.
 
-Both use Hunter temporarily without sharing personality or tactical priorities. Dismas's vocation is reserved for reassessment during CMP-06.
+Both remain standard Hunters without sharing personality or tactical priorities.
 
 ## Working Active-Skill Inventory
 
