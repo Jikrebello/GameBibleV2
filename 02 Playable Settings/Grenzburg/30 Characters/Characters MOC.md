@@ -36,7 +36,7 @@ tags: [game-ready]
 
 ## Ducal and Civil
 
-- [[Duke Alaric von Grenzburg]]
+- [[Duke Alaric von Grenzmark]]
 - [[Castellan Pierre Hohenwall]]
 - [[Sergeant Liese of the Marcher Vanguard]]
 - [[Sir Gerhold Brandt]]
@@ -89,7 +89,7 @@ tags: [game-ready]
 - [[Oda Reed-Way]]
 - [[Sella Etten]]
 - [[Samira bint Nahal]]
-- [[Magister Leviticus of Sestaren]]
+- [[Magister Leviticus of Sermora]]
 - [[Ghor-Maw]]
 - [[Skrit Stone-Tooth]]
 

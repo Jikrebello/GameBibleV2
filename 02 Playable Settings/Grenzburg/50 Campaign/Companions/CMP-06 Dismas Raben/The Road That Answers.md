@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation", "Muster Crisis"]
+availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
 world_state_outputs: ["dismas_act3_chapter_resolved", "dismas_act3_result", "dismas_arc_outcome", "dismas_sacrifice_state", "dismas_future_path", "three_horn_evacuated", "dismas_relationship_perk", "dismas_summer_destination"]

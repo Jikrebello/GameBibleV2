@@ -95,7 +95,7 @@ Every line remains open through approximately quest six. Late internal commitmen
 
 ## Principal Cast
 
-- Ducal and civil: [[Duke Alaric von Grenzburg]], [[Castellan Pierre Hohenwall]], [[Sergeant Liese of the Marcher Vanguard]], [[Sir Gerhold Brandt]], and [[Sergeant Lotte Weissbruck]].
+- Ducal and civil: [[Duke Alaric von Grenzmark]], [[Castellan Pierre Hohenwall]], [[Sergeant Liese of the Marcher Vanguard]], [[Sir Gerhold Brandt]], and [[Sergeant Lotte Weissbruck]].
 - Bank and company: [[Captain Valdemar Koss]], [[Ledger-Master Lucia Medori]], and [[Quartermaster Brina Kest]].
 - Church: [[Bishop Konrad von Ehrenfeld]], [[Bishop-Prelate Caestus]], [[Deacon Ignatius]], and [[Sister Marcellina]].
 - Folk compact: [[Runa Moss-Crown]], [[Anya Moss-Crown]], [[Elof Bent-Oak]], [[Jorund Shattered-Tusk]], and [[Thorn-Seer Mael]].

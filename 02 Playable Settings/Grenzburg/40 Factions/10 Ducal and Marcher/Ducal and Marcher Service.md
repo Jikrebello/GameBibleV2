@@ -20,7 +20,7 @@ The ducal line joins two institutions that need one another and should never bec
 
 ## Leadership Tension
 
-[[Duke Alaric von Grenzburg]] and [[Castellan Pierre Hohenwall]] are loyal rivals. Alaric believes a ruler must be able to act before every petition is heard; Pierre believes emergency action survives only if records, expiry dates, and ordinary courts follow it. Neither is a hidden traitor. [[Sergeant Liese of the Marcher Vanguard]] is the field counterpart who sees how their principles land on frightened soldiers and villages.
+[[Duke Alaric von Grenzmark]] and [[Castellan Pierre Hohenwall]] are loyal rivals. Alaric believes a ruler must be able to act before every petition is heard; Pierre believes emergency action survives only if records, expiry dates, and ordinary courts follow it. Neither is a hidden traitor. [[Sergeant Liese of the Marcher Vanguard]] is the field counterpart who sees how their principles land on frightened soldiers and villages.
 
 The player never replaces them. Rank rises from **Probationer** to **Warranted Specialist**, **March Officer**, and finally **Charter Witness**: trusted enough to shape the settlement, never supreme commander or duke.
 

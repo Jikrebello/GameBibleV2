@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: summer
-availability_window: ["Playable Summer"]
+availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["ilyana_summer_coda_complete", "ilyana_summer_destination", "salt_reed_summer_state", "first_road_song_state"]

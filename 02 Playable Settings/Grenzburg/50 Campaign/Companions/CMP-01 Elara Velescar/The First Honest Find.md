@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: summer
-availability_window: ["Summer Aftermath", "Postgame Summer"]
+availability_window: ["Summer Aftermath", "Postwar Cycle"]
 repeatability: one-shot
 cutoff_result: persists
 world_state_outputs: ["elara_summer_coda", "ropehouse_find_state", "ropehouse_custody_state", "elara_provenance_board"]

@@ -18,7 +18,7 @@ The Crisis Charter is the emergency agreement that places a Medori Blackjack det
 
 ## Division of Authority
 
-- [[Duke Alaric von Grenzburg|Duke Alaric]] sets public strategic priorities.
+- [[Duke Alaric von Grenzmark|Duke Alaric]] sets public strategic priorities.
 - [[Castellan Pierre Hohenwall]] and appointed officers issue ducal field assignments.
 - [[Captain Valdemar Koss]] controls internal Blackjack discipline, equipment account, service credit, and Medori faction work.
 - The player is a specialist within the detachment, not its commander.

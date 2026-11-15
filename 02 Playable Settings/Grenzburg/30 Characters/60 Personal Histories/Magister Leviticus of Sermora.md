@@ -9,7 +9,7 @@ culture: ["Sestaran", "Sermoran"]
 related_factions: ["Delvers' Arcade", "Warlock Hall"]
 appears_in: ["Grenzburg"]
 needs: []
-aliases: ["Magister Leviticus"]
+aliases: ["Magister Leviticus", "Magister Leviticus of Sestaren"]
 tags: [game-ready]
 companion_id: ""
 sex: man

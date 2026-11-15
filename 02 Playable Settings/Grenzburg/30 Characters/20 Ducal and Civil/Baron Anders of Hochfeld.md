@@ -32,6 +32,6 @@ In the Ducal line he represents nobles who will accept a professional marcher ch
 
 - [[Ducal and Marcher Service]]
 - [[The Officers' Garden]]
-- [[Duke Alaric von Grenzburg]]
+- [[Duke Alaric von Grenzmark]]
 - [[Factions Overview]]
 - [[Grenzburg MOC]]

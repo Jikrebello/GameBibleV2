@@ -9,7 +9,7 @@ culture: ["Eclessian"]
 related_factions: ["Duchy of Grenzburg"]
 appears_in: ["Grenzburg"]
 needs: []
-aliases: ["Duke Alaric von Grenzmark", "Alaric von Grenzmark, Duke of Grenzburg"]
+aliases: ["Alaric von Grenzmark, Duke of Grenzburg", "Duke Alaric von Grenzburg"]
 tags: [game-ready]
 companion_id: ""
 sex: ""
@@ -20,7 +20,7 @@ relationship_theme: ""
 faction_line: "ducal-marcher"
 faction_branch: ""
 ---
-# Duke Alaric von Grenzburg
+# Duke Alaric von Grenzmark
 
 ## Core Concept
 

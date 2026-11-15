@@ -26,7 +26,7 @@ Those safeguards reduce error and venality. They do not turn secret execution in
 
 ## Branch Quests
 
-1. [[The First Toll]] decides whether Vey is exposed, captured, killed, or protected and defines what evidence can authorize violence.
+1. [[The First Toll]] fixes whether the Bell's founding act as a standing tribunal is killing or coerced trial, and defines what evidence can authorize violence. Vey's own fate is settled earlier, in [[The Watchman Who Walked]].
 2. [[A Bell Behind the Walls]] tests the rules against a false accusation and a betrayer during the Muster.
 3. [[The Hidden Tribunal]] establishes a strict Bell, evidence network without executions, splintered cells, or collapse.
 

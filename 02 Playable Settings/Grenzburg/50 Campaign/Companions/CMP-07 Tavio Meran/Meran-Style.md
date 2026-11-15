@@ -13,7 +13,7 @@ needs:
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Open Thaw", "Spring Reclamation"]
+availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["tavio_field_inspection_ledger", "steffen_state", "pit_gear_state", "tavio_declined_challenge", "tavio_direction"]

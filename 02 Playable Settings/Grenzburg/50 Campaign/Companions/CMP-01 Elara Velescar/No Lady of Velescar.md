@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation", "Before Deep Muster"]
+availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: autonomous-resolution
 world_state_outputs: ["old_tithe_vault_state", "velescar_land_records_state", "velescar_burial_claims_state", "velescar_title_wealth_state", "elara_final_outcome", "elara_legal_debt_state", "elara_relationship_perk"]

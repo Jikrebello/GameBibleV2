@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
-availability_window: ["Late Winter", "Early Spring"]
+availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: expires
 world_state_outputs: ["tavio_bond_episode", "tavio_bond_move_upgrade", "tavio_seconds_halt_practiced", "last_lantern_state"]

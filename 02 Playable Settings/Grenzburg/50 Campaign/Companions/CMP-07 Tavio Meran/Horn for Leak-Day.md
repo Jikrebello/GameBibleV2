@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation", "Muster Crisis"]
+availability_window: ["Early Spring", "Open Spring", "Muster Crisis"]
 repeatability: one-shot
 cutoff_result: resolves-offscreen
 world_state_outputs: ["tavio_act3_chapter_resolved", "tavio_act3_result", "tavio_act3_finale_played", "tavio_direction", "tavio_arc_outcome", "great_forge_state", "forge_workers_state", "leak_horn_state", "tavio_summer_destination", "tavio_relationship_perk"]

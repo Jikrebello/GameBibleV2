@@ -24,7 +24,7 @@ faction_branch: ""
 
 ## Core Concept
 
-A war leader who turns valid grievances over occupation, extraction, and broken refuge into a program of civilian killing.
+A war leader who turns valid grievances over broken treaties, extraction, and broken refuge into a program of civilian killing.
 
 ## Conviction and Blind Spot
 

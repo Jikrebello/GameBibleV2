@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-2
-availability_window: ["Late Winter", "Early Spring"]
+availability_window: ["Deep Winter", "Early Spring"]
 repeatability: one-shot
 cutoff_result: expires
 world_state_outputs: ["tavio_romance_episode", "tavio_romance_move_upgrade", "tavio_courtship_measure_practiced", "festival_courtship_state"]

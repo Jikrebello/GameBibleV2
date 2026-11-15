@@ -13,7 +13,7 @@ tags: [narrative-rewrite]
 aliases: ["The Examiner"]
 quest_class: companion
 act: summer
-availability_window: ["Playable Summer"]
+availability_window: ["Summer Aftermath"]
 repeatability: one-shot
 cutoff_result: remains-available
 world_state_outputs: ["tavio_summer_coda_complete", "tavio_summer_destination", "road_examiner_state", "summer_proof_route_state"]

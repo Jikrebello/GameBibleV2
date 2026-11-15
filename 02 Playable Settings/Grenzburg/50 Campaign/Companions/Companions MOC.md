@@ -54,15 +54,15 @@ Every companion has eleven authored pieces carrying `architecture_status: migrat
 |---|---|---|---|---|---|
 | CMP-01-1 | [[Names Beneath Lime]] | [[Elara Velescar]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-01-2 | [[A Splendid Little Expedition]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
-| CMP-01-3 | [[A House Fed by Bones]] | [[Elara Velescar]] | act-1 | Open Autumn | blocked |
-| CMP-01-4 | [[A Better Wager]] | [[Elara Velescar]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-01-3 | [[A House Fed by Bones]] | [[Elara Velescar]] | act-1 | Open Autumn, Late Autumn | blocked |
+| CMP-01-4 | [[A Better Wager]] | [[Elara Velescar]] | act-1 | Late Autumn, Early Winter, Deep Winter | blocked |
 | CMP-01-5 | [[The Winter Company]] | [[Elara Velescar]] | act-2 | Early Winter, Deep Winter | blocked |
-| CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Deep Winter | blocked |
-| CMP-01-RM | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
-| CMP-01-BD | [[Two Names on the Rope]] | [[Elara Velescar]] | act-3 | Early Spring | blocked |
+| CMP-01-6 | [[The Patron's Cabinet]] | [[Elara Velescar]] | act-2 | Early Winter, Deep Winter | blocked |
+| CMP-01-RM | [[Raven Shelf at Dawn]] | [[Elara Velescar]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-01-BD | [[Two Names on the Rope]] | [[Elara Velescar]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-01-8 | [[Uninvited]] | [[Elara Velescar]] | act-3 | Early Spring, Open Spring | blocked |
-| CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Open Spring, Muster Crisis | blocked |
-| CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Summer Aftermath | blocked |
+| CMP-01-9 | [[No Lady of Velescar]] | [[Elara Velescar]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
+| CMP-01-10 | [[The First Honest Find]] | [[Elara Velescar]] | summer | Summer Aftermath, Postwar Cycle | blocked |
 | CMP-02-1 | [[Five Cases at Customs]] | [[Ilyana Veshkar]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-02-2 | [[The Road Without a Conductor]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Late Autumn | blocked |
 | CMP-02-3 | [[No Song by Command]] | [[Ilyana Veshkar]] | act-1 | Open Autumn, Late Autumn | blocked |
@@ -80,8 +80,8 @@ Every companion has eleven authored pieces carrying `architecture_status: migrat
 | CMP-03-4 | [[No Quarry Today]] | [[Ylva Winter-Track]] | act-1 | Late Autumn, Early Winter | blocked |
 | CMP-03-5 | [[Signals Over Lantern Ward]] | [[Ylva Winter-Track]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-03-6 | [[What the Ice Takes]] | [[Ylva Winter-Track]] | act-2 | Early Winter, Deep Winter | blocked |
-| CMP-03-RM | [[A Hearth Chosen]] | [[Ylva Winter-Track]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-03-BD | [[The Sister Watch]] | [[Ylva Winter-Track]] | act-2 | Deep Winter, Early Spring | blocked |
+| CMP-03-RM | [[A Hearth Chosen]] | [[Ylva Winter-Track]] | act-3 | Deep Winter, Early Spring | blocked |
+| CMP-03-BD | [[The Sister Watch]] | [[Ylva Winter-Track]] | act-3 | Deep Winter, Early Spring | blocked |
 | CMP-03-8 | [[Routes for the Living]] | [[Ylva Winter-Track]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-03-9 | [[The Last Marker]] | [[Ylva Winter-Track]] | act-3 | Muster Crisis | blocked |
 | CMP-03-10 | [[The Road She Chooses]] | [[Ylva Winter-Track]] | summer | Summer Aftermath, Postwar Cycle | blocked |
@@ -97,27 +97,27 @@ Every companion has eleven authored pieces carrying `architecture_status: migrat
 | CMP-04-A3-F | [[No Human Shadow]] | [[Ashira bath Melan]] | act-3 | Muster Crisis | blocked |
 | CMP-04-S | [[A Shadow with No Face]] | [[Ashira bath Melan]] | summer | Summer Aftermath | blocked |
 | CMP-05-1 | [[Little Things Missing]] | [[Bernard Valeon]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-05-2 | [[The Wagon in the Reeds]] | [[Bernard Valeon]] | act-1 | Open Autumn | blocked |
+| CMP-05-2 | [[The Wagon in the Reeds]] | [[Bernard Valeon]] | act-1 | Open Autumn, Late Autumn | blocked |
 | CMP-05-3 | [[Little Hands, Long Road]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
 | CMP-05-4 | [[A Blade Freely Given]] | [[Bernard Valeon]] | act-1 | Open Autumn, Early Winter | blocked |
 | CMP-05-5 | [[The Long Winter Table]] | [[Bernard Valeon]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-05-6 | [[Embers Without Excuse]] | [[Bernard Valeon]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-05-RM | [[Enough for Two]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
-| CMP-05-BD | [[Watch Until Morning]] | [[Bernard Valeon]] | act-3 | Early Spring | blocked |
-| CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-05-RM | [[Enough for Two]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-05-BD | [[Watch Until Morning]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-05-8 | [[Beds Before Banners]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-05-9 | [[The Open Hospice]] | [[Bernard Valeon]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
 | CMP-05-10 | [[Grace]] | [[Bernard Valeon]] | summer | Summer Aftermath | blocked |
 | CMP-06-I | [[The Decorative Fence]] | [[Dismas Raben]] | act-1 | Early Autumn, Open Autumn | blocked |
-| CMP-06-A1-O | [[The First Mile]] | [[Dismas Raben]] | act-1 | Open Autumn | blocked |
+| CMP-06-A1-O | [[The First Mile]] | [[Dismas Raben]] | act-1 | Open Autumn, Late Autumn | blocked |
 | CMP-06-A1-F | [[The Easy Ambush]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | blocked |
-| CMP-06-FR | [[No Railing]] | [[Dismas Raben]] | act-1 | Open Autumn, Early Winter | blocked |
+| CMP-06-FR | [[No Railing]] | [[Dismas Raben]] | act-1 | Late Autumn, Early Winter, Deep Winter | blocked |
 | CMP-06-A2-O | [[Passage]] | [[Dismas Raben]] | act-2 | Early Winter, Deep Winter | blocked |
 | CMP-06-A2-F | [[The Name on the Charge]] | [[Dismas Raben]] | act-2 | Deep Winter, Early Spring | blocked |
-| CMP-06-RM | [[The Return Leg]] | [[Dismas Raben]] | act-2 | Early Spring, Open Spring | blocked |
-| CMP-06-BD | [[The Missing Queen]] | [[Dismas Raben]] | act-2 | Early Spring, Open Spring | blocked |
+| CMP-06-RM | [[The Return Leg]] | [[Dismas Raben]] | act-3 | Early Spring, Open Spring | blocked |
+| CMP-06-BD | [[The Missing Queen]] | [[Dismas Raben]] | act-3 | Early Spring, Open Spring | blocked |
 | CMP-06-A3-O | [[Tuesday]] | [[Dismas Raben]] | act-3 | Early Spring, Open Spring | blocked |
-| CMP-06-A3-F | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Muster Crisis | blocked |
-| CMP-06-S | [[Passing Through Slowly]] | [[Dismas Raben]] | summer | Summer Aftermath | blocked |
+| CMP-06-A3-F | [[The Road That Answers]] | [[Dismas Raben]] | act-3 | Early Spring, Open Spring, Muster Crisis | blocked |
+| CMP-06-S | [[Passing Through Slowly]] | [[Dismas Raben]] | summer | Summer Aftermath, Postwar Cycle | blocked |
 | CMP-07-1 | [[The False Ring]] | [[Tavio Meran]] | act-1 | Early Autumn, Open Autumn | blocked |
 | CMP-07-2 | [[The Signed Measure]] | [[Tavio Meran]] | act-1 | Open Autumn | blocked |
 | CMP-07-3 | [[Proof Under Load]] | [[Tavio Meran]] | act-1 | Open Autumn, Early Winter | blocked |

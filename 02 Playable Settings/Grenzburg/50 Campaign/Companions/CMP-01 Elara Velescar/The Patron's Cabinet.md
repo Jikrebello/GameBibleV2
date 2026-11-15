@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-2
-availability_window: ["Siege Winter"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["patrons_cabinet_state", "vardek_restoration_offer", "winter_relief_state", "elara_act2_resolution", "elara_direction", "elara_legal_debt_state"]

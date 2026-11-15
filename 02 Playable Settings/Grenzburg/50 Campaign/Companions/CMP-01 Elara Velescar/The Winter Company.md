@@ -12,7 +12,7 @@ needs: []
 tags: [game-ready]
 quest_class: companion
 act: act-2
-availability_window: ["Siege Winter"]
+availability_window: ["Early Winter", "Deep Winter"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["elara_winter_company_ready", "winter_company_roster_state", "lantern_rescue_state", "elara_public_credit_state"]

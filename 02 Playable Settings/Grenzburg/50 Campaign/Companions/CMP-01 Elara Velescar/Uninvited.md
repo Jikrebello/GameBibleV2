@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Spring Reclamation"]
+availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["elara_coalition_ready", "perle_state", "player_laughed_at_perle", "elara_dethronement_complete", "reclamation_feast_state", "coalition_delegate_state", "elara_direction"]

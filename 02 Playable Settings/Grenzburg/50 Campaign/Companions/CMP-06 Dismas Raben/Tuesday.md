@@ -12,7 +12,7 @@ needs: []
 tags: [narrative-rewrite]
 quest_class: companion
 act: act-3
-availability_window: ["Open Thaw", "Spring Reclamation"]
+availability_window: ["Early Spring", "Open Spring"]
 repeatability: one-shot
 cutoff_result: transforms
 world_state_outputs: ["dismas_guide_network_charter", "guide_network_state", "dismas_local_guides_trained", "dismas_direction"]
